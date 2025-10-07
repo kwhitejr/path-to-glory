@@ -10,34 +10,16 @@
 
 ### GitHub Setup
 1. **GitHub Secrets** (Settings → Secrets → Actions):
-   - `AWS_DEPLOY_ROLE_ARN` - IAM role ARN for OIDC authentication
+   - `AWS_ACCESS_KEY_ID` - AWS access key ID for deployment user
+   - `AWS_SECRET_ACCESS_KEY` - AWS secret access key for deployment user
+   - `AWS_ROLE_TO_ASSUME` - IAM role ARN to assume for deployment
 
-2. **IAM Role for GitHub Actions** (OIDC):
-   ```hcl
-   # Trust policy for GitHub Actions
-   {
-     "Version": "2012-10-17",
-     "Statement": [
-       {
-         "Effect": "Allow",
-         "Principal": {
-           "Federated": "arn:aws:iam::{ACCOUNT_ID}:oidc-provider/token.actions.githubusercontent.com"
-         },
-         "Action": "sts:AssumeRoleWithWebIdentity",
-         "Condition": {
-           "StringEquals": {
-             "token.actions.githubusercontent.com:aud": "sts.amazonaws.com"
-           },
-           "StringLike": {
-             "token.actions.githubusercontent.com:sub": "repo:kwhitejr/path-to-glory:*"
-           }
-         }
-       }
-     ]
-   }
-   ```
+2. **IAM Setup**:
+   - Create an IAM user for GitHub Actions (or use existing)
+   - Create an IAM role with deployment permissions
+   - Configure user to assume the role
 
-2. **IAM Permissions** (attach to role):
+3. **IAM Permissions** (attach to role):
    - S3 (bucket creation, object upload)
    - CloudFront (distribution management)
    - ACM (certificate management)
@@ -46,10 +28,12 @@
 
 ## Initial Deployment
 
-### Step 1: Set GitHub Secret
+### Step 1: Set GitHub Secrets
 1. Go to GitHub repository → Settings → Secrets and variables → Actions
 2. Add:
-   - `AWS_DEPLOY_ROLE_ARN`: `arn:aws:iam::{ACCOUNT_ID}:role/{ROLE_NAME}`
+   - `AWS_ACCESS_KEY_ID`: Your AWS access key ID
+   - `AWS_SECRET_ACCESS_KEY`: Your AWS secret access key
+   - `AWS_ROLE_TO_ASSUME`: `arn:aws:iam::{ACCOUNT_ID}:role/{ROLE_NAME}`
 
 ### Step 2: Verify Route53 Zone Exists
 ```bash

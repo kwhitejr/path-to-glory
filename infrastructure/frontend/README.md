@@ -41,7 +41,9 @@ Frontend deployment is automated via GitHub Actions (`.github/workflows/deploy-f
 
 ### Required GitHub Secrets
 
-- `AWS_DEPLOY_ROLE_ARN` - IAM role ARN for GitHub Actions OIDC
+- `AWS_ACCESS_KEY_ID` - AWS access key ID
+- `AWS_SECRET_ACCESS_KEY` - AWS secret access key
+- `AWS_ROLE_TO_ASSUME` - IAM role ARN to assume for deployment
 
 ### Manual Deployment
 
