@@ -66,13 +66,58 @@ GraphQL schema lives in **packages/shared/src/schema.graphql** and is shared bet
 - Backend resolvers (Apollo Server)
 - Frontend queries/mutations (Apollo Client + GraphQL Code Generator)
 
-## Authentication Flow
+## Authentication
 
-1. User signs in with Google via Cognito hosted UI
-2. Cognito issues JWT tokens
-3. Frontend includes JWT in Apollo Client headers
-4. API Gateway Lambda authorizer validates JWT
-5. Backend resolvers receive auth context (cognitoId) for authorization
+### Implementation Status
+✅ **Fully Implemented** - Google OAuth via AWS Cognito
+
+### Architecture
+- **Provider**: Google OAuth (federated identity)
+- **Identity Management**: AWS Cognito User Pool
+- **Frontend SDK**: AWS Amplify Auth
+- **User Attributes**: email, name, picture (profile photo)
+
+### Authentication Flow
+1. User clicks "Sign in with Google" button
+2. Redirected to Cognito hosted UI
+3. Cognito redirects to Google OAuth consent screen
+4. User authorizes app
+5. Google redirects to Cognito with auth code
+6. Cognito exchanges code for JWT tokens
+7. User redirected back to app with session
+8. Frontend loads user profile and displays picture/name
+
+### Setup Required
+Before deployment:
+1. Create Google OAuth credentials (see `docs/GOOGLE_OAUTH_SETUP.md`)
+2. Add GitHub Secrets:
+   - `TF_VAR_GOOGLE_CLIENT_ID`
+   - `TF_VAR_GOOGLE_CLIENT_SECRET`
+3. Deploy Cognito infrastructure via Terraform
+4. Update Google OAuth redirect URI with actual Cognito domain
+
+### Local Development
+Create `packages/frontend/.env.local` with Cognito configuration:
+```env
+VITE_APP_URL=http://localhost:5173
+VITE_COGNITO_USER_POOL_ID=us-east-1_XXXXXXXXX
+VITE_COGNITO_USER_POOL_CLIENT_ID=your-client-id
+VITE_COGNITO_IDENTITY_POOL_ID=us-east-1:xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+VITE_COGNITO_DOMAIN=path-to-glory-auth.auth.us-east-1.amazoncognito.com
+```
+
+Get these values from: `cd infrastructure/frontend && terraform output`
+
+### UI Integration
+- Header shows user profile picture and name when authenticated
+- "Sign in with Google" button when not authenticated
+- Logout button for authenticated users
+- Creator profile pictures on army cards (in "All Armies" view)
+- "My Armies" filter uses authenticated user ID
+
+### Documentation
+- `docs/AUTHENTICATION.md` - Architecture and implementation details
+- `docs/GOOGLE_OAUTH_SETUP.md` - Step-by-step OAuth setup guide
 
 ## Development Workflow
 
@@ -133,13 +178,17 @@ See `infrastructure/frontend/README.md` for manual deployment steps.
 - ✅ Mobile-first responsive UI
 - ✅ Faction data ingestion from PDFs
 - ✅ AWS deployment infrastructure (Terraform + GitHub Actions)
+- ✅ Google OAuth authentication with Cognito
+- ✅ User profile pictures in header and on army cards
+- ✅ "My Armies" vs "All Armies" filtering
 
 ### Next Implementation Steps
+- Backend GraphQL API implementation (Lambda + Apollo Server)
+- DynamoDB integration for persistent data
+- Connect frontend to real API (currently using mock data)
 - Add/edit units in army roster
 - Track Glory Points and Renown
 - Manage enhancements and path abilities (based on `docs/references/forms/Path To Glory Roster.pdf`)
-- Backend GraphQL API implementation
-- Connect frontend to real API (currently using mock data)
 
 ### Roster Data Structure (from PDF)
 The roster tracks:
