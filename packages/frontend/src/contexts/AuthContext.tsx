@@ -58,11 +58,14 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     try {
       setLoading(true);
       setError(null);
+      console.log('[AuthContext] Loading user...');
 
       // First check if we have a valid session
       const session = await fetchAuthSession();
+      console.log('[AuthContext] Session check:', { hasTokens: !!session.tokens });
+
       if (!session.tokens) {
-        console.log('No valid tokens in session');
+        console.log('[AuthContext] No valid tokens in session');
         setUser(null);
         return;
       }
@@ -70,19 +73,25 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       const authUser = await getCurrentUser();
       const attributes = await fetchUserAttributes();
 
-      console.log('User loaded successfully:', { userId: authUser.userId, email: attributes.email });
+      console.log('[AuthContext] User loaded successfully:', {
+        userId: authUser.userId,
+        email: attributes.email,
+        name: attributes.name,
+        hasPicture: !!attributes.picture
+      });
+
       setUser(mapAuthUserToUser(authUser, attributes));
     } catch (err: any) {
-      console.log('Load user error:', err?.message || err);
+      console.log('[AuthContext] Load user error:', err?.name, err?.message || err);
 
       // If error is about already being authenticated, try to sign out and retry
       if (err?.name === 'UserAlreadyAuthenticatedException') {
-        console.log('Clearing stale session...');
+        console.log('[AuthContext] Clearing stale session...');
         try {
           await signOut();
           setUser(null);
         } catch (signOutErr) {
-          console.error('Failed to clear session:', signOutErr);
+          console.error('[AuthContext] Failed to clear session:', signOutErr);
         }
       }
 
@@ -90,6 +99,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       setError(null); // Not an error, just not logged in
     } finally {
       setLoading(false);
+      console.log('[AuthContext] Loading complete. User:', user ? 'logged in' : 'not logged in');
     }
   };
 
