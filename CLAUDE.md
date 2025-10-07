@@ -99,14 +99,40 @@ npm run dev -w @path-to-glory/frontend
 4. **DynamoDB**: Use DynamoDB Local for testing
 5. **GraphQL Codegen**: Run after schema changes
 
+## Deployment
+
+### Frontend Deployment
+- **URL**: https://ptg.kwhitejr.com
+- **Infrastructure**: Terraform (in `infrastructure/frontend/`)
+- **CI/CD**: GitHub Actions (`.github/workflows/deploy-frontend.yml`)
+- **Hosting**: S3 + CloudFront + Route53
+- **SSL**: ACM certificate (auto-validated via DNS)
+
+**Deployment Process:**
+1. Push to `main` branch triggers GitHub Actions
+2. Frontend and shared packages are built
+3. Terraform provisions/updates infrastructure
+4. Build artifacts synced to S3
+5. CloudFront cache invalidated
+6. Site live at https://ptg.kwhitejr.com
+
+**Manual Deployment:**
+See `infrastructure/frontend/README.md` for manual deployment steps.
+
+### Backend Deployment
+- **URL**: https://ptg.kwhitejr.com/graphql (future)
+- **Infrastructure**: Terraform (in `infrastructure/backend/`) - not yet implemented
+- **Hosting**: AWS Lambda + API Gateway
+
 ## Phase 1: Roster Management (Current Focus)
 
 ### Implemented Features
-- ✅ Army list view with faction info
+- ✅ Army list view with faction info and filtering
 - ✅ Create new army with faction selection
 - ✅ Army detail view (Order of Battle)
 - ✅ Mobile-first responsive UI
 - ✅ Faction data ingestion from PDFs
+- ✅ AWS deployment infrastructure (Terraform + GitHub Actions)
 
 ### Next Implementation Steps
 - Add/edit units in army roster
