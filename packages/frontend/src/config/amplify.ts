@@ -19,7 +19,7 @@ export const amplifyConfig = {
           redirectSignOut: [
             import.meta.env.VITE_APP_URL || 'http://localhost:5173',
           ],
-          responseType: 'code',
+          responseType: 'code' as const,
         },
       },
     },
