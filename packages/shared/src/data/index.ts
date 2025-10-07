@@ -1,10 +1,42 @@
 /**
- * Faction data loader
+ * Faction data
  */
-import factionsData from './factions.json' assert { type: 'json' };
-import type { FactionsData } from '../types/faction.js';
+import type { FactionData } from '../types/faction.js';
 
-export const FACTIONS: FactionsData = factionsData;
+// Hardcoded factions for TypeScript build
+// In the browser, Vite will load from the JSON file directly
+export const FACTIONS: Record<string, FactionData> = {
+  'flesh-eater-courts': {
+    id: 'flesh-eater-courts',
+    name: 'Flesh Eater Courts',
+    grandAlliance: 'DEATH',
+    startingGlory: 0,
+    startingRenown: 1,
+    description: 'Path to Glory faction pack for Flesh Eater Courts',
+    sourceFile: 'Faction Pack - Flesh Eater Courts.pdf',
+    extractedAt: '2025-10-07T03:47:31.959Z',
+  },
+  'ossiarch-bonereapers': {
+    id: 'ossiarch-bonereapers',
+    name: 'Ossiarch Bonereapers',
+    grandAlliance: 'DEATH',
+    startingGlory: 0,
+    startingRenown: 1,
+    description: 'Path to Glory faction pack for Ossiarch Bonereapers',
+    sourceFile: 'Faction Pack - Ossiarch Bonereapers.pdf',
+    extractedAt: '2025-10-07T03:47:31.961Z',
+  },
+  'slaves-to-darkness': {
+    id: 'slaves-to-darkness',
+    name: 'Slaves to Darkness',
+    grandAlliance: 'CHAOS',
+    startingGlory: 0,
+    startingRenown: 1,
+    description: 'Path to Glory faction pack for Slaves to Darkness',
+    sourceFile: 'Faction Pack - Slaves to Darkness.pdf',
+    extractedAt: '2025-10-07T03:47:31.961Z',
+  },
+};
 
 /**
  * Get all factions as an array

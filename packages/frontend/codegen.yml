@@ -1,0 +1,9 @@
+overwrite: true
+schema: "../shared/src/schema/schema.graphql"
+documents: "src/**/*.{ts,tsx}"
+generates:
+  ./src/gql/:
+    preset: client
+    plugins: []
+    config:
+      useTypeImports: true

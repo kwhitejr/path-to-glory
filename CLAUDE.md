@@ -76,17 +76,52 @@ GraphQL schema lives in **packages/shared/src/schema.graphql** and is shared bet
 
 ## Development Workflow
 
-1. Local dev: `npm run dev` (when implemented)
-2. Backend: Use serverless-offline or similar
-3. DynamoDB: Use DynamoDB Local for testing
-4. GraphQL: Use GraphQL Code Generator for type-safe client code
+### Build Commands
+```bash
+# Build all packages
+npm run build
 
-## Phase 1: Roster Management
+# Build specific package
+npm run build -w @path-to-glory/shared
+npm run build -w @path-to-glory/frontend
 
-Initial capability focuses on:
-- Army creation with faction selection
-- Unit management (add/remove)
-- Unit upgrades (veteran abilities, injuries)
-- Roster validation (composition rules, limits)
+# Run faction ingestion
+npm run ingest:factions
+
+# Frontend development (when backend is ready)
+npm run dev -w @path-to-glory/frontend
+```
+
+### Development Setup
+1. **Shared package**: Build first (`npm run build -w @path-to-glory/shared`)
+2. **Frontend**: Runs on Vite dev server (port 3000)
+3. **Backend**: Use serverless-offline or similar (port 4000)
+4. **DynamoDB**: Use DynamoDB Local for testing
+5. **GraphQL Codegen**: Run after schema changes
+
+## Phase 1: Roster Management (Current Focus)
+
+### Implemented Features
+- ✅ Army list view with faction info
+- ✅ Create new army with faction selection
+- ✅ Army detail view (Order of Battle)
+- ✅ Mobile-first responsive UI
+- ✅ Faction data ingestion from PDFs
+
+### Next Implementation Steps
+- Add/edit units in army roster
+- Track Glory Points and Renown
+- Manage enhancements and path abilities (based on `docs/references/forms/Path To Glory Roster.pdf`)
+- Backend GraphQL API implementation
+- Connect frontend to real API (currently using mock data)
+
+### Roster Data Structure (from PDF)
+The roster tracks:
+- **Army metadata**: Name, Faction, Realm of Origin, Glory Points, Battle Formation
+- **Warlord**: Single commander unit with rank, renown, enhancements, path abilities
+- **Units**: Multiple units with name, warscroll, rank, renown, reinforced status
+- **Arcane Tome**: Spell/Prayer/Manifestation lores
+- **Quest Log**: Current quest, quest points, completed quests
+- **Background**: Army story and notable events
 
 See `docs/PROJECT_PLAN.md` for full implementation roadmap.
