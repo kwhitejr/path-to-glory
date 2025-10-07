@@ -1,0 +1,236 @@
+"""
+A user of the application (authenticated via Google OAuth)
+"""
+type User {
+  id: ID!
+  email: String!
+  name: String!
+  googleId: String!
+  createdAt: String!
+  campaigns: [Campaign!]!
+  armies: [Army!]!
+}
+
+"""
+A Path to Glory campaign containing multiple armies
+"""
+type Campaign {
+  id: ID!
+  name: String!
+  ownerId: ID!
+  owner: User!
+  createdAt: String!
+  armies: [Army!]!
+  battles: [Battle!]!
+}
+
+"""
+A faction in Age of Sigmar
+"""
+type Faction {
+  id: ID!
+  name: String!
+  grandAlliance: String!
+  startingGlory: Int!
+  startingRenown: Int!
+  description: String
+}
+
+"""
+An army/warband belonging to a player in a campaign
+"""
+type Army {
+  id: ID!
+  campaignId: ID!
+  campaign: Campaign!
+  playerId: ID!
+  player: User!
+  factionId: ID!
+  faction: Faction!
+  name: String!
+  glory: Int!
+  renown: Int!
+  units: [Unit!]!
+  createdAt: String!
+  updatedAt: String!
+}
+
+"""
+A unit within an army
+"""
+type Unit {
+  id: ID!
+  armyId: ID!
+  army: Army!
+  unitTypeId: String!
+  name: String!
+  size: Int!
+  wounds: Int!
+  veteranAbilities: [String!]!
+  injuries: [String!]!
+  enhancements: [String!]!
+  createdAt: String!
+  updatedAt: String!
+}
+
+"""
+A battle record between armies
+"""
+type Battle {
+  id: ID!
+  campaignId: ID!
+  campaign: Campaign!
+  armies: [ID!]!
+  outcome: BattleOutcome!
+  gloryAwarded: [GloryAward!]!
+  notes: String
+  playedAt: String!
+  createdAt: String!
+}
+
+"""
+Glory points awarded to an army from a battle
+"""
+type GloryAward {
+  armyId: ID!
+  amount: Int!
+  reason: String
+}
+
+"""
+Battle outcome types
+"""
+enum BattleOutcome {
+  VICTORY
+  DEFEAT
+  DRAW
+}
+
+# Queries
+type Query {
+  """
+  Get current authenticated user
+  """
+  me: User
+
+  """
+  Get a specific campaign
+  """
+  campaign(id: ID!): Campaign
+
+  """
+  Get all campaigns for the current user
+  """
+  myCampaigns: [Campaign!]!
+
+  """
+  Get a specific army
+  """
+  army(id: ID!): Army
+
+  """
+  Get all armies for the current user across all campaigns
+  """
+  myArmies: [Army!]!
+
+  """
+  Get all available factions
+  """
+  factions: [Faction!]!
+
+  """
+  Get a specific faction
+  """
+  faction(id: ID!): Faction
+}
+
+# Mutations
+type Mutation {
+  """
+  Create a new campaign
+  """
+  createCampaign(input: CreateCampaignInput!): Campaign!
+
+  """
+  Create a new army in a campaign
+  """
+  createArmy(input: CreateArmyInput!): Army!
+
+  """
+  Update army details
+  """
+  updateArmy(id: ID!, input: UpdateArmyInput!): Army!
+
+  """
+  Add a unit to an army
+  """
+  addUnit(armyId: ID!, input: AddUnitInput!): Unit!
+
+  """
+  Update a unit
+  """
+  updateUnit(id: ID!, input: UpdateUnitInput!): Unit!
+
+  """
+  Remove a unit from an army
+  """
+  removeUnit(id: ID!): Boolean!
+
+  """
+  Add a veteran ability to a unit
+  """
+  addVeteranAbility(unitId: ID!, ability: String!): Unit!
+
+  """
+  Record a battle
+  """
+  recordBattle(input: RecordBattleInput!): Battle!
+}
+
+# Input Types
+input CreateCampaignInput {
+  name: String!
+}
+
+input CreateArmyInput {
+  campaignId: ID!
+  factionId: ID!
+  name: String!
+}
+
+input UpdateArmyInput {
+  name: String
+  glory: Int
+  renown: Int
+}
+
+input AddUnitInput {
+  unitTypeId: String!
+  name: String!
+  size: Int!
+  wounds: Int!
+}
+
+input UpdateUnitInput {
+  name: String
+  size: Int
+  wounds: Int
+  veteranAbilities: [String!]
+  injuries: [String!]
+  enhancements: [String!]
+}
+
+input RecordBattleInput {
+  campaignId: ID!
+  armies: [ID!]!
+  outcome: BattleOutcome!
+  gloryAwarded: [GloryAwardInput!]!
+  notes: String
+  playedAt: String!
+}
+
+input GloryAwardInput {
+  armyId: ID!
+  amount: Int!
+  reason: String
+}

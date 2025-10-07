@@ -1,0 +1,17 @@
+overwrite: true
+schema: "./src/schema/schema.graphql"
+generates:
+  ./src/types/graphql.ts:
+    plugins:
+      - "typescript"
+      - "typescript-resolvers"
+    config:
+      useIndexSignature: true
+      contextType: "../context#GraphQLContext"
+      mappers:
+        User: "../models#UserModel"
+        Campaign: "../models#CampaignModel"
+        Army: "../models#ArmyModel"
+        Unit: "../models#UnitModel"
+        Battle: "../models#BattleModel"
+        Faction: "../models#FactionModel"
