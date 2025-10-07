@@ -17,7 +17,8 @@
       "Bash(npm audit:*)",
       "Bash(npm outdated:*)",
       "Bash(npm view:*)",
-      "Bash(aws:*)"
+      "Bash(aws:*)",
+      "Bash(git reset:*)"
     ],
     "deny": [],
     "ask": []
