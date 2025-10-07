@@ -203,6 +203,13 @@ jobs:
         working-directory: infrastructure/frontend
         run: terraform init
 
+      - name: Terraform Refresh
+        working-directory: infrastructure/frontend
+        run: terraform refresh
+        env:
+          TF_VAR_google_client_id: ${{ secrets.TF_VAR_GOOGLE_CLIENT_ID }}
+          TF_VAR_google_client_secret: ${{ secrets.TF_VAR_GOOGLE_CLIENT_SECRET }}
+
       - name: Terraform Apply
         working-directory: infrastructure/frontend
         run: terraform apply -auto-approve
