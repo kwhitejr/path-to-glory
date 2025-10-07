@@ -13,7 +13,11 @@
       "Bash(aws s3api get-bucket-versioning:*)",
       "Bash(aws dynamodb describe-table:*)",
       "Bash(sh:*)",
-      "Bash(terraform:*)"
+      "Bash(terraform:*)",
+      "Bash(npm audit:*)",
+      "Bash(npm outdated:*)",
+      "Bash(npm view:*)",
+      "Bash(aws:*)"
     ],
     "deny": [],
     "ask": []

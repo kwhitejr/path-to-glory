@@ -146,6 +146,11 @@ resource "aws_cognito_identity_provider" "google" {
     username          = "sub"
     preferred_username = "email"
   }
+
+  # Ignore AWS-managed fields that get auto-populated
+  lifecycle {
+    ignore_changes = [provider_details]
+  }
 }
 
 # Cognito Identity Pool (for AWS credentials)
