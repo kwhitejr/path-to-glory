@@ -12,7 +12,8 @@
       "Bash(chmod:*)",
       "Bash(aws s3api get-bucket-versioning:*)",
       "Bash(aws dynamodb describe-table:*)",
-      "Bash(sh:*)"
+      "Bash(sh:*)",
+      "Bash(terraform:*)"
     ],
     "deny": [],
     "ask": []
