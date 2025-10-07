@@ -8,6 +8,7 @@ import {
   FetchUserAttributesOutput,
   fetchAuthSession,
 } from 'aws-amplify/auth';
+import { Hub } from 'aws-amplify/utils';
 
 export interface User {
   id: string;
@@ -105,6 +106,33 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   useEffect(() => {
     loadUser();
+
+    // Listen for auth events (sign in, sign out, token refresh)
+    const hubListener = Hub.listen('auth', ({ payload }) => {
+      console.log('[AuthContext] Hub event:', payload.event);
+
+      switch (payload.event) {
+        case 'signInWithRedirect':
+          console.log('[AuthContext] OAuth redirect completed');
+          loadUser();
+          break;
+        case 'signInWithRedirect_failure':
+          console.error('[AuthContext] OAuth redirect failed:', payload.data);
+          setError(new Error('OAuth sign-in failed'));
+          setLoading(false);
+          break;
+        case 'tokenRefresh':
+          console.log('[AuthContext] Token refreshed');
+          loadUser();
+          break;
+        case 'signedOut':
+          console.log('[AuthContext] User signed out');
+          setUser(null);
+          break;
+      }
+    });
+
+    return () => hubListener();
   }, []);
 
   const login = async () => {
