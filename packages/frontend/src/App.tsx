@@ -5,6 +5,8 @@ import Layout from './components/Layout';
 import ArmyListPage from './pages/ArmyListPage';
 import ArmyDetailPage from './pages/ArmyDetailPage';
 import CreateArmyPage from './pages/CreateArmyPage';
+import CampaignsPage from './pages/CampaignsPage';
+import BattlesPage from './pages/BattlesPage';
 
 function App() {
   return (
@@ -16,6 +18,8 @@ function App() {
             <Route path="armies" element={<ArmyListPage />} />
             <Route path="armies/new" element={<CreateArmyPage />} />
             <Route path="armies/:armyId" element={<ArmyDetailPage />} />
+            <Route path="campaigns" element={<CampaignsPage />} />
+            <Route path="battles" element={<BattlesPage />} />
           </Route>
         </Routes>
       </BrowserRouter>
