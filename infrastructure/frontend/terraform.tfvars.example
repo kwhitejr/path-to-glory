@@ -1,6 +1,8 @@
 # Example Terraform variables file
-# Copy to terraform.tfvars and fill in your values
+# Copy to terraform.tfvars if you need to override defaults
 
-route53_zone_id = "Z1234567890ABC"  # Your Route53 hosted zone ID for kwhitejr.com
-aws_region      = "us-east-1"
-environment     = "production"
+# Optional overrides (defaults in variables.tf):
+# domain_name = "kwhitejr.com"
+# subdomain   = "ptg"
+# aws_region  = "us-east-1"
+# environment = "production"

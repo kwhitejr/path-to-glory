@@ -2,6 +2,12 @@ locals {
   frontend_domain = "${var.subdomain}.${var.domain_name}"
 }
 
+# Data source to get existing Route53 hosted zone
+data "aws_route53_zone" "main" {
+  name         = var.domain_name
+  private_zone = false
+}
+
 # S3 bucket for frontend hosting
 resource "aws_s3_bucket" "frontend" {
   bucket = local.frontend_domain
@@ -91,7 +97,7 @@ resource "aws_route53_record" "cert_validation" {
     }
   }
 
-  zone_id = var.route53_zone_id
+  zone_id = data.aws_route53_zone.main.zone_id
   name    = each.value.name
   type    = each.value.type
   records = [each.value.record]
@@ -168,7 +174,7 @@ resource "aws_cloudfront_distribution" "frontend" {
 
 # Route53 A record for subdomain
 resource "aws_route53_record" "frontend" {
-  zone_id = var.route53_zone_id
+  zone_id = data.aws_route53_zone.main.zone_id
   name    = local.frontend_domain
   type    = "A"
 
@@ -181,7 +187,7 @@ resource "aws_route53_record" "frontend" {
 
 # Route53 AAAA record for IPv6
 resource "aws_route53_record" "frontend_ipv6" {
-  zone_id = var.route53_zone_id
+  zone_id = data.aws_route53_zone.main.zone_id
   name    = local.frontend_domain
   type    = "AAAA"
 

@@ -117,7 +117,7 @@ jobs:
 
       - name: Terraform Plan
         id: plan
-        run: terraform plan -no-color -var="route53_zone_id=${{ secrets.ROUTE53_ZONE_ID }}"
+        run: terraform plan -no-color
         continue-on-error: true
 
       - name: Comment PR with Plan
@@ -174,7 +174,7 @@ jobs:
 
       - name: Terraform Apply
         working-directory: infrastructure/frontend
-        run: terraform apply -auto-approve -var="route53_zone_id=${{ secrets.ROUTE53_ZONE_ID }}"
+        run: terraform apply -auto-approve
 
       - name: Get Terraform Outputs
         id: tf-outputs

@@ -11,7 +11,6 @@
 ### GitHub Setup
 1. **GitHub Secrets** (Settings → Secrets → Actions):
    - `AWS_DEPLOY_ROLE_ARN` - IAM role ARN for OIDC authentication
-   - `ROUTE53_ZONE_ID` - Route53 hosted zone ID for kwhitejr.com
 
 2. **IAM Role for GitHub Actions** (OIDC):
    ```hcl
@@ -38,7 +37,7 @@
    }
    ```
 
-3. **IAM Permissions** (attach to role):
+2. **IAM Permissions** (attach to role):
    - S3 (bucket creation, object upload)
    - CloudFront (distribution management)
    - ACM (certificate management)
@@ -47,27 +46,20 @@
 
 ## Initial Deployment
 
-### Step 1: Get Route53 Zone ID
-```bash
-aws route53 list-hosted-zones-by-name --query "HostedZones[?Name=='kwhitejr.com.'].Id" --output text
-```
-
-### Step 2: Set GitHub Secrets
+### Step 1: Set GitHub Secret
 1. Go to GitHub repository → Settings → Secrets and variables → Actions
 2. Add:
    - `AWS_DEPLOY_ROLE_ARN`: `arn:aws:iam::{ACCOUNT_ID}:role/{ROLE_NAME}`
-   - `ROUTE53_ZONE_ID`: From Step 1
 
-### Step 3: Manual Infrastructure Setup (First Time)
+### Step 2: Verify Route53 Zone Exists
+```bash
+aws route53 list-hosted-zones-by-name --query "HostedZones[?Name=='kwhitejr.com.'].Id" --output text
+```
+The zone should already exist from your domain setup.
+
+### Step 3: Manual Infrastructure Setup (First Time, Optional)
 ```bash
 cd infrastructure/frontend
-
-# Create terraform.tfvars
-cat > terraform.tfvars <<EOF
-route53_zone_id = "Z1234567890ABC"  # Your actual zone ID
-aws_region      = "us-east-1"
-environment     = "production"
-EOF
 
 # Initialize and apply
 terraform init

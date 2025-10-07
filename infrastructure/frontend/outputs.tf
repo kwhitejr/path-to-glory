@@ -22,3 +22,8 @@ output "certificate_arn" {
   description = "ARN of the ACM certificate"
   value       = aws_acm_certificate.frontend.arn
 }
+
+output "route53_zone_id" {
+  description = "Route53 hosted zone ID"
+  value       = data.aws_route53_zone.main.zone_id
+}

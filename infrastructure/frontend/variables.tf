@@ -21,9 +21,3 @@ variable "subdomain" {
   type        = string
   default     = "ptg"
 }
-
-variable "route53_zone_id" {
-  description = "Route53 hosted zone ID for kwhitejr.com"
-  type        = string
-  # This should be set via environment variable or terraform.tfvars
-}

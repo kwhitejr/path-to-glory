@@ -12,7 +12,7 @@ Terraform configuration for deploying the React frontend to AWS with CloudFront,
 ## Prerequisites
 
 1. **AWS Account** with appropriate permissions
-2. **Route53 Hosted Zone** for kwhitejr.com (already configured)
+2. **Route53 Hosted Zone** for kwhitejr.com (must exist)
 3. **Terraform** >= 1.0
 4. **S3 Backend** for Terraform state:
    - Bucket: `kwhitejr-terraform-state`
@@ -20,27 +20,17 @@ Terraform configuration for deploying the React frontend to AWS with CloudFront,
 
 ## Setup
 
-1. Copy the example variables file:
-   ```bash
-   cp terraform.tfvars.example terraform.tfvars
-   ```
-
-2. Edit `terraform.tfvars` with your values:
-   ```hcl
-   route53_zone_id = "Z1234567890ABC"  # Your Route53 zone ID
-   ```
-
-3. Initialize Terraform:
+1. Initialize Terraform:
    ```bash
    terraform init
    ```
 
-4. Preview changes:
+2. Preview changes:
    ```bash
    terraform plan
    ```
 
-5. Apply infrastructure:
+3. Apply infrastructure:
    ```bash
    terraform apply
    ```
@@ -52,7 +42,6 @@ Frontend deployment is automated via GitHub Actions (`.github/workflows/deploy-f
 ### Required GitHub Secrets
 
 - `AWS_DEPLOY_ROLE_ARN` - IAM role ARN for GitHub Actions OIDC
-- `ROUTE53_ZONE_ID` - Route53 hosted zone ID for kwhitejr.com
 
 ### Manual Deployment
 
