@@ -82,6 +82,12 @@ jobs:
           role-duration-seconds: 1200
           role-skip-session-tagging: true
 
+      - name: Verify AWS credentials
+        run: |
+          echo "Testing AWS credentials and role assumption..."
+          aws sts get-caller-identity
+          echo "✓ AWS credentials verified"
+
       - name: Terraform Format Check
         run: terraform fmt -check
         continue-on-error: true
@@ -118,6 +124,11 @@ jobs:
           role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
           role-duration-seconds: 1200
           role-skip-session-tagging: true
+
+      - name: Verify AWS credentials
+        run: |
+          echo "Verifying AWS credentials..."
+          aws sts get-caller-identity
 
       - name: Terraform Init
         run: terraform init
@@ -178,6 +189,12 @@ jobs:
           role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
           role-duration-seconds: 1200
           role-skip-session-tagging: true
+
+      - name: Verify AWS credentials
+        run: |
+          echo "Verifying AWS credentials..."
+          aws sts get-caller-identity
+          echo "AWS account verified successfully"
 
       - name: Terraform Init
         working-directory: infrastructure/frontend
