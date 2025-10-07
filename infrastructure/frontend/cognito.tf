@@ -37,6 +37,11 @@ resource "aws_cognito_user_pool" "main" {
     mutable             = true
   }
 
+  # Prevent Terraform from trying to modify schema after creation
+  lifecycle {
+    ignore_changes = [schema]
+  }
+
   # Account recovery
   account_recovery_setting {
     recovery_mechanism {
