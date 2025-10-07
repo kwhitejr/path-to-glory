@@ -67,11 +67,7 @@ aws s3api put-bucket-encryption \
 # Block public access
 aws s3api put-public-access-block \
   --bucket kwhitejr-terraform-state \
-  --public-access-block-configuration \
-    BlockPublicAcls=true,\
-    IgnorePublicAcls=true,\
-    BlockPublicPolicy=true,\
-    RestrictPublicBuckets=true
+  --public-access-block-configuration "BlockPublicAcls=true,IgnorePublicAcls=true,BlockPublicPolicy=true,RestrictPublicBuckets=true"
 ```
 
 #### 2. Create DynamoDB Table

@@ -52,11 +52,7 @@ else
     # Block public access
     aws s3api put-public-access-block \
         --bucket "$STATE_BUCKET" \
-        --public-access-block-configuration \
-            BlockPublicAcls=true,\
-            IgnorePublicAcls=true,\
-            BlockPublicPolicy=true,\
-            RestrictPublicBuckets=true
+        --public-access-block-configuration "BlockPublicAcls=true,IgnorePublicAcls=true,BlockPublicPolicy=true,RestrictPublicBuckets=true"
 
     echo "✓ S3 bucket created and configured"
 fi
