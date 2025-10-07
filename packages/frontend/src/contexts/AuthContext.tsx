@@ -6,6 +6,7 @@ import {
   fetchUserAttributes,
   AuthUser,
   FetchUserAttributesOutput,
+  fetchAuthSession,
 } from 'aws-amplify/auth';
 
 export interface User {
@@ -58,12 +59,20 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       setLoading(true);
       setError(null);
 
+      // First check if we have a valid session
+      const session = await fetchAuthSession();
+      if (!session.tokens) {
+        setUser(null);
+        return;
+      }
+
       const authUser = await getCurrentUser();
       const attributes = await fetchUserAttributes();
 
       setUser(mapAuthUserToUser(authUser, attributes));
     } catch (err) {
-      // User is not authenticated
+      console.log('Load user error:', err);
+      // User is not authenticated or session is invalid
       setUser(null);
       setError(null); // Not an error, just not logged in
     } finally {
@@ -78,9 +87,13 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const login = async () => {
     try {
       setError(null);
-      await signInWithRedirect({ provider: 'Google' });
+
+      // signInWithRedirect will redirect to Google OAuth
+      // The page will reload after redirect, so no need to wait
+      signInWithRedirect({ provider: 'Google' });
     } catch (err) {
       const error = err instanceof Error ? err : new Error('Login failed');
+      console.error('Login error:', error);
       setError(error);
       throw error;
     }
