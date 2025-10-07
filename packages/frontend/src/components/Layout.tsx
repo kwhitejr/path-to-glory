@@ -1,17 +1,13 @@
 import { Outlet, Link, useLocation } from 'react-router-dom';
+import Header from './Header';
 
 export default function Layout() {
   const location = useLocation();
 
   return (
     <div className="min-h-screen flex flex-col">
-      {/* Mobile-first header */}
-      <header className="bg-primary-700 text-white shadow-lg">
-        <div className="container mx-auto px-4 py-4">
-          <h1 className="text-2xl font-bold">Path to Glory</h1>
-          <p className="text-sm text-primary-100">Campaign Tracker</p>
-        </div>
-      </header>
+      {/* Header with authentication */}
+      <Header />
 
       {/* Navigation */}
       <nav className="bg-white border-b border-gray-200 sticky top-0 z-10">

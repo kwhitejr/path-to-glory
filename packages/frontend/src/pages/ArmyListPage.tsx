@@ -1,6 +1,7 @@
 import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { getAllFactions, type FactionData } from '@path-to-glory/shared';
+import { useAuth } from '../contexts/AuthContext';
 
 // Mock data for now - will be replaced with GraphQL query
 const mockArmies = [
@@ -10,6 +11,7 @@ const mockArmies = [
     factionId: 'flesh-eater-courts',
     playerId: 'player1',
     playerName: 'Alice',
+    playerPicture: 'https://i.pravatar.cc/150?img=1',
     glory: 12,
     renown: 3,
   },
@@ -19,6 +21,7 @@ const mockArmies = [
     factionId: 'ossiarch-bonereapers',
     playerId: 'player1',
     playerName: 'Alice',
+    playerPicture: 'https://i.pravatar.cc/150?img=1',
     glory: 8,
     renown: 2,
   },
@@ -28,6 +31,7 @@ const mockArmies = [
     factionId: 'slaves-to-darkness',
     playerId: 'player2',
     playerName: 'Bob',
+    playerPicture: 'https://i.pravatar.cc/150?img=12',
     glory: 15,
     renown: 4,
   },
@@ -37,17 +41,16 @@ const mockArmies = [
     factionId: 'flesh-eater-courts',
     playerId: 'player3',
     playerName: 'Charlie',
+    playerPicture: undefined, // No profile picture
     glory: 6,
     renown: 1,
   },
 ];
 
-// Mock current user
-const mockCurrentUser = { id: 'player1', name: 'Alice' };
-
 type ViewMode = 'mine' | 'all';
 
 export default function ArmyListPage() {
+  const { user } = useAuth();
   const factions = getAllFactions();
   const factionsMap = Object.fromEntries(factions.map((f: FactionData) => [f.id, f]));
 
@@ -75,8 +78,8 @@ export default function ArmyListPage() {
     let result = mockArmies;
 
     // Filter by view mode (mine vs all)
-    if (viewMode === 'mine') {
-      result = result.filter((army) => army.playerId === mockCurrentUser.id);
+    if (viewMode === 'mine' && user) {
+      result = result.filter((army) => army.playerId === user.id);
     }
 
     // Filter by grand alliance
@@ -98,7 +101,7 @@ export default function ArmyListPage() {
     }
 
     return result;
-  }, [viewMode, selectedGrandAlliance, selectedFaction, selectedPlayer, factionsMap]);
+  }, [viewMode, selectedGrandAlliance, selectedFaction, selectedPlayer, factionsMap, user]);
 
   // Reset filters when switching view mode
   const handleViewModeChange = (mode: ViewMode) => {
@@ -254,14 +257,32 @@ export default function ArmyListPage() {
                 className="card hover:shadow-lg transition-shadow"
               >
                 <div className="flex justify-between items-start mb-3">
-                  <div className="flex-1">
-                    <h3 className="font-bold text-lg">{army.name}</h3>
+                  <div className="flex-1 flex items-start gap-3">
+                    {/* Player profile picture */}
                     {viewMode === 'all' && (
-                      <p className="text-xs text-gray-500 mt-0.5">by {army.playerName}</p>
+                      <div className="flex-shrink-0">
+                        {army.playerPicture ? (
+                          <img
+                            src={army.playerPicture}
+                            alt={army.playerName}
+                            className="h-10 w-10 rounded-full border-2 border-gray-200"
+                          />
+                        ) : (
+                          <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-gray-200 bg-gray-100 text-sm font-semibold text-gray-600">
+                            {army.playerName.charAt(0).toUpperCase()}
+                          </div>
+                        )}
+                      </div>
                     )}
+                    <div className="flex-1 min-w-0">
+                      <h3 className="font-bold text-lg">{army.name}</h3>
+                      {viewMode === 'all' && (
+                        <p className="text-xs text-gray-500 mt-0.5">by {army.playerName}</p>
+                      )}
+                    </div>
                   </div>
                   <span
-                    className={`px-2 py-1 rounded text-xs font-medium ${getAllianceColor(
+                    className={`px-2 py-1 rounded text-xs font-medium flex-shrink-0 ${getAllianceColor(
                       faction?.grandAlliance
                     )}`}
                   >
