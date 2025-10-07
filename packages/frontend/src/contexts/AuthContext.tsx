@@ -1,6 +1,6 @@
 import React, { createContext, useContext, useEffect, useState } from 'react';
 import {
-  signIn,
+  signInWithRedirect,
   signOut,
   getCurrentUser,
   fetchUserAttributes,
@@ -78,7 +78,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const login = async () => {
     try {
       setError(null);
-      await signIn({ provider: 'Google' });
+      await signInWithRedirect({ provider: 'Google' });
     } catch (err) {
       const error = err instanceof Error ? err : new Error('Login failed');
       setError(error);
