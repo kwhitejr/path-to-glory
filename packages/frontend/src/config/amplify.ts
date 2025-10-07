@@ -27,5 +27,14 @@ export const amplifyConfig = {
 };
 
 export function configureAmplify() {
+  // Debug: log configuration (but hide sensitive values)
+  console.log('Amplify Config:', {
+    userPoolId: amplifyConfig.Auth.Cognito.userPoolId,
+    userPoolClientId: amplifyConfig.Auth.Cognito.userPoolClientId ? '***' : 'MISSING',
+    identityPoolId: amplifyConfig.Auth.Cognito.identityPoolId,
+    domain: amplifyConfig.Auth.Cognito.loginWith.oauth.domain,
+    redirectSignIn: amplifyConfig.Auth.Cognito.loginWith.oauth.redirectSignIn,
+  });
+
   Amplify.configure(amplifyConfig);
 }

@@ -62,6 +62,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       // First check if we have a valid session
       const session = await fetchAuthSession();
       if (!session.tokens) {
+        console.log('No valid tokens in session');
         setUser(null);
         return;
       }
@@ -69,10 +70,22 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       const authUser = await getCurrentUser();
       const attributes = await fetchUserAttributes();
 
+      console.log('User loaded successfully:', { userId: authUser.userId, email: attributes.email });
       setUser(mapAuthUserToUser(authUser, attributes));
-    } catch (err) {
-      console.log('Load user error:', err);
-      // User is not authenticated or session is invalid
+    } catch (err: any) {
+      console.log('Load user error:', err?.message || err);
+
+      // If error is about already being authenticated, try to sign out and retry
+      if (err?.name === 'UserAlreadyAuthenticatedException') {
+        console.log('Clearing stale session...');
+        try {
+          await signOut();
+          setUser(null);
+        } catch (signOutErr) {
+          console.error('Failed to clear session:', signOutErr);
+        }
+      }
+
       setUser(null);
       setError(null); // Not an error, just not logged in
     } finally {
