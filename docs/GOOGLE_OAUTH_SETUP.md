@@ -30,19 +30,27 @@ Visit: https://console.cloud.google.com/
 1. Go to "APIs & Services" > "OAuth consent screen"
 2. Select "External" user type
 3. Click "Create"
-4. Fill in the required fields:
+4. **App information** page:
    - **App name**: Path to Glory
    - **User support email**: Your email
+   - **App logo**: (optional, can skip)
+   - **App domain**: (optional, can skip for now)
+   - **Authorized domains**: (optional, can skip for now)
    - **Developer contact email**: Your email
 5. Click "Save and Continue"
-6. On "Scopes" page, click "Add or Remove Scopes"
-7. Select these scopes:
-   - `email`
-   - `profile`
-   - `openid`
-8. Click "Save and Continue"
-9. Add test users if still in testing mode (optional)
-10. Review and click "Back to Dashboard"
+6. **Scopes** page:
+   - The default scopes (.../auth/userinfo.email, .../auth/userinfo.profile, openid) are automatically included
+   - You don't need to add any additional scopes
+   - Click "Save and Continue"
+7. **Test users** page (if in testing mode):
+   - Optionally add test users (your Google account email)
+   - Or skip this and publish the app later
+   - Click "Save and Continue"
+8. **Summary** page:
+   - Review your settings
+   - Click "Back to Dashboard"
+
+**Note**: If you don't see a "Scopes" step, it's fine - the basic scopes (email, profile, openid) are included by default.
 
 ### 1.5 Create OAuth 2.0 Credentials
 
