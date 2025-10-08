@@ -1,0 +1,42 @@
+{
+  "id": "abhorrant-ghoul-king",
+  "name": "Abhorrant Ghoul King",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "6\"",
+    "health": 6,
+    "save": "5+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Gory Talons and Fangs",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Code of Honour",
+      "timing": "Any Combat Phase",
+      "description": "Delusions of chivalry and honourable combat swirling in their fevered mind, the Ghoul King issues a direct challenge to an enemy champion – and then immediately pounces upon them like a frenzied beast.",
+      "declare": "Pick an enemy Hero in combat with this unit to be the target.",
+      "effect": "For the rest of the turn, add 1 to the Damage characteristic of this unit's melee weapons, but all of this unit's attacks must target that Hero."
+    },
+    {
+      "name": "Unnatural Speed",
+      "timing": "Your Charge Phase",
+      "description": "Deathly energies swell the abhorrant's muscles and strengthen their sinews before they explode into motion, bounding towards the foe with terrifying swiftness.",
+      "effect": "If this unit charged this phase, it has Strike-first for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Wizard (1)", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

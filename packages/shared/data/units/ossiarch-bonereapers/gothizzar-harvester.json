@@ -1,0 +1,70 @@
+{
+  "id": "gothizzar-harvester",
+  "name": "Gothizzar Harvester",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "6\"",
+    "health": 10,
+    "save": "4+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Death's Head Maw",
+      "range": "12\"",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Soulcrusher Weapons",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Crit (2 Hits)"
+    },
+    {
+      "name": "Ossified Hooves and Tail",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bone Harvest",
+      "timing": "Passive",
+      "description": "As a Gothizzar Harvester fights, it works to amass a grisly stockpile of bones.",
+      "effect": "Each time an enemy model from a unit in combat with this unit is slain, give this unit 1 bone-tithe point. This unit can have a maximum of 6 bone-tithe points at once."
+    },
+    {
+      "name": "Gruesome Surgery",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "Gothizzar Harvesters are capable of swiftly disassembling their foes so that nearby Mortek might be reconstituted from their blood-smeared bones.",
+      "declare": "Pick an enemy Infantry unit in combat with this unit to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. For each model slain by this ability, you can return 1 slain model to a friendly Mortek Guard unit wholly within 12\" of this unit.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Repair Construct",
+      "timing": "End of Any Turn",
+      "description": "The Harvester uses a portion of its morbid crop to restore the forms of fellow Ossiarchs.",
+      "declare": "Pick a friendly Ossiarch Bonereapers unit wholly within 12\" of this unit to be the target.",
+      "effect": "Return a number of slain models to the target with a combined Health characteristic equal to the number of bone-tithe points this unit has. Then, reset this unit's bone-tithe points to 0."
+    }
+  ],
+  "keywords": {
+    "unit": ["Monster", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "soulstealer-carrion",
+  "name": "Soulstealer Carrion",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "10\"",
+    "health": 7,
+    "save": "5+",
+    "control": 0
+  },
+  "meleeWeapons": [
+    {
+      "name": "Spectral Claws and Beak",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": "D3"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Aviarch Sentry",
+      "timing": "Passive",
+      "description": "This ethereal monstrosity invokes terror as it swoops over enemy battlelines, causing the foe's resolve to waver.",
+      "effect": "Subtract 5 from the control scores of enemy Infantry units while they are within 6\" of this Manifestation."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Fly", "Ward (6+)", "Banishment (7+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

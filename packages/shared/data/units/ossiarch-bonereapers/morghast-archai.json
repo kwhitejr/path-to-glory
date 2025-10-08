@@ -1,0 +1,43 @@
+{
+  "id": "morghast-archai",
+  "name": "Morghast Archai",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "10\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Spirit Weapons",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Anti-Monster (+1 Rend), Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Ebon-Wrought Armour",
+      "timing": "Passive",
+      "description": "The Morghast's armour is threaded with spells that protect them against arcane assault.",
+      "effect": "This unit has Ward (3+) against damage points inflicted by Spell abilities, Prayer abilities and abilities used by Manifestations. If you make a successful ward roll for this unit, or if this unit destroys an enemy Manifestation, give this unit an arcane charge token. This unit cannot have more than 1 arcane charge token at once."
+    },
+    {
+      "name": "Discharge Armour",
+      "timing": "Any Hero Phase",
+      "description": "The Morghast releases the arcane energy in their armour to overpower nearby magic users.",
+      "declare": "If this unit has an arcane charge token, pick a friendly Ossiarch Bonereapers Wizard wholly within 12\" of this unit to be the target.",
+      "effect": "Remove this unit's arcane charge token, then add 1 to casting rolls for the target for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

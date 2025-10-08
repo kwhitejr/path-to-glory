@@ -1,0 +1,78 @@
+{
+  "id": "royal-zombie-dragon",
+  "name": "Royal Zombie Dragon",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "12\"",
+    "health": 14,
+    "save": "4+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Pestilential Breath",
+      "range": "10\"",
+      "attacks": "D6",
+      "hit": "2+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 3,
+      "ability": "Shoot in Combat, Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Draconic Maw",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Companion"
+    },
+    {
+      "name": "Draconic Claws",
+      "attacks": 7,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Draconic Claws is 5."
+    },
+    {
+      "name": "Vantage Point",
+      "timing": "Deployment Phase",
+      "description": "The Zombie Dragon approaches the front line from above, eye sockets aglow with unholy energy.",
+      "declare": "Pick this unit if it has not been deployed.",
+      "effect": "Set up this unit in reserve high above the battlefield. It has now been deployed.",
+      "keywords": ["Deploy"]
+    },
+    {
+      "name": "Loathsome Descent",
+      "timing": "Your Movement Phase",
+      "description": "With a deafening roar, the Zombie Dragon dives into battle like a foul comet.",
+      "declare": "Pick this unit if it is high above the battlefield.",
+      "effect": "Set up this unit anywhere on the battlefield more than 9\" from all enemy units."
+    },
+    {
+      "name": "Soaring Terror",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "The Zombie Dragon soars over the enemy warriors, scouring those below with its corrosive breath.",
+      "effect": "If this unit charged this turn, roll a dice. On a 3+, this unit can move 2D6\". It can pass through the combat ranges of enemy units but must end that move in combat. Then, pick an enemy unit that this unit passed across during that move. Inflict D3 mortal damage on that enemy unit.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Monster", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

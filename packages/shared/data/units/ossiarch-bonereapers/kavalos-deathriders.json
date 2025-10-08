@@ -1,0 +1,52 @@
+{
+  "id": "kavalos-deathriders",
+  "name": "Kavalos Deathriders",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "10\"",
+    "health": 3,
+    "save": "4+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Kavalos Blades",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Charge (+1 Damage), Crit (2 Hits)"
+    },
+    {
+      "name": "Kavalos Steed's Hooves and Teeth",
+      "attacks": 2,
+      "hit": "5+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Deathrider Wedge",
+      "timing": "Passive",
+      "description": "Kavalos Deathriders charge in an arrowhead formation that punches straight through the enemy line.",
+      "effect": "When this unit uses a Charge ability, models in this unit can pass through models in enemy Infantry units as if this unit had Fly."
+    },
+    {
+      "name": "Unstoppable Charge",
+      "timing": "Any Charge Phase",
+      "description": "When a Kavalos steed charges the foe, it can use its size and weight to smash enemy footsoldiers to the ground and crush them beneath its nadirite-shod hooves.",
+      "declare": "If this unit charged this phase, pick an enemy Infantry unit that it passed across to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+    }
+  ],
+  "keywords": {
+    "unit": ["Cavalry", "Champion", "Standard Bearer (1/5)", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

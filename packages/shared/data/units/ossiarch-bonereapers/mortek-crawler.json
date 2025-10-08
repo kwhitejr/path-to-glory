@@ -1,0 +1,49 @@
+{
+  "id": "mortek-crawler",
+  "name": "Mortek Crawler",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "5\"",
+    "health": 12,
+    "save": "4+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Dread Catapult",
+      "range": "24\"",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": "D3+2",
+      "ability": "Anti-Infantry (+1 Rend), Crit (2 Hits)"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Attendants' Crawler Tools",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Deathly Barrage",
+      "timing": "Any Shooting Phase",
+      "description": "The grisly ammunition of a Mortek Crawler can leave even the most stoic souls staggering.",
+      "declare": "Pick an enemy unit that was targeted by all of this unit's shooting attacks this phase to be the target.",
+      "effect": "Roll a dice. Add 1 to the roll if this unit is wholly within 12\" of a friendly Mortisan Ossifector, and add 1 to the roll if any other friendly Mortek Crawler units picked that enemy unit to be the target of this ability this turn. On a 4+, the target has Strike-last for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["War Machine", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

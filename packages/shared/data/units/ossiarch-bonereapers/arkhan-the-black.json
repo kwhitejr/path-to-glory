@@ -1,0 +1,73 @@
+{
+  "id": "arkhan-the-black",
+  "name": "Arkhan the Black",
+  "subtitle": "Mortarch of Sacrament",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "12\"",
+    "health": 14,
+    "save": "3+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Zefet-kar and Khenash-an",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Crit (2 Hits)"
+    },
+    {
+      "name": "Razarak's Ebon Claws",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of Razarak's Ebon Claws is 4."
+    },
+    {
+      "name": "The Staff of Spirits",
+      "timing": "Passive",
+      "description": "Khenash-an, the Staff of Spirits, grants Arkhan the power to absorb the souls of his foes.",
+      "effect": "Add 1 to casting rolls for this unit. Each time this unit successfully casts a spell, Heal (1) this unit."
+    },
+    {
+      "name": "Mortarch of Sacrament",
+      "timing": "Reaction: Opponent declared a Spell ability",
+      "description": "Arkhan's loyalty has seen him become privy to secrets of Shyishan magic known to none outside the ranks of the gods.",
+      "effect": "If a friendly Ossiarch Bonereapers unit wholly within 18\" of this unit was picked to be the target of that spell, roll a dice. On a 4+, ignore the effect of that spell on that unit. This unit can use this ability more than once per phase but only once per Spell ability."
+    },
+    {
+      "name": "The Doom of Traitors",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "The dread abyssal Razarak bears Arkhan into battle, seeking out those who have stoked the ire of the Great Necromancer.",
+      "declare": "If this unit charged this turn, pick an enemy unit in combat with it to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If the target is a Hero, double the amount of mortal damage inflicted.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Curse of Years",
+      "timing": "Your Hero Phase",
+      "description": "Tracing a spiteful gesture in the air, Arkhan curses the enemy to age at an incredible rate.",
+      "declare": "Pick a visible enemy unit within 18\" of this unit to be the target, then make a casting roll of 2D6.",
+      "effect": "Roll 10 dice. For each 6:\n• Inflict 1 mortal damage on the target.\n• Roll an extra dice.\n\nFor each 5+ on those extra dice, repeat the above bullet points. Then, do the same for each 4+, then each 3+, then each 2+.",
+      "keywords": ["Spell"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (3)", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

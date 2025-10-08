@@ -1,0 +1,36 @@
+{
+  "id": "abhorrant-cardinal",
+  "name": "Abhorrant Cardinal",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "6\"",
+    "health": 5,
+    "save": "6+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Cursed Crosier",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": "D3"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Rousing Oration",
+      "timing": "Any Hero Phase",
+      "description": "The Cardinal espouses the virtues of the noble heroes of the court.",
+      "declare": "Pick a friendly Flesh-eater Courts Hero wholly within 12\" of this unit to be the target.",
+      "effect": "Roll a D3. On a 2+, give the target a number of noble deeds points equal to the roll."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Priest (1)", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

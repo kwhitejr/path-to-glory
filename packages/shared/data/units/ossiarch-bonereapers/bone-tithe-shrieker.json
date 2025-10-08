@@ -1,0 +1,47 @@
+{
+  "id": "bone-tithe-shrieker",
+  "name": "Bone-tithe Shrieker",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "8\"",
+    "health": 7,
+    "save": "5+",
+    "control": 0
+  },
+  "rangedWeapons": [
+    {
+      "name": "Soul-rending Shriek",
+      "range": "12\"",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Soul-rending Shriek",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": "D3"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "No Escape",
+      "timing": "Passive",
+      "description": "There is no hope for the enemy when a Bone-tithe Shrieker is nearby.",
+      "effect": "Subtract 1 from ward rolls for enemy units while they are within 12\" of this Manifestation."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Fly", "Ward (6+)", "Banishment (7+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

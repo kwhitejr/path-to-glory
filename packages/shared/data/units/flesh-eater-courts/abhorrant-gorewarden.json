@@ -1,0 +1,37 @@
+{
+  "id": "abhorrant-gorewarden",
+  "name": "Abhorrant Gorewarden",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "12\"",
+    "health": 7,
+    "save": "5+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Gory Talons and Fangs",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Royal Hunting Party",
+      "timing": "Your Movement Phase",
+      "description": "A Gorewarden is responsible for patrolling the borders of their liege's greater territory, leading flights of warriors to suddenly fall upon and eviscerate trespassers.",
+      "declare": "If this unit is not in combat, you can pick up to 2 friendly Crypt Flayers or Morbheg Knights units that are not in combat and are wholly within 12\" of this unit to be the targets.",
+      "effect": "Remove this unit and the targets (if any) from the battlefield. Set up this unit again on the battlefield more than 9\" from all enemy units. Then, set up each target wholly within 12\" of this unit and more than 9\" from all enemy units.",
+      "keywords": ["Core"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Wizard (1)", "Infantry", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

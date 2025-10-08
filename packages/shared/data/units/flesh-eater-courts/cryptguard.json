@@ -1,0 +1,41 @@
+{
+  "id": "cryptguard",
+  "name": "Cryptguard",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "6\"",
+    "health": 1,
+    "save": "6+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Cursed Weapon",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Armoury of Madness",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "The weapons wielded by the Cryptguard are infused with their delusional curse, and they can drive the wits from any they strike.",
+      "effect": "If any damage points inflicted by attacks made as part of that Fight ability are allocated to any enemy units, those enemy units cannot use commands until the start of your next turn."
+    },
+    {
+      "name": "Royal Bodyguard",
+      "timing": "Passive",
+      "description": "In battle, it falls to the tenacious Cryptguard to form a half-living shield for their vampiric overlords.",
+      "effect": "While any friendly Flesh-eater Courts Heroes are wholly within this unit's combat range, both this unit and those Heroes have Ward (5+)."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Musician (1/10)", "Standard Bearer (1/10)", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Serfs"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

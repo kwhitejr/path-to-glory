@@ -1,0 +1,78 @@
+{
+  "id": "katakros",
+  "name": "Katakros",
+  "subtitle": "Mortarch of the Necropolis",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "4\"",
+    "health": 20,
+    "save": "3+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Inda-Khaat",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Crit (2 Hits)"
+    },
+    {
+      "name": "The Shield Immortis",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2
+    },
+    {
+      "name": "Retinue Blades",
+      "attacks": 10,
+      "hit": "3+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Inda-Khaat is 3."
+    },
+    {
+      "name": "Mortarch of the Necropolis",
+      "timing": "Passive",
+      "description": "Katakros is the most perfect of Nagash's constructs and the ruler of the Ossiarch Empire.",
+      "effect": "If this unit uses a Relentless Discipline ability, that ability affects friendly Ossiarch Bonereapers units wholly within 18\" of this unit instead of wholly within 12\"."
+    },
+    {
+      "name": "Aviarch Spymaster",
+      "timing": "Once Per Turn, Reaction: Opponent declared a command for a unit within 18\" of this unit",
+      "description": "The Aviarch Spymaster can use their spy network to disrupt the plans of Katakros's enemies.",
+      "effect": "Roll a dice. On a 5+, that command has no effect, it still counts as having been used and the command points spent to use it are still lost."
+    },
+    {
+      "name": "Prime Necrophoros",
+      "timing": "Passive",
+      "description": "This Necrophoros holds aloft Katakros's personal banner.",
+      "effect": "Add 3 to the control scores of other friendly Ossiarch Bonereapers units while they are wholly within 18\" of this unit."
+    },
+    {
+      "name": "Supreme Lord of the Bonereaper Legions",
+      "timing": "Your Hero Phase",
+      "description": "An Ossiarch force personally led by Katakros is said to be worth ten identical forces led by his generals.",
+      "declare": "Pick up to 3 friendly Ossiarch Bonereapers units wholly within 18\" of this unit to be the targets.",
+      "effect": "Until the start of your next turn, add 1 to save rolls for the targets while they are wholly within 18\" of this unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "chalice-of-ushoran",
+  "name": "Chalice of Ushoran",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "-",
+    "health": 6,
+    "save": "6+",
+    "control": 0
+  },
+  "meleeWeapons": [],
+  "abilities": [
+    {
+      "name": "Fill the Chalice",
+      "timing": "Passive",
+      "description": "The blood of slain warriors is siphoned into this fell manifestation.",
+      "effect": "Each time an enemy model is slain within 6\" of this Manifestation, give this Manifestation 1 gore token (to a maximum of 6)."
+    },
+    {
+      "name": "Overflowing Gore",
+      "timing": "End of Any Turn",
+      "description": "When the gore inside the chalice overflows, the Flesh-eaters upon whom it slops are filled with murderous vigour.",
+      "effect": "If this Manifestation has 6 gore tokens, pick up to 3 friendly Flesh-eater Courts units wholly within 12\" of this Manifestation to be the targets. Heal (D3) each target. Then, reset this Manifestation's gore tokens to 0."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Ward (6+)", "Banishment (7+)"],
+    "faction": ["Death", "Flesh-eater Courts"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

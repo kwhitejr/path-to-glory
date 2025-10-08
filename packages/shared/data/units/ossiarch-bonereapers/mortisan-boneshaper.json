@@ -1,0 +1,37 @@
+{
+  "id": "mortisan-boneshaper",
+  "name": "Mortisan Boneshaper",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "5\"",
+    "health": 5,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Ossified Talons",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 2,
+      "ability": "Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Boneshaper",
+      "timing": "Once Per Turn, Your Hero Phase",
+      "description": "The Boneshaper uses their arcane arts to form shattered bones into new Ossiarch constructs.",
+      "declare": "Pick a friendly Ossiarch Bonereapers unit wholly within 12\" of this unit to be the target.",
+      "effect": "Roll a dice. On a 3+:\n• If the target is damaged, Heal (3) the target.\n• If the target is not damaged, return a number of slain models to the target unit with a combined Health characteristic of up to 3."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Wizard (1)", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers", "Mortisan"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

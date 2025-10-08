@@ -1,0 +1,36 @@
+{
+  "id": "immortis-guard",
+  "name": "Immortis Guard",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "5\"",
+    "health": 4,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Dread Halberd",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Soulbound Protectors",
+      "timing": "Passive",
+      "description": "Immortis Guard will use their own bodies to shield their rulers from harm.",
+      "effect": "Add 1 to ward rolls for friendly Ossiarch Bonereapers Heroes within this unit's combat range. However, each time you make an unmodified ward roll of 1 for a friendly Ossiarch Bonereapers Hero within this unit's combat range, allocate 1 damage point to this unit after the damage sequence for that Hero has been resolved (ward rolls cannot be made for those damage points)."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

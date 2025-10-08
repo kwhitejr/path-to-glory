@@ -1,0 +1,70 @@
+{
+  "id": "ushoran",
+  "name": "Ushoran",
+  "subtitle": "Mortarch of Delusion",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "10\"",
+    "health": 16,
+    "save": "4+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Sceptre of the Carrion King",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": "D3+3"
+    },
+    {
+      "name": "Monstrous Talons",
+      "attacks": 8,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Monstrous Talons is 6."
+    },
+    {
+      "name": "The Carrion King",
+      "timing": "Passive",
+      "description": "News of Ushoran's mighty deeds spreads like wildfire through the Flesh-eater ranks.",
+      "effect": "While this unit has 6 noble deeds points, the effect of the 'Feeding Frenzy' ability applies to friendly Flesh-eater Courts units while they are wholly within 24\" of this unit instead of 12\"."
+    },
+    {
+      "name": "Shroudcage Fragment",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "Madness pulses from the gem in Ushoran's crown, overwhelming those who draw too close.",
+      "declare": "Pick up to 3 enemy units in combat with this unit to be the targets.",
+      "effect": "Roll a dice for each target. If the roll exceeds the target's Control characteristic, the target has Strike-last for the rest of the turn.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Glimpse of Delusion",
+      "timing": "Your Hero Phase",
+      "description": "Ushoran pulls an enemy into his delusion, causing them to see friends as vicious monsters.",
+      "declare": "Pick a visible enemy model within 18\" of this unit to be the target, pick another enemy unit within the target's combat range to be the victim, then make a casting roll of 2D6.",
+      "effect": "Pick 1 of the target's melee weapons. Immediately resolve combat attacks made with that weapon against the victim.",
+      "keywords": ["Spell"]
+    },
+    {
+      "name": "Epicentre of Delusion",
+      "timing": "Your Hero Phase",
+      "effect": "Pick 1 of the following effects to apply until the start of your next turn:\nThe Royal Hunt: Add 1 to wound rolls for attacks made by friendly Flesh-eater Courts units that target a Monster.\nCrusading Army: Add 1 to run rolls and charge rolls for friendly Flesh-eater Courts units.\nDefenders of the Realm: Add 1 to save rolls for friendly Flesh-eater Courts units while they are contesting an objective you control.\nThe Grand Tournament: Add 1 to hit rolls for attacks made by other friendly Flesh-eater Courts Heroes if they charged in the same turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (2)", "Ward (5+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

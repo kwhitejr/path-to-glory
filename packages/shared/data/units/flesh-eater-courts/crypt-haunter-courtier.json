@@ -1,0 +1,41 @@
+{
+  "id": "crypt-haunter-courtier",
+  "name": "Crypt Haunter Courtier",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "7\"",
+    "health": 6,
+    "save": "5+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Massive Bone Club and Rancid Talons",
+      "attacks": 5,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 3
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Noble Blood",
+      "timing": "Your Hero Phase",
+      "description": "The blood of their liege grants these Flesh-eaters a supernatural regenerative capacity.",
+      "effect": "Heal (D3) this unit."
+    },
+    {
+      "name": "Knightly Exemplar",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "Witnessing a Crypt Haunter Courtier's frenzied, blood-spraying assault sends the warriors in their pack into a murderous frenzy.",
+      "effect": "Pick a friendly Crypt Horrors unit that has not used a Fight ability this turn and is within this unit's combat range to be the target. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target's attacks for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Courtier"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

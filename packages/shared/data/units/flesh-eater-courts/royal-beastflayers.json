@@ -1,0 +1,43 @@
+{
+  "id": "royal-beastflayers",
+  "name": "Royal Beastflayers",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "6\"",
+    "health": 1,
+    "save": "6+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Beastflayer Weapons",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Anti-Beast (+1 Rend), Anti-Monster (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Hunter's Instincts",
+      "timing": "Passive",
+      "description": "Royal Beastflayers believe themselves to be the finest monster-slayers in all the land. Certainly, they possess a knack for hindering and ensnaring their prey before moving in to make the kill.",
+      "effect": "Enemy Monsters cannot use Rampage abilities while they are in combat with this unit. In addition, subtract 1 from the Damage characteristic of melee weapons used by enemy Monsters and Beast units while they are in combat with this unit."
+    },
+    {
+      "name": "Royal Flaymaster",
+      "timing": "Any Combat Phase",
+      "description": "The Royal Flaymaster skewers enemies using their hunting polearm as the Offal Hounds pounce to finish off their prey.",
+      "declare": "Pick an enemy unit in combat with this unit to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Add 1 to the amount of mortal damage inflicted, if any, if the target is a Monster or Beast unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion (1/10)", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Serfs"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

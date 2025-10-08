@@ -1,0 +1,70 @@
+{
+  "id": "royal-terrorgheist",
+  "name": "Royal Terrorgheist",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "12\"",
+    "health": 14,
+    "save": "4+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Death Shriek",
+      "range": "10\"",
+      "attacks": 1,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": "D6",
+      "ability": "Shoot in Combat, Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Fanged Maw",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": "D6",
+      "ability": "Companion"
+    },
+    {
+      "name": "Skeletal Talons",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Skeletal Talons is 4."
+    },
+    {
+      "name": "Gaping Maw",
+      "timing": "Passive",
+      "description": "This horrific creature bites a great chunk out of its prey – or even swallows it whole.",
+      "effect": "Each time an attack made with this unit's Fanged Maw scores a critical hit, that attack inflicts 6 mortal damage on the target unit and the attack sequence ends."
+    },
+    {
+      "name": "Death Shriek",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "The terrifying shriek of a Terrorgheist is enough to stop a warrior's heart.",
+      "declare": "Pick an enemy Infantry unit in combat with this unit to be the target.",
+      "effect": "Roll a dice for each model in the target unit. For each 6, inflict 1 mortal damage on the target. If 3 or more damage points are allocated to the target by this ability, subtract 1 from hit rolls for the target's attacks for the rest of the turn.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Monster", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

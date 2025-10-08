@@ -1,0 +1,47 @@
+{
+  "id": "mortisan-soulmason",
+  "name": "Mortisan Soulmason",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Soulmason's Staff",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Crit (2 Hits)"
+    },
+    {
+      "name": "Mortek Throne's Ossified Claws",
+      "attacks": 2,
+      "hit": "5+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Soul-Guide",
+      "timing": "Your Hero Phase",
+      "description": "The Soulmason empowers and focuses the souls that animate a nearby regiment of Ossiarch warriors.",
+      "declare": "Pick a visible friendly Ossiarch Bonereapers unit wholly within 12\" of the caster to be the target, then make a casting roll of 2D6.",
+      "effect": "The target has Strike-first for the rest of the turn.",
+      "keywords": ["Spell"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Wizard (2)", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers", "Mortisan"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

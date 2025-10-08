@@ -1,0 +1,47 @@
+{
+  "id": "crypt-infernal-courtier",
+  "name": "Crypt Infernal Courtier",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "12\"",
+    "health": 6,
+    "save": "5+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Piercing Death Screech",
+      "range": "10\"",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": "D3",
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Skewering Claws",
+      "attacks": 5,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Mind-Shattering Cacophony",
+      "timing": "Passive",
+      "description": "When a Crypt Infernal Courtier directs their retinue to focus their death screams on an enemy, the resulting discordant soundwaves can fell the mightiest of foes.",
+      "effect": "If any enemy models were slain by this unit's Piercing Death Screech this turn, for the rest of the turn, add 1 to the Damage characteristic of ranged weapons used by friendly Crypt Flayers units while they are wholly within 12\" of this unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Courtier"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

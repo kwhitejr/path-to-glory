@@ -1,0 +1,42 @@
+{
+  "id": "morghast-harbingers",
+  "name": "Morghast Harbingers",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "10\"",
+    "health": 6,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Spirit Weapons",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Anti-Monster (+1 Rend), Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Heralds of Nagash",
+      "timing": "Once Per Turn (Army), Reaction: You declared a Relentless Discipline ability",
+      "description": "Morghast Harbingers are direct embodiments of Nagash's will and as such require no commander to function with deadly efficiency.",
+      "effect": "This unit is affected by that Relentless Discipline ability as if it were wholly within range of the friendly Hero picked to use it."
+    },
+    {
+      "name": "Harbingers of Death",
+      "timing": "Passive",
+      "description": "Morghast Harbingers hurl themselves at the foe with unbridled ferocity.",
+      "effect": "Add 1 to the number of dice rolled when making charge rolls for this unit, to a maximum of 3."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cadaverous-barricade",
+  "name": "Cadaverous Barricade",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "-",
+    "health": 10,
+    "save": "4+",
+    "control": 0
+  },
+  "meleeWeapons": [],
+  "abilities": [
+    {
+      "name": "Grasping Hands",
+      "timing": "Passive",
+      "description": "The animated corpses trapped in a Cadaverous Barricade grab at any living creature that comes too close.",
+      "effect": "Enemy units cannot use Run or Retreat abilities while they are within this Manifestation's combat range. In addition, if an enemy unit is picked to use a Move ability while it is within this Manifestation's combat range, halve that unit's Move characteristic (rounding up) for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Ward (6+)", "Banishment (7+)"],
+    "faction": ["Death", "Flesh-eater Courts"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

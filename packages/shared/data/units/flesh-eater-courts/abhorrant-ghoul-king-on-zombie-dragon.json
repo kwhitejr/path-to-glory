@@ -1,0 +1,78 @@
+{
+  "id": "abhorrant-ghoul-king-on-royal-zombie-dragon",
+  "name": "Abhorrant Ghoul King on Royal Zombie Dragon",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "12\"",
+    "health": 16,
+    "save": "4+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Pestilential Breath",
+      "range": "10\"",
+      "attacks": "D6",
+      "hit": "2+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 3,
+      "ability": "Shoot in Combat, Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Gory Talons and Fangs",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    },
+    {
+      "name": "Draconic Maw",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Companion"
+    },
+    {
+      "name": "Draconic Claws",
+      "attacks": 7,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Draconic Claws is 5."
+    },
+    {
+      "name": "Draconic Terror",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "To behold such a majestic beast as a dragon in the grip of undeath evokes awe and abject terror in equal measure.",
+      "declare": "Pick an enemy unit in combat with this unit to be the target.",
+      "effect": "Roll a dice. If the roll exceeds the target's Control characteristic, the target cannot use commands for the rest of the turn.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Monstrous Hunger",
+      "timing": "Passive",
+      "description": "The Ghoul King imposes his will upon the larger creatures of his court's menagerie, awakening a glimmer of predatory hunger in the long-dead beasts that sees them close upon their prey with greater swiftness.",
+      "effect": "While they are wholly within 12\" of this unit, friendly non-Hero Flesh-eater Courts Monsters can use Charge abilities even if they used a Run ability in the same turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Monster", "Wizard (1)", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

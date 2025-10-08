@@ -1,0 +1,78 @@
+{
+  "id": "abhorrant-ghoul-king-on-royal-terrorgheist",
+  "name": "Abhorrant Ghoul King on Royal Terrorgheist",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "12\"",
+    "health": 16,
+    "save": "4+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Death Shriek",
+      "range": "10\"",
+      "attacks": 1,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": "D6",
+      "ability": "Shoot in Combat, Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Gory Talons and Fangs",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    },
+    {
+      "name": "Terrorgheist's Fanged Maw",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": "D6",
+      "ability": "Companion"
+    },
+    {
+      "name": "Terrorgheist's Skeletal Talons",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Terrorgheist's Skeletal Talons is 4."
+    },
+    {
+      "name": "Gaping Maw",
+      "timing": "Passive",
+      "description": "This horrific creature bites a great chunk out of its prey – or even swallows it whole.",
+      "effect": "Each time an attack made with this unit's Terrorgheist's Fanged Maw scores a critical hit, that attack inflicts 6 mortal damage on the target unit and the attack sequence ends."
+    },
+    {
+      "name": "Ferocious Hunger",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "Assailed by visions of the glorious feast to come, the abhorrant's steed is filled with a hunger-driven impetus.",
+      "declare": "Pick an enemy Hero in combat with this unit to be the target.",
+      "effect": "Roll a dice. On a 3+, attacks made with this unit's Terrorgheist's Fanged Maw that target that enemy unit score critical hits on unmodified hit rolls of 5+ for the rest of the turn.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Monster", "Wizard (1)", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

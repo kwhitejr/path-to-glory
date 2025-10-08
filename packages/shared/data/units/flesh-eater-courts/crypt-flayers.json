@@ -1,0 +1,49 @@
+{
+  "id": "crypt-flayers",
+  "name": "Crypt Flayers",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "12\"",
+    "health": 4,
+    "save": "5+",
+    "control": 1
+  },
+  "rangedWeapons": [
+    {
+      "name": "Death Scream",
+      "range": "10\"",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 1,
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Piercing Talons",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Escort Courtier",
+      "timing": "Once Per Turn (Army), Your Movement Phase",
+      "description": "There are many ghoulish legends of Crypt Flayers winging down to lift noble heroes into the sky, either plucking them from danger or carrying them into the fray.",
+      "declare": "If this unit is not in combat, pick a friendly Flesh-eater Courts Infantry Hero that does not have Fly and is within this unit's combat range to be the target.",
+      "effect": "Remove the target from the battlefield. Then, this unit can move a distance up to its Move characteristic. It cannot end that move in combat. Then, set up the target within this unit's combat range and more than 3\" from all enemy units.",
+      "keywords": ["Core", "Move"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Fly", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Knights"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

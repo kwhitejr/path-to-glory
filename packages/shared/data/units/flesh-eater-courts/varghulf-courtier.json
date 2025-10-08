@@ -1,0 +1,51 @@
+{
+  "id": "varghulf-courtier",
+  "name": "Varghulf Courtier",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "10\"",
+    "health": 8,
+    "save": "5+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Immense Claws",
+      "attacks": 7,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Infantry (+1 Rend)"
+    },
+    {
+      "name": "Dagger-like Fangs",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Anti-Infantry (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bounding Strides",
+      "timing": "Passive",
+      "description": "Varghulfs leap and bound across the battlefield with uncanny bestial agility.",
+      "effect": "This unit can pass across terrain features as if it had Fly."
+    },
+    {
+      "name": "Victory Feast",
+      "timing": "End of Any Turn",
+      "description": "A Varghulf rampages through the enemy's ranks at will, its wounds sealing with unholy rapidity as it guzzles the flesh of the savaged foe.",
+      "effect": "If any models were slain by this unit this turn:\n• Heal (D6) this unit.\n• This unit can immediately use the 'Retreat' ability as if it were your movement phase without any mortal damage being inflicted on it."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Courtier"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

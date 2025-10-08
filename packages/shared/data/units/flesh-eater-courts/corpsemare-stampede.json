@@ -1,0 +1,36 @@
+{
+  "id": "corpsemare-stampede",
+  "name": "Corpsemare Stampede",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "12\"",
+    "health": 10,
+    "save": "5+",
+    "control": 0
+  },
+  "meleeWeapons": [
+    {
+      "name": "Corpsemare Trample",
+      "attacks": 10,
+      "hit": "5+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Trampled Underfoot",
+      "timing": "Your Movement Phase",
+      "description": "As a Corpsemare Stampede charges across the battlefield, it tramples over anything that gets in its way.",
+      "effect": "This Manifestation can move a distance up to its Move characteristic. This Manifestation can pass through models and the combat ranges of enemy units, but it cannot end that move in combat. Then, pick up to 3 enemy units that this Manifestation passed across during that move to be the targets. Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll.",
+      "keywords": ["Core", "Move"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Fly", "Ward (6+)", "Banishment (7+)"],
+    "faction": ["Death", "Flesh-eater Courts"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

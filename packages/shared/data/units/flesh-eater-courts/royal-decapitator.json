@@ -1,0 +1,42 @@
+{
+  "id": "royal-decapitator",
+  "name": "Royal Decapitator",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "6\"",
+    "health": 5,
+    "save": "5+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Headsman's Axe",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 3
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Executioner's Entourage",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "Though Royal Decapitators are often shunned by their fellow ghouls, when the blood starts flying, these sinister figures can attract quite the following.",
+      "effect": "Pick a friendly Serfs unit that has not used a Fight ability this turn and is within this unit's combat range to be the target. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved."
+    },
+    {
+      "name": "Off With Their Head!",
+      "timing": "End of Any Turn",
+      "description": "A Royal Decapitator's axe hungers to cleave through necks in one fell swing.",
+      "declare": "Pick an enemy Infantry Hero that had any damage points allocated to it this turn by this unit's attacks to be the target.",
+      "effect": "Roll a dice. On a 5+, the target is automatically destroyed."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Courtier"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

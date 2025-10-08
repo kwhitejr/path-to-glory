@@ -1,0 +1,36 @@
+{
+  "id": "grand-justice-gormayne",
+  "name": "Grand Justice Gormayne",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "6\"",
+    "health": 5,
+    "save": "5+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Gore-streaked Gavel",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": "D3"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Delusion of Justice Served",
+      "timing": "Once Per Turn (Army), Your Hero Phase",
+      "description": "Should an enemy transgress Ushoran's laws, Gormayne's powerful oratory is quick to condemn them.",
+      "declare": "Pick a visible enemy unit to be the target.",
+      "effect": "Roll a dice. On a 3+, this unit gains 1 noble deeds point. Then, pick 1 of the following effects to apply to the target until the start of your next turn:\nPetty Transgression: Add 1 to wound rolls for combat attacks that target that unit.\nDishonourable Conduct in Battle: Friendly non-Monster Flesh-eater Courts units can use Charge abilities even if they used a Run ability in the same turn, but if they do so, they must end the charge move within ½\" of the target.\nGrievous Insult to the Court: While the target is in combat with a friendly Abhorrant, add 1 to hit rolls for attacks made by friendly Flesh-eater Courts units that target that unit.\nRegicide: If the target destroyed a friendly Abhorrant this battle, add 1 to the Damage characteristic of melee weapons used by friendly Flesh-eater Courts units that target that unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

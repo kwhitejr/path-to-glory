@@ -1,0 +1,57 @@
+{
+  "id": "vokmortian",
+  "name": "Vokmortian",
+  "subtitle": "Master of the Bone-Tithe",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "5\"",
+    "health": 5,
+    "save": "4+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Gaze of Death",
+      "range": "12\"",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Staff of Retribution",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Voice of Nagash",
+      "timing": "Once Per Battle, Any Hero Phase",
+      "description": "The sheer force of Vokmortian's oratory fills even the boldest commanders with doubt.",
+      "declare": "Pick a visible enemy unit within 12\" of this unit to be the target.",
+      "effect": "For the rest of the turn, non-Fight Core abilities cost 1 command point for the target to use. Those abilities do not count as commands."
+    },
+    {
+      "name": "Mortal Contract",
+      "timing": "Your Hero Phase",
+      "description": "Vokmortian binds an enemy to a deadly mystical contract.",
+      "declare": "Pick a visible enemy unit within 18\" of this unit to be bound, pick a visible friendly Ossiarch Bonereapers unit wholly within 18\" of this unit to be bound, then make a casting roll of 2D6.",
+      "effect": "Until the start of your next turn, each time the bound friendly unit is picked to be the target of an ability used by the bound enemy unit, roll a D3. On a 2+, inflict an amount of mortal damage on the bound enemy unit equal to the roll as a reaction. If the bound enemy unit is destroyed by this ability, do not resolve the effect of the enemy ability.",
+      "keywords": ["Spell"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Wizard (2)", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

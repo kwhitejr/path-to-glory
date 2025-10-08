@@ -1,0 +1,58 @@
+{
+  "id": "arch-kavalos-zandtos",
+  "name": "Arch-Kavalos Zandtos",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "10\"",
+    "health": 8,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "The Dark Lance",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Charge (+1 Damage), Crit (2 Hits)"
+    },
+    {
+      "name": "Kavalos Steed's Hooves, Teeth and Barbed Tails",
+      "attacks": 4,
+      "hit": "5+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Spear of the Kavaloi",
+      "timing": "Passive",
+      "description": "A Liege-Kavalos on the charge can punch straight through the enemy line.",
+      "effect": "When this unit uses a Charge ability, it can pass through models in enemy Infantry units as if it had Fly."
+    },
+    {
+      "name": "Unstoppable Charge",
+      "timing": "Any Charge Phase",
+      "description": "When a Kavalos steed charges the foe, it can use its size and weight to smash enemy footsoldiers to the ground and crush them beneath its nadirite-shod hooves.",
+      "declare": "If this unit charged this phase, pick an enemy Infantry unit that it passed across to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+    },
+    {
+      "name": "Still Their Breath!",
+      "timing": "Once Per Battle, Any Combat Phase",
+      "description": "Such is Zandtos's disdain for those who trespass in Shyish that those who fight beside him come to share it.",
+      "effect": "If this unit is in combat, for the rest of the turn, add 1 to the Attacks characteristic of melee weapons used by friendly non-Hero Ossiarch Bonereapers units while they are wholly within 12\" of this unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Cavalry", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

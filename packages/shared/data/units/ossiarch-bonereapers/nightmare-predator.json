@@ -1,0 +1,35 @@
+{
+  "id": "nightmare-predator",
+  "name": "Nightmare Predator",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "8\"",
+    "health": 7,
+    "save": "5+",
+    "control": 0
+  },
+  "meleeWeapons": [
+    {
+      "name": "Lacerating Claws",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Death Incarnate",
+      "timing": "End of Any Turn",
+      "description": "Even when destroyed, the nightmare predator reforms to continue tormenting its enemies.",
+      "effect": "If this Manifestation was destroyed or banished this turn and the unit that summoned it is on the battlefield, roll a dice. On a 4+, set up this Manifestation again, wholly within 12\" of the unit that summoned it and more than 9\" from all enemy units."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Fly", "Ward (6+)", "Banishment (7+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

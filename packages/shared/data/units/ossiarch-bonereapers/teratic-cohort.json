@@ -1,0 +1,54 @@
+{
+  "id": "teratic-cohort",
+  "name": "Teratic Cohort",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "7\"",
+    "health": 2,
+    "save": "4+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Teratic Weapons",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Crit (2 Hits)"
+    },
+    {
+      "name": "Claws and Talons",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Predator's Cunning",
+      "timing": "Deployment Phase",
+      "description": "Fashioned from the soulstuff of hunting beasts, Teratic Cohorts have perfected the art of the ambush.",
+      "declare": "Pick this unit if it has not been deployed.",
+      "effect": "Set up this unit in reserve outflanking the enemy. It has now been deployed.",
+      "keywords": ["Deploy"]
+    },
+    {
+      "name": "Hunters Unleashed",
+      "timing": "Your Movement Phase",
+      "description": "Unable to hold back any longer, these feral constructs rush forward to engage their prey.",
+      "declare": "Pick this unit if it is outflanking the enemy.",
+      "effect": "Set up this unit anywhere on the battlefield more than 9\" from all enemy units."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion (1/8)", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mortek-guard",
+  "name": "Mortek Guard",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "4\"",
+    "health": 1,
+    "save": "4+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Nadirite Weapons",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Anti-charge (+1 Rend), Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Shieldwall",
+      "timing": "Passive",
+      "description": "At their leader's command, the regiment locks their shields to form an impenetrable barrier.",
+      "effect": "Ignore all modifiers to save rolls for this unit (positive and negative) for the rest of the turn if this unit did not use a Move ability in the same turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Standard Bearer (1/10)", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

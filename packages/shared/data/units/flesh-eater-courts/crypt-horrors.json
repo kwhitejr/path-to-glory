@@ -1,0 +1,42 @@
+{
+  "id": "crypt-horrors",
+  "name": "Crypt Horrors",
+  "factionId": "flesh-eater-courts",
+  "characteristics": {
+    "move": "7\"",
+    "health": 4,
+    "save": "5+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Club and Septic Talons",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 2,
+      "ability": "Crit (Auto-wound)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Royal Approval",
+      "timing": "Passive",
+      "description": "These mordants will always do their utmost to attract the attention of their sovereign.",
+      "effect": "Add 1 to the Rend characteristic of this unit's melee weapons while it is wholly within 12\" of any friendly Courtiers or Abhorrants."
+    },
+    {
+      "name": "Noble Blood",
+      "timing": "Your Hero Phase",
+      "description": "The blood of their liege grants these Flesh-eaters a supernatural regenerative capacity.",
+      "effect": "Heal (D3) this unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Ward (6+)"],
+    "faction": ["Death", "Flesh-eater Courts", "Knights"]
+  },
+  "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

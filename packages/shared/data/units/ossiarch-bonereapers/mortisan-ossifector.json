@@ -1,0 +1,37 @@
+{
+  "id": "mortisan-ossifector",
+  "name": "Mortisan Ossifector",
+  "factionId": "ossiarch-bonereapers",
+  "characteristics": {
+    "move": "5\"",
+    "health": 5,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Ossified Talons",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 2,
+      "ability": "Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Refined Creations",
+      "timing": "Once Per Turn (Army), Your Hero Phase",
+      "description": "Ossifectors are always looking to improve upon their work, wielding necrotic sorcery to augment their creations in battle.",
+      "declare": "Pick a friendly Gothizzar Harvester, Morghast Archai or Morghast Harbingers unit wholly within 12\" of this unit to be the target.",
+      "effect": "Roll a dice. On a 3+, add 1 to the Rend characteristic of the target's melee weapons until the start of your next turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Wizard (1)", "Infantry", "Ward (6+)"],
+    "faction": ["Death", "Ossiarch Bonereapers", "Mortisan"]
+  },
+  "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}
