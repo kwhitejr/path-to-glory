@@ -1,0 +1,63 @@
+{
+  "id": "vanguard-palladors-with-shock-handaxes",
+  "name": "Vanguard-Palladors with Shock Handaxes",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "14\"",
+    "health": 5,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Boltstorm Pistol",
+      "range": "10\"",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Shock Handaxe",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Charge (+1 Damage)"
+    },
+    {
+      "name": "Gryph-charger's Razor Beak",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Vanguard Chamber",
+      "timing": "Passive",
+      "description": "Through swiftness, guile and more than a hint of savagery, the warriors of the Vanguard chamber are able to outfight forces many times their own limited numbers.",
+      "effect": "This unit can use Shoot and/or Charge abilities even if it used a Run or Retreat ability in the same turn."
+    },
+    {
+      "name": "Shocking Strikes",
+      "timing": "Passive",
+      "description": "Enemies struck with shock handaxes reel in pain as electricity courses through their veins.",
+      "effect": "If any damage points are allocated to an enemy unit by attacks made with this unit's Shock Handaxes, subtract 1 from wound rolls for that enemy unit's combat attacks for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Cavalry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber", "Vanguard-Palladors"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

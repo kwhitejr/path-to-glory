@@ -1,0 +1,37 @@
+{
+  "id": "knight-vexillor",
+  "name": "Knight-Vexillor",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "3+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Sigmarite Warblade",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "The Banner of the Reforged",
+      "timing": "Any Hero Phase",
+      "description": "When the Knight-Vexillor plants their banner, the fortifying energy that emanates from it hardens flesh and seals sundered armour, empowering the faithful with new resolve.",
+      "declare": "Pick D3 friendly Stormcast Eternals units wholly within 12\" of this unit to be the targets.",
+      "effect": "Add 3 to each target's control score for the rest of the turn. In addition, Heal (D3) each target."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

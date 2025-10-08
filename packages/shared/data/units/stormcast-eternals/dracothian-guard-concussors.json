@@ -1,0 +1,64 @@
+{
+  "id": "dracothian-guard-concussors",
+  "name": "Dracothian Guard Concussors",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "10\"",
+    "health": 5,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Stormblast",
+      "range": "10\"",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": "D3",
+      "ability": "Crit (2 Hits), Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Lightning Hammer",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Mortal)"
+    },
+    {
+      "name": "Dracoth's Claws and Fangs",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Extremis Chamber",
+      "timing": "Passive",
+      "description": "Most scarce of Sigmar's forces are the Extremis chambers, with each Stormcast mounted on a living weapon. To draw near these warriors is to risk being scoured by lightning or flame.",
+      "effect": "Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+    },
+    {
+      "name": "Thunderstruck",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "When a lightning hammer finds its mark, enemies are paralysed by crackling energy and a flash of blinding light.",
+      "declare": "Pick an enemy unit in combat with this unit to be the target.",
+      "effect": "Roll a dice. On a 3+, the target cannot use commands for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Cavalry"],
+    "faction": ["Order", "Stormcast Eternals", "Extremis Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

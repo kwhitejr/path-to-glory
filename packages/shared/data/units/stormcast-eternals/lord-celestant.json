@@ -1,0 +1,36 @@
+{
+  "id": "lord-celestant",
+  "name": "Lord-Celestant",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Weapons of Legend",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Auto-wound)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Furious Retribution",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "Lord-Celestants lead their brethren in assaults upon the enemy lines, breaking the foe beneath their immortal fury.",
+      "effect": "Pick a friendly non-Hero Warrior Chamber Infantry unit that has not used a Fight ability this turn and is within this unit's combat range to be the target. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved. If it is picked to do so, add 1 to wound rolls for the target's attacks for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

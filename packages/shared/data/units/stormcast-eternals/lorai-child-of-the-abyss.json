@@ -1,0 +1,43 @@
+{
+  "id": "lorai-child-of-the-abyss",
+  "name": "Lorai, Child of the Abyss",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "6\"",
+    "health": 5,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Abyssal Touch",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "4+",
+      "rend": 0,
+      "damage": "D3",
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Aquatic Illusions",
+      "timing": "Passive",
+      "description": "Lorai conjures liquid figures out of the ethersea that mystify and confuse nearby enemies.",
+      "effect": "Subtract 1 from hit rolls for attacks that target this unit."
+    },
+    {
+      "name": "Nebulous Sea-fog",
+      "timing": "Your Hero Phase",
+      "description": "A hazy mist coalesces into a thick, obscuring fog around Lorai.",
+      "effect": "Until the start of your next turn, while a friendly The Blacktalons unit is wholly within 6\" of this unit, if the unmodified hit roll for a shooting attack that targets that unit is 1-5, the attack fails and the attack sequence ends.",
+      "keywords": ["Spell"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Wizard (1)", "Infantry", "Ward (5+)"],
+    "faction": ["Order", "Idoneth Deepkin", "The Blacktalons"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

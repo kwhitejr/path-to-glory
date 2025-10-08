@@ -1,0 +1,63 @@
+{
+  "id": "dracothian-guard-desolators",
+  "name": "Dracothian Guard Desolators",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "10\"",
+    "health": 5,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Stormblast",
+      "range": "10\"",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": "D3",
+      "ability": "Crit (2 Hits), Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Thunderaxe",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Infantry (+1 Rend)"
+    },
+    {
+      "name": "Dracoth's Claws and Fangs",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Extremis Chamber",
+      "timing": "Passive",
+      "description": "Most scarce of Sigmar's forces are the Extremis chambers, with each Stormcast mounted on a living weapon. To draw near these warriors is to risk being scoured by lightning or flame.",
+      "effect": "Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+    },
+    {
+      "name": "Cleaving Blow",
+      "timing": "Passive",
+      "description": "A single swing of a thunderaxe can carve through several foes.",
+      "effect": "Add 1 to the Damage characteristic of this unit's Thunderaxes if the target unit has 10 or more models."
+    }
+  ],
+  "keywords": {
+    "unit": ["Cavalry"],
+    "faction": ["Order", "Stormcast Eternals", "Extremis Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

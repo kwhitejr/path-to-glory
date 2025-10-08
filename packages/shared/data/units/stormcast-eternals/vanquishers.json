@@ -1,0 +1,36 @@
+{
+  "id": "vanquishers",
+  "name": "Vanquishers",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Celestial Greatsword",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Anti-Infantry (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Lightning Strikes",
+      "timing": "Passive",
+      "description": "Vanquishers utilise a stance that allows them to make a flurry of rapid strikes against a numerous foe.",
+      "effect": "Add 1 to the Damage characteristic of this unit's Celestial Greatswords for attacks that target an enemy unit that has 5 or more models."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Musician (1/5)", "Standard Bearer (1/5)"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

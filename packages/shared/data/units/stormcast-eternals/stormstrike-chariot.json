@@ -1,0 +1,73 @@
+{
+  "id": "stormstrike-chariot",
+  "name": "Stormstrike Chariot",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "10\"",
+    "health": 10,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Great Stormbow",
+      "range": "18\"",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Anti-Infantry (+1 Rend), Crit (2 Hits)"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Stormstrike Axe",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Charge (+1 Damage)"
+    },
+    {
+      "name": "Tempestuous Spear",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 1,
+      "ability": null
+    },
+    {
+      "name": "Gryph-chargers' Razor Beaks",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Azyr Unleashed",
+      "timing": "Any Charge Phase",
+      "description": "The impact of a Stormstrike Chariot on the charge can obliterate even the most durable of shieldwalls.",
+      "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+    },
+    {
+      "name": "Celestial Blaze",
+      "timing": "Passive",
+      "description": "The Stormstrike Chariot smashes through lesser foes in a blaze of celestial power.",
+      "effect": "When this unit uses the 'Power Through' command, inflict an additional D3 mortal damage on the target and add D6\" to the distance this unit can move as part of that ability."
+    }
+  ],
+  "keywords": {
+    "unit": ["War Machine"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

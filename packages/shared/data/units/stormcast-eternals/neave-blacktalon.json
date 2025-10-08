@@ -1,0 +1,62 @@
+{
+  "id": "neave-blacktalon",
+  "name": "Neave Blacktalon",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "7\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Relic Boltstorm Pistol",
+      "range": "10\"",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Whirlwind Axes",
+      "attacks": 7,
+      "hit": "2+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Justice from Azyr",
+      "timing": "Passive",
+      "description": "When the chance to eliminate her mark presents itself, Neave is merciless in bringing them to justice.",
+      "effect": "Add 1 to the Damage characteristic of this unit's Whirlwind Axes for attacks that target Heroes."
+    },
+    {
+      "name": "Vanguard Chamber",
+      "timing": "Passive",
+      "description": "Through swiftness, guile and more than a hint of savagery, the warriors of the Vanguard chamber are able to outfight forces many times their own limited numbers.",
+      "effect": "This unit can use Shoot and/or Charge abilities even if it used a Run or Retreat ability in the same turn."
+    },
+    {
+      "name": "Windrider",
+      "timing": "Your Combat Phase",
+      "description": "Neave Blacktalon has a natural talent at translocating in a blur of lightning to ride the winds aetheric.",
+      "declare": "If this unit is in combat or charged this turn, this unit can make a pile-in move. Then, if this unit is in combat, you must pick 1 or more enemy units to be the target(s) of this unit's attacks.",
+      "effect": "Resolve combat attacks against the target unit(s). Then, roll a dice. On a 3+, remove this unit from the battlefield and set it up again on the battlefield more than 3\" from all enemy units and wholly within the combat range of a friendly The Blacktalons unit that is not in combat.",
+      "keywords": ["Core", "Attack", "Fight"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber", "The Blacktalons"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

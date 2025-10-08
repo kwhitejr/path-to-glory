@@ -1,0 +1,44 @@
+{
+  "id": "annihilators-with-meteoric-grandhammers",
+  "name": "Annihilators with Meteoric Grandhammers",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "4\"",
+    "health": 3,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Meteoric Grandhammer",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Force of a Falling Star",
+      "timing": "Any Charge Phase",
+      "description": "As Annihilators build up momentum, their charge carries the same force as the impact of their arrival.",
+      "declare": "If this unit charged this phase and the unmodified charge roll was 8+, pick an enemy unit within 1\" of it to be the target.",
+      "effect": "The target has Strike-last for the rest of the turn."
+    },
+    {
+      "name": "Blazing Impact",
+      "timing": "Your Movement Phase",
+      "description": "Annihilators arrive upon the field with devastating force, twin-tailed trails streaking behind them as an earth-shattering shock-wave blasts apart the foes of Sigmar.",
+      "declare": "If this unit was set up this turn using the 'Scions of the Storm' ability, pick up to 3 enemy units within 10\" of it to be the targets.",
+      "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

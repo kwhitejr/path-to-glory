@@ -1,0 +1,42 @@
+{
+  "id": "praetors",
+  "name": "Praetors",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 3,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Soulguard's Halberd",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Soul-bonded",
+      "timing": "Deployment Phase",
+      "description": "Praetors are exemplary bodyguards, linked to their assigned wards at an arcane, spiritual level.",
+      "effect": "Pick a friendly Stormcast Eternals Hero to be this unit's soul-bonded charge for the rest of the battle. This unit can use this ability while it is in reserve."
+    },
+    {
+      "name": "Soul-forged Guardians",
+      "timing": "Passive",
+      "description": "Praetors will protect their soul-bonded charges with every ounce of their being.",
+      "effect": "While this unit's soul-bonded charge is within this unit's combat range, both this unit and that soul-bonded charge have Ward (5+)."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

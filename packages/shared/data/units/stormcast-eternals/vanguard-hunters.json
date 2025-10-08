@@ -1,0 +1,61 @@
+{
+  "id": "vanguard-hunters",
+  "name": "Vanguard-Hunters",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "rangedWeapons": [
+    {
+      "name": "Boltstorm Pistol",
+      "range": "10\"",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Stormwrought Weapon",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Vanguard Chamber",
+      "timing": "Passive",
+      "description": "Through swiftness, guile and more than a hint of savagery, the warriors of the Vanguard chamber are able to outfight forces many times their own limited numbers.",
+      "effect": "This unit can use Shoot and/or Charge abilities even if it used a Run or Retreat ability in the same turn."
+    },
+    {
+      "name": "Astral Compass",
+      "timing": "Once Per Battle (Army), Deployment Phase",
+      "description": "The Vanguard-Hunters use their astral compass to track their enemies across the Mortal Realms.",
+      "declare": "Pick an enemy unit to be the target.",
+      "effect": "The target has the Hunted keyword for the rest of the battle."
+    },
+    {
+      "name": "Star-marked",
+      "timing": "Passive",
+      "description": "Those tracked by the Vanguard-Hunters can be sensed from great distances.",
+      "effect": "Add 2\" to this unit's Move characteristic while a Hunted enemy unit is on the battlefield. In addition, add 1 to hit rolls for this unit's attacks that target a Hunted enemy unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,79 @@
+{
+  "id": "krondys-son-of-dracothion",
+  "name": "Krondys, Son of Dracothion",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 20,
+    "save": "3+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Blazing Tempest",
+      "range": "12\"",
+      "attacks": 1,
+      "hit": "2+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": "D3+3",
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Apex Maw",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 4,
+      "ability": "Anti-Infantry (+1 Rend)"
+    },
+    {
+      "name": "Drake-lord's Talons",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "description": null,
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Apex Maw is 2."
+    },
+    {
+      "name": "Regalia Fulmentarus",
+      "timing": "Passive",
+      "description": "A symbol of the Draconith–Stormcast alliance, this mastersmithed mantle enhances Krondys's arcane strength to even greater heights.",
+      "effect": "Add 2 to casting rolls for this unit."
+    },
+    {
+      "name": "Soul-shaking Roar",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "Defiant in the face of any foe, Krondys issues an ear-shattering roar at those who dare face him.",
+      "declare": "Pick an enemy unit in combat with this unit to be the target.",
+      "effect": "Roll a dice. On a 3+, the target cannot use commands for the rest of the turn.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Atavistic Tempest",
+      "timing": "Your Hero Phase",
+      "description": "Wielding the power of Azyr alongside the lost magics of the Draconith empire, Krondys barrages the enemy with elemental storms.",
+      "declare": "Pick a visible enemy unit within 18\" of the caster to be the target, then make a casting roll of 2D6.",
+      "effect": "Pick 1 of the following effects to apply to the target until the start of your next turn:\n\nBlinding Gales: Subtract 1 from hit rolls for the target's attacks.\n\nMeteor-hail: Subtract 1 from the Rend characteristic of the target's weapons.\n\nFlash-freezing Blizzard: Subtract 1 from save rolls for the target.",
+      "keywords": ["Spell"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (2)", "Fly"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

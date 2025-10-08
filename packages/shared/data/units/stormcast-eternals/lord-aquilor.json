@@ -1,0 +1,64 @@
+{
+  "id": "lord-aquilor",
+  "name": "Lord-Aquilor",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "14\"",
+    "health": 8,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Heavy Boltstorm Pistol",
+      "range": "12\"",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Starbound Blade and Shock Handaxe",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": null
+    },
+    {
+      "name": "Gryph-charger's Razor Beak",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Vanguard Chamber",
+      "timing": "Passive",
+      "description": "Through swiftness, guile and more than a hint of savagery, the warriors of the Vanguard chamber are able to outfight forces many times their own limited numbers.",
+      "effect": "This unit can use Shoot and/or Charge abilities even if it used a Run or Retreat ability in the same turn."
+    },
+    {
+      "name": "Ride the Winds Aetheric",
+      "timing": "Your Movement Phase",
+      "description": "Gryph-chargers can move faster than the eye can follow along the winds aetheric.",
+      "declare": "If this unit is not in combat, you can pick up to 2 friendly Vanguard-Palladors units that are not in combat to be the targets.",
+      "effect": "Remove this unit and the targets (if any) from the battlefield. Set this unit up again on the battlefield more than 9\" from all enemy units. Then, set up each target wholly within 12\" of this unit and more than 9\" from all enemy units."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Cavalry"],
+    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

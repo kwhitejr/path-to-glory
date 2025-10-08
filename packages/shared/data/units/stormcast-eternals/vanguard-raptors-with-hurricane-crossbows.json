@@ -1,0 +1,54 @@
+{
+  "id": "vanguard-raptors-with-hurricane-crossbows",
+  "name": "Vanguard-Raptors with Hurricane Crossbows",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "rangedWeapons": [
+    {
+      "name": "Hurricane Crossbow",
+      "range": "12\"",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 0,
+      "damage": 1,
+      "ability": "Anti-Infantry (+1 Rend), Crit (2 Hits)"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Heavy Stock",
+      "attacks": 1,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 0,
+      "damage": 1,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Vanguard Chamber",
+      "timing": "Passive",
+      "description": "Through swiftness, guile and more than a hint of savagery, the warriors of the Vanguard chamber are able to outfight forces many times their own limited numbers.",
+      "effect": "This unit can use Shoot and/or Charge abilities even if it used a Run or Retreat ability in the same turn."
+    },
+    {
+      "name": "Coordinated Strike",
+      "timing": "Passive",
+      "description": "The warriors of the Vanguard chamber train relentlessly to fight in perfect unison.",
+      "effect": "Add 1 to wound rolls for this unit's shooting attacks if the target is in combat with any friendly Vanguard Chamber units."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

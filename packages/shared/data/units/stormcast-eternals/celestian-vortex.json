@@ -1,0 +1,36 @@
+{
+  "id": "celestian-vortex",
+  "name": "Celestian Vortex",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "8\"",
+    "health": 7,
+    "save": "6+",
+    "banishment": "7+"
+  },
+  "meleeWeapons": [
+    {
+      "name": "Storm of Vengeance",
+      "attacks": 12,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Crit (Auto-wound)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Tornado of Magic",
+      "timing": "Passive",
+      "description": "A Celestian Vortex whips the air around it into a tornado that disrupts attacks made with missile weapons.",
+      "effect": "Subtract 1 from hit rolls for shooting attacks made by enemy units while they are within 12\" of this Manifestation."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Fly", "Ward (6+)"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

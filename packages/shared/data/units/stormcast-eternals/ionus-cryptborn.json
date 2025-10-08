@@ -1,0 +1,79 @@
+{
+  "id": "ionus-cryptborn",
+  "name": "Ionus Cryptborn, Warden of Lost Souls",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 16,
+    "save": "3+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Spirit-scouring Flames",
+      "range": "10\"",
+      "attacks": 9,
+      "hit": "2+",
+      "wound": "4+",
+      "rend": 2,
+      "damage": 1,
+      "ability": "Shoot in Combat, Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Soulbreaker",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": null
+    },
+    {
+      "name": "Cthorak's Ancient Claws",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "description": null,
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of Cthorak's Ancient Claws is 4."
+    },
+    {
+      "name": "Lightning Tempest",
+      "timing": "Your Hero Phase",
+      "description": "Ionus calls upon Sigmar to unleash the wrath of Azyr.",
+      "declare": "Pick a visible enemy unit within 12\" of this unit to be struck by lightning, then make a chanting roll of D6.",
+      "effect": "Inflict D3 mortal damage on that unit, then roll a dice. On a 1-2, the sequence ends. On a 3+, pick another enemy unit within 3\" of that unit to be struck by lightning and inflict D3 mortal damage on it. If the chanting roll was 10+, you can pick another enemy unit within 6\" of that unit instead of 3\". Keep rolling dice in this way until the sequence ends or there are no other enemy units eligible to be struck by lightning. A unit cannot be struck by lightning more than once per turn.",
+      "keywords": ["Prayer", "Rampage"]
+    },
+    {
+      "name": "Spirit-scouring Flames",
+      "timing": "Once Per Turn (Army), Any Shooting Phase",
+      "description": "Enemies engulfed by Cthorak's pale-flame breath feel their very souls begin to burn away.",
+      "declare": "Pick an enemy unit that had any damage points allocated to it this turn by attacks made with this unit's Spirit-scouring Flames to be the target.",
+      "effect": "The target has the Soulburned keyword for the rest of the battle."
+    },
+    {
+      "name": "Soulburned",
+      "timing": "Any Shooting Phase",
+      "description": "Once an enemy has been burnt by Cthorak's scouring flames, their soul ignites deep within their body.",
+      "declare": "This unit can use this ability even if it has been destroyed. Pick any number of Soulburned enemy units to be the targets.",
+      "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Priest (2)", "Fly"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

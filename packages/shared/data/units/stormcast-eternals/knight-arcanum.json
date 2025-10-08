@@ -1,0 +1,36 @@
+{
+  "id": "knight-arcanum",
+  "name": "Knight-Arcanum",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Valedictor's Stave",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Anti-Manifestation (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Indomitable Loreseekers",
+      "timing": "Passive",
+      "description": "The thick tomes carried by Knight-Arcanums are filled with the magical secrets they have learnt, including how to resist the raging sorcerous energies of the realms.",
+      "effect": "Add 1 to casting rolls for this unit when it uses a Summon ability and add 1 to banishment rolls for this unit.\n\nEnemy Manifestations cannot pass through or end any move within this unit's combat range unless they started that move within this unit's combat range.\n\nThis unit has Ward (4+) against mortal damage inflicted by Manifestations."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Wizard (1)", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "knight-relictor",
+  "name": "Knight-Relictor",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Relic Maul",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Relic Censer",
+      "timing": "Your Shooting Phase",
+      "description": "The censers of the Relictor temple emanate purifying incense that can burn through the very fabric of heretical falsehoods and mystical hexes.",
+      "declare": "Pick an enemy unit within 12\" of this unit to be the target.",
+      "effect": "Roll a dice. On a 2+, subtract 1 from ward rolls made by the target for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Priest (1)", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

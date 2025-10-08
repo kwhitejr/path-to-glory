@@ -1,0 +1,60 @@
+{
+  "id": "prosecutors",
+  "name": "Prosecutors",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "rangedWeapons": [
+    {
+      "name": "Stormcall Javelin",
+      "range": "10\"",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": null
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Stormcall Javelin",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Charge (+1 Damage)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Ruination Chamber",
+      "timing": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
+      "description": "These veterans march where others cannot tread, fighting upon battlefields transformed into scenes of apocalypse. Even the most corrosive magics find no purchase on their souls.",
+      "effect": "Make a resistance roll of D6. On a 4+, that ability has no effect on this unit."
+    },
+    {
+      "name": "Heralds of Righteousness",
+      "timing": "Passive",
+      "description": "Prosecutors cross the battlefield in a blur of light.",
+      "effect": "Add 1 to the number of dice rolled when making charge rolls for this unit, to a maximum of 3."
+    },
+    {
+      "name": "Dispersed Formation",
+      "timing": "Passive",
+      "description": "These warriors maintain a wide formation, enabling more precise strikes and greater battlefield control.",
+      "effect": "This unit has a coherency range of 2\"."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Fly"],
+    "faction": ["Order", "Stormcast Eternals", "Ruination Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

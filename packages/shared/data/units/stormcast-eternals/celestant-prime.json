@@ -1,0 +1,55 @@
+{
+  "id": "celestant-prime",
+  "name": "Celestant-Prime",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 10,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Cometstrike Sceptre",
+      "range": "18\"",
+      "attacks": 1,
+      "hit": "2+",
+      "wound": "See below",
+      "rend": 0,
+      "damage": 0,
+      "ability": null
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Ghal Maraz",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 4,
+      "ability": "Crit (Mortal)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Retribution from on High",
+      "timing": "Once Per Battle, Your Movement Phase",
+      "description": "The Celestant-Prime descends from Azyr into the thickest fighting, Ghal Maraz glowing with power as it smites the foe.",
+      "declare": "Pick this unit if it is in the Celestial Realm.",
+      "effect": "Subtract the current battle round number from 10 to determine this unit's strike zone. Set up this unit on the battlefield more than a number of inches equal to its strike zone from all enemy units."
+    },
+    {
+      "name": "Cometstrike Sceptre",
+      "timing": "Passive",
+      "description": "Blazing with celestial might, the Celestant-Prime raises his sceptre high before letting it fall, causing comets to rain from above.",
+      "effect": "Each time this unit attacks with its Cometstrike Sceptre, if the attack scores a hit, inflict D3 mortal damage on the target."
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Infantry", "Fly", "Ward (5+)"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

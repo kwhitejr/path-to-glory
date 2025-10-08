@@ -1,0 +1,61 @@
+{
+  "id": "lord-commander-bastian-carthalos",
+  "name": "Lord-Commander Bastian Carthalos",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 8,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Thunderbolts of Azyr",
+      "range": "18\"",
+      "attacks": 2,
+      "hit": "2+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": "D3",
+      "ability": null
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Uskavar, the Sunderer",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 4,
+      "ability": "Crit (Auto-wound)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Voice of Thunder",
+      "timing": "Passive",
+      "description": "Lord-Commanders are among the few faithful who can commune with Sigmar in the heat of battle. Their words are like booming thunderclaps, each order ringing across the battlefield.",
+      "effect": "Each time a friendly Stormcast Eternals unit wholly within 12\" of this unit uses the 'All-out Attack' command, no command points are spent."
+    },
+    {
+      "name": "Mantle of the First Storm",
+      "timing": "End of Any Turn",
+      "description": "Bastian's armour is among the first of its kind, laboured over by Grungni himself and charged with the same holy energies as the Anvil of Apotheosis. It is a symbol of, and potent boon to, the Thunderborn's already legendary willpower.",
+      "effect": "If any enemy models were slain by this unit's attacks this turn, Heal (4) this unit."
+    },
+    {
+      "name": "Castellan of Azyr",
+      "timing": "Deployment Phase",
+      "description": "Centuries spent commanding Sigmar's prime Stormhost have sharpened Bastian's tactical nous to a deadly edge. There are few warlords more adept than he in all the armies of Order.",
+      "declare": "Pick up to 3 friendly Stormcast Eternals Infantry units to be the targets.",
+      "effect": "Each target can use the 'Normal Move' ability as if it were your movement phase."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Infantry", "Ward (5+)"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

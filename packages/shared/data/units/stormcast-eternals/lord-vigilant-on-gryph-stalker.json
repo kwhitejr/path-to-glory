@@ -1,0 +1,52 @@
+{
+  "id": "lord-vigilant-on-gryph-stalker",
+  "name": "Lord-Vigilant on Gryph-stalker",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 8,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Hallowed Greataxe",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2,
+      "ability": null
+    },
+    {
+      "name": "Gryph-stalker's Beak and Talons",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Ruination Chamber",
+      "timing": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
+      "description": "These veterans march where others cannot tread, fighting upon battlefields transformed into scenes of apocalypse. Even the most corrosive magics find no purchase on their souls.",
+      "effect": "Make a resistance roll of D6. On a 4+, that ability has no effect on this unit."
+    },
+    {
+      "name": "Deliver Judgement",
+      "timing": "Once Per Battle (Army), Any Combat Phase",
+      "description": "This warrior orders Sigmar's wrath to be delivered unto their enemies.",
+      "declare": "Pick a friendly non-Hero Ruination Chamber unit wholly within 12\" of this unit.",
+      "effect": "That unit can use 2 Fight abilities this phase. After the first is used, however, that unit has Strike-last for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Cavalry"],
+    "faction": ["Order", "Stormcast Eternals", "Ruination Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

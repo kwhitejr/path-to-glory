@@ -1,0 +1,32 @@
+{
+  "id": "everblaze-comet",
+  "name": "Everblaze Comet",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": null,
+    "health": 5,
+    "save": "4+",
+    "banishment": "6+"
+  },
+  "abilities": [
+    {
+      "name": "Burning Vengeance",
+      "timing": "Any Hero Phase",
+      "description": "An Everblaze Comet smashes into the battlefield with tremendous force, whereupon it embeds itself into the ground, radiating a corona of deadly Azyrite energies.",
+      "declare": "If this Manifestation was summoned this phase, pick any number of enemy units within 6\" of it to be the targets.",
+      "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+    },
+    {
+      "name": "Arcane Disruption",
+      "timing": "Passive",
+      "description": "The emanations from an Everblaze Comet disrupt the magical abilities of nearby wizards.",
+      "effect": "Subtract 1 from casting rolls for enemy Wizards while they are within 12\" of this Manifestation."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Ward (6+)"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

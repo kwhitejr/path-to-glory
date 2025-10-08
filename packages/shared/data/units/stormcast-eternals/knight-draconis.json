@@ -1,0 +1,71 @@
+{
+  "id": "knight-draconis",
+  "name": "Knight-Draconis",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 11,
+    "save": "3+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Draconic Flamestream",
+      "range": "10\"",
+      "attacks": 4,
+      "hit": "2+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 1,
+      "ability": "Shoot in Combat, Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Aeonfire Blade",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": null
+    },
+    {
+      "name": "Draconith's Fangs and Talons",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Arcane Heritage",
+      "timing": "Reaction: Opponent declared a Spell ability",
+      "description": "Whether raised within the temple-vessels of the Seraphon or born in the wilds of the realms, every young Draconith has developed a resistance to the arcane.",
+      "effect": "If this unit or a friendly Stormdrake Guard unit wholly within 12\" of this unit was picked to be the target of that spell, roll a dice. On a 4+, ignore the effect of that spell on this unit or that friendly unit. This unit can use this ability more than once per phase but only once per Spell ability."
+    },
+    {
+      "name": "Wrath of the Draconith",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "At their champion's command, the Stormdrake Guard loose the searing force of their mounts when the foe least expects it.",
+      "declare": "Pick a friendly Stormdrake Guard unit within this unit's combat range to be the target.",
+      "effect": "Roll a dice. On a 2+, add 1 to the Attacks characteristic of both this unit's and the target's Draconith's Fangs and Talons for the rest of the turn.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Extremis Chamber",
+      "timing": "Passive",
+      "description": "Most scarce of Sigmar's forces are the Extremis chambers, with each Stormcast mounted on a living weapon. To draw near these warriors is to risk being scoured by lightning or flame.",
+      "effect": "Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Monster", "Fly"],
+    "faction": ["Order", "Stormcast Eternals", "Extremis Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

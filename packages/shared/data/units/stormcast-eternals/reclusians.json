@@ -1,0 +1,42 @@
+{
+  "id": "reclusians",
+  "name": "Reclusians",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 3,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Rune-blessed Weapons",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Mortal)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Ruination Chamber",
+      "timing": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
+      "description": "These veterans march where others cannot tread, fighting upon battlefields transformed into scenes of apocalypse. Even the most corrosive magics find no purchase on their souls.",
+      "effect": "Make a resistance roll of D6. On a 4+, that ability has no effect on this unit."
+    },
+    {
+      "name": "Memorian Descendants",
+      "timing": "Passive",
+      "description": "Reclusians are accompanied by Memorians who serve to remind them of their humanity.",
+      "effect": "This unit's Memorians are tokens. There are 2 Memorians for every 3 models in this unit. While any of this unit's Memorians are on the battlefield, add 1 to this unit's resistance rolls when using the 'Ruination Chamber' ability.\n\nEach time you make an unmodified save roll of 1 for this unit, remove 1 of its Memorians from the battlefield after the Attack ability has been resolved (the damage point is still inflicted)."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Ruination Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

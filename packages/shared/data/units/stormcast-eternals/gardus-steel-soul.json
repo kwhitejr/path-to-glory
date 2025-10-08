@@ -1,0 +1,43 @@
+{
+  "id": "gardus-steel-soul",
+  "name": "Gardus Steel Soul",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Sigmarite Runeblade and Warhammer",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Auto-wound)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Aura of Purity",
+      "timing": "Passive",
+      "description": "Gardus's faith is so strong when he is in full flow that even Nurgle's garden was unable to corrupt him.",
+      "effect": "If this unit charged this turn, for the rest of the turn, friendly Stormcast Eternals units have Ward (5+) while they are wholly within 12\" of this unit."
+    },
+    {
+      "name": "Saintly Assault",
+      "timing": "Once Per Battle, Your Charge Phase",
+      "description": "Calling upon the celestial grace of Sigmar, the lords of the Steel Souls engage the foe with zealous wrath.",
+      "declare": "Pick up to 3 visible friendly Stormcast Eternals Infantry units wholly within 6\" of this unit to be the targets.",
+      "effect": "For the rest of the turn:\n•Add 1 to charge rolls for the targets.\n•Add 1 to the Attacks characteristic of the targets' melee weapons."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Infantry", "Ward (5+)"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

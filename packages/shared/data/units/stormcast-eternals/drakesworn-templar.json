@@ -1,0 +1,81 @@
+{
+  "id": "drakesworn-templar",
+  "name": "Drakesworn Templar",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 18,
+    "save": "3+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Skybolt Bow",
+      "range": "18\"",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Crit (Auto-wound)"
+    },
+    {
+      "name": "Rain of Stars",
+      "range": "24\"",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Templar Weapons",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Hero (+1 Rend), Anti-Monster (+1 Rend)"
+    },
+    {
+      "name": "Stardrake's Cavernous Jaws",
+      "attacks": 7,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "description": null,
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Stardrake's Cavernous Jaws is 4."
+    },
+    {
+      "name": "Extremis Chamber",
+      "timing": "Passive",
+      "description": "Most scarce of Sigmar's forces are the Extremis chambers, with each Stormcast mounted on a living weapon. To draw near these warriors is to risk being scoured by lightning or flame.",
+      "effect": "Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+    },
+    {
+      "name": "Monstrous Challenge",
+      "timing": "Once Per Turn (Army), Your Combat Phase",
+      "description": "Though not strictly holding the rank of knight, the Drakesworn Templars fulfil a similar role within the Extremis chambers, charging off to face the greatest threats in single combat.",
+      "declare": "Pick an enemy Monster in combat with this unit to be the target.",
+      "effect": "Roll a dice. On a 2+, for the rest of the turn:\n•Add 1 to the Damage characteristic of this unit's Stardrake's Cavernous Jaws for attacks that target that unit.\n•If the target is also a Hero, add 1 to the Damage characteristic of this unit's Templar Weapons for attacks that target that unit.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Monster", "Fly"],
+    "faction": ["Order", "Stormcast Eternals", "Extremis Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

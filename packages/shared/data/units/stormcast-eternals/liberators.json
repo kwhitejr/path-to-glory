@@ -1,0 +1,45 @@
+{
+  "id": "liberators",
+  "name": "Liberators",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Warhammer",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Crit (Mortal)"
+    },
+    {
+      "name": "Grandhammer",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Mortal)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Stalwart Defenders",
+      "timing": "Passive",
+      "description": "Liberators fiercely guard the lands brought into Sigmar's domain.",
+      "effect": "Add 3 to this unit's control score while it is contesting an objective wholly within friendly territory."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

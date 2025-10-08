@@ -1,0 +1,36 @@
+{
+  "id": "vindictors",
+  "name": "Vindictors",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Stormspear",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Anti-charge (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Hold the Shieldwall",
+      "timing": "Any Combat Phase",
+      "description": "The Vindictor retinues are the shieldwall upon which the forces of ruin shatter.",
+      "effect": "If this unit did not charge this turn and is in combat with an enemy unit that charged this turn, roll a dice. On a 4+, this unit has Strike-first for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Standard Bearer (1/5)"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

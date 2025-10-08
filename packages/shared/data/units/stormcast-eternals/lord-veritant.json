@@ -1,0 +1,57 @@
+{
+  "id": "lord-veritant",
+  "name": "Lord-Veritant",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Staff of Abjuration",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 3,
+      "ability": null
+    },
+    {
+      "name": "Judgement Blade",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Anti-Priest (+1 Rend), Anti-Wizard (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Ruination Chamber",
+      "timing": "Once Per Turn (Army), Reaction: This unit was picked as the target of a non-Core ability",
+      "description": "These veterans march where others cannot tread, fighting upon battlefields transformed into scenes of apocalypse. Even the most corrosive magics find no purchase on their souls.",
+      "effect": "Make a resistance roll of D6. On a 4+, that ability has no effect on this unit."
+    },
+    {
+      "name": "Sense Unholy Sorcery",
+      "timing": "Passive",
+      "description": "Gryph-crows are sensitive to corruption and immediately alert their masters whenever unholy energies are nearby.",
+      "effect": "This unit's Gryph-crow is a token. Subtract 1 from casting rolls and chanting rolls for enemy units within 12\" of this unit while its Gryph-crow is on the battlefield.\n\nIf you make an unmodified save roll of 1 for this unit, remove its Gryph-crow from the battlefield after the Attack ability has been resolved (the damage point is still inflicted)."
+    },
+    {
+      "name": "Staff of Abjuration",
+      "timing": "Passive",
+      "description": "The blessed light that shines from this staff can banish even the most potent sorceries.",
+      "effect": "This unit can use Unbind abilities as if it had Wizard (1)."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Priest (1)", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "Ruination Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

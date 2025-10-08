@@ -1,0 +1,77 @@
+{
+  "id": "lord-celestant-on-stardrake",
+  "name": "Lord-Celestant on Stardrake",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 18,
+    "save": "3+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Rain of Stars",
+      "range": "24\"",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Weapons of Legend",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Auto-wound)"
+    },
+    {
+      "name": "Stardrake's Cavernous Jaws",
+      "attacks": 7,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "description": null,
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Stardrake's Cavernous Jaws is 4."
+    },
+    {
+      "name": "Extremis Chamber",
+      "timing": "Passive",
+      "description": "Most scarce of Sigmar's forces are the Extremis chambers, with each Stormcast mounted on a living weapon. To draw near these warriors is to risk being scoured by lightning or flame.",
+      "effect": "Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+    },
+    {
+      "name": "Lord of the Host",
+      "timing": "Once Per Battle, Any Combat Phase",
+      "description": "A Lord-Celestant is a trusted and respected leader. Their presence steels the souls of those who fight nearby.",
+      "effect": "Add 1 to the Attacks characteristic of other friendly Extremis Chamber units wholly within 12\" of this unit for the rest of the turn."
+    },
+    {
+      "name": "Cavernous Jaws",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "The enormous maw of a Stardrake can bite a foe in half.",
+      "declare": "Pick an enemy unit in combat with this unit to be the target.",
+      "effect": "Roll 3 dice. For each roll that equals or exceeds the target's Health characteristic, 1 model in the target unit is slain.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Monster", "Fly"],
+    "faction": ["Order", "Stormcast Eternals", "Extremis Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

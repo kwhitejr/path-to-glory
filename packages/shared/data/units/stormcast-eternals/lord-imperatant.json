@@ -1,0 +1,43 @@
+{
+  "id": "lord-imperatant",
+  "name": "Lord-Imperatant",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Blessed Warhammer",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Auto-wound)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Loyal Gryph-hound",
+      "timing": "Passive",
+      "description": "The Gryph-hound that accompanies the Lord-Imperatant is the most faithful guard.",
+      "effect": "This unit's Gryph-hound is a token. This unit has Ward (5+) while its Gryph-hound is on the battlefield.\n\nIf you make an unmodified save roll of 1 for this unit, remove its Gryph-hound from the battlefield after the Attack ability has been resolved (the damage point is still inflicted)."
+    },
+    {
+      "name": "Guided by Lightning",
+      "timing": "Once Per Battle (Army), Your Movement Phase",
+      "description": "With the aid of their enchanted stormcaller baton, a Lord-Imperatant can direct the arrival of their brethren with the utmost precision.",
+      "declare": "Pick up to 3 friendly Stormcast Eternals units wholly within 12\" of this unit that were set up this turn using the 'Scions of the Storm' ability to be the targets.",
+      "effect": "Each target can immediately move D3\". The targets cannot move into combat during any part of that move."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

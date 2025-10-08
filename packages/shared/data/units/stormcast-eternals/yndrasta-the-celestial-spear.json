@@ -1,0 +1,69 @@
+{
+  "id": "yndrasta-the-celestial-spear",
+  "name": "Yndrasta, the Celestial Spear",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 8,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Thengavar",
+      "range": "12\"",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 4,
+      "ability": "Anti-Monster (+1 Rend)"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Thengavar",
+      "attacks": 2,
+      "hit": "2+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 3,
+      "ability": "Anti-Monster (+1 Rend)"
+    },
+    {
+      "name": "Blade of the High Heavens",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 3,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "The Prime Huntress",
+      "timing": "Passive",
+      "description": "Lifetimes of experience, celestial strength and the power of Yndrasta's spear Thengavar see even the most behemothic of terrors swiftly fall.",
+      "effect": "Double the Damage characteristic of this unit's Thengavar for attacks that target Monsters."
+    },
+    {
+      "name": "On Wings of Brilliance",
+      "timing": "Passive",
+      "description": "Yndrasta soars across the battlefield to strike at the heart of Sigmar's enemies.",
+      "effect": "Add 1 to the number of dice rolled when making charge rolls for this unit, to a maximum of 3."
+    },
+    {
+      "name": "Dazzling Radiance",
+      "timing": "Passive",
+      "description": "Yndrasta's god-touched brilliance casts a protective aura of light around nearby Stormcasts.",
+      "effect": "Ignore negative modifiers to the control scores of friendly Stormcast Eternals units while they are wholly within 12\" of this unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Infantry", "Fly", "Ward (5+)"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

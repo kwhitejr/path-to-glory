@@ -1,0 +1,50 @@
+{
+  "id": "questor-soulsworn",
+  "name": "Questor Soulsworn",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 3,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Questor Weapons",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Ordained Quest",
+      "timing": "Once Per Battle (Army), Deployment Phase",
+      "description": "Questors travel deep into enemy territory to gain control of vital landmarks with hidden secrets.",
+      "effect": "Pick an objective wholly outside friendly territory. That objective is considered by you to be questmarked."
+    },
+    {
+      "name": "Relictor Soulguide",
+      "timing": "Once Per Battle, Your Movement Phase",
+      "description": "The Knight-Relictor who accompanies the Soulsworn uses the winds of Sigmar's Tempest to translocate the Questors to where they are most needed.",
+      "declare": "You can pick a friendly Knight-Questor within this unit's combat range to be the target.",
+      "effect": "Remove this unit from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. Then, if you picked a target, remove it from the battlefield and set it up again within this unit's combat range and more than 9\" from all enemy units.",
+      "keywords": ["Core"]
+    },
+    {
+      "name": "His Will Be Done",
+      "timing": "Passive",
+      "description": "Questors will stop at nothing to fulfil the sacred task given to them by the God-King himself.",
+      "effect": "While this unit is contesting a questmarked objective:\n•Add 3 to this unit's control score.\n•This unit has Ward (5+)."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion (1/6)"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

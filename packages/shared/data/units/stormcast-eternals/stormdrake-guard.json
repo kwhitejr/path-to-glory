@@ -1,0 +1,79 @@
+{
+  "id": "stormdrake-guard",
+  "name": "Stormdrake Guard",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 9,
+    "save": "3+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Draconic Flamestream",
+      "range": "10\"",
+      "attacks": 4,
+      "hit": "2+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 1,
+      "ability": "Shoot in Combat, Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Drakerider's Lance",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Charge (+1 Damage), Anti-Infantry (+1 Rend)"
+    },
+    {
+      "name": "Drakerider's Warblade",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": null
+    },
+    {
+      "name": "Draconith's Fangs and Talons",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Dispersed Formation",
+      "timing": "Passive",
+      "description": "These warriors maintain a wide formation, enabling more precise strikes and greater battlefield control.",
+      "effect": "This unit has a coherency range of 2\"."
+    },
+    {
+      "name": "Extremis Chamber",
+      "timing": "Passive",
+      "description": "Most scarce of Sigmar's forces are the Extremis chambers, with each Stormcast mounted on a living weapon. To draw near these warriors is to risk being scoured by lightning or flame.",
+      "effect": "Each time you make an unmodified save roll of 6 for a combat attack that targets this unit, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+    },
+    {
+      "name": "Draconic Onslaught",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "To reclaim their old empire, the Draconith and their riders fight together as a single furious whole, savaging any who cross their path.",
+      "effect": "If this unit charged this turn, roll a dice. On a 3+, this unit can move 2D6\". It can pass through the combat ranges of enemy units and can end that move in combat. Then, pick an enemy unit that this unit passed across during that move. Inflict D3 mortal damage on that enemy unit.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Monster", "Champion", "Fly"],
+    "faction": ["Order", "Stormcast Eternals", "Extremis Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

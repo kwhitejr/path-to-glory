@@ -1,0 +1,55 @@
+{
+  "id": "knight-judicator-with-gryph-hounds",
+  "name": "Knight-Judicator with Gryph-hounds",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "6\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Terminus Greatbow",
+      "range": "18\"",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 3,
+      "ability": null
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Judicator's Warblade",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Faithful Gryph-hounds",
+      "timing": "Passive",
+      "description": "A Knight-Judicator is often accompanied into battle by a pair of these loyal beasts of Azyr.",
+      "effect": "This unit's Gryph-hounds are tokens. After setting up this unit on the battlefield for the first time, place both Gryph-hounds next to it.\n\nWhile any of this unit's Gryph-hounds are next to an enemy unit, add 1 to hit rolls and wound rolls for this unit's shooting attacks that target that unit.\n\nIf an enemy unit is destroyed or removed from the battlefield while any of this unit's Gryph-hounds are next to it, place those Gryph-hounds next to this unit."
+    },
+    {
+      "name": "Hunting Hounds",
+      "timing": "Once Per Turn, Your Movement Phase",
+      "description": "The Knight-Judicator sends one of their Gryph-hounds to harass an enemy unit.",
+      "declare": "If this unit was not set up this turn and any of this unit's Gryph-hounds are on the battlefield, pick an enemy unit within 12\" of this unit to be the target.",
+      "effect": "Roll a dice. On a 1, remove 1 of this unit's Gryph-hounds from the battlefield. On a 2+, pick 1 of this unit's Gryph-hounds that is next to this unit or next to an enemy unit and place it next to the target instead."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "neaves-companions",
+  "name": "Neave's Companions",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 3,
+    "save": "3+",
+    "control": 1
+  },
+  "rangedWeapons": [
+    {
+      "name": "Typhoon Crossbow",
+      "range": "18\"",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Hero (+1 Rend)"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Cyclone Sword and Axe",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": null
+    },
+    {
+      "name": "Stormcharged Warhammer",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": null
+    },
+    {
+      "name": "Anda's Celestial Talons",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 0,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Shield of Azyr",
+      "timing": "Passive",
+      "description": "These golden-armoured warriors will willingly put themselves in mortal danger in order to protect Neave and Lorai.",
+      "effect": "While any friendly The Blacktalons Heroes are wholly within this unit's combat range, both this unit and those friendly units have Ward (5+)."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Infantry"],
+    "faction": ["Order", "Stormcast Eternals", "The Blacktalons"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

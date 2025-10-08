@@ -1,0 +1,74 @@
+{
+  "id": "vanguard-palladors-with-starstrike-javelins",
+  "name": "Vanguard-Palladors with Starstrike Javelins",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "14\"",
+    "health": 5,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Boltstorm Pistol",
+      "range": "10\"",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Shoot in Combat"
+    },
+    {
+      "name": "Starstrike Javelin",
+      "range": "12\"",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": null
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Starstrike Javelin",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": null
+    },
+    {
+      "name": "Gryph-charger's Razor Beak",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Vanguard Chamber",
+      "timing": "Passive",
+      "description": "Through swiftness, guile and more than a hint of savagery, the warriors of the Vanguard chamber are able to outfight forces many times their own limited numbers.",
+      "effect": "This unit can use Shoot and/or Charge abilities even if it used a Run or Retreat ability in the same turn."
+    },
+    {
+      "name": "Charging Volley",
+      "timing": "Your Charge Phase",
+      "description": "Vanguard-Palladors unleash a deadly volley of missiles as they charge into their foes.",
+      "declare": "If this unit charged this phase, pick an enemy unit in combat with it to be the target.",
+      "effect": "This unit can immediately use a Shoot ability as if it were your shooting phase, but it must target that enemy unit. This unit's Starstrike Javelins have Shoot in Combat this phase."
+    }
+  ],
+  "keywords": {
+    "unit": ["Cavalry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber", "Vanguard-Palladors"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

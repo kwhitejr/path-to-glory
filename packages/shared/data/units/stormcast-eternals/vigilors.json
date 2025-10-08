@@ -1,0 +1,48 @@
+{
+  "id": "vigilors",
+  "name": "Vigilors",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "6\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "rangedWeapons": [
+    {
+      "name": "Stormcaller Bow",
+      "range": "18\"",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": null
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Stormblade",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Navigators of the Storm",
+      "timing": "Passive",
+      "description": "As the Vigilors move swiftly beneath dark thunderheads, the Grungni-forged arrowheads of their stormcaller bows unleash flickers of lightning that illuminate their target and allow vital reconnaissance.",
+      "effect": "If an enemy unit had any damage points allocated to it this turn by this unit's shooting attacks, add 1 to hit rolls for attacks made by friendly Stormcast Eternals units that target that unit for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "gryph-hounds",
+  "name": "Gryph-hounds",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "9\"",
+    "health": 2,
+    "save": "6+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Vicious Beak and Claws",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 0,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Warning Cry",
+      "timing": "Any Shooting Phase",
+      "description": "It is said that it is impossible to sneak up on a Gryph-hound.",
+      "declare": "Pick an enemy unit within 12\" of this unit that was set up this turn. Then, pick up to 3 friendly Stormcast Eternals units armed with ranged weapons that are within 12\" of that enemy unit to be the targets.",
+      "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
+    },
+    {
+      "name": "Beast",
+      "timing": "Passive",
+      "description": null,
+      "effect": "This unit has a maximum control score of 1."
+    }
+  ],
+  "keywords": {
+    "unit": ["Beast", "Champion"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

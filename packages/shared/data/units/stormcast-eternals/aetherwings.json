@@ -1,0 +1,42 @@
+{
+  "id": "aetherwings",
+  "name": "Aetherwings",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 2,
+    "save": "6+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Beak and Claws",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 0,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Marked for Destruction",
+      "timing": "Passive",
+      "description": "Those who oppose the masters of these loyal beasts hear doom approaching in the beating of celestial wings.",
+      "effect": "Add 1 to hit rolls for shooting attacks made by friendly Vanguard Chamber units if the target is within 9\" of this unit."
+    },
+    {
+      "name": "Beast",
+      "timing": "Passive",
+      "description": null,
+      "effect": "This unit has a maximum control score of 1."
+    }
+  ],
+  "keywords": {
+    "unit": ["Beast", "Fly"],
+    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

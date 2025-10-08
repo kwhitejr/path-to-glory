@@ -1,0 +1,63 @@
+{
+  "id": "vandus-hammerhand",
+  "name": "Vandus Hammerhand",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "10\"",
+    "health": 8,
+    "save": "3+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Stormblast",
+      "range": "10\"",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": "D3",
+      "ability": "Crit (2 Hits), Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Heldensen",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Auto-wound)"
+    },
+    {
+      "name": "Calanax's Claws and Fangs",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Lord of the Hammerhands",
+      "timing": "Passive",
+      "description": "Vandus is a mighty champion of the Hammers of Sigmar and a consummate commander.",
+      "effect": "Add 3 to the control scores of friendly Warrior Chamber units while they are wholly within 12\" of this unit."
+    },
+    {
+      "name": "Vengeance Unleashed",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "Vandus inspires nearby members of the Warrior chambers to strike forth and deliver justice in the God-King's name.",
+      "effect": "Pick a friendly non-Hero Warrior Chamber unit that has not used a Fight ability this turn and is within this unit's combat range to be the target. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target's attacks for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Cavalry"],
+    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

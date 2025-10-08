@@ -1,0 +1,54 @@
+{
+  "id": "vanguard-raptors-with-longstrike-crossbows",
+  "name": "Vanguard-Raptors with Longstrike Crossbows",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "5\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "rangedWeapons": [
+    {
+      "name": "Longstrike Crossbow",
+      "range": "18\"",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Anti-Hero (+1 Rend), Crit (Auto-wound)"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Heavy Stock",
+      "attacks": 1,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 0,
+      "damage": 1,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Vanguard Chamber",
+      "timing": "Passive",
+      "description": "Through swiftness, guile and more than a hint of savagery, the warriors of the Vanguard chamber are able to outfight forces many times their own limited numbers.",
+      "effect": "This unit can use Shoot and/or Charge abilities even if it used a Run or Retreat ability in the same turn."
+    },
+    {
+      "name": "Headshot",
+      "timing": "Your Shooting Phase",
+      "description": "When given time to take careful aim, a Vanguard-Raptor can find their mark even amidst the roiling mass of battle.",
+      "effect": "If this unit has not used a Move ability this turn and was not set up this turn, for the rest of the turn, this unit can ignore the effects of the 'Guarded Hero' ability (Core Rules, 25.0) when picking targets for its shooting attacks."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion"],
+    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

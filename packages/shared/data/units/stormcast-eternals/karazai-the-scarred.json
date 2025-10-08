@@ -1,0 +1,72 @@
+{
+  "id": "karazai-the-scarred",
+  "name": "Karazai the Scarred",
+  "factionId": "stormcast-eternals",
+  "characteristics": {
+    "move": "12\"",
+    "health": 20,
+    "save": "3+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Blazing Tempest",
+      "range": "12\"",
+      "attacks": 1,
+      "hit": "2+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": "D3+3",
+      "ability": "Shoot in Combat"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Annihilating Jaws",
+      "attacks": 4,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 4,
+      "ability": "Anti-Infantry (+1 Rend)"
+    },
+    {
+      "name": "Drake-lord's Talons",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": null
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Fires of Retribution",
+      "timing": "Passive",
+      "description": "Vengeance burns blinding and everlasting in Karazai's soul.",
+      "effect": "While this unit has 5-9 damage points, add 1 to the Attacks characteristic of its melee weapons.\n\nWhile this unit has 10 or more damage points, add 2 to the Attacks characteristic of its melee weapons instead."
+    },
+    {
+      "name": "Calamitous Tail Sweep",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "With a sweep of his destructive tail, Karazai can deliver a killing blow to those in his path.",
+      "declare": "Pick an enemy unit in combat with this unit to be the target.",
+      "effect": "Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Ancient Master of War",
+      "timing": "Any Combat Phase",
+      "description": "Karazai has seen countless battles over the heady span of his life, and the reptilian fury he displays can soon overpower any foe.",
+      "declare": "Pick an enemy unit within this unit's combat range to be the target.",
+      "effect": "Subtract 1 from the Attacks characteristic of the target's melee weapons for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Fly"],
+    "faction": ["Order", "Stormcast Eternals"]
+  },
+  "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}
