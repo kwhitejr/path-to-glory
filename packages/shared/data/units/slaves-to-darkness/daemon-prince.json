@@ -1,0 +1,49 @@
+{
+  "id": "daemon-prince",
+  "name": "Daemon Prince",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "8\"",
+    "health": 10,
+    "save": "3+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Hellforged Weapons",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 3,
+      "ability": "Crit (Mortal)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Airborne Horror",
+      "timing": "Passive",
+      "description": "Carried aloft by ragged leathery wings, this favoured champion of the Chaos Gods will bring ruin wherever they descend.",
+      "effect": "If this unit has Wings, it has a Move characteristic of 10\" and has Fly."
+    },
+    {
+      "name": "The Mounted Skulls of the Fallen",
+      "timing": "Passive",
+      "description": "Some Daemon Princes revel in glory with each worthy foe slain by their hands.",
+      "effect": "If this unit has a Trophy Rack, its Hellforged Weapons also have Anti-Hero (+1 Rend)."
+    },
+    {
+      "name": "Ruinous Favour",
+      "timing": "Your Hero Phase",
+      "description": "A Daemon Prince is an unholy conduit for the power and influence of their patron, and those who fight in their monstrous shadow may find themselves marked by the divine.",
+      "declare": "Pick a friendly non-Unique unit wholly within 12\" of this unit that shares a Mark of Chaos keyword with this unit to be the target.",
+      "effect": "Roll a dice. On a 3+, the target can immediately use the 'Eye of the Gods' ability as if it were the end of the turn and they had destroyed an enemy unit this turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry", "Ward (6+)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Daemon"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

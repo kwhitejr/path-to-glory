@@ -1,0 +1,54 @@
+{
+  "id": "chaos-lord-on-karkadrak",
+  "name": "Chaos Lord",
+  "subtitle": "on Karkadrak",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "9\"",
+    "health": 10,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Hexed Weapons",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Charge (+1 Damage), Crit (Mortal)"
+    },
+    {
+      "name": "Karkadrak's Claws and Horn",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Brutish Rampage",
+      "timing": "Any Charge Phase",
+      "description": "A charging Karkadrak is an almost unstoppable force, capable of smashing straight through even the most determined shieldwall.",
+      "declare": "If this unit charged this phase, pick up to 3 enemy units within 1\" of it to be the targets.",
+      "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+    },
+    {
+      "name": "Drive the Legions Forward",
+      "timing": "Once Per Battle (Army), Any Charge Phase",
+      "description": "Mounted atop a mighty Karkadrak, the Chaos Lord signals the charge.",
+      "declare": "Pick this unit and up to 2 friendly non-Hero Warriors of Chaos units wholly within 12\" of this unit to be the targets.",
+      "effect": "Add 2 to charge rolls for the targets for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Cavalry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

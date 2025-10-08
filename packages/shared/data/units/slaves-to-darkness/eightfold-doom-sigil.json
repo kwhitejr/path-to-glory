@@ -1,0 +1,25 @@
+{
+  "id": "eightfold-doom-sigil",
+  "name": "Eightfold Doom-Sigil",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "-",
+    "health": 6,
+    "save": "5+",
+    "banishment": "7+"
+  },
+  "abilities": [
+    {
+      "name": "Empowered by Atrocity",
+      "timing": "Passive",
+      "description": "The souls of those slain in the presence of an Eightfold Doom-Sigil are absorbed by the magical manifestation, feeding the Dark Gods' eternal hunger and inspiring their servants to battle all the harder, even as their own lives are offered in tribute.",
+      "effect": "If 2 or more units (friendly or enemy) were destroyed this turn, for the rest of the turn, add 1 to the Attacks characteristic of melee weapons used by friendly Slaves to Darkness units while they are wholly within 12\" of this Manifestation."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Ward (6+)"],
+    "faction": ["Chaos", "Slaves to Darkness"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

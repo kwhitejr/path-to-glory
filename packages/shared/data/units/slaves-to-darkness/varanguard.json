@@ -1,0 +1,45 @@
+{
+  "id": "varanguard",
+  "name": "Varanguard",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "10\"",
+    "health": 5,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Daemonforged Blades",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Charge (+1 Damage), Crit (Mortal)"
+    },
+    {
+      "name": "Steed's Tearing Fangs",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Relentless Killers",
+      "timing": "Once Per Battle, Any Combat Phase",
+      "description": "The Varanguard have slaughtered foes beyond counting, butchering their way across the battlefields of the Mortal Realms without mercy.",
+      "effect": "This unit can use 2 Fight abilities this phase. After the first is used, however, this unit has Strike-last for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Cavalry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

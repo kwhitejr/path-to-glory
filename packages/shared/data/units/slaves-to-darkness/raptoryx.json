@@ -1,0 +1,41 @@
+{
+  "id": "raptoryx",
+  "name": "Raptoryx",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "10\"",
+    "health": 2,
+    "save": "6+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Razor-sharp Beak and Talons",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Crazed Flock",
+      "timing": "Passive",
+      "description": "A flock of snapping, screeching Raptoryx is capable of swiftly bringing down any prey should they catch them unawares.",
+      "effect": "If this unit charged this turn, for the rest of the turn, add 1 to the Attacks characteristic of its melee weapons. This ability also affects Companion weapons."
+    },
+    {
+      "name": "Beast",
+      "timing": "Passive",
+      "effect": "This unit has a maximum control score of 1."
+    }
+  ],
+  "keywords": {
+    "unit": ["Beast"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ogroid-myrmidon",
+  "name": "Ogroid Myrmidon",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "6\"",
+    "health": 8,
+    "save": "4+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Gladiator Spear",
+      "range": "10\"",
+      "attacks": 1,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Gladiator Spear",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 3,
+      "ability": "Anti-Monster (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Myrmidon Rage",
+      "timing": "Passive",
+      "description": "Every wound inflicted on a Myrmidon only serves to stoke its rage further.",
+      "effect": "While this unit is damaged, add 2 to the Attacks characteristic of its melee weapons."
+    },
+    {
+      "name": "Pit Master",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "Myrmidons are given governance over the gladiatorial pits of the Varanspire, and all who have fought there willingly follow them into the fray.",
+      "effect": "Pick a friendly Ogroid Theridons unit that has not used a Fight ability this turn and is within this unit's combat range to be the target. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target's attacks for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry"],
+    "faction": ["Chaos", "Slaves to Darkness"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

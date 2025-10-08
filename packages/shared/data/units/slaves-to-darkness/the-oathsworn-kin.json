@@ -1,0 +1,52 @@
+{
+  "id": "the-oathsworn-kin",
+  "name": "The Oathsworn Kin",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 3,
+    "save": "5+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Heavy Darkoath Weapon",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 2,
+      "ability": "Crit (Mortal)"
+    },
+    {
+      "name": "Gnarled Staff",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": "D3"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Broken Nadja",
+      "timing": "Passive",
+      "description": "Broken Nadja wields the energies of ruin itself through dark incantations.",
+      "effect": "While this unit's Broken Nadja is on the battlefield, it has Wizard (1)."
+    },
+    {
+      "name": "Withering Death",
+      "timing": "Your Hero Phase 5",
+      "description": "Nadja spits a vile curse in the Dark Tongue, drawing unnatural shadows to coil around an enemy champion and sap their life force.",
+      "declare": "Pick a visible enemy Hero within 18\" of this unit to be the target, then make a casting roll of 2D6.",
+      "effect": "Inflict 1 mortal damage on the target and subtract 1 from the Attacks characteristic of the target's melee weapons until the start of your next turn.",
+      "keywords": ["Spell"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Infantry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath", "Gunnar's Oathsworn"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

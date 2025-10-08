@@ -1,0 +1,45 @@
+{
+  "id": "chaos-lord-on-daemonic-mount",
+  "name": "Chaos Lord on Daemonic Mount",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "10\"",
+    "health": 8,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Cursed Weapons",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Charge (+1 Damage)"
+    },
+    {
+      "name": "Daemonic Mount's Mighty Hooves",
+      "attacks": 3,
+      "hit": "5+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "The Knights of Chaos",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "At the head of a charge, this Chaos Lord leads their cavalry to crush any foe before them.",
+      "effect": "Pick a friendly non-Hero Warriors of Chaos Cavalry unit that has not used a Fight ability this turn and is within this unit's combat range to be the target. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved. If it is picked to do so, add 1 to wound rolls for the target's attacks for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Cavalry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

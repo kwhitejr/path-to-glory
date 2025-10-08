@@ -1,0 +1,80 @@
+{
+  "id": "soul-grinder",
+  "name": "Soul Grinder",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "10\"",
+    "health": 16,
+    "save": "4+",
+    "control": 5
+  },
+  "rangedWeapons": [
+    {
+      "name": "Harvester Cannon",
+      "range": "12\"",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Companion"
+    },
+    {
+      "name": "Phlegm Bombardment",
+      "range": "12\"",
+      "attacks": 1,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 3,
+      "ability": "Companion"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Piston-driven Legs and Daemonic Blade or Claw",
+      "attacks": 8,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Companion"
+    },
+    {
+      "name": "Hellforged Claw",
+      "attacks": 1,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": "D6",
+      "ability": "Crit (Mortal), Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Piston-driven Legs and Daemonic Blade or Claw is 6."
+    },
+    {
+      "name": "Implacable Advance",
+      "timing": "Passive",
+      "description": "This daemonic engine is utterly relentless in its desire to pay off the soul-tithe owed to its masters.",
+      "effect": "This unit can use Charge abilities even if it used a Run ability in the same turn."
+    },
+    {
+      "name": "Piston-Driven Carnage",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "The mechanical lower limbs of a Soul Grinder crush, stamp and impale without mercy.",
+      "declare": "Pick an enemy Infantry unit in combat with this unit to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Then, this unit can move 6\". During that move, it can pass through models in the target unit but must end that move in combat.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Monster", "Ward (6+)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Daemon"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

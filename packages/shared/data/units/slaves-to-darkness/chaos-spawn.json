@@ -1,0 +1,41 @@
+{
+  "id": "chaos-spawn",
+  "name": "Chaos Spawn",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "2D6\"",
+    "health": 5,
+    "save": "5+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Freakish Mutations",
+      "attacks": "2D6",
+      "hit": "5+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Crit (2 Hits), Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Beast",
+      "timing": "Passive",
+      "effect": "This unit has a maximum control score of 1."
+    },
+    {
+      "name": "Drawn to Power",
+      "timing": "Passive",
+      "description": "Even cursed with their hideous and twisted form, Chaos Spawn still covet the boons of the Dark Gods and are drawn to those most favoured by their patron.",
+      "effect": "While this unit is wholly within 12\" of a friendly Daemon Prince that shares a Mark of Chaos keyword with it, you can re-roll the random characteristic rolls for this unit's Move and Attacks characteristics."
+    }
+  ],
+  "keywords": {
+    "unit": ["Beast"],
+    "faction": ["Chaos", "Slaves to Darkness"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

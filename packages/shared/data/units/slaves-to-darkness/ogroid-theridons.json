@@ -1,0 +1,36 @@
+{
+  "id": "ogroid-theridons",
+  "name": "Ogroid Theridons",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "6\"",
+    "health": 5,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Goroan Weapons",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Infantry (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Unleashed Savagery",
+      "timing": "Once Per Battle, Any Combat Phase",
+      "description": "Suppressing their savage spirit no more, these ferocious warriors hack at the foe in a bestial frenzy.",
+      "effect": "Add 1 to the Damage characteristic of this unit's melee weapons for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Musician (1/3)", "Standard Bearer (1/3)"],
+    "faction": ["Chaos", "Slaves to Darkness"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

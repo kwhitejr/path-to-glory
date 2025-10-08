@@ -1,0 +1,36 @@
+{
+  "id": "centaurion-marshal",
+  "name": "Centaurion Marshal",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "8\"",
+    "health": 10,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Mauling Spear, Skull Bludgeon and Varanspire Gladius",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Charge (+1 Damage)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Marshal of the Legions",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "Not only formidable combatants, Centaurion Marshals lead the forces of the First Prince into battle with an iron fist.",
+      "effect": "Pick a friendly non-Hero Undivided unit that has not used a Fight ability this turn and is within this unit's combat range to be the target. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved. If it is picked to do so, add 1 to hit rolls for the target's attacks for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Cavalry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

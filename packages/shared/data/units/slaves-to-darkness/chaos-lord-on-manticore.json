@@ -1,0 +1,54 @@
+{
+  "id": "chaos-lord-on-manticore",
+  "name": "Chaos Lord",
+  "subtitle": "on Manticore",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "12\"",
+    "health": 12,
+    "save": "4+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Daemonbound Weapons",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Mortal)"
+    },
+    {
+      "name": "Manticore's Claws and Fangs",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Monster (+1 Rend), Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Iron-Willed Overlord",
+      "timing": "Passive",
+      "description": "Manticores are berserk killers, and any Chaos Lord who rides one to battle displays such obvious dominance that none would dare deny their orders.",
+      "effect": "Add 2 to the control scores of friendly Warriors of Chaos units while they are wholly within 12\" of this unit."
+    },
+    {
+      "name": "Apex Predator",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "It is a point of pride to a Manticore rider that they and their steed are the apex predators of the battlefield. They seek out the strongest foes and do not rest until they have proven their supremacy with a vicious kill.",
+      "declare": "Pick an enemy Monster in combat with this unit to be the target.",
+      "effect": "Add 1 to hit rolls for this unit's combat attacks that target that Monster for the rest of the turn. This ability also affects Companion weapons.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Monster", "Fly"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

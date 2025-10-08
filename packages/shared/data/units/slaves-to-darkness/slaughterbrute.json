@@ -1,0 +1,59 @@
+{
+  "id": "slaughterbrute",
+  "name": "Slaughterbrute",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "10\"",
+    "health": 14,
+    "save": "4+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Razor-tipped Claws",
+      "attacks": 8,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Infantry (+1 Rend), Companion"
+    },
+    {
+      "name": "Mighty Jaws",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 3,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Razor-tipped Claws is 5."
+    },
+    {
+      "name": "Rampaging Charge",
+      "timing": "Once Per Turn (Army), Any Charge Phase",
+      "description": "The Slaughterbrute crashes into the enemy's ranks in a frenzy of destruction.",
+      "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. If the target unit is Infantry, double the amount of mortal damage inflicted.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Sigils of Domination",
+      "timing": "Deployment Phase",
+      "description": "By carving runes of domination into a Slaughterbrute's back and driving cursed blades of binding into its flesh, the monster's will can be bound to a champion of Chaos.",
+      "declare": "Pick a friendly Slaves to Darkness Hero within this unit's combat range to be this unit's master.",
+      "effect": "For the rest of the battle, while this unit is within its master's combat range, add 1 to the number of dice rolled when making charge rolls for this unit, to a maximum of 3."
+    }
+  ],
+  "keywords": {
+    "unit": ["Monster"],
+    "faction": ["Chaos", "Slaves to Darkness", "Daemon", "Khorne"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

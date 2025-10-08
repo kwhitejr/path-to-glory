@@ -1,0 +1,71 @@
+{
+  "id": "abraxia",
+  "name": "Abraxia",
+  "subtitle": "Spear of the Everchosen",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "10\"",
+    "health": 14,
+    "save": "3+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Gorbolga",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Anti-Hero (+1 Rend), Charge (+1 Damage)"
+    },
+    {
+      "name": "The Thanatorg's Claws and Fangs",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of Gorbolga is 3."
+    },
+    {
+      "name": "Warlord of the First Circle",
+      "timing": "Passive",
+      "description": "Abraxia commands the Swords of Chaos with relentless brutality.",
+      "effect": "If a friendly Varanguard unit uses the 'Relentless Killers' ability while it is wholly within 12\" of this unit, that unit does not have Strike-last as a result of that ability."
+    },
+    {
+      "name": "Blood of Molten Varanite",
+      "timing": "Passive",
+      "description": "Any who wound the Thanatorg risk being splashed by its highly mutative blood.",
+      "effect": "Roll a dice each time a damage point inflicted by a combat attack is allocated to this unit. On a 4+, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+    },
+    {
+      "name": "Roar of Domination",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "The Thanatorg is quick to put potential usurpers of Abraxia's power in their place.",
+      "declare": "Pick an enemy Hero in combat with this unit to be the target.",
+      "effect": "Roll a dice. On a 3+, subtract 1 from the Attacks characteristic of the target's melee weapons for the rest of the turn.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Gorbolga the Accurs'd",
+      "timing": "Any Combat Phase",
+      "description": "A 'gift' from the Everchosen, Gorbolga is a varanite spear that carries a potent mutative curse – but should its wielder's will slip, they too will learn of its hunger…",
+      "effect": "If this unit is in combat, roll a dice and apply the corresponding effect:\n\n1 Uncontrollable Power: Allocate 1 damage point to this unit.\n2 The Spear Slumbers: No effect.\n3-5 White-hot Varanite: Add 1 to the Damage characteristic of this unit's Gorbolga for the rest of the turn.\n6 Rampant Mutation: The effect of 'White-hot Varanite' applies and this unit's Gorbolga has Crit (Mortal) for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Monster", "Ward (5+)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

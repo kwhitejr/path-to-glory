@@ -1,0 +1,37 @@
+{
+  "id": "realmscourge-rupture",
+  "name": "Realmscourge Rupture",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "9\"",
+    "health": 6,
+    "save": "5+",
+    "banishment": "7+"
+  },
+  "meleeWeapons": [
+    {
+      "name": "Surging Spikes",
+      "attacks": "2D3",
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Debilitating Shockwave",
+      "timing": "Any Charge Phase",
+      "description": "The vicious spikes that erupt from an onrushing Realmscourge Rupture impale those unfortunate enough to be struck by them even as the tremors that accompany them send those nearby staggering.",
+      "declare": "If this Manifestation charged this phase, pick an enemy unit within 1\" of it to be the target.",
+      "effect": "Roll a dice for each model in the target unit. For each 6, inflict 1 mortal damage on the target. If any models in the target unit are slain by this ability, subtract 1 from hit rolls for the target's attacks for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Manifestation", "Endless Spell", "Fly", "Ward (6+)"],
+    "faction": ["Chaos", "Slaves to Darkness"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

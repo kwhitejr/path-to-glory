@@ -1,0 +1,42 @@
+{
+  "id": "darkoath-chieftain",
+  "name": "Darkoath Chieftain",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 5,
+    "save": "5+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Cursed Broadsword",
+      "attacks": 5,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Mortal)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Tribal Warleader",
+      "timing": "Reaction: You declared a Fight ability for this unit",
+      "description": "With strength and fierce purpose, the rulers of the Darkoath tribes lead those sworn to their banners into the fray to fulfil their oaths.",
+      "effect": "Pick a friendly non-Hero Darkoath Infantry unit that has not used a Fight ability this turn and is within this unit's combat range to be the target. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved. If it is picked to do so, add 1 to the Attacks characteristic of the target's melee weapons for the rest of the turn."
+    },
+    {
+      "name": "Oath of Murder",
+      "timing": "Once Per Battle, End of Any Turn",
+      "description": "Darkoath Chieftains offer up the souls of enemy lords and champions in exchange for divine power.",
+      "effect": "If this unit destroyed an enemy Hero or Monster this turn, this unit has Strike-first for the rest of the battle."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

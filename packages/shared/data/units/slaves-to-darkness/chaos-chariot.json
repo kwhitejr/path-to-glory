@@ -1,0 +1,61 @@
+{
+  "id": "chaos-chariot",
+  "name": "Chaos Chariot",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "10\"",
+    "health": 7,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Chaos War-flail",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1
+    },
+    {
+      "name": "Chaos Greatblade",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    },
+    {
+      "name": "Lashing Whip",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 1
+    },
+    {
+      "name": "Chaos Steeds' Trampling Hooves",
+      "attacks": 4,
+      "hit": "5+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Swift Death",
+      "timing": "Any Charge Phase",
+      "description": "Chaos Chariots are at their most deadly on the charge, where their considerable bulk and bladed wheels can cause untold devastation.",
+      "declare": "If this unit charged this phase, pick an enemy unit within 1\" of it to be the target.",
+      "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll."
+    }
+  ],
+  "keywords": {
+    "unit": ["War Machine"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

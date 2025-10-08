@@ -1,0 +1,36 @@
+{
+  "id": "exalted-hero-of-chaos",
+  "name": "Exalted Hero of Chaos",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Blades of the Dark Champion",
+      "attacks": 5,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Hero (+1 Rend), Anti-Monster (+1 Rend)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Glory-Seeker",
+      "timing": "Passive",
+      "description": "To earn the favour of their patron, these formidable warriors ruthlessly hunt down enemy monsters and champions.",
+      "effect": "Add 1 to the Damage characteristic of this unit's melee weapons for attacks that target Heroes or Monsters."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Infantry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

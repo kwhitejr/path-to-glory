@@ -1,0 +1,44 @@
+{
+  "id": "gunnar-brand",
+  "name": "Gunnar Brand",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 6,
+    "save": "5+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Dual Axes",
+      "attacks": 10,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Crit (Mortal)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Carve a Path to Glory",
+      "timing": "Any Combat Phase",
+      "description": "Ruthless in battle, Gunnar Brand closes in on the enemy's champions, claiming skulls and earning glory with each swing of his axes.",
+      "declare": "This unit can only use this ability if it is in combat with an enemy Hero.",
+      "effect": "This unit can use 2 Fight abilities this phase. After the first is used, however, this unit has Strike-last for the rest of the turn. This unit can only use the second Fight ability if it is in combat with an enemy Hero, and if it does so, it must pick an enemy Hero to be the target of all of its attacks."
+    },
+    {
+      "name": "Oath of Bloodshed",
+      "timing": "Once Per Battle, End of Any Turn",
+      "description": "Though he is contemptuous of the gods, Gunnar is still Darkoath; he is not so foolish as to reject their boons should they seek to reward his murder-making.",
+      "declare": "This unit can only use this ability if any enemy Heroes were slain by this unit's combat attacks this turn.",
+      "effect": "Friendly Gunnar's Oathsworn units have Ward (4+) for the rest of the battle."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Infantry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath", "Gunnar's Oathsworn"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

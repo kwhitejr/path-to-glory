@@ -1,0 +1,35 @@
+{
+  "id": "chaos-furies",
+  "name": "Chaos Furies",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "12\"",
+    "health": 1,
+    "save": "6+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Razor-sharp Dagger and Claws",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sneaky Little Devils",
+      "timing": "Any Combat Phase",
+      "description": "Chaos Furies are spiteful creatures that utterly loathe the idea of engaging in a fair fight, much preferring – where possible – to stab distracted enemies in the back.",
+      "effect": "If this unit is in combat, roll a dice. On a 3+, this unit can immediately use the 'Retreat' ability as if it were your movement phase without any mortal damage being inflicted on it."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Fly", "Ward (6+)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Daemon", "Undivided"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

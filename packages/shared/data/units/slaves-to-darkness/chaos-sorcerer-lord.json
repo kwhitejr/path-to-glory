@@ -1,0 +1,36 @@
+{
+  "id": "chaos-sorcerer-lord",
+  "name": "Chaos Sorcerer Lord",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 5,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Sorcerer Staff and Runeblade",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Oracular Visions",
+      "timing": "Once Per Turn (Army), Your Hero Phase",
+      "description": "A sorcerer can temporarily bestow the gift of foresight upon their allies, helping them ward against enemy blows.",
+      "declare": "Pick a friendly Warriors of Chaos unit wholly within 12\" of this unit to be the target and roll a dice.",
+      "effect": "On a 3+, the target has Ward (5+) until the start of your next turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Wizard (1)", "Infantry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

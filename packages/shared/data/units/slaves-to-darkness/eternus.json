@@ -1,0 +1,54 @@
+{
+  "id": "eternus",
+  "name": "Eternus",
+  "subtitle": "Blade of the First Prince",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "9\"",
+    "health": 9,
+    "save": "3+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Death Glaive and Skull Flail",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Charge (+1 Damage)"
+    },
+    {
+      "name": "Drakocephalus's Fangs",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Veins of Black Lightning",
+      "timing": "Any Movement Phase",
+      "description": "Reborn in the Cursed Skies above the realms, Eternus's soul is tethered to the Mortal Realms through the dark magics of his master; whenever he is struck down, a flash of black lightning sees him stand defiant once more.",
+      "declare": "This unit can use this ability if it has been destroyed.",
+      "effect": "Roll 2D6. Add 1 to the roll if a friendly Be'lakor is on the battlefield. On an 8+, set up a replacement unit on the battlefield more than 9\" from all enemy units.",
+      "keywords": ["Core"]
+    },
+    {
+      "name": "Network of Spies",
+      "timing": "Reaction: Opponent declared a command for a unit within 12\" of this unit",
+      "description": "Eternus commands a legion of agents and operatives to ensure he is always one step ahead of his enemies.",
+      "effect": "Roll a dice. Add 1 to the roll if the enemy unit is in combat with a friendly Chaos Legionnaires or Chaos Furies unit. On a 5+, that command has no effect. The command still counts as having been used and the command points spent to use the command are still lost."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Cavalry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

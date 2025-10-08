@@ -1,0 +1,36 @@
+{
+  "id": "chaos-legionnaires",
+  "name": "Chaos Legionnaires",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 1,
+    "save": "4+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Darkiron Weapons",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Sow Confusion",
+      "timing": "Once Per Turn (Army), Your Movement Phase",
+      "description": "To the disciples of Be'lakor, subterfuge and lies are as keen as any blade.",
+      "declare": "Pick an enemy unit within 6\" of this unit to be the target.",
+      "effect": "Roll a dice. On a 4+, the target cannot use commands for the rest of the turn."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion (1/8)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

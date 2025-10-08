@@ -1,0 +1,74 @@
+{
+  "id": "belakor",
+  "name": "Be'lakor",
+  "subtitle": "The Dark Master",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "14\"",
+    "health": 14,
+    "save": "4+",
+    "control": 10
+  },
+  "meleeWeapons": [
+    {
+      "name": "Blade of Shadows",
+      "attacks": 8,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Crit (Auto-wound)"
+    },
+    {
+      "name": "Fell Claw and Spearing Tail",
+      "attacks": 2,
+      "hit": "2+",
+      "wound": "2+",
+      "rend": 2,
+      "damage": 2,
+      "ability": "Charge (+1 Damage)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Battle Damaged",
+      "timing": "Passive",
+      "effect": "While this unit has 10 or more damage points, the Attacks characteristic of its Blade of Shadows is 6."
+    },
+    {
+      "name": "Shadow Form",
+      "timing": "Passive",
+      "description": "Be'lakor can shift his physical form to be as insubstantial as the mists of Ulgu – and just as hard to land a telling blow upon.",
+      "effect": "Ignore modifiers to save rolls for this unit (positive and negative)."
+    },
+    {
+      "name": "The Dark Master",
+      "timing": "Once Per Battle, Enemy Hero Phase",
+      "description": "Many puppets dance on Be'lakor's infernal strings. Few realise as much until their fate is sealed.",
+      "declare": "Pick a visible enemy unit to be the target.",
+      "effect": "Until the start of your next turn, each time the target is picked to use an ability, roll a dice as a reaction. On a 3+, that ability has no effect."
+    },
+    {
+      "name": "Deadly Trap",
+      "timing": "Once Per Turn (Army), Enemy Combat Phase",
+      "description": "The Dark Master delights in lethal reversals of expectation and fate.",
+      "declare": "Pick this unit and up to 2 friendly Slaves to Darkness units within this unit's combat range to be the targets.",
+      "effect": "Roll a dice for each target. On a 4+, that target has Strike-first for the rest of the turn.",
+      "keywords": ["Rampage"]
+    },
+    {
+      "name": "Enfeeble Foe",
+      "timing": "Your Hero Phase",
+      "description": "With a series of hissed incantations, Be'lakor instils visions of loss and despair in the minds of his enemies to drain them of their fighting spirit.",
+      "declare": "Pick a visible enemy unit within 18\" of this unit to be the target, then make a casting roll of 2D6.",
+      "effect": "Until the start of your next turn:\n• Subtract 1 from hit rolls from the target's combat attacks.\n• The target's combat attacks cannot score critical hits (treat them as regular hits instead).",
+      "keywords": ["Spell"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (2)", "Fly", "Ward (6+)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Daemon", "Undivided"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

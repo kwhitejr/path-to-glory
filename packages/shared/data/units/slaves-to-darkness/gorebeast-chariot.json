@@ -1,0 +1,60 @@
+{
+  "id": "gorebeast-chariot",
+  "name": "Gorebeast Chariot",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "9\"",
+    "health": 8,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Chaos War-flail",
+      "attacks": 6,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1
+    },
+    {
+      "name": "Chaos Greatblade",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    },
+    {
+      "name": "Lashing Whip",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 1
+    },
+    {
+      "name": "Gorebeast's Crushing Fists",
+      "attacks": 4,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": "-",
+      "damage": 2,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Brutal Momentum",
+      "timing": "Passive",
+      "description": "The ferocity of Gorebeasts is terrible to behold as they carve a path of bloody destruction through the enemy ranks.",
+      "effect": "When this unit uses the 'Power Through' command, inflict an additional D3 mortal damage on the target and add 3\" to the distance this unit can move as part of that ability."
+    }
+  ],
+  "keywords": {
+    "unit": ["War Machine"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

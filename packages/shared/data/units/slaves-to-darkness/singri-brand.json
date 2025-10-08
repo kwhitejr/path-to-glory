@@ -1,0 +1,62 @@
+{
+  "id": "singri-brand",
+  "name": "Singri Brand",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "12\"",
+    "health": 4,
+    "save": "5+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Singri's Warbow",
+      "range": "18\"",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Crit (Auto-wound)"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Brand Ancestral Knife",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1
+    },
+    {
+      "name": "Warsteed's Hooves",
+      "attacks": 2,
+      "hit": "5+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Swift as the Wind",
+      "timing": "Passive",
+      "description": "Singri's horsemanship is unrivalled by any of the Darkoath. She weaves deftly across the battlefield, avoiding enemy fire and loosing deadly accurate shots with her bow in return.",
+      "effect": "Only critical hits score successful hits for shooting attacks that target this unit."
+    },
+    {
+      "name": "Uncanny Shot",
+      "timing": "Passive",
+      "description": "Gunnar Brand has been saved on more than one occasion by a well-placed arrow from Singri.",
+      "effect": "Add 1 to the Rend characteristic of this unit's Singri's Warbow for attacks that target enemy units that are within 6\" of a friendly Gunnar Brand."
+    }
+  ],
+  "keywords": {
+    "unit": ["Unique", "Hero", "Cavalry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath", "Gunnar's Oathsworn"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "darkoath-marauders",
+  "name": "Darkoath Marauders",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 1,
+    "save": "5+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Raider Weapons",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Oath of the Marauder",
+      "timing": "Once Per Battle, Any Charge Phase",
+      "description": "These bloodthirsty tribal warriors loudly declare vows of violence and slaughter as they race after their foes.",
+      "effect": "If this unit charged this phase and the unmodified charge roll was 8+, add 1 to the Rend characteristic of this unit's weapons for the rest of the battle."
+    },
+    {
+      "name": "Glorious Death",
+      "timing": "Passive",
+      "description": "Ever keen to earn the favour of their tribe, when the eyes of the fiercest fighters are upon them, these warriors will not go down without a fight.",
+      "effect": "While this unit is wholly within 12\" of any friendly Darkoath Heroes, each time a model in this unit is slain by a combat attack and that model was in combat with the attacking unit, roll a dice. On a 5+, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Musician (1/10)", "Standard Bearer (1/10)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

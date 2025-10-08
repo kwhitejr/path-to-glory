@@ -1,0 +1,70 @@
+{
+  "id": "darkoath-fellriders",
+  "name": "Darkoath Fellriders",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "12\"",
+    "health": 3,
+    "save": "5+",
+    "control": 1
+  },
+  "rangedWeapons": [
+    {
+      "name": "Marauder Javelin",
+      "range": "10\"",
+      "attacks": 1,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": "D3"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Broadsword",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Charge (+1 Damage)"
+    },
+    {
+      "name": "Marauder Javelin",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "4+",
+      "rend": 1,
+      "damage": 1
+    },
+    {
+      "name": "Warsteed's Hooves",
+      "attacks": 2,
+      "hit": "5+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Oath of the Raider",
+      "timing": "Once Per Battle, Any Charge Phase",
+      "description": "Before battle, Fellriders swear oaths to harry the enemy without mercy, showing no mercy to those stragglers who fall beneath their axes.",
+      "effect": "If this unit charged this phase and is only in combat with 1 enemy unit, and that enemy unit is only in combat with this unit, add 1 to the Rend characteristic of this unit's weapons for the rest of the battle."
+    },
+    {
+      "name": "Swift Attackers",
+      "timing": "Passive",
+      "description": "As they close in on the enemy at frightening speed, these skilled horsemen are nigh impossible to hit with missile fire.",
+      "effect": "Subtract 1 from hit rolls for shooting attacks that target this unit."
+    }
+  ],
+  "keywords": {
+    "unit": ["Cavalry", "Champion", "Musician (1/5)", "Standard Bearer (1/5)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

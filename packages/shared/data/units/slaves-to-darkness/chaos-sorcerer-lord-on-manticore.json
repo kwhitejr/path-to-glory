@@ -1,0 +1,54 @@
+{
+  "id": "chaos-sorcerer-lord-on-manticore",
+  "name": "Chaos Sorcerer Lord",
+  "subtitle": "on Manticore",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "12\"",
+    "health": 12,
+    "save": "4+",
+    "control": 5
+  },
+  "meleeWeapons": [
+    {
+      "name": "Sorcerous Reaping Staff",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3"
+    },
+    {
+      "name": "Manticore's Claws and Fangs",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Anti-Monster (+1 Rend), Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Oracular Visions",
+      "timing": "Once Per Turn (Army), Your Hero Phase",
+      "description": "A sorcerer can temporarily bestow the gift of foresight upon their allies, helping them ward against enemy blows.",
+      "declare": "Pick a friendly Warriors of Chaos unit wholly within 12\" of this unit to be the target and roll a dice.",
+      "effect": "On a 3+, the target has Ward (5+) until the start of your next turn."
+    },
+    {
+      "name": "Venomous Tail Strike",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "The barbed tail of a Manticore secretes a paralysing toxin that can stun an enemy long enough for the Manticore to tear into them with impunity.",
+      "declare": "Pick an enemy Monster in combat with this unit to be the target.",
+      "effect": "Roll a dice. On a 3+, the target has Strike-last for the rest of the turn.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Monster", "Wizard (1)", "Fly"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

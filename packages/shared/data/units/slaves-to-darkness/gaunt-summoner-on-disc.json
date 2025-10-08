@@ -1,0 +1,73 @@
+{
+  "id": "gaunt-summoner-on-disc-of-tzeentch",
+  "name": "Gaunt Summoner on Disc of Tzeentch",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "14\"",
+    "health": 6,
+    "save": "4+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Changestaff",
+      "range": "12\"",
+      "attacks": 3,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Crit (Mortal)"
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Warptongue Blade",
+      "attacks": 3,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2
+    },
+    {
+      "name": "Disc's Teeth and Horns",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Minions of the Silver Tower",
+      "timing": "Deployment Phase",
+      "description": "The warped fortresses of the Gaunt Summoners are infested with thrall hosts.",
+      "declare": "Pick a friendly unit that has not been deployed to be the target.",
+      "effect": "The target is set up in reserve in a Silver Tower. It has now been deployed.",
+      "keywords": ["Deploy"]
+    },
+    {
+      "name": "Book of Profane Secrets",
+      "timing": "Your Movement Phase",
+      "description": "Using this arcane tome, the Gaunt Summoner calls forth minions from their Silver Tower.",
+      "declare": "Pick a friendly unit in a Silver Tower to be the target.",
+      "effect": "Set up the target on the battlefield wholly within 12\" of this unit and more than 9\" from all enemy units."
+    },
+    {
+      "name": "Arcane Imprisonment",
+      "timing": "Your Hero Phase",
+      "description": "Gaunt Summoners delight in banishing their foes to their Silver Towers.",
+      "declare": "Pick an enemy Hero in combat with this unit to be the target, then make a casting roll of 2D6.",
+      "effect": "If the unmodified casting roll exceeds the target's Health characteristic, it is automatically destroyed. For the rest of the battle, that unit cannot be picked to be the target of an ability that allows a replacement unit to be set up.",
+      "keywords": ["Spell"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Wizard (2)", "Cavalry", "Fly", "Ward (6+)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Daemon", "Tzeentch"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

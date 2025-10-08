@@ -1,0 +1,52 @@
+{
+  "id": "darkoath-chieftain-on-warsteed",
+  "name": "Darkoath Chieftain",
+  "subtitle": "on Warsteed",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "12\"",
+    "health": 7,
+    "save": "4+",
+    "control": 2
+  },
+  "meleeWeapons": [
+    {
+      "name": "Darkoath Cursed Weapon",
+      "attacks": 5,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 2,
+      "ability": "Crit (Mortal)"
+    },
+    {
+      "name": "Warsteed's Hooves",
+      "attacks": 2,
+      "hit": "5+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Companion"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Cavalry Warleader",
+      "timing": "Passive",
+      "description": "The Darkoath Chieftain leads the cavalry swiftly into the enemy ranks.",
+      "effect": "You can re-roll charge rolls for friendly Darkoath Cavalry units while they are wholly within 12\" of this unit."
+    },
+    {
+      "name": "Oath of Murder",
+      "timing": "Once Per Battle, End of Any Turn",
+      "description": "Darkoath Chieftains offer up the souls of enemy lords and champions in exchange for divine power.",
+      "effect": "If this unit destroyed an enemy Hero or Monster this turn, this unit has Strike-first for the rest of the battle."
+    }
+  ],
+  "keywords": {
+    "unit": ["Hero", "Cavalry"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

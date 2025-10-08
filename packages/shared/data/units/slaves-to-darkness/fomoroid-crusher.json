@@ -1,0 +1,49 @@
+{
+  "id": "fomoroid-crusher",
+  "name": "Fomoroid Crusher",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "6\"",
+    "health": 8,
+    "save": "5+",
+    "control": 2
+  },
+  "rangedWeapons": [
+    {
+      "name": "Hurled Terrain",
+      "range": "12\"",
+      "attacks": "D3",
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": 2
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "name": "Crushing Fists and Swinging Masonry",
+      "attacks": 6,
+      "hit": "4+",
+      "wound": "2+",
+      "rend": 1,
+      "damage": "D3",
+      "ability": "Crit (2 Hits)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Cursed Destroyers",
+      "timing": "Once Per Turn (Army), Any Combat Phase",
+      "description": "Once skilled masons, these creatures have been cursed by the Everchosen to now live only to destroy.",
+      "declare": "Pick a terrain feature within 1\" of this unit, then pick each other unit (friendly and enemy) within 3\" of that terrain feature to be the targets.",
+      "effect": "Roll a D3 for each target. On a 2+, inflict an amount of mortal damage on the target equal to the roll.",
+      "keywords": ["Rampage"]
+    }
+  ],
+  "keywords": {
+    "unit": ["Monster"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

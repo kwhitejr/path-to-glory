@@ -1,0 +1,36 @@
+{
+  "id": "chaos-warriors",
+  "name": "Chaos Warriors",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 2,
+    "save": "3+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Rune-etched Weapons",
+      "attacks": 2,
+      "hit": "3+",
+      "wound": "3+",
+      "rend": 1,
+      "damage": 1,
+      "ability": "Crit (Auto-wound)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Bringers of Desolation",
+      "timing": "Passive",
+      "description": "Chaos Warriors fight with relentless ferocity in those places consecrated to the Dark Gods.",
+      "effect": "Add 1 to the Attacks characteristic of this unit's Rune-etched Weapons while it is contesting an objective you control."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion", "Musician (1/10)", "Standard Bearer (1/10)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}

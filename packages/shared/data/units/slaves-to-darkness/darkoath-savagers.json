@@ -1,0 +1,36 @@
+{
+  "id": "darkoath-savagers",
+  "name": "Darkoath Savagers",
+  "factionId": "slaves-to-darkness",
+  "characteristics": {
+    "move": "5\"",
+    "health": 1,
+    "save": "5+",
+    "control": 1
+  },
+  "meleeWeapons": [
+    {
+      "name": "Darkoath Weapons",
+      "attacks": 2,
+      "hit": "4+",
+      "wound": "3+",
+      "rend": "-",
+      "damage": 1,
+      "ability": "Crit (Mortal)"
+    }
+  ],
+  "abilities": [
+    {
+      "name": "Oath of Conquest",
+      "timing": "Once Per Battle, Any Hero Phase",
+      "description": "Heeding their Godspeaker's proclamations, these warriors seek to earn glory by driving back the enemy.",
+      "effect": "If this unit is contesting an objective you control that is wholly within enemy territory, this unit has Ward (5+) for the rest of the battle."
+    }
+  ],
+  "keywords": {
+    "unit": ["Infantry", "Champion (1/10)"],
+    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath"]
+  },
+  "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
+  "extractedAt": "2025-10-07T00:00:00Z"
+}
