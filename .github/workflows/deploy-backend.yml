@@ -119,17 +119,45 @@ jobs:
           cd infrastructure/backend
           GRAPHQL_URL=$(terraform output -raw graphql_url)
           echo "Testing GraphQL endpoint: $GRAPHQL_URL"
+          echo ""
 
-          RESPONSE=$(curl -s -X POST "$GRAPHQL_URL" \
-            -H "Content-Type: application/json" \
-            -d '{"query":"{ factions { id name } }"}')
+          # Wait for DNS propagation and API Gateway to be ready
+          echo "Waiting for API Gateway to be ready (up to 5 minutes)..."
+          MAX_RETRIES=10
+          RETRY_DELAY=30
 
-          echo "Response: $RESPONSE"
+          for i in $(seq 1 $MAX_RETRIES); do
+            echo "Attempt $i/$MAX_RETRIES..."
 
-          # Check if response contains data
-          if echo "$RESPONSE" | grep -q '"data"'; then
-            echo "✅ Smoke test passed!"
-          else
-            echo "❌ Smoke test failed!"
-            exit 1
-          fi
+            # Use -f to fail on HTTP errors, -s for silent, -S to show errors
+            RESPONSE=$(curl -f -s -S -X POST "$GRAPHQL_URL" \
+              -H "Content-Type: application/json" \
+              -d '{"query":"{ factions { id name } }"}' 2>&1) && SUCCESS=true || SUCCESS=false
+
+            if [ "$SUCCESS" = true ]; then
+              echo "Response: $RESPONSE"
+
+              # Check if response contains data
+              if echo "$RESPONSE" | grep -q '"data"'; then
+                echo ""
+                echo "✅ Smoke test passed!"
+                exit 0
+              else
+                echo "⚠️  Got response but no data field. Response: $RESPONSE"
+              fi
+            else
+              echo "⚠️  Request failed: $RESPONSE"
+            fi
+
+            if [ $i -lt $MAX_RETRIES ]; then
+              echo "Waiting ${RETRY_DELAY}s before retry..."
+              sleep $RETRY_DELAY
+            fi
+          done
+
+          echo ""
+          echo "❌ Smoke test failed after $MAX_RETRIES attempts"
+          echo "This may be due to DNS propagation delay or API Gateway setup."
+          echo "The deployment was successful - try testing manually in a few minutes:"
+          echo "  curl -X POST $GRAPHQL_URL -H 'Content-Type: application/json' -d '{\"query\":\"{ factions { id name } }\"}'"
+          exit 1
