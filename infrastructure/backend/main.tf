@@ -11,7 +11,7 @@ terraform {
   backend "s3" {
     bucket         = "ptg-terraform-state"
     key            = "backend/terraform.tfstate"
-    region         = "us-east-1"
+    region         = "us-west-2"
     dynamodb_table = "ptg-terraform-locks"
     encrypt        = true
   }
@@ -137,7 +137,8 @@ resource "aws_iam_role_policy" "lambda_dynamodb" {
 
 resource "aws_iam_role_policy_attachment" "lambda_basic" {
   policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
-  role       = aws_iam_role.lambda_exec.name}
+  role       = aws_iam_role.lambda_exec.name
+}
 
 # Lambda Function
 resource "aws_lambda_function" "graphql" {
