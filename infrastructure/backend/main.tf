@@ -9,10 +9,10 @@ terraform {
   }
 
   backend "s3" {
-    bucket         = "ptg-terraform-state"
-    key            = "backend/terraform.tfstate"
-    region         = "us-west-2"
-    dynamodb_table = "ptg-terraform-locks"
+    bucket         = "kwhitejr-terraform-state"
+    key            = "path-to-glory/backend/terraform.tfstate"
+    region         = "us-east-1"
+    dynamodb_table = "terraform-state-lock"
     encrypt        = true
   }
 }
