@@ -1,51 +1,7 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { getAllFactions, type FactionData } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
-
-// Mock data for now - will be replaced with GraphQL query
-const mockArmies = [
-  {
-    id: '1',
-    name: 'The Crimson Host',
-    factionId: 'flesh-eater-courts',
-    playerId: 'player1',
-    playerName: 'Alice',
-    playerPicture: 'https://i.pravatar.cc/150?img=1',
-    glory: 12,
-    renown: 3,
-  },
-  {
-    id: '2',
-    name: 'Bone Legion',
-    factionId: 'ossiarch-bonereapers',
-    playerId: 'player1',
-    playerName: 'Alice',
-    playerPicture: 'https://i.pravatar.cc/150?img=1',
-    glory: 8,
-    renown: 2,
-  },
-  {
-    id: '3',
-    name: 'Dark Covenant',
-    factionId: 'slaves-to-darkness',
-    playerId: 'player2',
-    playerName: 'Bob',
-    playerPicture: 'https://i.pravatar.cc/150?img=12',
-    glory: 15,
-    renown: 4,
-  },
-  {
-    id: '4',
-    name: 'Ghoul Court',
-    factionId: 'flesh-eater-courts',
-    playerId: 'player3',
-    playerName: 'Charlie',
-    playerPicture: undefined, // No profile picture
-    glory: 6,
-    renown: 1,
-  },
-];
 
 type ViewMode = 'mine' | 'all';
 
@@ -53,6 +9,15 @@ export default function ArmyListPage() {
   const { user } = useAuth();
   const factions = getAllFactions();
   const factionsMap = Object.fromEntries(factions.map((f: FactionData) => [f.id, f]));
+
+  // Load armies from localStorage
+  const [allArmies, setAllArmies] = useState<any[]>([]);
+
+  useEffect(() => {
+    // TODO: Replace with GraphQL query when backend is ready
+    const storedArmies = JSON.parse(localStorage.getItem('armies') || '[]');
+    setAllArmies(storedArmies);
+  }, []);
 
   const [viewMode, setViewMode] = useState<ViewMode>('mine');
   const [selectedGrandAlliance, setSelectedGrandAlliance] = useState<string>('all');
@@ -67,15 +32,15 @@ export default function ArmyListPage() {
 
   const players = useMemo(() => {
     const playerMap = new Map<string, string>();
-    mockArmies.forEach((army) => {
+    allArmies.forEach((army) => {
       playerMap.set(army.playerId, army.playerName);
     });
     return Array.from(playerMap.entries()).map(([id, name]) => ({ id, name }));
-  }, []);
+  }, [allArmies]);
 
   // Filter armies
   const filteredArmies = useMemo(() => {
-    let result = mockArmies;
+    let result = allArmies;
 
     // Filter by view mode (mine vs all)
     if (viewMode === 'mine' && user) {
@@ -101,7 +66,7 @@ export default function ArmyListPage() {
     }
 
     return result;
-  }, [viewMode, selectedGrandAlliance, selectedFaction, selectedPlayer, factionsMap, user]);
+  }, [viewMode, selectedGrandAlliance, selectedFaction, selectedPlayer, factionsMap, user, allArmies]);
 
   // Reset filters when switching view mode
   const handleViewModeChange = (mode: ViewMode) => {
@@ -116,9 +81,11 @@ export default function ArmyListPage() {
       {/* Header with action button */}
       <div className="flex justify-between items-center">
         <h2 className="text-2xl font-bold">Armies</h2>
-        <Link to="/armies/new" className="btn-primary">
-          + New Army
-        </Link>
+        {user && (
+          <Link to="/armies/new" className="btn-primary">
+            + New Army
+          </Link>
+        )}
       </div>
 
       {/* View mode toggle */}
@@ -218,7 +185,7 @@ export default function ArmyListPage() {
           (viewMode === 'all' && selectedPlayer !== 'all')) && (
           <div className="mt-3 pt-3 border-t flex items-center justify-between">
             <p className="text-sm text-gray-600">
-              Showing {filteredArmies.length} of {mockArmies.length} armies
+              Showing {filteredArmies.length} of {allArmies.length} armies
             </p>
             <button
               onClick={() => {
@@ -236,12 +203,21 @@ export default function ArmyListPage() {
 
       {/* Army list - mobile-optimized cards */}
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {filteredArmies.length === 0 ? (
+        {!user && viewMode === 'mine' ? (
+          <div className="col-span-full text-center py-12">
+            <p className="text-gray-500 mb-4">
+              Please sign in to view and create your armies
+            </p>
+            <button onClick={() => window.location.reload()} className="btn-primary">
+              Refresh Page After Sign In
+            </button>
+          </div>
+        ) : filteredArmies.length === 0 ? (
           <div className="col-span-full text-center py-12">
             <p className="text-gray-500 mb-4">
               {viewMode === 'mine' ? 'No armies yet' : 'No armies match your filters'}
             </p>
-            {viewMode === 'mine' && (
+            {viewMode === 'mine' && user && (
               <Link to="/armies/new" className="btn-primary">
                 Create Your First Army
               </Link>

@@ -1,11 +1,22 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { getAllFactions, getUnitsByFaction, type UnitWarscroll } from '@path-to-glory/shared';
 import UnitSelector, { SelectedUnit } from '../components/UnitSelector';
+import { useAuth } from '../contexts/AuthContext';
 
 export default function CreateArmyPage() {
   const navigate = useNavigate();
+  const { user, loading } = useAuth();
   const factions = getAllFactions();
+
+  // Redirect to login if not authenticated
+  useEffect(() => {
+    if (!loading && !user) {
+      // User is not authenticated, redirect to armies list
+      // The armies list will show a message to sign in
+      navigate('/armies');
+    }
+  }, [user, loading, navigate]);
 
   const [formData, setFormData] = useState({
     name: '',
@@ -18,9 +29,43 @@ export default function CreateArmyPage() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: GraphQL mutation to create army
+
+    if (!user) {
+      alert('You must be logged in to create an army');
+      return;
+    }
+
+    // Generate a unique ID for the army
+    const armyId = `army-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+
+    const selectedFaction = factions.find((f) => f.id === formData.factionId);
+
+    // Create the army object
+    const newArmy = {
+      id: armyId,
+      name: formData.name,
+      factionId: formData.factionId,
+      realmOfOrigin: formData.realmOfOrigin,
+      background: formData.background,
+      playerId: user.id,
+      playerName: user.name,
+      playerPicture: user.picture,
+      glory: selectedFaction?.startingGlory || 0,
+      renown: selectedFaction?.startingRenown || 0,
+      units: selectedUnits,
+      createdAt: new Date().toISOString(),
+    };
+
+    // TODO: Replace with GraphQL mutation when backend is ready
+    // For now, store in localStorage
+    const existingArmies = JSON.parse(localStorage.getItem('armies') || '[]');
+    existingArmies.push(newArmy);
+    localStorage.setItem('armies', JSON.stringify(existingArmies));
+
     console.log('Creating army:', formData);
     console.log('With units:', selectedUnits);
+    console.log('Army saved to localStorage:', newArmy);
+
     navigate('/armies');
   };
 
