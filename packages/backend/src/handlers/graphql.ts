@@ -1,24 +1,9 @@
 import { ApolloServer } from '@apollo/server';
 import { startServerAndCreateLambdaHandler, handlers } from '@as-integrations/aws-lambda';
-import { readFileSync } from 'fs';
-import { fileURLToPath } from 'url';
-import { dirname, join } from 'path';
 import { resolvers } from '../resolvers/index.js';
 import { GraphQLContext, getUserFromToken } from '../auth/context.js';
 import { UserRepository } from '../repositories/UserRepository.js';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
-
-// Load GraphQL schema - try local copy first (Lambda), fallback to shared package (local dev)
-let typeDefs: string;
-try {
-  const localSchemaPath = join(__dirname, '../schema.graphql');
-  typeDefs = readFileSync(localSchemaPath, 'utf-8');
-} catch {
-  const sharedSchemaPath = join(__dirname, '../../../shared/src/schema/schema.graphql');
-  typeDefs = readFileSync(sharedSchemaPath, 'utf-8');
-}
+import typeDefs from '../../../shared/src/schema/schema.graphql';
 
 const server = new ApolloServer<GraphQLContext>({
   typeDefs,

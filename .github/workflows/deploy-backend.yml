@@ -48,10 +48,7 @@ jobs:
         run: |
           cd packages/backend
 
-          # Copy GraphQL schema to dist
-          cp ../shared/src/schema/schema.graphql dist/schema.graphql
-
-          # Create deployment package from bundled code
+          # Create deployment package from bundled code (schema is inlined by esbuild)
           cd dist
           zip -r ../lambda.zip .
 
