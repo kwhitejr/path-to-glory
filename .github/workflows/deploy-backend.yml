@@ -56,13 +56,12 @@ jobs:
           # Copy GraphQL schema
           cp ../shared/src/schema/schema.graphql package/schema.graphql
 
-          # Copy package.json and package-lock.json for production install
-          cp package.json package/
-          cp package-lock.json package/ 2>/dev/null || true
+          # Create a production package.json (without local workspace deps)
+          cat package.json | jq 'del(.devDependencies)' > package/package.json
 
           # Install production dependencies in the package directory
           cd package
-          npm install --production --no-package-lock
+          npm install --omit=dev --no-package-lock
 
           # Create the deployment zip
           zip -r ../lambda.zip .
