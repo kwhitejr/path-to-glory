@@ -165,7 +165,7 @@ npm run dev -w @path-to-glory/frontend
 See `infrastructure/frontend/README.md` for manual deployment steps.
 
 ### Backend Deployment
-- **URL**: https://api.ptg.kwhitejr.com/graphql (future)
+- **URL**: https://api.kwhitejr.com/graphql (future)
 - **Infrastructure**: Terraform (in `infrastructure/backend/`) - not yet implemented
 - **Hosting**: AWS Lambda + API Gateway
 

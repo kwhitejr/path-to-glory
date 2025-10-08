@@ -153,7 +153,7 @@ infrastructure/backend/
 
 ## GraphQL Endpoint
 
-**Production:** https://api.ptg.kwhitejr.com/graphql
+**Production:** https://api.kwhitejr.com/graphql
 **Local Dev:** http://localhost:4000/graphql
 
 ## Dependencies
@@ -259,7 +259,7 @@ terraform apply
 ### Verify
 
 ```bash
-curl -X POST https://api.ptg.kwhitejr.com/graphql \
+curl -X POST https://api.kwhitejr.com/graphql \
   -H "Content-Type: application/json" \
   -d '{"query":"{ factions { id name } }"}'
 ```

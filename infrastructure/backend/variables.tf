@@ -7,7 +7,7 @@ variable "aws_region" {
 variable "api_domain_name" {
   description = "Domain name for the API"
   type        = string
-  default     = "api.ptg.kwhitejr.com"
+  default     = "api.kwhitejr.com"
 }
 
 variable "root_domain" {

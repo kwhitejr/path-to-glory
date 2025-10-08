@@ -247,14 +247,14 @@ resource "aws_lambda_permission" "api_gateway" {
   source_arn    = "${aws_apigatewayv2_api.main.execution_arn}/*/*"
 }
 
-# Custom Domain (using api.ptg.kwhitejr.com)
+# Custom Domain (using api.kwhitejr.com)
 data "aws_route53_zone" "main" {
   name         = var.root_domain
   private_zone = false
 }
 
 data "aws_acm_certificate" "main" {
-  domain      = "*.${var.root_domain}"
+  domain      = var.api_domain_name
   statuses    = ["ISSUED"]
   most_recent = true
 }

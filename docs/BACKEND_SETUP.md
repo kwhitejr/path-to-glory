@@ -7,7 +7,7 @@ Complete guide to setting up and running the Path to Glory backend locally and i
 The backend is a GraphQL API built with:
 - **Apollo Server** - GraphQL server
 - **AWS Lambda** - Serverless compute
-- **API Gateway HTTP API** - GraphQL endpoint at `https://api.ptg.kwhitejr.com/graphql`
+- **API Gateway HTTP API** - GraphQL endpoint at `https://api.kwhitejr.com/graphql`
 - **DynamoDB** - Single-table data storage
 - **Cognito** - JWT authentication
 
@@ -258,7 +258,7 @@ cd infrastructure/backend
 terraform output graphql_url
 
 # Test endpoint
-curl -X POST https://api.ptg.kwhitejr.com/graphql \
+curl -X POST https://api.kwhitejr.com/graphql \
   -H "Content-Type: application/json" \
   -d '{"query":"{ factions { id name } }"}'
 ```
