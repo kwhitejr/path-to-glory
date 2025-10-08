@@ -9,6 +9,7 @@ on:
       - 'packages/shared/**'
       - 'infrastructure/backend/**'
       - '.github/workflows/deploy-backend.yml'
+      - 'package-lock.json'
   workflow_dispatch:
 
 env:
