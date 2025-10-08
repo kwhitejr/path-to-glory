@@ -10,9 +10,15 @@ import { UserRepository } from '../repositories/UserRepository.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-// Load GraphQL schema from shared package
-const schemaPath = join(__dirname, '../../../shared/src/schema/schema.graphql');
-const typeDefs = readFileSync(schemaPath, 'utf-8');
+// Load GraphQL schema - try local copy first (Lambda), fallback to shared package (local dev)
+let typeDefs: string;
+try {
+  const localSchemaPath = join(__dirname, '../schema.graphql');
+  typeDefs = readFileSync(localSchemaPath, 'utf-8');
+} catch {
+  const sharedSchemaPath = join(__dirname, '../../../shared/src/schema/schema.graphql');
+  typeDefs = readFileSync(sharedSchemaPath, 'utf-8');
+}
 
 const server = new ApolloServer<GraphQLContext>({
   typeDefs,
