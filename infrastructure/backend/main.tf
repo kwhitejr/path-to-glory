@@ -145,6 +145,8 @@ resource "aws_lambda_function" "graphql" {
   function_name = "path-to-glory-graphql"
   role          = aws_iam_role.lambda_exec.arn
   handler       = "index.handler"
+
+  # Package type must be Zip for handler-based invocation
   runtime       = "nodejs20.x"
   timeout       = 30
   memory_size   = 512
