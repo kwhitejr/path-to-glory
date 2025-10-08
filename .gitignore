@@ -46,6 +46,7 @@ yarn-error.log*
 # Local development
 .serverless/
 .dynamodb/
+.claude/settings.local.json
 
 # Python
 .venv/

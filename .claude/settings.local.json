@@ -18,7 +18,12 @@
       "Bash(npm outdated:*)",
       "Bash(npm view:*)",
       "Bash(aws:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(python scripts/extract_pdf_text.py:*)"
     ],
     "deny": [],
     "ask": []
