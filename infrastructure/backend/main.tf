@@ -247,23 +247,55 @@ resource "aws_lambda_permission" "api_gateway" {
   source_arn    = "${aws_apigatewayv2_api.main.execution_arn}/*/*"
 }
 
-# Custom Domain (using api.kwhitejr.com)
+# Custom Domain (using api.ptg.kwhitejr.com)
 data "aws_route53_zone" "main" {
   name         = var.root_domain
   private_zone = false
 }
 
-data "aws_acm_certificate" "main" {
-  domain      = var.api_domain_name
-  statuses    = ["ISSUED"]
-  most_recent = true
+# Create ACM certificate for API subdomain
+resource "aws_acm_certificate" "api" {
+  domain_name       = var.api_domain_name
+  validation_method = "DNS"
+
+  lifecycle {
+    create_before_destroy = true
+  }
+
+  tags = {
+    Name = "path-to-glory-api"
+  }
+}
+
+# DNS validation records
+resource "aws_route53_record" "api_cert_validation" {
+  for_each = {
+    for dvo in aws_acm_certificate.api.domain_validation_options : dvo.domain_name => {
+      name   = dvo.resource_record_name
+      record = dvo.resource_record_value
+      type   = dvo.resource_record_type
+    }
+  }
+
+  allow_overwrite = true
+  name            = each.value.name
+  records         = [each.value.record]
+  ttl             = 60
+  type            = each.value.type
+  zone_id         = data.aws_route53_zone.main.zone_id
+}
+
+# Wait for certificate validation
+resource "aws_acm_certificate_validation" "api" {
+  certificate_arn         = aws_acm_certificate.api.arn
+  validation_record_fqdns = [for record in aws_route53_record.api_cert_validation : record.fqdn]
 }
 
 resource "aws_apigatewayv2_domain_name" "main" {
   domain_name = var.api_domain_name
 
   domain_name_configuration {
-    certificate_arn = data.aws_acm_certificate.main.arn
+    certificate_arn = aws_acm_certificate_validation.api.certificate_arn
     endpoint_type   = "REGIONAL"
     security_policy = "TLS_1_2"
   }

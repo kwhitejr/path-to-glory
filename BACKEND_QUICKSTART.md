@@ -193,7 +193,7 @@ terraform apply
 ### Verify Production
 
 ```bash
-curl -X POST https://api.kwhitejr.com/graphql \
+curl -X POST https://api.ptg.kwhitejr.com/graphql \
   -H "Content-Type: application/json" \
   -d '{"query":"{ factions { id name } }"}'
 ```

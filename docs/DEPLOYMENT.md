@@ -187,7 +187,7 @@ aws cloudfront create-invalidation \
 ## Production URLs
 
 - **Frontend**: https://ptg.kwhitejr.com
-- **Backend** (future): https://api.kwhitejr.com/graphql
+- **Backend** (future): https://api.ptg.kwhitejr.com/graphql
 
 ## Security
 
