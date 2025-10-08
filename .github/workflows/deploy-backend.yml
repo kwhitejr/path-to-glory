@@ -40,30 +40,18 @@ jobs:
       - name: Build shared package
         run: npm run build -w @path-to-glory/shared
 
-      - name: Build backend
-        run: npm run build -w @path-to-glory/backend
+      - name: Bundle backend with esbuild
+        run: npm run bundle -w @path-to-glory/backend
 
       - name: Package Lambda function
         run: |
           cd packages/backend
 
-          # Create a clean packaging directory
-          mkdir -p package
+          # Copy GraphQL schema to dist
+          cp ../shared/src/schema/schema.graphql dist/schema.graphql
 
-          # Copy compiled code
-          cp -r dist/* package/
-
-          # Copy GraphQL schema
-          cp ../shared/src/schema/schema.graphql package/schema.graphql
-
-          # Create a production package.json (without local workspace deps)
-          cat package.json | jq 'del(.devDependencies)' > package/package.json
-
-          # Install production dependencies in the package directory
-          cd package
-          npm install --omit=dev --no-package-lock
-
-          # Create the deployment zip
+          # Create deployment package from bundled code
+          cd dist
           zip -r ../lambda.zip .
 
           cd ..
@@ -71,7 +59,7 @@ jobs:
 
           # Verify contents
           echo "Package contents:"
-          unzip -l lambda.zip | head -30
+          unzip -l lambda.zip
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4

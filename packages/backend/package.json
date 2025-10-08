@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
+    "bundle": "esbuild src/handlers/graphql.ts --bundle --platform=node --target=node20 --format=esm --outfile=dist/index.js --external:@aws-sdk/* --banner:js=\"import { createRequire } from 'module'; const require = createRequire(import.meta.url);\"",
     "dev": "serverless offline start",
     "deploy": "serverless deploy",
     "test": "jest",
@@ -27,6 +28,7 @@
     "@types/jest": "^29.5.11",
     "@types/node": "^20.11.5",
     "@types/uuid": "^9.0.7",
+    "esbuild": "^0.19.11",
     "jest": "^29.7.0",
     "serverless": "^3.38.0",
     "serverless-dynamodb": "^0.2.47",

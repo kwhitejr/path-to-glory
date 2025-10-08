@@ -144,7 +144,7 @@ resource "aws_iam_role_policy_attachment" "lambda_basic" {
 resource "aws_lambda_function" "graphql" {
   function_name = "path-to-glory-graphql"
   role          = aws_iam_role.lambda_exec.arn
-  handler       = "dist/handlers/graphql.handler"
+  handler       = "index.handler"
   runtime       = "nodejs20.x"
   timeout       = 30
   memory_size   = 512
