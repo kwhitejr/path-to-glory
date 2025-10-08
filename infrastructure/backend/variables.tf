@@ -4,10 +4,16 @@ variable "aws_region" {
   default     = "us-east-1"
 }
 
-variable "domain_name" {
+variable "api_domain_name" {
   description = "Domain name for the API"
   type        = string
-  default     = "ptg.kwhitejr.com"
+  default     = "api.ptg.kwhitejr.com"
+}
+
+variable "root_domain" {
+  description = "Root domain name for Route53 zone lookup"
+  type        = string
+  default     = "kwhitejr.com"
 }
 
 variable "dynamodb_table_name" {
@@ -43,7 +49,7 @@ variable "enable_mock_data" {
 variable "cors_allowed_origins" {
   description = "CORS allowed origins"
   type        = list(string)
-  default     = ["https://ptg.kwhitejr.com", "http://localhost:5173"]
+  default     = ["https://ptg.kwhitejr.com", "http://localhost:5173", "http://localhost:3000"]
 }
 
 variable "billing_alert_threshold" {

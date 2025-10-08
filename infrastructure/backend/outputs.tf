@@ -5,7 +5,7 @@ output "api_endpoint" {
 
 output "graphql_url" {
   description = "GraphQL endpoint URL"
-  value       = "https://${var.domain_name}/graphql"
+  value       = "https://${var.api_domain_name}/graphql"
 }
 
 output "dynamodb_table_name" {

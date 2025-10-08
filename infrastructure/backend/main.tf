@@ -247,20 +247,20 @@ resource "aws_lambda_permission" "api_gateway" {
   source_arn    = "${aws_apigatewayv2_api.main.execution_arn}/*/*"
 }
 
-# Custom Domain (using existing ptg.kwhitejr.com)
+# Custom Domain (using api.ptg.kwhitejr.com)
 data "aws_route53_zone" "main" {
-  name         = "kwhitejr.com"
+  name         = var.root_domain
   private_zone = false
 }
 
 data "aws_acm_certificate" "main" {
-  domain      = var.domain_name
+  domain      = "*.${var.root_domain}"
   statuses    = ["ISSUED"]
   most_recent = true
 }
 
 resource "aws_apigatewayv2_domain_name" "main" {
-  domain_name = var.domain_name
+  domain_name = var.api_domain_name
 
   domain_name_configuration {
     certificate_arn = data.aws_acm_certificate.main.arn
@@ -278,7 +278,7 @@ resource "aws_apigatewayv2_api_mapping" "main" {
 
 resource "aws_route53_record" "api" {
   zone_id = data.aws_route53_zone.main.zone_id
-  name    = var.domain_name
+  name    = var.api_domain_name
   type    = "A"
 
   alias {

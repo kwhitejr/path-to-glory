@@ -4,7 +4,7 @@ Terraform configuration for the Path to Glory GraphQL API backend.
 
 ## Architecture
 
-- **API Gateway HTTP API**: Entry point at `https://ptg.kwhitejr.com/graphql`
+- **API Gateway HTTP API**: Entry point at `https://api.ptg.kwhitejr.com/graphql`
 - **Lambda Function**: GraphQL server (Apollo Server on Node.js 20)
 - **DynamoDB**: Single-table design for all data storage
 - **Cognito**: JWT authentication (using existing user pool)
@@ -66,7 +66,7 @@ See `packages/backend/README.md` for local development with serverless-offline.
 
 After deployment, Terraform will output:
 
-- `graphql_url`: GraphQL endpoint (https://ptg.kwhitejr.com/graphql)
+- `graphql_url`: GraphQL endpoint (https://api.ptg.kwhitejr.com/graphql)
 - `api_endpoint`: Raw API Gateway endpoint
 - `dynamodb_table_name`: Table name for local development
 - `lambda_function_name`: For CloudWatch logs
