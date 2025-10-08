@@ -41,6 +41,7 @@ export interface ArmyItem extends BaseItem {
 export interface UnitItem extends BaseItem {
   type: 'UNIT';
   id: string;
+  campaignId: string;
   armyId: string;
   unitTypeId: string;
   name: string;

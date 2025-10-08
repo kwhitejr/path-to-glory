@@ -3,12 +3,14 @@ import { requireAuth, requireOwnership } from '../auth/guards.js';
 import { ArmyRepository } from '../repositories/ArmyRepository.js';
 import { CampaignRepository } from '../repositories/CampaignRepository.js';
 import { UserRepository } from '../repositories/UserRepository.js';
+import { UnitRepository } from '../repositories/UnitRepository.js';
 import { getAllFactions, getFactionById } from '@path-to-glory/shared';
 
 // Initialize repositories
 const armyRepo = new ArmyRepository();
 const campaignRepo = new CampaignRepository();
 const userRepo = new UserRepository();
+const unitRepo = new UnitRepository();
 
 export const resolvers = {
   Query: {
@@ -220,6 +222,212 @@ export const resolvers = {
         updatedAt: army.updatedAt,
       };
     },
+
+    addUnit: async (
+      _: any,
+      {
+        armyId,
+        input,
+      }: {
+        armyId: string;
+        input: {
+          unitTypeId: string;
+          name: string;
+          size: number;
+          wounds: number;
+        };
+      },
+      context: GraphQLContext
+    ) => {
+      requireAuth(context);
+
+      // Find army to get campaignId and verify ownership
+      const armies = await armyRepo.findByPlayerId(context.user.cognitoId);
+      const army = armies.find(a => a.id === armyId);
+
+      if (!army) {
+        throw new Error('Army not found');
+      }
+
+      requireOwnership(context, army.playerId);
+
+      const unit = await unitRepo.create({
+        campaignId: army.campaignId,
+        armyId,
+        unitTypeId: input.unitTypeId,
+        name: input.name,
+        size: input.size,
+        wounds: input.wounds,
+      });
+
+      return {
+        id: unit.id,
+        campaignId: unit.campaignId,
+        armyId: unit.armyId,
+        unitTypeId: unit.unitTypeId,
+        name: unit.name,
+        size: unit.size,
+        wounds: unit.wounds,
+        veteranAbilities: unit.veteranAbilities,
+        injuries: unit.injuries,
+        enhancements: unit.enhancements,
+        createdAt: unit.createdAt,
+        updatedAt: unit.updatedAt,
+      };
+    },
+
+    updateUnit: async (
+      _: any,
+      {
+        id,
+        input,
+      }: {
+        id: string;
+        input: {
+          name?: string;
+          size?: number;
+          wounds?: number;
+          veteranAbilities?: string[];
+          injuries?: string[];
+          enhancements?: string[];
+        };
+      },
+      context: GraphQLContext
+    ) => {
+      requireAuth(context);
+
+      // We need to find the unit's army to verify ownership and get campaignId
+      // This requires querying all user's armies and their units
+      const armies = await armyRepo.findByPlayerId(context.user.cognitoId);
+
+      let unitArmy = null;
+      for (const army of armies) {
+        const units = await unitRepo.findByArmyId(army.campaignId, army.id);
+        const foundUnit = units.find(u => u.id === id);
+        if (foundUnit) {
+          unitArmy = { army, unit: foundUnit };
+          break;
+        }
+      }
+
+      if (!unitArmy) {
+        throw new Error('Unit not found');
+      }
+
+      requireOwnership(context, unitArmy.army.playerId);
+
+      const unit = await unitRepo.update(
+        unitArmy.army.campaignId,
+        unitArmy.army.id,
+        id,
+        input
+      );
+
+      return {
+        id: unit.id,
+        campaignId: unit.campaignId,
+        armyId: unit.armyId,
+        unitTypeId: unit.unitTypeId,
+        name: unit.name,
+        size: unit.size,
+        wounds: unit.wounds,
+        veteranAbilities: unit.veteranAbilities,
+        injuries: unit.injuries,
+        enhancements: unit.enhancements,
+        createdAt: unit.createdAt,
+        updatedAt: unit.updatedAt,
+      };
+    },
+
+    removeUnit: async (
+      _: any,
+      { id }: { id: string },
+      context: GraphQLContext
+    ) => {
+      requireAuth(context);
+
+      // Find the unit's army to verify ownership and get IDs
+      const armies = await armyRepo.findByPlayerId(context.user.cognitoId);
+
+      let unitArmy = null;
+      for (const army of armies) {
+        const units = await unitRepo.findByArmyId(army.campaignId, army.id);
+        const foundUnit = units.find(u => u.id === id);
+        if (foundUnit) {
+          unitArmy = { army, unit: foundUnit };
+          break;
+        }
+      }
+
+      if (!unitArmy) {
+        throw new Error('Unit not found');
+      }
+
+      requireOwnership(context, unitArmy.army.playerId);
+
+      await unitRepo.delete(
+        unitArmy.army.campaignId,
+        unitArmy.army.id,
+        id
+      );
+
+      return true;
+    },
+
+    addVeteranAbility: async (
+      _: any,
+      {
+        unitId,
+        ability,
+      }: {
+        unitId: string;
+        ability: string;
+      },
+      context: GraphQLContext
+    ) => {
+      requireAuth(context);
+
+      // Find the unit's army to verify ownership and get IDs
+      const armies = await armyRepo.findByPlayerId(context.user.cognitoId);
+
+      let unitArmy = null;
+      for (const army of armies) {
+        const units = await unitRepo.findByArmyId(army.campaignId, army.id);
+        const foundUnit = units.find(u => u.id === unitId);
+        if (foundUnit) {
+          unitArmy = { army, unit: foundUnit };
+          break;
+        }
+      }
+
+      if (!unitArmy) {
+        throw new Error('Unit not found');
+      }
+
+      requireOwnership(context, unitArmy.army.playerId);
+
+      const unit = await unitRepo.addVeteranAbility(
+        unitArmy.army.campaignId,
+        unitArmy.army.id,
+        unitId,
+        ability
+      );
+
+      return {
+        id: unit.id,
+        campaignId: unit.campaignId,
+        armyId: unit.armyId,
+        unitTypeId: unit.unitTypeId,
+        name: unit.name,
+        size: unit.size,
+        wounds: unit.wounds,
+        veteranAbilities: unit.veteranAbilities,
+        injuries: unit.injuries,
+        enhancements: unit.enhancements,
+        createdAt: unit.createdAt,
+        updatedAt: unit.updatedAt,
+      };
+    },
   },
 
   // Field resolvers
@@ -318,9 +526,42 @@ export const resolvers = {
       return getFactionById(parent.factionId);
     },
 
-    units: () => {
-      // TODO: Implement when Unit repository is ready
-      return [];
+    units: async (parent: { campaignId: string; id: string }) => {
+      const units = await unitRepo.findByArmyId(parent.campaignId, parent.id);
+      return units.map(u => ({
+        id: u.id,
+        campaignId: u.campaignId,
+        armyId: u.armyId,
+        unitTypeId: u.unitTypeId,
+        name: u.name,
+        size: u.size,
+        wounds: u.wounds,
+        veteranAbilities: u.veteranAbilities,
+        injuries: u.injuries,
+        enhancements: u.enhancements,
+        createdAt: u.createdAt,
+        updatedAt: u.updatedAt,
+      }));
+    },
+  },
+
+  Unit: {
+    army: async (parent: { campaignId: string; armyId: string }) => {
+      const army = await armyRepo.findById(parent.campaignId, parent.armyId);
+      if (!army) {
+        return null;
+      }
+      return {
+        id: army.id,
+        campaignId: army.campaignId,
+        playerId: army.playerId,
+        factionId: army.factionId,
+        name: army.name,
+        glory: army.glory,
+        renown: army.renown,
+        createdAt: army.createdAt,
+        updatedAt: army.updatedAt,
+      };
     },
   },
 };
