@@ -45,15 +45,24 @@ jobs:
 
       - name: Package Lambda function
         run: |
-          cd packages/backend/dist
-          zip -r ../lambda.zip .
-          # Include node_modules for production dependencies
-          cd ..
+          cd packages/backend
+
+          # Install production dependencies
           npm ci --production
-          cd node_modules
+
+          # Create deployment package
+          cd dist
           zip -r ../lambda.zip .
+
+          # Add node_modules to the zip
           cd ..
+          zip -r lambda.zip node_modules
+
           echo "Lambda package size: $(du -h lambda.zip | cut -f1)"
+
+          # Verify contents
+          echo "Package contents:"
+          unzip -l lambda.zip | head -20
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
