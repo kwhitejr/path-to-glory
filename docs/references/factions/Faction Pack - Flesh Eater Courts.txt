@@ -1,0 +1,1651 @@
+--- Page 1 ---
+FACTION PACK
+FLESH-EATER
+COURTS
+
+--- Page 2 ---
+BATTLE TRAITS
+Flesh-eater Courts armies can use the following abilities:
+Passive Your Movement Phase
+NOBLE DEEDS: Each member of a MUSTER GUARD: Courtiers are
+ghoulish court constantly seeks to prove perceived as ranking officers who possess
+their valour by performing worthy exploits the charisma to rally wavering troops.
+on the battlefield.
+Declare: Pick a friendly Courtier Hero
+Effect: Each friendly Flesh-eater that has 1 or more noble deeds points to
+Courts Hero starts the battle with use this ability, then pick a friendly unit
+0 noble deeds points and can have a wholly within 12" of it to be the target.
+maximum of 6 noble deeds points
+Effect: Spend any of that Hero’s noble
+at once.
+deeds points. If the target is a Serfs
+Each time a friendly Flesh-eater unit, for each noble deeds point spent,
+Courts Hero uses a Fight ability, after return 1 slain model to it. If the target is
+that ability has been resolved, give that a Knights unit, for every 2 noble deeds
+Hero a number of noble deeds points points spent, return 1 slain model to it.
+equal to the number of damage points
+inflicted by that ability. Do not count Your Movement Phase
+attacks made with Companion weapons. SUMMON LOYAL SUBJECTS: To the
+mordants, an ear-splitting howl from the
+Each time a friendly Flesh-eater
+throat of an abhorrant is a clarion call to
+Courts Priest Hero uses a Prayer
+defend the kingdom.
+ability and the prayer is answered, after
+that ability has been resolved, give that Declare: Pick a friendly Abhorrant
+Hero 1 noble deeds point. Hero that has 6 noble deeds points to
+use this ability, then pick a friendly Serfs
+Each time a friendly Flesh-eater
+or Knights unit that has been destroyed
+Courts Wizard Hero uses a Spell
+to be the target.
+ability and the spell is successfully cast,
+after that ability has been resolved, give Effect: Spend all of that Hero’s noble
+that Hero 1 noble deeds point. deeds points. Set up a replacement unit
+with half the number of models from the
+Passive target unit (rounding up) wholly within
+FEEDING FRENZY: As the court closes 6" of a battlefield edge and more than 9"
+in upon its enemies, the nobility signal for from all enemy units.
+the feasting to begin.
+Once Per Turn (Army), Your Hero Phase
+Effect: Add 1 to the Attacks characteristic
+ROYAL BLOOD: The vampiric blood that
+of melee weapons, including Companion
+courses through an abhorrant’s veins can
+weapons, used by friendly Flesh-eater
+heal even the most terrible wounds.
+Courts units while they are wholly
+within 12" of any friendly Heroes that Declare: Pick any number of friendly
+have 6 noble deeds points. Abhorrants to be the targets.
+Effect:Heal (D3) each target.
+December 2024
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Flesh-eater Courts army. Each battle
+ffffffoooooorrrrrrmmmmmmaaaaaattttttiiiiiioooooonnnnnn ggggggrrrrrraaaaaannnnnnttttttssssss aaaaaa ddddddiiiiiiffffffffffffeeeeeerrrrrreeeeeennnnnntttttt aaaaaabbbbbbiiiiiilllllliiiiiittttttyyyyyy yyyyyyoooooouuuuuu ccccccaaaaaannnnnn uuuuuusssssseeeeee iiiiiinnnnnn tttttthhhhhheeeeee bbbbbbaaaaaattttttttttttlllllleeeeee......
+CANNIBAL COURT LORDS OF THE MANOR
+Once Per Turn (Army), End of Any Turn Passive
+A HUNGER FOR GLORY: Seeking to rise RAISE THE BANNERS: In the
+up the depraved hierarchy of their kind, dominating presence of their royal
+champions of the courts will attempt to masters, courtiers of every rank call forth
+outdo one another with acts of derring-do, their minions in ever greater numbers.
+such as launching bold and bloody raids
+Effect: Each time a friendly unit uses an
+deep into enemy territory.
+ability that returns any slain models to a
+Effect: Give 1 noble deeds point to each friendly Serfs or Knights unit, add 1
+friendly Flesh-eater Courts Hero to the number of slain models returned
+wholly outside friendly territory. to that unit.
+GHOUL PATROL ROYAL MENAGERIE
+Passive Once Per Turn (Army),
+GORE-SPLATTERED HUNTERS: The Your Combat Phase
+mordants of the Ghoul Patrols scuttle MEAT FOR THE BEAST: In battle,
+through their perceived kingdoms in Flesh-eater monarchs often toss their pet
+deranged warbands, ready to assail the monstrosities choice cuts of flesh, granting
+enemy in coordinated strikes. them a burst of strength and ferocity.
+Effect: When players are alternating Declare: Pick a friendly Flesh-eater
+picking units to use a Fight ability, Courts Monster to be the target.
+when it is your turn to pick a unit, you
+Effect: Roll a dice. On a 3+, the target has
+can pick 2 Crypt Ghouls units instead of
+Strike-first for the rest of the turn.
+1. Neither unit can have Strike-last.
+Resolve the second Fight ability
+immediately after the first.
+December 2024
+
+--- Page 4 ---
+HEROIC TRAITS
+ROYAL TRAITS (Hero only)
+Passive Passive
+CRUEL TASKMASTER: The warriors STRONGER IN MADNESS: The Boon
+under this courtier’s command instantly of Ushoran has rendered this warrior’s
+obey their summons. physical form near-indestructible.
+Effect: Each time a friendly unit wholly Effect: Add 2 to this unit’s Health
+within 12" of this unit uses the ‘Rally’ characteristic. In addition, while this
+command, you can make 3 additional unit has 6 noble deeds points, it has
+rally rolls of D6. Ward (5+).
+Passive
+SAVAGE BEYOND REASON: The
+fury of battle drives this general into an
+intense rage.
+Effect: While this unit has fewer than 6
+noble deeds points, its melee weapons
+have Crit (2 Hits). While it has 6 noble
+deeds points, its melee weapons have
+Crit (Mortal).
+ARTEFACTS OF POWER
+ROYAL TREASURY (Hero only)
+Passive Passive
+CHARNEL VESTMENTS: Strips of THE GRIM GARLAND: Formed from
+flayed skin and crudely stitched sinew the skulls of kings and emperors, this
+form a gruesome parody of priestly robes. morbid wreath evokes fear in all who see it.
+Effect: If this unit is not a Priest, it Effect: Subtract 2 from the control scores
+has Priest (1). If this unit is already a of enemy units while they are within 12"
+Priest, add 1 to chanting rolls for this of this unit.
+unit. If this unit is a Wizard, it cannot
+use Spell abilities and Prayer abilities Once Per Battle, Any Combat Phase
+in the same phase. HEART OF THE GARGANT: This slab
+of muscle still beats with the strength of the
+gargant from which it was torn, and each
+bite of it grants colossal might.
+Effect: If this unit is in combat, add 1 to
+the Attacks characteristic of its melee
+weapons for the rest of the turn. This
+ability also affects Companion weapons.
+December 2024
+
+--- Page 5 ---
+SPELL LORE
+LORE OF MADNESS
+Your Hero Phase 6
+DERANGED TRANSFORMATION: The spellcaster causes the limbs of a nearby pack
+to bulge and lengthen, allowing the creatures to charge forwards at a furious pace and
+imbuing them with greater strength.
+Declare: Pick a friendly Flesh-eater Courts Wizard to cast this spell, pick a visible
+friendly Flesh-eater Courts Infantry or Cavalry unit wholly within 12" of them
+to be the target, then make a casting roll of 2D6.
+Effect: Until the start of your next turn:
+• Add 2" to the target’s Move characteristic.
+• Add 1 to wound rolls for the target’s combat attacks.
+Keywords Spell, Unlimited
+Your Hero Phase 5 Your Hero Phase 6
+MIASMA OF MADNESS: CHARNEL FEAST: ThThee ccaasstteerr ddrraawwss
+The wizard calls forth a sanity-warping out the life essence of nearby foes and uses
+mist to engulf the foe. it to heal the injured warriors of the court.
+Declare: Pick a friendly Flesh-eater Declare: Pick a friendly Flesh-eater
+Courts Wizard to cast this spell, pick Courts Wizard to cast this spell, pick
+a visible enemy unit within 18" of them a visible enemy unit within 18" of them
+to be the target, then make a casting roll to be the target, then make a casting roll
+of 2D6. of 2D6.
+Effect: Roll 7 dice and apply the Effect: Inflict D3 mortal damage on the
+corresponding effect: target. Then, you can pick a friendly
+Flesh-eater Courts Infantry unit
+Ravaged Mind: If 2 or more dice have the
+within 6" of the target. For each damage
+same value, inflict 1 mortal damage on
+point allocated to the target by this
+the target.
+ability, you can return 1 slain model to
+Gory Visions: If 3 or more dice have the that friendly unit.
+same value, in addition to the effect of Keywords Spell
+‘Ravaged Mind’, subtract 1 from hit rolls
+for the target’s attacks until the start of
+your next turn.
+Drooling Stupor:If 4 or more dice have
+the same value, in addition to the effects
+of ‘Ravaged Mind’ and ‘Gory Visions’,
+subtract 1 from wound rolls for the
+target’s attacks until the start of your
+next turn.
+Keywords Spell
+December 2024
+
+--- Page 6 ---
+PRAYER LORE
+RITES OF DELUSION
+Your Hero Phase 5
+BLESSED FEAST: The priest blesses his followers’ next meal to bring health and
+happiness to those who partake.
+Declare: Pick a friendly Flesh-eater Courts Priest to chant this prayer, pick a visible
+enemy unit within 18" of them to be the target, then make a chanting roll of D6.
+Effect: Until the start of your next turn, each time a model in the target unit is slain,
+Heal (1) a friendly Flesh-eater Courts unit in combat with the target. If the chanting
+roll was 10+, Heal (D3) that friendly unit instead.
+Keywords Prayer, Unlimited
+Your Hero Phase 5 Your Hero Phase 5
+THE SUMMERKING’S FAVOUR: CHARNEL CONVICTION:
+The priest delivers a blistering sermon Anointed with libations by their priest,
+lionising the deeds of a courtly champion, ghouls believe themselves to be invincible
+marking them out as a saint in their warriors of faith.
+followers’ eyes.
+Declare: Pick a friendly Flesh-eater
+Declare: Pick a friendly Flesh-eater Courts Priest to chant this prayer, pick
+Courts Priest to chant this prayer, pick a visible friendly Flesh-eater Courts
+a visible friendly Flesh-eater Courts unit wholly within 18" of them to be the
+Hero wholly within 18" of them to be the target, then make a chanting roll of D6.
+target, then make a chanting roll of D6.
+Effect: Until the start of your next turn,
+Effect: Until the start of your next turn, the target has Ward (5+). If the chanting
+each time an enemy model is slain by a roll was 10+, pick another friendly
+combat attack made by the target, give Flesh-eater Courts unit wholly
+the target 1 additional noble deeds point within 18" of the target. That unit also
+after the Fight ability has been resolved. has Ward (5+) until the start of your
+If the chanting roll was 10+, until the next turn.
+start of your next turn, each time an Keywords Prayer
+enemy model is slain by a combat attack
+made by the target, give all friendly
+Flesh-eater Courts Heroes wholly
+within 18" of the target 1 additional noble
+deeds point after the Fight ability has
+been resolved instead of only the target.
+Keywords Prayer
+December 2024
+
+--- Page 7 ---
+MANIFESTATION LORE
+MANIFESTED INSANITY
+Your Hero Phase 6 Your Hero Phase 5
+SUMMON CHALICE OF SUMMON CADAVEROUS
+USHORAN: The wizard conjures forth BARRICADE: With a word of command,
+a manifestation of the sacred cup held the corpses of those who once served
+by Ushoran. This bone-wrought goblet is Ushoran rise up from the grave, dragging
+continually filled with the blood of those with them the detritus of a forgotten
+slain in its presence. civilisation and clawing at the living with
+lifeless hands.
+Declare: If there is not a friendly Chalice
+of Ushoran on the battlefield, pick a Declare: If there is not a friendly
+friendly Flesh-eater Courts Wizard Cadaverous Barricade on the battlefield,
+to cast this spell, then make a casting roll pick a friendly Flesh-eater Courts
+of 2D6. Wizard to cast this spell, then make a
+casting roll of 2D6.
+Effect: Set up a Chalice of Ushoran
+wholly within 12" of the caster and visible Effect: Set up a Cadaverous Barricade
+to them. wholly within 18" of the caster and visible
+Keywords Spell, Summon to them.
+Keywords Spell, Summon
+Your Hero Phase 7
+SUMMON CORPSEMARE
+STAMPEDE: Imbued with grisly vigour
+by the insane magics of the abhorrants, the
+undead beasts of a Corpsemare Stampede
+burst from the blood-soaked ground
+to trample across the battlefield with
+reckless abandon.
+Declare: If there is not a friendly
+Corpsemare Stampede on the battlefield,
+pick a friendly Flesh-eater Courts
+Wizard to cast this spell, then make a
+casting roll of 2D6.
+Effect: Set up a Corpsemare Stampede
+wholly within 9" of the caster, visible
+to them and more than 9" from all
+enemy units.
+Keywords Spell, Summon
+December 2024
+
+--- Page 8 ---
+December 2024
+MOVE
+10"
+H • FLESH-EATER COURTS WARSCROLL •
+L T 18 3+ S A NAGASH
+A V
+E E
+H
+10 SUPREME LORD OF THE UNDEAD
+CONTROL
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Alakanash 4 3+ 3+ 2 D6 -
+Zefet-nebtar 4 3+ 3+ 2 3 -
+Passive Once Per Battle, Your Hero Phase
+BATTLE DAMAGED SUPREME LORD OF THE UNDEAD
+Effect: While this unit has 10 or more Declare: Pick a friendly non-Hero
+damage points, subtract 3 from its non-Unique Death unit that has been
+power level. destroyed to be the target.
+Effect: Set up a replacement unit identical
+Passive
+to the target wholly within 12" of this unit
+THE STAFF OF POWER: Alakanash is and more than 9" from all enemy units.
+capped with gems of purest grave-sand.
+Effect: Add 2 to casting rolls for this unit Your Hero Phase 7
+while it has not miscast any spells this INVOCATION OF NAGASH: In a
+turn. If this unit miscasts a spell, ignore storm of morbid sorcery, Nagash blasts his
+the restriction that would stop this unit foes’ souls or re-knits his minions’ bodies.
+from casting any more spells this turn.
+Declare: This unit can cast this spell more
+than once per phase. Pick a visible unit
+Once Per Turn (Army), End of Any Turn
+wholly within 18" of this unit that has not
+HAND OF DUST: Nagash’s touch can turn been picked to be the target of this spell
+a foe to a pile of dusty bones in moments. this turn to be the target, then make a
+casting roll of 2D6.
+Declare: Pick a visible enemy Hero or
+Monster in combat with this unit to be Effect: If the target is an enemy unit,
+the target. inflict D3 mortal damage on it.
+If the target is a friendly Death unit,
+Effect: Hide a dice in one of your
+pick 1 of the following effects:
+hands or under one of two appropriate
+• Return a number of slain models to
+containers. Your opponent must pick one
+the target unit with a combined Health
+of your hands or containers. If they pick
+characteristic of up to 3.
+the one hiding the dice, this ability has
+• The target has Ward (5+) until the start
+no effect. If they pick the empty one, the
+of your next turn.
+target is automatically destroyed.
+Keywords Spell
+Keywords Rampage
+Warmaster, Unique, Hero, Monster, Wizard (9), Fly, Ward (5+)
+KEYWORDS
+Death, Flesh-eater Courts
+
+--- Page 9 ---
+December 2024
+MOVE
+10"
+H • FLESH-EATER COURTS WARSCROLL •
+L T 16 4+ S A USHORAN
+A V
+E E
+H
+5 MORTARCH OF DELUSION
+CONTROL
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Sceptre of the Carrion King 4 3+ 2+ 2 D3+3 -
+Monstrous Talons 8 3+ 3+ 1 2 -
+Passive Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED SHROUDCAGE FRAGMENT: Madness
+Effect: While this unit has 10 or more pulses from the gem in Ushoran’s crown,
+damage points, the Attacks characteristic overwhelming those who draw too close.
+of its Monstrous Talons is 6.
+Declare: Pick up to 3 enemy units in
+combat with this unit to be the targets.
+Passive
+THE CARRION KING: News of Effect: Roll a dice for each target.
+Ushoran’s mighty deeds spreads like If the roll exceeds the target’s
+wildfire through the Flesh-eater ranks. Control characteristic, the target has
+Strike-last for the rest of the turn.
+Effect: While this unit has 6 noble deeds
+Keywords Rampage
+points, the effect of the ‘Feeding Frenzy’
+ability applies to friendly Flesh-eater Your Hero Phase
+Courts units while they are wholly
+EPICENTRE OF DELUSION
+within 24" of this unit instead of 12".
+Effect: Pick 1 of the following effects to
+apply until the start of your next turn:
+Your Hero Phase 7
+The Royal Hunt:Add 1 to wound rolls for
+GLIMPSE OF DELUSION: Ushoran
+attacks made by friendly Flesh-eater
+pulls an enemy into his delusion, causing
+Courts units that target a Monster.
+them to see friends as vicious monsters.
+Crusading Army:Add 1 to run rolls and
+Declare: Pick a visible enemy model charge rolls for friendly Flesh-eater
+within 18" of this unit to be the target, Courts units.
+pick another enemy unit within the
+Defenders of the Realm: Add 1 to save
+target’s combat range to be the victim,
+rolls for friendly Flesh-eater Courts
+then make a casting roll of 2D6.
+units while they are contesting an
+Effect: Pick 1 of the target’s melee objective you control.
+weapons. Immediately resolve combat The Grand Tournament:Add 1 to hit
+attacks made with that weapon against rolls for attacks made by other friendly
+the victim. Flesh-eater Courts Heroes if they
+Keywords Spell charged in the same turn.
+Warmaster, Unique, Hero, Monster, Wizard (2), Ward (5+)
+KEYWORDS
+Death, Flesh-eater Courts, Abhorrant
+
+--- Page 10 ---
+December 2024
+MOVE
+• FLESH-EATER COURTS WARSCROLL •
+12"
+H ABHORRANT
+T S
+L16 4+A
+A E E V GHOUL KING
+H
+5
+ON ROYAL TERRORGHEIST
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Death Shriek 10" 1 4+ 2+ 2 D6 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gory Talons and Fangs 5 3+ 3+ 1 2 -
+Terrorgheist’s Fanged Maw 3 4+ 2+ 2 D6 Companion
+Terrorgheist’s
+6 4+ 2+ 1 2 Companion
+Skeletal Talons
+Passive Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED FEROCIOUS HUNGER: Assailed by
+Effect: While this unit has 10 or more visions of the glorious feast to come, the
+damage points, the Attacks characteristic abhorrant’s steed is filled with a hunger-
+of its Terrorgheist’s Skeletal Talons is 4. driven impetus.
+Declare: Pick an enemy Hero in combat
+Passive
+with this unit to be the target.
+GAPING MAW: This horrific creature
+bites a great chunk out of its prey – or even Effect: Roll a dice. On a 3+, attacks made
+swallows it whole. with this unit’s Terrorgheist’s Fanged
+Maw that target that enemy unit score
+Effect: Each time an attack made with critical hits on unmodified hit rolls of 5+
+this unit’s Terrorgheist’s Fanged Maw for the rest of the turn.
+scores a critical hit, that attack inflicts 6
+Keywords Rampage
+mortal damage on the target unit and the
+attack sequence ends.
+Hero, Monster, Wizard (1), Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Abhorrant
+
+--- Page 11 ---
+December 2024
+MOVE
+• FLESH-EATER COURTS WARSCROLL •
+12"
+H ABHORRANT
+T S
+L16 4+A
+A E E V GHOUL KING
+H
+5
+CONTROL ON ROYAL ZOMBIE DRAGON
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Pestilential Breath 10" D6 2+ 4+ 1 3 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gory Talons and Fangs 5 3+ 3+ 1 2 -
+Draconic Maw 3 4+ 2+ 2 3 Companion
+Draconic Claws 7 4+ 2+ 1 2 Companion
+Passive Passive
+BATTLE DAMAGED MONSTROUS HUNGER: The Ghoul
+Effect: While this unit has 10 or more King imposes his will upon the larger
+damage points, the Attacks characteristic creatures of his court’s menagerie,
+of its Draconic Claws is 5. awakening a glimmer of predatory hunger
+in the long-dead beasts that sees them close
+Once Per Turn (Army), Any Combat Phase upon their prey with greater swiftness.
+DRACONIC TERROR: To behold such Effect: While they are wholly within
+a majestic beast as a dragon in the grip of 12" of this unit, friendly non-Hero
+undeath evokes awe and abject terror in Flesh-eater Courts Monsters can
+equal measure. use Charge abilities even if they used a
+Declare: Pick an enemy unit in combat Run ability in the same turn.
+with this unit to be the target.
+Effect: Roll a dice. If the roll exceeds the
+target’s Control characteristic, the target
+cannot use commands for the rest of
+the turn.
+Keywords Rampage
+Hero, Monster, Wizard (1), Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Abhorrant
+
+--- Page 12 ---
+December 2024
+MOVE
+6" • FLESH-EATER COURTS WARSCROLL •
+H
+T S GRAND JUSTICE
+L 5 5+A
+A V
+E E
+H GORMAYNE
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gore-streaked Gavel 4 4+ 3+ - D3 -
+Once Per Turn (Army), Your Hero Phase
+DELUSION OF JUSTICE SERVED:
+Should an enemy transgress Ushoran’s
+laws, Gormayne’s powerful oratory is
+quick to condemn them.
+Declare: Pick a visible enemy unit to be
+the target.
+Effect: Roll a dice. On a 3+, this unit gains
+1 noble deeds point. Then, pick 1 of the
+following effects to apply to the target
+until the start of your next turn:
+Petty Transgression:Add 1 to wound rolls
+for combat attacks that target that unit.
+Dishonourable Conduct in Battle:
+Friendly non-MonsterFlesh-eater
+Courts units can use Charge abilities
+even if they used a Run ability in the same
+turn, but if they do so, they must end the
+charge move within ½" of the target.
+Grievous Insult to the Court:While
+the target is in combat with a friendly
+Abhorrant, add 1 to hit rolls for attacks
+made by friendly Flesh-eater Courts
+units that target that unit.
+Regicide:If the target destroyed a friendly
+Abhorrant this battle, add 1 to the
+Damage characteristic of melee weapons
+used by friendly Flesh-eater Courts
+units that target that unit.
+Unique, Hero, Infantry, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Abhorrant
+
+--- Page 13 ---
+December 2024
+MOVE
+12" • FLESH-EATER COURTS WARSCROLL •
+H
+T S ABHORRANT
+L 7 5+A
+A V
+E E
+H GOREWARDEN
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gory Talons and Fangs 5 3+ 3+ 1 2 -
+Your Movement Phase
+ROYAL HUNTING PARTY:
+A Gorewarden is responsible for patrolling
+the borders of their liege’s greater territory,
+leading flights of warriors to suddenly fall
+upon and eviscerate trespassers.
+Declare: If this unit is not in combat, you
+can pick up to 2 friendly Crypt Flayers
+or Morbheg Knights units that are not in
+combat and are wholly within 12" of this
+unit to be the targets.
+Effect: Remove this unit and the targets
+(if any) from the battlefield. Set up this
+unit again on the battlefield more than 9"
+from all enemy units. Then, set up each
+target wholly within 12" of this unit and
+more than 9" from all enemy units.
+Keywords Core
+Hero, Wizard (1), Infantry, Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Abhorrant
+
+--- Page 14 ---
+December 2024
+MOVE
+6" • FLESH-EATER COURTS WARSCROLL •
+H
+T S MARROWSCROLL
+L 5 5+A
+A V
+E E
+H HERALD
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bone Scythe 5 4+ 3+ 1 2 -
+Once Per Turn (Army), Any Charge Phase Passive
+THE KING’S ENTREATY: The message DON’T SHOOT THE MESSENGER:
+within the infected bone carried by a Marrowscroll Heralds are viewed as divine
+Marrowscroll Herald is an entreaty to messengers by their ghoulish minions, who
+madness and carnage; to reject it is to will go to any lengths to protect them.
+rouse the ire of the ghoulish throngs.
+Effect: While this unit is not in combat
+Declare: Pick an enemy unit in combat and is wholly within the combat ranges
+with this unit to be the target. of 3 or more other friendly Flesh-eater
+Courts Infantry models, it is not
+Effect: Roll a dice. On a 3+, pick 1 of the
+visible to enemy units.
+following effects:
+Attack the Apostate!: Friendly
+Flesh-eater Courts units in combat
+with the target have Strike-first for
+the rest of the turn.
+Welcome the Disciple!: The target has
+the Infected keyword for the rest of the
+battle. Each time your opponent declares
+a command, Spell ability or Prayer
+ability for an Infected unit, roll a dice
+as a reaction. On a 5+:
+• If they declared a command, that
+command has no effect. The command
+still counts as having been used and
+the command points spent to use the
+command are still lost.
+• If they declared a Spell or Prayer
+ability, that spell or prayer fails.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Courtier
+
+--- Page 15 ---
+December 2024
+MOVE
+12"
+H • FLESH-EATER COURTS WARSCROLL •
+T S
+A L 4 4+A V MORBHEG KNIGHTS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Grisly Lance 2 3+ 4+ 1 1 Charge (+1 Damage)
+Nightshrieker’s
+3 4+ 3+ 1 2 Companion
+Claws and Teeth
+Any Charge Phase
+SHRIEKING CHARGE: Nightshriekers
+emit bursts of maniacal, screech-like
+laughter that carry the curse of madness,
+leaving their prey staggering.
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of this unit
+to be the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Passive
+PREDATOR’S POUNCE: Though they
+lack the power of true flight, nightshriekers
+can leap clean over obstacles and the heads
+of the foe, allowing the Morbheg Knights to
+strike and disengage at will.
+Effect: This unit can use Charge
+abilities even if it used a Retreat
+ability in the same turn. In addition, no
+mortal damage is inflicted on this unit by
+Retreat abilities.
+Cavalry, Champion, Musician (1/3), Standard Bearer (1/3), Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Knights
+
+--- Page 16 ---
+December 2024
+MOVE
+6"
+H • FLESH-EATER COURTS WARSCROLL •
+T S
+A L 1 6+A V CRYPTGUARD
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cursed Weapon 3 4+ 4+ 1 1 -
+Reaction: You declared a Fight ability Passive
+for this unit ROYAL BODYGUARD: In battle,
+ARMOURY OF MADNESS: The weapons it falls to the tenacious Cryptguard
+wielded by the Cryptguard are infused to form a half-living shield for their
+with their delusional curse, and they can vampiric overlords.
+drive the wits from any they strike.
+Effect: While any friendly Flesh-eater
+Effect: If any damage points inflicted by Courts Heroes are wholly within this
+attacks made as part of that Fight ability unit’s combat range, both this unit and
+are allocated to any enemy units, those those Heroes have Ward (5+).
+enemy units cannot use commands until
+the start of your next turn.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10), Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Serfs
+
+--- Page 17 ---
+December 2024
+MOVE
+10" • FLESH-EATER COURTS WARSCROLL •
+H
+T S VARGHULF
+L 8 5+A
+A V
+E E
+H COURTIER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Immense Claws 7 4+ 3+ 1 2 Anti-Infantry (+1 Rend)
+Dagger-like Fangs 1 3+ 2+ 2 3 Anti-Infantry (+1 Rend)
+Passive End of Any Turn
+BOUNDING STRIDES: Varghulfs leap VICTORY FEAST: A Varghulf rampages
+and bound across the battlefield with through the enemy’s ranks at will, its
+uncanny bestial agility. wounds sealing with unholy rapidity as it
+guzzles the flesh of the savaged foe.
+Effect: This unit can pass across terrain
+features as if it had Fly. Effect: If any models were slain by this
+unit this turn:
+• Heal (D6) this unit.
+• This unit can immediately use the
+‘Retreat’ ability as if it were your
+movement phase without any mortal
+damage being inflicted on it.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Courtier
+
+--- Page 18 ---
+December 2024
+MOVE
+6" • FLESH-EATER COURTS WARSCROLL •
+H
+T S ABHORRANT
+L 5 6+A
+A V
+E E
+H CARDINAL
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cursed Crosier 3 4+ 3+ - D3 -
+Any Hero Phase
+ROUSING ORATION: The Cardinal
+espouses the virtues of the noble heroes of
+the court.
+Declare: Pick a friendly Flesh-eater
+Courts Hero wholly within 12" of this
+unit to be the target.
+Effect: Roll a D3. On a 2+, give the target
+a number of noble deeds points equal to
+the roll.
+Hero, Priest (1), Infantry, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Abhorrant
+
+--- Page 19 ---
+December 2024
+MOVE
+6" • FLESH-EATER COURTS WARSCROLL •
+H
+T S ROYAL
+L 5 5+A
+A V
+E E
+H DECAPITATOR
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Headsman’s Axe 3 4+ 3+ 2 3 -
+Reaction: You declared a Fight ability End of Any Turn
+for this unit OFF WITH THEIR HEAD!: A Royal
+EXECUTIONER’S ENTOURAGE: Decapitator’s axe hungers to cleave
+Though Royal Decapitators are often through necks in one fell swing.
+shunned by their fellow ghouls, when the
+blood starts flying, these sinister figures Declare: Pick an enemy Infantry Hero
+can attract quite the following. that had any damage points allocated
+to it this turn by this unit’s attacks to be
+Effect: Pick a friendly Serfs unit that the target.
+has not used a Fight ability this turn
+and is within this unit’s combat range to Effect: Roll a dice. On a 5+, the target is
+be the target. The target can be picked automatically destroyed.
+to use a Fight ability immediately after
+the Fight ability used by this unit has
+been resolved.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Courtier
+
+--- Page 20 ---
+December 2024
+MOVE
+6" • FLESH-EATER COURTS WARSCROLL •
+H
+T S ABHORRANT
+L 6 5+A
+A V
+E E
+H ARCHREGENT
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gory Talons and Fangs 5 3+ 3+ 1 2 -
+Your Hero Phase 6 Your Hero Phase
+CARRION CALL: A triumphant COUNTLESS SERVANTS: With a
+bellowing blast echoes across the land, chilling shriek, the Archregent summons
+beckoning the ghoulish hordes to battle. some of their most trusted warriors.
+Declare: Make a casting roll of 2D6. Declare: Pick a friendly Serfs or
+Knights unit wholly within 12" of this
+Effect: The first friendly Flesh-eater
+unit to be the target.
+Courts unit to be set up in the following
+movement phase can immediately move Effect: Roll a dice. On a 3+:
+D6". That unit cannot move into combat
+• If the target is a Serfs unit, you can
+during any part of that move.
+return up to 3 slain models to that unit.
+Keywords Spell
+• If the target is a Knights unit, you can
+return 1 slain model to that unit.
+Keywords Core
+Hero, Wizard (2), Infantry, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Abhorrant
+
+--- Page 21 ---
+December 2024
+MOVE
+6" • FLESH-EATER COURTS WARSCROLL •
+H
+T S ABHORRANT
+L 6 5+A
+A V
+E E
+H GHOUL KING
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gory Talons and Fangs 5 3+ 3+ 1 2 -
+Any Combat Phase Your Charge Phase
+CODE OF HONOUR: Delusions of UNNATURAL SPEED: Deathly energies
+chivalry and honourable combat swirling swell the abhorrant’s muscles and
+in their fevered mind, the Ghoul King strengthen their sinews before they explode
+issues a direct challenge to an enemy into motion, bounding towards the foe
+champion – and then immediately pounces with terrifying swiftness.
+upon them like a frenzied beast.
+Effect: If this unit charged this phase, it
+Declare: Pick an enemy Hero in combat has Strike-first for the rest of the turn.
+with this unit to be the target.
+Effect: For the rest of the turn, add 1 to
+the Damage characteristic of this unit’s
+melee weapons, but all of this unit’s
+attacks must target that Hero.
+Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Abhorrant
+
+--- Page 22 ---
+December 2024
+MOVE
+12" • FLESH-EATER COURTS WARSCROLL •
+H
+T S CRYPT INFERNAL
+L 6 5+A
+A V
+E E
+H COURTIER
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Piercing Death Screech 10" 4 4+ 3+ 2 D3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Skewering Claws 5 4+ 3+ 1 2 -
+Passive
+MIND-SHATTERING CACOPHONY:
+When a Crypt Infernal Courtier directs
+their retinue to focus their death screams
+on an enemy, the resulting discordant
+soundwaves can fell the mightiest of foes.
+Effect: If any enemy models were slain
+by this unit’s Piercing Death Screech
+this turn, for the rest of the turn, add 1
+to the Damage characteristic of ranged
+weapons used by friendly Crypt Flayers
+units while they are wholly within 12" of
+this unit.
+Hero, Infantry, Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Courtier
+
+--- Page 23 ---
+December 2024
+MOVE
+7" • FLESH-EATER COURTS WARSCROLL •
+H
+T S CRYPT HAUNTER
+L 6 5+A
+A V
+E E
+H COURTIER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Massive Bone Club and
+5 4+ 3+ 2 3 -
+Rancid Talons
+Your Hero Phase Reaction: You declared a Fight ability
+NOBLE BLOOD: The blood of their liege for this unit
+grants these Flesh-eaters a supernatural KNIGHTLY EXEMPLAR: Witnessing a
+regenerative capacity. Crypt Haunter Courtier’s frenzied, blood-
+spraying assault sends the warriors in their
+Effect:Heal (D3) this unit. pack into a murderous frenzy.
+Effect: Pick a friendly Crypt Horrors unit
+that has not used a Fight ability this turn
+and is within this unit’s combat range to
+be the target. The target can be picked to
+use a Fight ability immediately after the
+Fight ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+hit rolls for the target’s attacks for the rest
+of the turn.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Courtier
+
+--- Page 24 ---
+December 2024
+MOVE
+12"
+H • FLESH-EATER COURTS WARSCROLL •
+T S
+A L 4 5+A V CRYPT FLAYERS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Death Scream 10" 4 4+ 3+ 2 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Piercing Talons 4 4+ 3+ 1 1 -
+Once Per Turn (Army),
+Your Movement Phase
+ESCORT COURTIER: There are many
+ghoulish legends of Crypt Flayers winging
+down to lift noble heroes into the sky,
+either plucking them from danger or
+carrying them into the fray.
+Declare: If this unit is not in combat,
+pick a friendly Flesh-eater Courts
+Infantry Hero that does not have Fly
+and is within this unit’s combat range to
+be the target.
+Effect: Remove the target from the
+battlefield. Then, this unit can move a
+distance up to its Move characteristic.
+It cannot end that move in combat.
+Then, set up the target within this unit’s
+combat range and more than 3" from all
+enemy units.
+Keywords Core, Move
+Infantry, Champion, Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Knights
+
+--- Page 25 ---
+December 2024
+MOVE
+7"
+H • FLESH-EATER COURTS WARSCROLL •
+T S
+A L 4 5+A V CRYPT HORRORS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Club and Septic Talons 4 4+ 3+ - 2 Crit (Auto-wound)
+Passive Your Hero Phase
+ROYAL APPROVAL: These mordants NOBLE BLOOD: The blood of their liege
+will always do their utmost to attract the grants these Flesh-eaters a supernatural
+attention of their sovereign. regenerative capacity.
+Effect: Add 1 to the Rend characteristic Effect:Heal (D3) this unit.
+of this unit’s melee weapons while it
+is wholly within 12" of any friendly
+Courtiers or Abhorrants.
+Infantry, Champion, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Knights
+
+--- Page 26 ---
+December 2024
+MOVE
+6"
+H • FLESH-EATER COURTS WARSCROLL •
+T S
+A L 1 6+A V CRYPT GHOULS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sharpened Teeth and
+2 4+ 4+ - 1 Crit (Auto-wound)
+Filthy Claws
+Passive
+ROYAL APPROVAL: These mordants
+will always do their utmost to attract the
+attention of their sovereign.
+Effect: Add 1 to the Rend characteristic
+of this unit’s melee weapons while it
+is wholly within 12" of any friendly
+Courtiers or Abhorrants.
+Infantry, Champion, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Serfs
+
+--- Page 27 ---
+December 2024
+MOVE
+12" • FLESH-EATER COURTS WARSCROLL •
+H
+T S ROYAL ZOMBIE
+L14 4+A
+A V
+E E
+H DRAGON
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Pestilential Breath 10" D6 2+ 4+ 1 3 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Draconic Maw 3 4+ 2+ 2 3 Companion
+Draconic Claws 7 4+ 2+ 1 2 Companion
+Passive Your Movement Phase
+BATTLE DAMAGED LOATHSOME DESCENT: With a
+Effect: While this unit has 10 or more deafening roar, the Zombie Dragon dives
+damage points, the Attacks characteristic into battle like a foul comet.
+of its Draconic Claws is 5.
+Declare: Pick this unit if it is high above
+the battlefield.
+Deployment Phase
+VANTAGE POINT: The Zombie Dragon Effect: Set up this unit anywhere on
+approaches the front line from above, eye the battlefield more than 9" from all
+sockets aglow with unholy energy. enemy units.
+Declare: Pick this unit if it has not
+Once Per Turn (Army), Any Combat Phase
+been deployed.
+SOARING TERROR: The Zombie Dragon
+Effect: Set up this unit in reserve soars over the enemy warriors, scouring
+high above the battlefield. It has now those below with its corrosive breath.
+been deployed.
+Effect: If this unit charged this turn, roll
+Keywords Deploy
+a dice. On a 3+, this unit can move 2D6".
+It can pass through the combat ranges
+of enemy units but must end that move
+in combat. Then, pick an enemy unit
+that this unit passed across during that
+move. Inflict D3 mortal damage on that
+enemy unit.
+Keywords Rampage
+Monster, Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts
+
+--- Page 28 ---
+December 2024
+MOVE
+12" • FLESH-EATER COURTS WARSCROLL •
+H
+T S ROYAL
+L14 4+A
+A V
+E E
+H TERRORGHEIST
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Death Shriek 10" 1 4+ 2+ 2 D6 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Fanged Maw 3 4+ 2+ 2 D6 Companion
+Skeletal Talons 6 4+ 2+ 1 2 Companion
+Passive Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED DEATH SHRIEK: The terrifying shriek
+Effect: While this unit has 10 or more of a Terrorgheist is enough to stop a
+damage points, the Attacks characteristic warrior’s heart.
+of its Skeletal Talons is 4.
+Declare: Pick an enemy Infantry unit
+in combat with this unit to be the target.
+Passive
+GAPING MAW: This horrific creature Effect: Roll a dice for each model in the
+bites a great chunk out of its prey – or even target unit. For each 6, inflict 1 mortal
+swallows it whole. damage on the target. If 3 or more
+damage points are allocated to the target
+Effect: Each time an attack made by this ability, subtract 1 from hit rolls for
+with this unit’s Fanged Maw scores a the target’s attacks for the rest of the turn.
+critical hit, that attack inflicts 6 mortal
+Keywords Rampage
+damage on the target unit and the attack
+sequence ends.
+Monster, Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts
+
+--- Page 29 ---
+December 2024
+MOVE
+6" • FLESH-EATER COURTS WARSCROLL •
+H
+T S ROYAL
+L 1 6+A
+A V
+E E
+H BEASTFLAYERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Beast (+1 Rend),
+Beastflayer Weapons 3 4+ 4+ - 1
+Anti-Monster (+1 Rend)
+Passive Any Combat Phase
+HUNTER’S INSTINCTS: Royal ROYAL FLAYMASTER: The Royal
+Beastflayers believe themselves to be Flaymaster skewers enemies using their
+the finest monster-slayers in all the hunting polearm as the Offal Hounds
+land. Certainly, they possess a knack for pounce to finish off their prey.
+hindering and ensnaring their prey before
+Declare: Pick an enemy unit in combat
+moving in to make the kill.
+with this unit to be the target.
+Effect: Enemy Monsters cannot use
+Effect: Roll a D3. On a 2+, inflict an
+Rampage abilities while they are in
+amount of mortal damage on the target
+combat with this unit.
+equal to the roll. Add 1 to the amount
+In addition, subtract 1 from the Damage
+of mortal damage inflicted, if any, if the
+characteristic of melee weapons used by
+target is a Monster or Beast unit.
+enemy Monsters and Beast unitswhile
+they are in combat with this unit.
+Infantry, Champion (1/10), Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts, Serfs
+
+--- Page 30 ---
+December 2024
+MOVE
+12" • FLESH-EATER COURTS WARSCROLL •
+H
+T S CORPSEMARE
+L10 5+A
+A V
+E E
+H STAMPEDE
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Corpsemare Trample 10 5+ 3+ - 1 -
+Your Movement Phase
+TRAMPLED UNDERFOOT: As a Corpsemare Stampede charges across the battlefield, it
+tramples over anything that gets in its way.
+Effect: This Manifestation can move a distance up to its Move characteristic. This
+Manifestation can pass through models and the combat ranges of enemy units, but it
+cannot end that move in combat.
+Then, pick up to 3 enemy units that this Manifestation passed across during that move
+to be the targets. Roll a D3 for each target. On a 2+, inflict an amount of mortal damage
+on the target equal to the roll.
+Designer’s Note: This Manifestationcan use this ability even if it is in combat.
+Keywords Core, Move
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts
+
+--- Page 31 ---
+December 2024
+MOVE
+- • FLESH-EATER COURTS WARSCROLL •
+H
+T S CADAVEROUS
+L10 4+A
+A V
+E E
+H BARRICADE
+7+
+BANISHMENT
+Passive
+GRASPING HANDS: The animated
+corpses trapped in a Cadaverous Barricade
+grab at any living creature that comes
+too close.
+Effect: Enemy units cannot use Run or
+Retreat abilities while they are within
+this Manifestation’s combat range.
+In addition, if an enemy unit is picked to
+use a Move ability while it is within this
+Manifestation’s combat range, halve
+that unit’s Move characteristic (rounding
+up) for the rest of the turn.
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts
+
+--- Page 32 ---
+December 2024
+MOVE
+- • FLESH-EATER COURTS WARSCROLL •
+H
+T S CHALICE OF
+L 6 6+A
+A V
+E E
+H USHORAN
+7+
+BANISHMENT
+Passive End of Any Turn
+FILL THE CHALICE: The blood of OVERFLOWING GORE: When the
+slain warriors is siphoned into this gore inside the chalice overflows, the
+fell manifestation. Flesh-eaters upon whom it slops are
+granted unnatural vitality.
+Effect: Each time a model (friendly
+or enemy) is slain within 12" of Declare: Pick a friendly Flesh-eater
+this Manifestation, give this Courts unit wholly within 18" of this
+Manifestation a blood point, to a Manifestation to be the target.
+maximum of 6.
+Effect: Add the number of blood points
+this Manifestation has to the target’s
+control score for the rest of the turn.
+Then, reset this Manifestation’s blood
+points to 0.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Death, Flesh-eater Courts
+
+--- Page 33 ---
+December 2024
+MOVE
+-
+H • FLESH-EATER COURTS WARSCROLL •
+T S
+A L10 4+A V CHARNEL THRONE
+E E
+H
+-
+CONTROL
+The following universal terrain abilities
+Your Hero Phase
+apply to this terrain feature (Terrain, 1.2):
+REIGNING CHAMPION: A trusted
+Cover, Impassable member of the court may sit the throne in the
+absence of their liege-lord, though they must
+Passive abdicate immediately on their return.
+STEWARD OF THE REALM: Those who
+Declare: If this terrain feature does not have
+sit upon a Charnel Throne rule over all a Steward, pick a friendly Flesh-eater
+they survey, but they must be wary of foes Courts Infantry Hero within 3" of it
+who would see them violently cast down. and not in combat to be the target.
+Effect: While this terrain feature has Effect: Place the target on this terrain
+a Steward: feature. The target is now the Steward (see
+‘Steward of the Realm’).
+• The Steward cannot use Move abilities.
+• Instead of measuring range or visibility Your Movement Phase
+to the Steward, measure to this terrain
+DUTY CALLS: When duty demands it,
+feature instead. an abhorrant monarch or their regent will
+• All attacks that would target the Steward descend from the throne to take up the sword
+target this terrain feature instead. and defend the kingdom.
+• If this terrain feature is destroyed,
+Effect: If this terrain feature has a Steward
+before removing it from the battlefield,
+that was not placed on it this turn, set up
+inflict D3 mortal damage on the
+the Steward on the battlefield wholly within
+Steward. Then, set up the Steward on 6" of this terrain feature and not in combat.
+the battlefield within 3" of this terrain That unit is no longer the Steward.
+feature and not in combat. That unit
+is no longer the Steward. If it is not Your Hero Phase
+possible to set up the Steward, it is slain.
+RULER OF ALL THEY SURVEY: A
+Charnel Throne forms a nexus of delusion,
+and a cannibal champion seated upon such
+a grisly construct becomes convinced of their
+own grandeur.
+Effect: Give D3 noble deeds points to this
+terrain feature’s Steward.
+Faction Terrain
+KEYWORDS
+Death, Flesh-eater Courts
+
+--- Page 34 ---
+FLESH-EATER COURTS
+CARRION RETAINERS
+Hark! For when the noble liege of the lands wishes to survey their domain or
+This Spearhead army consists embark upon a mighty quest, they will bring with them a royal entourage.
+of the following units: After all, it would never do for a true monarch to be seen without their loyal
+bodyguard, courtly knights mounted upon winged steeds and the saintly
+GENERAL paladins at their beck and call. Should they encounter villains or curs on
+Abhorrant Archregent their procession, why, such evil-doers must be struck down – and a grand
+feast held to mark the victory…
+UNITS
+10 Cryptguard Reality, alas, never matches these visions. For these bands of deluded knights
+3 Morbheg Knights are monsters themselves, ghouls and feral vampires hungry for flesh and
+Varghulf Courtier blood. The lens of madness through which they perceive the world does not
+dilute their ravenous frenzy. Ghouls are little given to strategy or complex
+manoeuvres; they prefer to swarm in a rabid horde, trusting in ferocity to
+carry the day. However, the chivalric nature of the ghouls’ hallucinations
+renders them devoted to their lieges. Should an abhorrant vampire perform
+deeds of bloodthirsty ‘valour’, their entourage will strive all the more
+viciously to emulate them.
+‘Come to me, my subjects, for bandits profane our lands. Let us
+ride out to meet them and give them a taste of knightly steel!’
+– Archregent Redcraw
+Rules writer Louis opted for the pallid colour scheme of the Morgaunt for his entourage of ghoulish cannibals – the
+perfect canvas for the sprays of gore that will inevitably cover them in battle!
+
+--- Page 35 ---
+BATTLE TRAITS
+Passive Passive Your Movement Phase
+NOBLE DEEDS: Each member FEEDING FRENZY: SUMMON LOYAL
+of a ghoulish court is constantly To witness an abhorrant at war SUBJECTS: Ghouls flock to
+seeking to prove their valour by spurs a mad hunger in the ghouls their vampiric masters.
+performing worthy exploits on
+the battlefield. Effect: Add 1 to the Attacks Declare: Pick a friendly Hero
+characteristic of melee weapons with any noble deeds points to
+Effect: Each time a friendly used by friendly units while use this ability.
+Hero uses a Fight ability, after they are wholly within 12" of
+its attacks have been resolved, any friendly Heroes that have Effect: Spend any number of
+give that Hero a number of 6 noble deeds points. that Hero’s noble deeds points
+noble deeds points equal to as follows:
+the number of damage points
+allocated by that ability. Each Pick a friendly Cryptguard unit
+Hero can have a maximum of within 9" of this unit and spend
+6 noble deeds points at any time. 1 noble deeds point to return 1
+model to that unit.
+Pick a friendly Morbheg Knights
+unit within 9" of this unit and
+spend 2 noble deeds points to
+return 1 model to that unit.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Passive Passive
+CRUSADING ARMY: The warriors of this court DEFENDERS OF THE REALM: These deluded
+see themselves a crusading paladins venturing out ghouls see themselves as noble defenders, selling their
+into the realms with a holy cause. lives dearly to drive back the invader from beyond.
+Effect: Add 1 to run rolls and charge rolls for Effect: Add 1 to save rolls for friendly units that are
+friendly units. contesting an objective you control.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Once Per Battle, Your Hero Phase
+ULGUAN CLOAK: This Archregent is shrouded by BLOOD-RIVER CHALICE: The Archregent
+an aura of darkness – holiness, as they would see it – guzzles from a bloodstained chalice, roaring as their
+which makes them difficult to target. deathless form swells with restored vitality.
+Effect: Your general is not visible to enemy models Effect:Heal (2D3) your general.
+that are more than 12" away from them.
+Your Hero Phase Your Hero Phase
+ROUSING ORATION: The Archregent looses a CRIMSON VICTUALS: Hissing an incantation,
+soul-chilling howl, which is perceived as an inspiring the Archregent saps the life essence of nearby foes.
+call to gallantry by their deranged followers.
+Declare: Pick a visible enemy unit within 18" of your
+Effect: Roll a dice for each friendly unit wholly general to be the target, then make a casting roll
+within 12" of your general. Do not roll a dice for your of 2D6.
+general. For each 5+, give 1 noble deeds point to
+your general. Effect: On a 6+, inflict D3 mortal damage on the
+target. Then, if your Cryptguard unit is within 6"
+of the target, you can return 1 slain model to your
+Cryptguard unit for each damage point allocated by
+this ability.
+
+--- Page 36 ---
+BATTLE TRAITS
+Passive Passive Your Movement Phase
+NOBLE DEEDS: Each member FEEDING FRENZY: SUMMON LOYAL
+of a ghoulish court is constantly To witness an abhorrant at war SUBJECTS: Ghouls flock to
+seeking to prove their valour by spurs a mad hunger in the ghouls their vampiric masters.
+performing worthy exploits on
+the battlefield. Effect: Add 1 to the Attacks Declare: Pick a friendly Hero
+characteristic of melee weapons with any noble deeds points to
+Effect: Each time a friendly used by friendly units while use this ability.
+Hero uses a Fight ability, after they are wholly within 12" of
+its attacks have been resolved, any friendly Heroes that have Effect: Spend any number of
+give that Hero a number of 6 noble deeds points. that Hero’s noble deeds points
+noble deeds points equal to as follows:
+the number of damage points
+allocated by that ability. Each Pick a friendly Cryptguard unit
+Hero can have a maximum of within 9" of this unit and spend
+6 noble deeds points at any time. 1 noble deeds point to return 1
+model to that unit.
+Pick a friendly Morbheg Knights
+unit within 9" of this unit and
+spend 2 noble deeds points to
+return 1 model to that unit.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Passive Passive
+CRUSADING ARMY: The warriors of this court DEFENDERS OF THE REALM: These deluded
+see themselves a crusading paladins venturing out ghouls see themselves as noble defenders, selling their
+into the realms with a holy cause. lives dearly to drive back the invader from beyond.
+Effect: Add 1 to run rolls and charge rolls for Effect: Add 1 to save rolls for friendly units that are
+friendly units. contesting an objective you control.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Once Per Battle, Your Hero Phase
+ULGUAN CLOAK: This Archregent is shrouded by BLOOD-RIVER CHALICE: The Archregent
+an aura of darkness – holiness, as they would see it – guzzles from a bloodstained chalice, roaring as their
+which makes them difficult to target. deathless form swells with restored vitality.
+Effect: Your general is not visible to enemy models Effect:Heal (2D3) your general.
+that are more than 12" away from them.
+Your Hero Phase Your Hero Phase
+ROUSING ORATION: The Archregent looses a CRIMSON VICTUALS: Hissing an incantation,
+soul-chilling howl, which is perceived as an inspiring the Archregent saps the life essence of nearby foes.
+call to gallantry by their deranged followers.
+Declare: Pick a visible enemy unit within 18" of your
+Effect: Roll a dice for each friendly unit wholly general to be the target, then make a casting roll
+within 12" of your general. Do not roll a dice for your of 2D6.
+general. For each 5+, give 1 noble deeds point to
+your general. Effect: On a 6+, inflict D3 mortal damage on the
+target. Then, if your Cryptguard unit is within 6"
+of the target, you can return 1 slain model to your
+Cryptguard unit for each damage point allocated by
+this ability.
+
+--- Page 37 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+6"
+ABHORRANT ARCHREGENT
+6 5+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Gory Talons and Fangs 5 3+ 3+ 1 2 -
+The vampiric abhorrants Your Hero Phase
+known as Archregents are DERANGED TRANSFORMATION: Wielding the
+amongst the most powerful
+power of their curse, the abhorrant causes the limbs of a
+of all their degenerate brood.
+Through crazed bloodlust and nearby pack to bulge and lengthen, allowing the creatures
+the sheer force of their deluded to charge forwards at a furious pace.
+will, they have bound vast
+cannibal empires to them, and Declare: Pick a visible friendly unit wholly within 18"
+they command the loyalty of of this unit to be the target, then make a casting roll
+innumerable gibbering ghouls. of 2D6.
+Though Archregents are more
+than capable of tearing foes Effect: On a 6+, until the start of your next turn, add 2"
+apart in a flurry of fangs, they to the target’s Move characteristic and add 1 to wound
+take a warped satisfaction in rolls for its attacks.
+watching their minions carry
+the day. Many wield their
+dark magics to ‘bless’ those
+under their command, turning
+them into even more ferocious
+killing machines.
+KEYWORDS Hero, Infantry, Ward (6+)
+• SPEARHEAD WARSCROLL •
+6"
+CRYPTGUARD
+1 6+
+1
+Cryptguard are drawn from the Passive
+cannibal ‘serfs’ of an abhorrant’s ROYAL BODYGUARD: In
+kingdom. Each has impressed
+their liege through some great battle, it falls to the tenacious
+feat of endurance – perhaps Cryptguard to form a half-living
+catching a blade intended for shield for their vampiric overlords.
+the vampire, deliberately or
+otherwise. As a reward, they are Effect: Add 1 to ward rolls for
+inducted into their monarch’s friendly Heroes that are wholly
+bodyguard, given better scraps within this unit’s combat range.
+from the feasting table and a
+pick of weapons from the royal
+armoury – relics that have long
+been steeped in a miasma of
+madness. Cryptguard take great
+pride in their tenacity, and their
+proximity to the abhorrants’
+necromantic energies
+render them remarkably
+difficult to slay.
+KEYWORDS Infantry, Ward (5+)
+
+--- Page 38 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+6"
+ABHORRANT ARCHREGENT
+6 5+
+2
+Th e vampiric abhorrants Your Hero Phase
+known as Archregents are DERA NGED TRA NSFORMATION: Wielding the
+amongst the most powerful power of their curse, the abhorrant causes the limbs of a
+of all their degenerate brood.
+Th rough crazed bloodlust and nearby pack to bulge and lengthen, allowing the creatures
+the sheer force of their deluded to charge forwards at a furious pace.
+will, they have bound vast
+Declare: Pick a visible friendly unit wholly within 18"
+cannibal empires to them, and
+they command the loyalty of of this unit to be the target, then make a casting roll
+innumerable gibbering ghouls. of 2D6.
+Th ough Archregents are more
+than capable of tearing foes Eff ect: On a 6+, until the start of your next turn, add 2"
+apart in a fl urry of fangs, they to the target’s Move characteristic and add 1 to wound
+take a warped satisfaction in rolls for its attacks.
+watching their minions carry
+the day. Many wield their
+dark magics to ‘bless’ those
+under their command, turning
+them into even more ferocious
+killing machines.
+KEYWORDS Hero, Infantry, Ward (6+)
+• SPEARHEAD WARSCROLL •
+6"
+CRYPTGUARD
+1 6+
+1 MELEE WEAPONS Att acks Hit Wound Rend Damage Ability
+Cursed Weapon 3 4+ 4+ 1 1 -
+Cryptguard are drawn from the Passive
+cannibal ‘serfs’ of an abhorrant’s ROYAL BODYGUARD: In
+kingdom. Each has impressed
+battle, it falls to the tenacious
+their liege through some great
+feat of endurance – perhaps Cryptguard to form a half-living
+catching a blade intended for shield for their vampiric overlords.
+the vampire, deliberately or
+otherwise. As a reward, they are Eff ect: Add 1 to ward rolls for
+inducted into their monarch’s friendly Heroes that are wholly
+bodyguard, given better scraps within this unit’s combat range.
+from the feasting table and a
+pick of weapons from the royal
+armoury – relics that have long
+been steeped in a miasma of
+madness. Cryptguard take great
+pride in their tenacity, and their
+proximity to the abhorrants’
+necromantic energies
+render them remarkably
+diffi cult to slay.
+KEYWORDS Infantry, Reinforcements, Ward (5+)
+98
+
+--- Page 39 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+12"
+MORBHEG KNIGHTS
+4 4+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Grisly Lance 2 3+ 4+ 1 1 Charge (+1 Damage)
+Nightshrieker’s Claws and Teeth 3 4+ 3+ 1 2 Companion
+The Morbheg Knights believe
+themselves to be proud and Passive
+chivalric warriors mounted
+upon noble feathered steeds PREDATOR’S POUNCE:
+of the sky. This could not be Though they lack the power of true
+further from the truth, for flight, Nightshriekers can leap clean
+their mounts are in fact vile over obstacles and the heads of the
+Nightshriekers, the latter-day foe, allowing Morbheg Knights to
+spawn of Morbheg – ancient strike and disengage at will.
+godbeast sire to all chiropteran
+beasts. Though Nightshriekers Effect: This unit can use Charge
+cannot fly in the conventional abilities even if it used a Retreat
+sense, they possess immensely ability in the same turn. In
+powerful hind limbs with which
+addition, no mortal damage is
+to leap far through the air,
+allowing the Morbheg Knights inflicted on this unit when it uses
+to crash into unsuspecting foes Retreat abilities.
+and wreak havoc.
+KEYWORDS Cavalry, Fly, Ward (6+)
+• SPEARHEAD WARSCROLL •
+10"
+VARGHULF COURTIER
+8 5+
+2
+In the eyes of the ghouls,
+Varghulfs are saintly warriors, End of Any Turn
+aglow with divine power. VICTORY FEAST: A Varghulf
+Undeniably, they are amongst
+the most monstrous examples rampages through the enemy’s ranks
+of the abhorrant bloodline, at will, its wounds sealing with
+misbegotten horrors whose unholy rapidity as it guzzles the
+lust for blood and meat has flesh of the savaged foe.
+overwhelmed whatever trace of
+self-control that remained. Only Effect: If any models were slain by
+the most lordly of their kin can this unit this turn, Heal (D6) this
+hope to command a Varghulf; unit, and this unit can immediately
+any other who approaches will use the ‘Retreat’ ability without
+be torn apart in a shower of gore. any mortal damage being inflicted
+Even then, one can do little more on it.
+than goad these beasts into the
+fray before letting the Varghulf
+indulge its flesh-mangling
+hungers as it wishes, feasting
+on the fallen before darting
+away to strike elsewhere with
+preternatural swiftness.
+KEYWORDS Hero, Infantry, Ward (6+)
+
+--- Page 40 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+12"
+MORBHEG KNIGHTS
+4 4+
+1
+The Morbheg Knights believe
+themselves to be proud and Passive
+chivalric warriors mounted
+upon noble feathered steeds PREDATOR’S POUNCE:
+of the sky. This could not be Though they lack the power of true
+further from the truth, for flight, Nightshriekers can leap clean
+their mounts are in fact vile over obstacles and the heads of the
+Nightshriekers, the latter-day foe, allowing Morbheg Knights to
+spawn of Morbheg – ancient strike and disengage at will.
+godbeast sire to all chiropteran
+beasts. Though Nightshriekers Effect: This unit can use Charge
+cannot fly in the conventional abilities even if it used a Retreat
+sense, they possess immensely ability in the same turn. In
+powerful hind limbs with which
+addition, no mortal damage is
+to leap far through the air,
+allowing the Morbheg Knights inflicted on this unit when it uses
+to crash into unsuspecting foes Retreat abilities.
+and wreak havoc.
+KEYWORDS Cavalry, Fly, Ward (6+)
+• SPEARHEAD WARSCROLL •
+10"
+VARGHULF COURTIER
+8 5+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Immense Claws 7 4+ 3+ 1 2 -
+Dagger-like Fangs 1 3+ 2+ 2 3 -
+In the eyes of the ghouls,
+Varghulfs are saintly warriors, End of Any Turn
+aglow with divine power. VICTORY FEAST: A Varghulf
+Undeniably, they are amongst
+the most monstrous examples rampages through the enemy’s ranks
+of the abhorrant bloodline, at will, its wounds sealing with
+misbegotten horrors whose unholy rapidity as it guzzles the
+lust for blood and meat has flesh of the savaged foe.
+overwhelmed whatever trace of
+self-control that remained. Only Effect: If any models were slain by
+the most lordly of their kin can this unit this turn, Heal (D6) this
+hope to command a Varghulf; unit, and this unit can immediately
+any other who approaches will use the ‘Retreat’ ability without
+be torn apart in a shower of gore. any mortal damage being inflicted
+Even then, one can do little more on it.
+than goad these beasts into the
+fray before letting the Varghulf
+indulge its flesh-mangling
+hungers as it wishes, feasting
+on the fallen before darting
+away to strike elsewhere with
+preternatural swiftness.
+KEYWORDS Hero, Infantry, Ward (6+)

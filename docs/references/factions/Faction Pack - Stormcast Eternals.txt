@@ -1,0 +1,2998 @@
+--- Page 1 ---
+FACTION PACK
+STORMCAST
+ETERNALS
+
+--- Page 2 ---
+BATTLE TRAITS
+Stormcast Eternals armies can use the following abilities:
+Deployment Phase Once Per Battle, 1
+THE CELESTIAL REALM: In High Your Movement Phase
+Azyr, the Stormcast Eternals await their HEAVENS-SENT: MMoorree rreeiinnffoorrcceemmeennttss
+call to deliver retribution. are sent down from Azyr in their fellow
+warriors’ time of need.
+Declare: If there are more friendly
+Stormcast Eternals units on the Declare: Pick a friendly non-Unique
+battlefield than there are set up in reserve, Stormcast Eternals Infantry or
+pick a friendly Stormcast Eternals Cavalry unit that started the battle
+unit that has not been deployed. with 2 or more models and that has been
+destroyed to be the target.
+Effect: Set up that unit in reserve
+in the Celestial Realm. It has now Effect: Set up a replacement unit with
+been deployed. half the number of models from the target
+unit (rounding up) more than 9" from all
+Keywords Deploy
+enemy units.
+Your Movement Phase
+Once Per Turn (Army), Your Hero Phase
+SCIONS OF THE STORM: Upon
+blessed bolts of lightning do the Stormcast THEIR FINEST HOUR: Stormcast
+Eternals ride to war, the furious rumble of Eternals are bastions of hope for the forces
+thunder heralding their arrival. of Order. In times of desperate need, each
+fighter does what is necessary to keep their
+Declare: Pick a friendly Stormcast enemies at bay.
+Eternals unit that is in the
+Celestial Realm. Declare: Pick a friendly Stormcast
+Eternals unit that has not used this
+Effect: Set up that unit anywhere on ability this battle to use this ability.
+the battlefield more than 9" from all
+enemy units. Effect: For the rest of the turn, add 1 to
+wound rolls for that unit’s combat attacks
+and add 1 to save rolls for that unit.
+September 2024
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Stormcast Eternals army. Each battle
+ffffffoooooorrrrrrmmmmmmaaaaaattttttiiiiiioooooonnnnnn ggggggrrrrrraaaaaannnnnnttttttssssss aaaaaa ddddddiiiiiiffffffffffffeeeeeerrrrrreeeeeennnnnntttttt aaaaaabbbbbbiiiiiilllllliiiiiittttttyyyyyy yyyyyyoooooouuuuuu ccccccaaaaaannnnnn uuuuuusssssseeeeee iiiiiinnnnnn tttttthhhhhheeeeee bbbbbbaaaaaattttttttttttlllllleeeeee......
+SENTINELS OF THE
+THUNDERHEAD HOST
+BLEAK CITADELS
+Once Per Turn (Army), Any Hero Phase Passive
+ANCIENT AURA: Storm-charged energy SYNCHRONISED STRIKES: The core
+ebbs and flows around the warriors of the of a Thunderhead Host is often made up
+Ruination chamber, surrounding them in of fighters from the Warrior chambers;
+a scouring aura of power. Finding purchase having trained relentlessly with the sworn
+with a weapon on these ancient heroes can brethren of their Stormhost, they operate
+be a difficult task for even the mightiest of like a well-oiled cogfort.
+mortal foes.
+Effect: Add 1 to hit rolls for combat
+Declare: Pick a friendly Ruination attacks made by friendly Warrior
+Chamber unit. Chamber units while they are wholly
+within 12" of any friendly non-Hero
+Effect: That unit has Ward (5+) for the
+Stormcast Eternals units that do not
+rest of the turn.
+have the Warrior Chamber keyword.
+VANGUARD WING LIGHTNING ECHELON
+Once Per Turn (Army), Once Per Turn (Army), Any Combat Phase
+Your Movement Phase ONCOMING STORM: First to the
+PEERLESS MANOEUVRES: These fight, the Lightning Echelon is akin to a
+warriors are the precision weapon of spear-thrust into the heart of the enemy.
+the God-King, skilled at manipulating Deployed only in times of great need, they
+a battlefield in their favour by feinting smash into the foe’s vanguard with the
+from view and reappearing where they are force of an oncoming tempest.
+needed most.
+Declare: Pick a friendly Extremis
+Declare: Pick a friendly Vanguard Chamber unit that charged this turn.
+Chamber unit that is not in combat.
+Effect: Roll a dice. On a 3+, that unit has
+Effect: Roll a dice. On a 3+, remove that Strike-first for the rest of the turn.
+unit from the battlefield and set it up
+again anywhere on the battlefield more
+than 9" from all enemy units.
+September 2024
+
+--- Page 4 ---
+HEROIC TRAITS
+ASPECTS OF AZYR (Hero only)
+Passive Your Hero Phase
+STAUNCH DEFENDER: To contest the ENVOY OF THE HEAVENS: When a
+sacred grounds of Sigmar is to invoke the Stormcast Eternal is laid low, the light
+almighty power of Azyr. that carries the warrior’s soul back to Azyr
+invigorates those who fight on.
+Effect: While this unit is contesting an
+objective in friendly territory, add 3 to the Declare: If a friendly unit was destroyed
+control scores of all friendly Stormcast in the previous turn, pick a visible
+Eternals units contesting that objective. friendly Stormcast Eternals unit
+wholly within 12" of this unit to be
+Passive the target.
+SHOCK AND AWE: When this general Effect: The target has Ward (5+) until
+and their Stormcasts take to the field, their
+the start of your next turn.
+shining visage strikes fear into the foe.
+Effect: Each time a friendly Stormcast
+Eternals unit is set up wholly within
+12" of this unit using the ‘Scions of the
+Storm’ ability, subtract 1 from hit rolls for
+attacks that target that unit for the rest of
+the battle round.
+ARTEFACTS OF POWER
+ARTEFACTS OF THE TEMPEST (Hero only)
+Once Per Battle, End of Any Turn Once Per Battle, Any Combat Phase
+NULL PENDANT: This dark amulet QUICKSILVER DRAUGHT: This potion
+holds magic within that can sap the resolve lends uncanny speed to the one who
+of the enemy. imbibes it.
+Declare: Pick an enemy unit in combat Effect: This unit has Strike-first for
+with this unit to be the target. the rest of the turn.
+Effect: Subtract 5 from the target’s
+Passive
+control score for the rest of the turn.
+MIRRORSHIELD: This shield reflects the
+sun’s rays in questing beams that seek out
+the eyes of enemy marksmen.
+Effect: This unit cannot be targeted by
+shooting attacks unless the attacking
+model is within 9" of it.
+September 2024
+
+--- Page 5 ---
+SPELL LORE
+LORE OF THE STORM
+Your Hero Phase 5
+LIGHTNING BLAST: The wizard releases pent-up storm energy into the foe.
+Declare: Pick a friendly Stormcast Eternals Wizard to cast this spell, then pick the
+closest visible enemy unit to them that has not been picked to be the target of this ability
+this turn to be the target. If 2 or more visible enemy units are tied to be the closest, you
+can pick which is the target. Then, make a casting roll of 2D6.
+Effect: Inflict D3 mortal damage on the target.
+Keywords Spell, Unlimited
+Your Hero Phase 6 Your Hero Phase 7
+THUNDERSHOCK: The wizard STARFALL: Gazing towards the
+unleashes the power of Sigmar’s storm as a heavens, the wizard hurls meteoric rain
+roiling wave of pure force. into the enemy’s path.
+Declare: Pick a friendly Stormcast Declare: Pick a friendly Stormcast
+Eternals Wizard to cast this spell, Eternals Wizard to cast this spell,
+pick a visible enemy unit within 12" of pick a visible enemy Infantry or
+them to be the target, then make a casting Cavalry unit within 18" of them to
+roll of 2D6. be the target, then make a casting roll
+of 2D6.
+Effect: Subtract 1 from wound rolls for
+the target’s attacks until the start of your Effect: Until the start of your next turn,
+next turn. subtract 1 from the number of dice rolled
+Keywords Spell when making charge rolls for the target,
+to a minimum of 1.
+Keywords Spell
+September 2024
+
+--- Page 6 ---
+PRAYER LORE
+PRAYERS OF THE STORMHOSTS
+Your Hero Phase 4
+HEALING STORM: The priest calls down cleansing bolts from the sky, their
+invigorating energies closing even the most grievous wounds.
+Declare: Pick a friendly Stormcast Eternals Priest to chant this prayer, pick a
+visible friendly Stormcast Eternals unit wholly within 12" of them to be the target,
+then make a chanting roll of D6.
+Effect:Heal (D3) the target. If the chanting roll was 8+, Heal (D3) each visible friendly
+Stormcast Eternals unit wholly within 12" of the chanter instead.
+Keywords Prayer, Unlimited
+Your Hero Phase 6 Your Hero Phase 4
+BLESS WEAPONS: ThThTheee ppprrriiieeesssttt iiimmmbbbuuueeesss TRANSLOCATION: The priest
+weapons of those nearby with the pure summons bolts of lightning to transport
+essence of the storm. nearby warriors across the battlefield.
+Declare: Pick a friendly Stormcast Declare: Pick a friendly Stormcast
+Eternals Priest to chant this prayer, Eternals Priest to chant this prayer,
+pick a visible friendly Stormcast pick a visible friendly Stormcast
+Eternals Infantry unit wholly within Eternals unit wholly within 12" of them
+12" of them to be the target, then make a to be the target, then make a chanting
+chanting roll of D6. roll of D6.
+Effect: Add 1 to the Attacks characteristic Effect: Remove the target from the
+of the target’s melee weapons until the battlefield and set it up again on the
+start of your next turn. If the chanting battlefield more than 9" from all enemy
+roll was 12+, this ability affects all visible units. In addition, if the chanting roll was
+friendly Stormcast Eternals units 8+, subtract 1 from hit rolls for attacks
+wholly within 12" of the chanter. that target that unit for the rest of the
+Keywords Prayer battle round.
+Keywords Prayer
+September 2024
+
+--- Page 7 ---
+MANIFESTATION LORE
+MANIFESTATIONS OF THE STORM
+Your Hero Phase 6 Your Hero Phase 6
+SUMMON DAIS ARCANUM: SUMMON CELESTIAN VORTEX:
+The wizard calls down a single bolt of The wizard casts a pair of ensorcelled
+lightning to strike the ground at their feet, hammers into the air, which begin to
+leaving behind a perfect sigmarite disc spin. As the vortex gets more intense, the
+for a chosen Stormcast to mount and be hammers multiply to form a maelstrom of
+carried into the air. skull-crushing force.
+Declare: If there is not a friendly Dais Declare: If there is not a friendly
+Arcanum on the battlefield, pick a Celestian Vortex on the battlefield,
+friendly Stormcast Eternals pick a friendly Stormcast Eternals
+Wizard to cast this spell, pick a friendly Wizard to cast this spell, then make a
+Stormcast Eternals Infantry casting roll of 2D6.
+Hero that does not have Fly and is
+Effect: Set up a Celestian Vortex wholly
+wholly within 12" of them to be the target,
+within 18" of the caster and more than 9"
+then make a casting roll of 2D6.
+from all enemy units.
+Effect: Set up a Dais Arcanum within ½" Keywords Spell, Summon
+of the target, visible to the caster and not
+in combat. Then, remove the target from Your Hero Phase 7
+the battlefield and place it on the platform
+SUMMON EVERBLAZE COMET:
+of that Dais Arcanum.
+Reaching an arm to the heavens, the
+Keywords Spell, Summon wizard calls down a pure comet of Azyrite
+energy that crashes into the foe’s ranks
+with devastating effect.
+Declare: If there is not a friendly
+Everblaze Comet on the battlefield,
+pick a friendly Stormcast Eternals
+Wizard to cast this spell, then make a
+casting roll of 2D6.
+Effect: Set up an Everblaze Comet wholly
+within 18" of the caster.
+Keywords Spell, Summon
+September 2024
+
+--- Page 8 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 2 3+A V LIBERATORS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warhammer 2 3+ 3+ 1 1 Crit (Mortal)
+Grandhammer 2 3+ 3+ 1 2 Crit (Mortal)
+Each model in this unit is armed with
+Passive
+a Warhammer.
+STALWART DEFENDERS: Liberators
+• 1/5 models can replace their Warhammer fiercely guard the lands brought into
+with a Grandhammer. Sigmar’s domain.
+• The champion cannot replace
+their weapon. Effect: Add 3 to this unit’s control score
+while it is contesting an objective wholly
+within friendly territory.
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 9 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 2 3+A V VANQUISHERS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Celestial Greatsword 2 3+ 3+ 1 1 Anti-Infantry (+1 Rend)
+Passive
+LIGHTNING STRIKES: Vanquishers
+utilise a stance that allows them to
+make a flurry of rapid strikes against a
+numerous foe.
+Effect: Add 1 to the Damage characteristic
+of this unit’s Celestial Greatswords for
+attacks that target an enemy unit that has
+5 or more models.
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 10 ---
+September 2024
+MOVE
+5"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 2 3+A V VINDICTORS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stormspear 2 3+ 3+ 1 1 Anti-charge (+1 Rend)
+Any Combat Phase
+HOLD THE SHIELDWALL: The
+Vindictor retinues are the shieldwall upon
+which the forces of ruin shatter.
+Effect: If this unit did not charge this
+turn and is in combat with an enemy unit
+that charged this turn, roll a dice. On a
+4+, this unit has Strike-first for the
+rest of the turn.
+Infantry, Champion, Standard Bearer (1/5)
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 11 ---
+September 2024
+MOVE
+12"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 10 3+ S A CELESTANT-PRIME
+A V
+E E
+H
+2 HAMMER OF SIGMAR
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Cometstrike Sceptre 18" 1 2+ See below -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ghal Maraz 6 3+ 2+ 2 4 Crit (Mortal)
+Once Per Battle, Your Movement Phase Passive
+RETRIBUTION FROM ON HIGH: The COMETSTRIKE SCEPTRE: Blazing
+Celestant-Prime descends from Azyr into with celestial might, the Celestant-Prime
+the thickest fighting, Ghal Maraz glowing raises his sceptre high before letting it fall,
+with power as it smites the foe. causing comets to rain from above.
+Declare: Pick this unit if it is in the Effect: Each time this unit attacks with
+Celestial Realm. its Cometstrike Sceptre, if the attack
+scores a hit, inflict D3 mortal damage on
+Effect: Subtract the current battle round
+the target.
+number from 10 to determine this
+unit’s strike zone. Set up this unit on
+the battlefield more than a number of
+inches equal to its strike zone from all
+enemy units.
+Warmaster, Unique, Hero, Infantry, Fly, Ward (5+)
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 12 ---
+September 2024
+MOVE
+5"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 6 3+A V GARDUS STEEL SOUL
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sigmarite Runeblade
+5 3+ 3+ 1 2 Crit (Auto-wound)
+and Warhammer
+Passive Once Per Battle, Your Charge Phase
+AURA OF PURITY: Gardus’s faith is so SAINTLY ASSAULT: Calling upon
+strong when he is in full flow that even the celestial grace of Sigmar, the lords
+Nurgle’s garden was unable to corrupt him. of the Steel Souls engage the foe with
+zealous wrath.
+Effect: If this unit charged this turn, for
+the rest of the turn, friendly Stormcast Declare: Pick up to 3 visible friendly
+Eternals units have Ward (5+) while Stormcast Eternals Infantry
+they are wholly within 12" of this unit. units wholly within 6" of this unit to be
+the targets.
+Effect: For the rest of the turn:
+•Add 1 to charge rolls for the targets.
+•Add 1 to the Attacks characteristic of
+the targets’ melee weapons.
+Unique, Hero, Infantry, Ward (5+)
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 13 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 6 3+A V KNIGHT-ARCANUM
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Manifestation
+Valedictor’s Stave 3 3+ 3+ 1 D3
+(+1 Rend)
+Passive
+INDOMITABLE LORESEEKERS: The
+thick tomes carried by Knight-Arcanums
+are filled with the magical secrets they
+have learnt, including how to resist the
+raging sorcerous energies of the realms.
+Effect: Add 1 to casting rolls for this unit
+when it uses a Summon ability and add 1
+to banishment rolls for this unit.
+Enemy Manifestations cannot
+pass through or end any move within
+this unit’s combat range unless they
+started that move within this unit’s
+combat range.
+This unit has Ward (4+) against mortal
+damage inflicted by Manifestations.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 14 ---
+September 2024
+MOVE
+12"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L11 3+A V KNIGHT-DRACONIS
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Draconic Flamestream 10" 4 2+ 3+ 2 1 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Aeonfire Blade 5 3+ 2+ 2 2 -
+Draconith’s Fangs
+4 4+ 2+ 2 2 Companion
+and Talons
+Reaction: Opponent declared a Once Per Turn (Army), Any Combat Phase
+Spell ability WRATH OF THE DRACONITH: At their
+ARCANE HERITAGE: Whether raised champion’s command, the Stormdrake
+within the temple-vessels of the Seraphon Guard loose the searing force of their
+or born in the wilds of the realms, mounts when the foe least expects it.
+every young Draconith has developed a
+resistance to the arcane. Declare: Pick a friendly Stormdrake
+Guard unit within this unit’s combat
+Effect: If this unit or a friendly range to be the target.
+Stormdrake Guard unit wholly within
+12" of this unit was picked to be the target Effect: Roll a dice. On a 2+, add 1 to the
+of that spell, roll a dice. On a 4+, ignore Attacks characteristic of both this unit’s
+the effect of that spell on this unit or that and the target’s Draconith’s Fangs and
+friendly unit. This unit can use this ability Talons for the rest of the turn.
+more than once per phase but only once Keywords Rampage
+per Spell ability.
+Passive
+EXTREMIS CHAMBER: Most scarce of
+Sigmar’s forces are the Extremis chambers,
+with each Stormcast mounted on a living
+weapon. To draw near these warriors is to
+risk being scoured by lightning or flame.
+Effect: Each time you make an
+unmodified save roll of 6 for a combat
+attack that targets this unit, inflict 1
+mortal damage on the attacking unit after
+the Fight ability has been resolved.
+Hero, Monster, Fly
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 15 ---
+September 2024
+MOVE
+6"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 6 3+ S A KNIGHT-JUDICATOR
+A V
+E E
+H
+2 WITH GRYPH-HOUNDS
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Terminus Greatbow 18" 3 3+ 3+ 2 3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Judicator’s Warblade 3 3+ 3+ 1 1 -
+Passive Once Per Turn, Your Movement Phase
+FAITHFUL GRYPH-HOUNDS: A HUNTING HOUNDS: The Knight-
+Knight-Judicator is often accompanied Judicator sends one of their Gryph-hounds
+into battle by a pair of these loyal beasts to harass an enemy unit.
+of Azyr.
+Declare: If this unit was not set up this
+Effect: This unit’s Gryph-hounds are turn and any of this unit’s Gryph-hounds
+tokens. After setting up this unit on the are on the battlefield, pick an enemy unit
+battlefield for the first time, place both within 12" of this unit to be the target.
+Gryph-hounds next to it.
+Effect: Roll a dice. On a 1, remove 1
+of this unit’s Gryph-hounds from the
+battlefield. On a 2+, pick 1 of this unit’s
+Gryph-hounds that is next to this unit or
+next to an enemy unit and place it next to
+the target instead.
+While any of this unit’s Gryph-hounds
+are next to an enemy unit, add 1 to hit
+rolls and wound rolls for this unit’s
+shooting attacks that target that unit.
+If an enemy unit is destroyed or removed
+from the battlefield while any of this
+unit’s Gryph-hounds are next to it, place
+those Gryph-hounds next to this unit.
+Hero, Infantry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 16 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 6 3+A V KNIGHT-QUESTOR
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Hero (+1 Rend),
+Questor Warblade 5 3+ 3+ 1 2
+Crit (Mortal)
+Reaction: You declared a Fight ability Once Per Battle (Army),
+for this unit Deployment Phase
+HEROIC RETRIBUTION: Should the ORDAINED QUEST: Questors travel
+need arise, the Knight-Questor will call deep into enemy territory to gain control of
+upon their Soulsworn brethren to make the vital landmarks with hidden secrets.
+God-King’s justice a reality.
+Effect: Pick an objective wholly outside
+Effect: Pick a friendly Questor friendly territory. That objective is
+Soulsworn unit that has not used a Fight considered by you to be questmarked.
+ability this turn and is within this unit’s
+combat range to be the target. The target Passive
+can be picked to use a Fight ability HIS WILL BE DONE: Questors will stop
+immediately after the Fight ability used at nothing to fulfil the sacred task given to
+by this unit has been resolved. them by the God-King himself.
+Effect: While this unit is contesting a
+questmarked objective:
+•Add 3 to this unit’s control score.
+•This unit has Ward (5+).
+Hero, Infantry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 17 ---
+September 2024
+MOVE
+5"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 6 3+A V KNIGHT-RELICTOR
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Relic Maul 3 3+ 3+ 1 2 -
+Your Shooting Phase
+RELIC CENSER: The censers of the
+Relictor temple emanate purifying incense
+that can burn through the very fabric of
+heretical falsehoods and mystical hexes.
+Declare: Pick an enemy unit within 12" of
+this unit to be the target.
+Effect: Roll a dice. On a 2+, subtract 1
+from ward rolls made by the target for the
+rest of the turn.
+Hero, Priest (1), Infantry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 18 ---
+September 2024
+MOVE
+5"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 6 3+A V KNIGHT-VEXILLOR
+E E
+H
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sigmarite Warblade 4 3+ 3+ 1 2 -
+Any Hero Phase
+THE BANNER OF THE REFORGED:
+When the Knight-Vexillor plants their
+banner, the fortifying energy that
+emanates from it hardens flesh and seals
+sundered armour, empowering the faithful
+with new resolve.
+Declare: Pick D3 friendly Stormcast
+Eternals units wholly within 12" of this
+unit to be the targets.
+Effect: Add 3 to each target’s control
+score for the rest of the turn. In addition,
+Heal (D3) each target.
+Hero, Infantry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 19 ---
+September 2024
+MOVE
+14"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 8 3+A V LORD-AQUILOR
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Heavy Boltstorm Pistol 12" 4 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Starbound Blade and
+5 3+ 3+ 1 2 -
+Shock Handaxe
+Gryph-charger’s Razor Beak 3 4+ 3+ 1 1 Companion
+Passive Your Movement Phase
+VANGUARD CHAMBER: Through RIDE THE WINDS AETHERIC: Gryph-
+swiftness, guile and more than a hint of chargers can move faster than the eye can
+savagery, the warriors of the Vanguard follow along the winds aetheric.
+chamber are able to outfight forces many
+Declare: If this unit is not in combat, you
+times their own limited numbers.
+can pick up to 2 friendly Vanguard-
+Effect: This unit can use Shoot and/or Palladors units that are not in combat
+Charge abilities even if it used a Run or to be the targets.
+Retreat ability in the same turn.
+Effect: Remove this unit and the targets
+(if any) from the battlefield. Set this unit
+up again on the battlefield more than 9"
+from all enemy units. Then, set up each
+target wholly within 12" of this unit and
+more than 9" from all enemy units.
+Hero, Cavalry
+KEYWORDS
+Order, Stormcast Eternals, Vanguard Chamber
+
+--- Page 20 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 6 3+A V LORD-CELESTANT
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Weapons of Legend 5 3+ 3+ 1 2 Crit (Auto-wound)
+Reaction: You declared a Fight ability
+for this unit
+FURIOUS RETRIBUTION:
+Lord-Celestants lead their brethren in
+assaults upon the enemy lines, breaking
+the foe beneath their immortal fury.
+Effect: Pick a friendly non-Hero
+Warrior Chamber Infantry unit
+that has not used a Fight ability this turn
+and is within this unit’s combat range to
+be the target. The target can be picked to
+use a Fight ability immediately after the
+Fight ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+wound rolls for the target’s attacks for the
+rest of the turn.
+Hero, Infantry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 21 ---
+September 2024
+MOVE
+10"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 8 3+ S A LORD-CELESTANT
+A V
+E E
+H
+2 ON DRACOTH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Stormblast 10" 1 3+ 3+ 2 D3 Crit (2 Hits), Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Weapons of Legend 5 3+ 3+ 1 2 Anti-Infantry (+1 Rend)
+Dracoth’s Claws and Fangs 3 4+ 2+ 2 2 Companion
+Passive Reaction: You declared a Fight ability
+EXTREMIS CHAMBER: Most scarce of for this unit
+Sigmar’s forces are the Extremis chambers, RIGHTEOUS AVENGERS: Lord-
+with each Stormcast mounted on a living Celestants inspire their brethren to mete
+weapon. To draw near these warriors is to out Sigmar’s justice; nearby Stormcasts
+risk being scoured by lightning or flame. strike the instant they are given the order.
+Effect: Each time you make an Effect: Pick a friendly non-Hero
+unmodified save roll of 6 for a combat Extremis Chamber Cavalry unit that
+attack that targets this unit, inflict 1 has not used a Fight ability this turn
+mortal damage on the attacking unit after and is within this unit’s combat range to
+the Fight ability has been resolved. be the target. The target can be picked
+to use a Fight ability immediately after
+the Fight ability used by this unit has
+been resolved.
+Hero, Cavalry
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 22 ---
+September 2024
+MOVE
+• STORMCAST ETERNALS WARSCROLL •
+5"
+H LORD-COMMANDER
+T S
+L 8 3+A BASTIAN
+A V
+E E
+H
+2 CARTHALOS
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Thunderbolts of Azyr 18" 2 2+ 2+ 2 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Uskavar, the Sunderer 4 3+ 2+ 2 4 Crit (Auto-wound)
+Passive End of Any Turn
+VOICE OF THUNDER: MANTLE OF THE FIRST STORM:
+Lord-Commanders are among the few Bastian’s armour is among the first of its
+faithful who can commune with Sigmar kind, laboured over by Grungni himself
+in the heat of battle. Their words are like and charged with the same holy energies
+booming thunderclaps, each order ringing as the Anvil of Apotheosis. It is a symbol
+across the battlefield. of, and potent boon to, the Thunderborn’s
+already legendary willpower.
+Effect: Each time a friendly Stormcast
+Eternals unit wholly within 12" of this Effect: If any enemy models were slain
+unit uses the ‘All-out Attack’ command, by this unit’s attacks this turn, Heal (4)
+no command points are spent. this unit.
+Deployment Phase
+CASTELLAN OF AZYR: Centuries spent
+commanding Sigmar’s prime Stormhost
+have sharpened Bastian’s tactical nous to a
+deadly edge. There are few warlords more
+adept than he in all the armies of Order.
+Declare: Pick up to 3 friendly
+Stormcast Eternals Infantry units
+to be the targets.
+Effect: Each target can use the
+‘Normal Move’ ability as if it were your
+movement phase.
+Unique, Hero, Infantry, Ward (5+)
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 23 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 6 3+A V LORD-IMPERATANT
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Blessed Warhammer 4 3+ 3+ 1 2 Crit (Auto-wound)
+Passive Once Per Battle (Army),
+LOYAL GRYPH-HOUND: The Gryph- Your Movement Phase
+hound that accompanies the Lord- GUIDED BY LIGHTNING: With the aid
+Imperatant is the most faithful guard. of their enchanted stormcaller baton, a
+Lord-Imperatant can direct the arrival of
+Effect: This unit’s Gryph-hound is a their brethren with the utmost precision.
+token. This unit has Ward (5+) while its
+Gryph-hound is on the battlefield. Declare: Pick up to 3 friendly
+If you make an unmodified save roll of Stormcast Eternals units wholly
+1 for this unit, remove its Gryph-hound within 12" of this unit that were set up
+from the battlefield after the Attack this turn using the ‘Scions of the Storm’
+ability has been resolved (the damage ability to be the targets.
+point is still inflicted).
+Effect: Each target can immediately move
+D3". The targets cannot move into combat
+during any part of that move.
+Hero, Infantry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 24 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 6 3+A V LORD-RELICTOR
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Relic Hammer 4 3+ 3+ 1 2 Crit (Auto-wound)
+Passive
+MORTIS PRIEST: Though all mortals
+chosen by the God-King demonstrate their
+martial strength, those selected to become
+Lord-Relictors possess a rare wisdom that
+sets them apart.
+Effect: Add 1 to chanting rolls for
+this unit.
+Hero, Priest (1), Infantry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 25 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 6 3+ S A LORD-VERITANT
+A V
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Abjuration 1 3+ 3+ 1 3 -
+Anti-Priest (+1 Rend),
+Judgement Blade 3 3+ 3+ 1 D3
+Anti-Wizard (+1 Rend)
+Once Per Turn (Army), Reaction: This unit Passive
+was picked as the target of a non-Core ability SENSE UNHOLY SORCERY:
+RUINATION CHAMBER: These veterans Gryph-crows are sensitive to corruption
+march where others cannot tread, fighting and immediately alert their masters
+upon battlefields transformed into scenes whenever unholy energies are nearby.
+of apocalypse. Even the most corrosive
+Effect: This unit’s Gryph-crow is a
+magics find no purchase on their souls.
+token. Subtract 1 from casting rolls and
+Effect: Make a resistance roll of D6. On a chanting rolls for enemy units within 12"
+4+, that ability has no effect on this unit. of this unit while its Gryph-crow is on
+the battlefield.
+If you make an unmodified save roll of 1
+for this unit, remove its Gryph-crow from
+the battlefield after the Attack ability
+has been resolved (the damage point is
+still inflicted).
+Passive
+STAFF OF ABJURATION: The blessed
+light that shines from this staff can banish
+even the most potent sorceries.
+Effect: This unit can use Unbind abilities
+as if it had Wizard (1).
+Hero, Priest (1), Infantry
+KEYWORDS
+Order, Stormcast Eternals, Ruination Chamber
+
+--- Page 26 ---
+September 2024
+MOVE
+5" • STORMCAST ETERNALS WARSCROLL •
+T H S NEAVE’S
+L 3 3+A
+A V
+E E
+H COMPANIONS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Typhoon Crossbow 18" 3 3+ 3+ 1 2 Anti-Hero (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cyclone Sword and Axe 6 3+ 3+ 1 1 -
+Stormcharged Warhammer 4 3+ 2+ 2 2 -
+Anda’s Celestial Talons 2 4+ 3+ - 1 Companion
+Hendrick, the Silver Wolf, is armed with a
+Passive
+Cyclone Sword and Axe.
+Rostus Oxenhammer is armed with a SHIELD OF AZYR: These golden-
+Stormcharged Warhammer. armoured warriors will willingly put
+Shakana Goldenblade is armed with a themselves in mortal danger in order to
+Typhoon Crossbow, and her Star-eagle protect Neave and Lorai.
+Anda is armed with Celestial Talons.
+Effect: While any friendly The
+Blacktalons Heroes are wholly
+within this unit’s combat range, both
+this unit and those friendly units have
+Ward (5+).
+Unique, Infantry
+KEYWORDS
+Order, Stormcast Eternals, The Blacktalons
+
+--- Page 27 ---
+September 2024
+MOVE
+7"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 6 3+A V NEAVE BLACKTALON
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Relic Boltstorm Pistol 10" 3 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Whirlwind Axes 7 2+ 3+ 2 2 Crit (2 Hits)
+Passive Your Combat Phase
+JUSTICE FROM AZYR: When the WINDRIDER: Neave Blacktalon has a
+chance to eliminate her mark presents natural talent at translocating in a blur of
+itself, Neave is merciless in bringing them lightning to ride the winds aetheric.
+to justice.
+Declare: If this unit is in combat or
+Effect: Add 1 to the Damage charged this turn, this unit can make
+characteristic of this unit’s Whirlwind a pile-in move. Then, if this unit is
+Axes for attacks that target Heroes. in combat, you must pick 1 or more
+enemy units to be the target(s) of this
+Passive unit’s attacks.
+VANGUARD CHAMBER: Through Effect: Resolve combat attacks against
+swiftness, guile and more than a hint of the target unit(s). Then, roll a dice. On a
+savagery, the warriors of the Vanguard 3+, remove this unit from the battlefield
+chamber are able to outfight forces many and set it up again on the battlefield more
+times their own limited numbers. than 3" from all enemy units and wholly
+Effect: This unit can use Shoot and/or within the combat range of a friendly
+Charge abilities even if it used a Run or The Blacktalons unit that is not
+Retreat ability in the same turn. in combat.
+Keywords Core, Attack, Fight
+Unique, Hero, Infantry
+KEYWORDS
+Order, Stormcast Eternals, Vanguard Chamber, The Blacktalons
+
+--- Page 28 ---
+September 2024
+MOVE
+6"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 5 4+ S A LORAI
+A V
+E E
+H
+2 CHILD OF THE ABYSS
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Abyssal Touch 3 3+ 4+ - D3 -
+Passive Your Hero Phase 6
+AQUATIC ILLUSIONS: Lorai conjures NEBULOUS SEA-FOG: A hazy mist
+liquid figures out of the ethersea that coalesces into a thick, obscuring fog
+mystify and confuse nearby enemies. around Lorai.
+Effect: Subtract 1 from hit rolls for Effect: Until the start of your next turn,
+attacks that target this unit. while a friendly The Blacktalons unit
+is wholly within 6" of this unit, if the
+unmodified hit roll for a shooting attack
+that targets that unit is 1-5, the attack fails
+and the attack sequence ends.
+Keywords Spell
+Unique, Hero, Wizard (1), Infantry, Ward (5+)
+KEYWORDS
+Order, Idoneth Deepkin, The Blacktalons
+
+--- Page 29 ---
+September 2024
+MOVE
+10" • STORMCAST ETERNALS WARSCROLL •
+T H S VANDUS
+L 8 3+A
+A V
+E H E HAMMERHAND
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Stormblast 10" 1 3+ 3+ 2 D3 Crit (2 Hits), Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Heldensen 6 3+ 2+ 1 2 Crit (Auto-wound)
+Calanax’s Claws and Fangs 4 4+ 2+ 2 2 Companion
+Passive Reaction: You declared a Fight ability
+LORD OF THE HAMMERHANDS: for this unit
+Vandus is a mighty champion of VENGEANCE UNLEASHED: Vandus
+the Hammers of Sigmar and a inspires nearby members of the Warrior
+consummate commander. chambers to strike forth and deliver justice
+in the God-King’s name.
+Effect: Add 3 to the control scores of
+friendly Warrior Chamber units while Effect: Pick a friendly non-Hero
+they are wholly within 12" of this unit. Warrior Chamber unit that has not
+used a Fight ability this turn and is
+within this unit’s combat range to be the
+target. The target can be picked to use
+a Fight ability immediately after the
+Fight ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+hit rolls for the target’s attacks for the rest
+of the turn.
+Unique, Hero, Cavalry
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 30 ---
+September 2024
+MOVE
+12"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 8 3+ S A YNDRASTA
+A V
+E E
+H
+2 THE CELESTIAL SPEAR
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Thengavar 12" 1 3+ 2+ 2 4 Anti-Monster (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Thengavar 2 2+ 2+ 2 3 Anti-Monster (+1 Rend)
+Blade of the High Heavens 5 3+ 3+ 2 3 -
+Passive
+THE PRIME HUNTRESS: Lifetimes of
+experience, celestial strength and the power
+of Yndrasta’s spear Thengavar see even the
+most behemothic of terrors swiftly fall.
+Effect: Double the Damage characteristic
+of this unit’s Thengavar for attacks that
+target Monsters.
+Passive
+ON WINGS OF BRILLIANCE: Yndrasta
+soars across the battlefield to strike at the
+heart of Sigmar’s enemies.
+Effect: Add 1 to the number of dice rolled
+when making charge rolls for this unit, to
+a maximum of 3.
+Passive
+DAZZLING RADIANCE: Yndrasta’s god-
+touched brilliance casts a protective aura
+of light around nearby Stormcasts.
+Effect: Ignore negative modifiers to the
+control scores of friendly Stormcast
+Eternals units while they are wholly
+within 12" of this unit.
+Warmaster, Unique, Hero, Infantry, Fly, Ward (5+)
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 31 ---
+September 2024
+MOVE
+12" • STORMCAST ETERNALS WARSCROLL •
+T H S DRAKESWORN
+L18 3+A
+A V
+E H E TEMPLAR
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Skybolt Bow 18" 2 3+ 3+ 1 1 Crit (Auto-wound)
+Rain of Stars 24" 4 3+ 2+ 2 2 Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Hero (+1 Rend),
+Templar Weapons 5 3+ 3+ 1 2
+Anti-Monster (+1 Rend)
+Stardrake’s
+7 4+ 2+ 2 3 Companion
+Cavernous Jaws
+Passive Once Per Turn (Army),
+BATTLE DAMAGED Your Combat Phase
+Effect: While this unit has 10 or more MONSTROUS CHALLENGE: Though
+damage points, the Attacks characteristic not strictly holding the rank of knight,
+of its Stardrake’s Cavernous Jaws is 4. the Drakesworn Templars fulfil a similar
+role within the Extremis chambers,
+Passive charging off to face the greatest threats in
+single combat.
+EXTREMIS CHAMBER: Most scarce of
+Sigmar’s forces are the Extremis chambers, Declare: Pick an enemy Monster in
+with each Stormcast mounted on a living combat with this unit to be the target.
+weapon. To draw near these warriors is to
+risk being scoured by lightning or flame. Effect: Roll a dice. On a 2+, for the rest of
+the turn:
+Effect: Each time you make an
+unmodified save roll of 6 for a combat •Add 1 to the Damage characteristic of
+attack that targets this unit, inflict 1 this unit’s Stardrake’s Cavernous Jaws
+mortal damage on the attacking unit after for attacks that target that unit.
+the Fight ability has been resolved. •If the target is also a Hero, add 1 to
+the Damage characteristic of this unit’s
+Templar Weapons for attacks that
+target that unit.
+Keywords Rampage
+Hero, Monster, Fly
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 32 ---
+September 2024
+MOVE
+12"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 20 3+ S A KARAZAI
+A V
+E E
+H
+5 THE SCARRED
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRnd Dmg Ability
+Blazing Tempest 12" 1 2+ 3+ 2 D3+3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Annihilating Jaws 4 3+ 2+ 2 4 Anti-Infantry (+1 Rend)
+Drake-lord’s Talons 6 3+ 2+ 2 2 -
+Passive Once Per Turn (Army), Any Combat Phase
+FIRES OF RETRIBUTION: Vengeance CALAMITOUS TAIL SWEEP: With a
+burns blinding and everlasting in sweep of his destructive tail, Karazai can
+Karazai’s soul. deliver a killing blow to those in his path.
+Effect: While this unit has 5-9 damage Declare: Pick an enemy unit in combat
+points, add 1 to the Attacks characteristic with this unit to be the target.
+of its melee weapons.
+Effect: Roll a dice for each model in the
+While this unit has 10 or more damage target unit. For each 5+, inflict 1 mortal
+points, add 2 to the Attacks characteristic damage on the target.
+of its melee weapons instead.
+Keywords Rampage
+Any Combat Phase
+ANCIENT MASTER OF WAR: Karazai
+has seen countless battles over the heady
+span of his life, and the reptilian fury he
+displays can soon overpower any foe.
+Declare: Pick an enemy unit within this
+unit’s combat range to be the target.
+Effect: Subtract 1 from the Attacks
+characteristic of the target’s melee
+weapons for the rest of the turn.
+Warmaster, Unique, Hero, Monster, Fly
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 33 ---
+September 2024
+MOVE
+12"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 20 3+ S A KRONDYS
+A V
+E E
+H
+5 SON OF DRACOTHION
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRnd Dmg Ability
+Blazing Tempest 12" 1 2+ 3+ 2 D3+3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Apex Maw 4 3+ 2+ 2 4 Anti-Infantry (+1 Rend)
+Drake-lord’s Talons 6 3+ 2+ 2 2 -
+Passive Your Hero Phase 8
+BATTLE DAMAGED ATAVISTIC TEMPEST: WWWiiieeellldddiiinnnggg ttthhheee
+Effect: While this unit has 10 or more power of Azyr alongside the lost magics of
+damage points, the Attacks characteristic the Draconith empire, Krondys barrages
+of its Apex Maw is 2. the enemy with elemental storms.
+Declare: Pick a visible enemy unit within
+Passive
+18" of the caster to be the target, then
+REGALIA FULMENTARUS: A symbol
+make a casting roll of 2D6.
+of the Draconith–Stormcast alliance, this
+mastersmithed mantle enhances Krondys’s Effect: Pick 1 of the following effects to
+arcane strength to even greater heights. apply to the target until the start of your
+next turn:
+Effect: Add 2 to casting rolls for this unit.
+Blinding Gales: Subtract 1 from hit rolls
+Once Per Turn (Army), for the target’s attacks.
+Any Combat Phase
+Meteor-hail: Subtract 1 from the Rend
+SOUL-SHAKING ROAR: Defiant in the
+characteristic of the target’s weapons.
+face of any foe, Krondys issues an ear-
+shattering roar at those who dare face him. Flash-freezing Blizzard: Subtract 1 from
+save rolls for the target.
+Declare: Pick an enemy unit in combat
+Keywords Spell
+with this unit to be the target.
+Effect: Roll a dice. On a 3+, the target
+cannot use commands for the rest of
+the turn.
+Keywords Rampage
+Warmaster, Unique, Hero, Monster, Wizard (2), Fly
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 34 ---
+September 2024
+MOVE
+12"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 18 3+ S A LORD-CELESTANT
+A V
+E E
+H
+5 ON STARDRAKE
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Rain of Stars 24" 4 3+ 2+ 2 2 Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Weapons of Legend 5 3+ 3+ 1 2 Crit (Auto-wound)
+Stardrake’s
+7 4+ 2+ 2 3 Companion
+Cavernous Jaws
+Passive Passive
+BATTLE DAMAGED EXTREMIS CHAMBER: Most scarce of
+Effect: While this unit has 10 or more Sigmar’s forces are the Extremis chambers,
+damage points, the Attacks characteristic with each Stormcast mounted on a living
+of its Stardrake’s Cavernous Jaws is 4. weapon. To draw near these warriors is to
+risk being scoured by lightning or flame.
+Once Per Battle, Any Combat Phase
+Effect: Each time you make an
+LORD OF THE HOST: A Lord-Celestant
+unmodified save roll of 6 for a combat
+is a trusted and respected leader. Their
+attack that targets this unit, inflict 1
+presence steels the souls of those who
+mortal damage on the attacking unit after
+fight nearby.
+the Fight ability has been resolved.
+Effect: Add 1 to the Attacks characteristic
+of other friendly Extremis Chamber Once Per Turn (Army),
+units wholly within 12" of this unit for the Any Combat Phase
+rest of the turn. CAVERNOUS JAWS: The enormous maw
+of a Stardrake can bite a foe in half.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll 3 dice. For each roll that
+equals or exceeds the target’s Health
+characteristic, 1 model in the target unit
+is slain.
+Keywords Rampage
+Hero, Monster, Fly
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 35 ---
+September 2024
+MOVE
+12"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 2 6+A V AETHERWINGS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Beak and Claws 2 4+ 4+ - 1 Companion
+Passive Passive
+MARKED FOR DESTRUCTION: Those BEAST
+who oppose the masters of these loyal Effect: This unit has a maximum control
+beasts hear doom approaching in the score of 1.
+beating of celestial wings.
+Effect: Add 1 to hit rolls for shooting
+attacks made by friendly Vanguard
+Chamber units if the target is within 9"
+of this unit.
+Beast, Fly
+KEYWORDS
+Order, Stormcast Eternals, Vanguard Chamber
+
+--- Page 36 ---
+September 2024
+MOVE
+4"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 3 2+ S A ANNIHILATORS
+A V
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Meteoric Hammer 3 3+ 3+ 1 2 -
+Any Charge Phase Your Movement Phase
+BRACE FOR IMPACT: Annihilators BLAZING IMPACT: Annihilators arrive
+brace behind their mighty shields to hold upon the field with devastating force, twin-
+off even the most ferocious charge. tailed trails streaking behind them as an
+earth-shattering shock-wave blasts apart
+Declare: Pick an enemy unit that charged
+the foes of Sigmar.
+this turn and is in combat with this unit
+to be the target. Declare: If this unit was set up this turn
+using the ‘Scions of the Storm’ ability,
+Effect: Roll a dice for each model in this
+pick up to 3 enemy units within 10" of it
+unit. If any of the rolls are a 6, the target
+to be the targets.
+has Strike-last for the rest of the turn.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 37 ---
+September 2024
+MOVE
+9"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 2 6+A V GRYPH-HOUNDS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Vicious Beak and Claws 4 4+ 4+ - 1 Companion
+Any Shooting Phase Passive
+WARNING CRY: It is said that it is BEAST
+impossible to sneak up on a Gryph-hound. Effect: This unit has a maximum control
+score of 1.
+Declare: Pick an enemy unit within 12"
+of this unit that was set up this turn.
+Then, pick up to 3 friendly Stormcast
+Eternals units armed with ranged
+weapons that are within 12" of that enemy
+unit to be the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+that enemy unit equal to the roll.
+Beast, Champion
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 38 ---
+September 2024
+MOVE
+4"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 3 3+ S A ANNIHILATORS
+A V
+E E
+H
+1 WITH METEORIC GRANDHAMMERS
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Meteoric Grandhammer 3 3+ 2+ 2 3 -
+Any Charge Phase Your Movement Phase
+FORCE OF A FALLING STAR: As BLAZING IMPACT: Annihilators arrive
+Annihilators build up momentum, their upon the field with devastating force, twin-
+charge carries the same force as the impact tailed trails streaking behind them as an
+of their arrival. earth-shattering shock-wave blasts apart
+the foes of Sigmar.
+Declare: If this unit charged this phase
+and the unmodified charge roll was 8+, Declare: If this unit was set up this turn
+pick an enemy unit within 1" of it to be using the ‘Scions of the Storm’ ability,
+the target. pick up to 3 enemy units within 10" of it
+to be the targets.
+Effect: The target has Strike-last for
+the rest of the turn. Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 39 ---
+September 2024
+MOVE
+10" • STORMCAST ETERNALS WARSCROLL •
+H
+L T 5 3+ S A DRACOTHIAN GUARD
+A E E V CONCUSSORS
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Stormblast 10" 1 3+ 3+ 2 D3 Crit (2 Hits), Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Lightning Hammer 3 3+ 2+ 1 2 Crit (Mortal)
+Dracoth’s Claws and Fangs 3 4+ 2+ 2 2 Companion
+Passive Once Per Turn (Army), Any Combat Phase
+EXTREMIS CHAMBER: Most scarce of THUNDERSTRUCK: When a lightning
+Sigmar’s forces are the Extremis chambers, hammer finds its mark, enemies are
+with each Stormcast mounted on a living paralysed by crackling energy and a flash
+weapon. To draw near these warriors is to of blinding light.
+risk being scoured by lightning or flame.
+Declare: Pick an enemy unit in combat
+Effect: Each time you make an with this unit to be the target.
+unmodified save roll of 6 for a combat
+Effect: Roll a dice. On a 3+, the target
+attack that targets this unit, inflict 1
+cannot use commands for the rest of
+mortal damage on the attacking unit after
+the turn.
+the Fight ability has been resolved.
+Cavalry
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 40 ---
+September 2024
+MOVE
+10" • STORMCAST ETERNALS WARSCROLL •
+H
+L T 5 3+ S A DRACOTHIAN GUARD
+A E E V DESOLATORS
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Stormblast 10" 1 3+ 3+ 2 D3 Crit (2 Hits), Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Thunderaxe 3 3+ 3+ 1 2 Anti-Infantry (+1 Rend)
+Dracoth’s Claws and Fangs 3 4+ 2+ 2 2 Companion
+Passive Passive
+EXTREMIS CHAMBER: Most scarce of CLEAVING BLOW: A single swing of a
+Sigmar’s forces are the Extremis chambers, thunderaxe can carve through several foes.
+with each Stormcast mounted on a living
+Effect: Add 1 to the Damage
+weapon. To draw near these warriors is to
+characteristic of this unit’s Thunderaxes
+risk being scoured by lightning or flame.
+if the target unit has 10 or more models.
+Effect: Each time you make an
+unmodified save roll of 6 for a combat
+attack that targets this unit, inflict 1
+mortal damage on the attacking unit after
+the Fight ability has been resolved.
+Cavalry
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 41 ---
+September 2024
+MOVE
+10" • STORMCAST ETERNALS WARSCROLL •
+H
+L T 5 3+ S A DRACOTHIAN GUARD
+A E E V FULMINATORS
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Stormblast 10" 1 3+ 3+ 2 D3 Crit (2 Hits), Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stormstrike Glaive 3 3+ 3+ 1 2 Charge (+1 Damage)
+Dracoth’s Claws and Fangs 3 4+ 2+ 2 2 Companion
+Passive Any Charge Phase
+EXTREMIS CHAMBER: Most scarce of IMPALING STRIKES: On the charge,
+Sigmar’s forces are the Extremis chambers, the blade of a stormstrike glaive can
+with each Stormcast mounted on a living impale several foes.
+weapon. To draw near these warriors is to
+Declare: If this unit charged this phase,
+risk being scoured by lightning or flame.
+pick an enemy unit within 1" of it to be
+Effect: Each time you make an the target.
+unmodified save roll of 6 for a combat
+Effect: Roll a D3. On a 2+, inflict an
+attack that targets this unit, inflict 1
+amount of mortal damage on the target
+mortal damage on the attacking unit after
+equal to the roll.
+the Fight ability has been resolved.
+Cavalry
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 42 ---
+September 2024
+MOVE
+10"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 5 3+ S A DRACOTHIAN GUARD
+A V
+E E TEMPESTORS
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Stormblast 10" 1 3+ 3+ 2 D3 Crit (2 Hits), Companion
+Volleystorm Crossbow 12" 3 3+ 3+ 1 1 Crit (2 Hits)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warblade 2 3+ 3+ 1 1 -
+Dracoth’s Claws and Fangs 3 4+ 2+ 2 2 Companion
+Passive Any Shooting Phase
+EXTREMIS CHAMBER: Most scarce of OVERWHELMING VOLLEYSTORM:
+Sigmar’s forces are the Extremis chambers, The Tempestors fire charged crossbow bolts
+with each Stormcast mounted on a living into the foe, weakening their defences and
+weapon. To draw near these warriors is to leaving them open to a follow-up assault.
+risk being scoured by lightning or flame.
+Declare: Pick an enemy unit that had any
+Effect: Each time you make an damage points allocated to it this turn by
+unmodified save roll of 6 for a combat attacks made with this unit’s Volleystorm
+attack that targets this unit, inflict 1 Crossbows to be the target.
+mortal damage on the attacking unit after
+Effect: Roll a dice. On a 2+, the target
+the Fight ability has been resolved.
+cannot use the ‘All-out Defence’
+command in the following combat phase.
+Cavalry
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 43 ---
+September 2024
+MOVE
+5"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 3 3+A V PRAETORS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Soulguard’s Halberd 3 3+ 3+ 1 2 -
+Deployment Phase Passive
+SOUL-BONDED: Praetors are exemplary SOUL-FORGED GUARDIANS: Praetors
+bodyguards, linked to their assigned wards will protect their soul-bonded charges with
+at an arcane, spiritual level. every ounce of their being.
+Effect: Pick a friendly Stormcast Effect: While this unit’s soul-bonded
+Eternals Hero to be this unit’s soul- charge is within this unit’s combat range,
+bonded charge for the rest of the battle. both this unit and that soul-bonded
+This unit can use this ability while it is charge have Ward (5+).
+in reserve.
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 44 ---
+September 2024
+MOVE
+12"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 2 3+A V PROSECUTORS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Stormcall Javelin 10" 1 3+ 3+ 1 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stormcall Javelin 3 3+ 3+ 1 1 Charge (+1 Damage)
+Once Per Turn (Army), Reaction: This unit Passive
+was picked as the target of a non-Core ability HERALDS OF RIGHTEOUSNESS:
+RUINATION CHAMBER: These veterans Prosecutors cross the battlefield in a blur
+march where others cannot tread, fighting of light.
+upon battlefields transformed into scenes
+Effect: Add 1 to the number of dice rolled
+of apocalypse. Even the most corrosive
+when making charge rolls for this unit, to
+magics find no purchase on their souls.
+a maximum of 3.
+Effect: Make a resistance roll of D6. On a
+4+, that ability has no effect on this unit.
+Passive
+DISPERSED FORMATION: These
+warriors maintain a wide formation,
+enabling more precise strikes and greater
+battlefield control.
+Effect: This unit has a coherency range
+of 2".
+Infantry, Champion, Fly
+KEYWORDS
+Order, Stormcast Eternals, Ruination Chamber
+
+--- Page 45 ---
+September 2024
+MOVE
+12" • STORMCAST ETERNALS WARSCROLL •
+T H S STORMDRAKE
+L 9 3+A
+A V
+E E
+H GUARD
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Draconic Flamestream 10" 4 2+ 3+ 2 1 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Drakerider’s Lance 3 3+ 3+ 1 1
+Anti-Infantry (+1 Rend)
+Drakerider’s Warblade 6 3+ 3+ 1 1 -
+Draconith’s Fangs
+4 4+ 2+ 2 2 Companion
+and Talons
+Each model in this unit is armed with a
+Passive
+Draconic Flamestream, Draconith’s Fangs
+and Talons and 1 of the following options: DISPERSED FORMATION: These
+warriors maintain a wide formation,
+• Drakerider’s Lance enabling more precise strikes and greater
+• Drakerider’s Warblade
+battlefield control.
+Once Per Turn (Army), Effect: This unit has a coherency range
+Any Combat Phase
+of 2".
+DRACONIC ONSLAUGHT: To reclaim
+their old empire, the Draconith and their
+Passive
+riders fight together as a single furious
+whole, savaging any who cross their path. EXTREMIS CHAMBER: Most scarce of
+Sigmar’s forces are the Extremis chambers,
+Effect: If this unit charged this turn, roll with each Stormcast mounted on a living
+a dice. On a 3+, this unit can move 2D6". weapon. To draw near these warriors is to
+It can pass through the combat ranges risk being scoured by lightning or flame.
+of enemy units and can end that move
+in combat. Then, pick an enemy unit Effect: Each time you make an
+that this unit passed across during that unmodified save roll of 6 for a combat
+move. Inflict D3 mortal damage on that attack that targets this unit, inflict 1
+enemy unit. mortal damage on the attacking unit after
+the Fight ability has been resolved.
+Keywords Rampage
+Monster, Champion, Fly
+KEYWORDS
+Order, Stormcast Eternals, Extremis Chamber
+
+--- Page 46 ---
+September 2024
+MOVE
+10" • STORMCAST ETERNALS WARSCROLL •
+T H S STORMSTRIKE
+L10 3+A
+A V
+E E
+H CHARIOT
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Great Stormbow 18" 2 3+ 3+ 1 1
+Crit (2 Hits)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stormstrike Axe 3 3+ 3+ 1 1 Charge (+1 Damage)
+Tempestuous Spear 2 3+ 3+ 2 1 -
+Gryph-chargers’
+6 4+ 3+ 1 1 Companion
+Razor Beaks
+This unit is armed with a Stormstrike Axe,
+Passive
+Gryph-chargers’ Razor Beaks and 1 of the
+following options: CELESTIAL BLAZE: The Stormstrike
+Chariot smashes through lesser foes in a
+• Tempestuous Spear blaze of celestial power.
+• Great Stormbow
+Effect: When this unit uses the ‘Power
+Any Charge Phase Through’ command, inflict an additional
+AZYR UNLEASHED: The impact of D3 mortal damage on the target and add
+a Stormstrike Chariot on the charge D6" to the distance this unit can move as
+can obliterate even the most durable part of that ability.
+of shieldwalls.
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+War Machine
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 47 ---
+September 2024
+MOVE
+5" • STORMCAST ETERNALS WARSCROLL •
+T H S VANGUARD-
+L 2 3+A
+A V
+E E
+H HUNTERS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Boltstorm Pistol 10" 2 4+ 4+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stormwrought Weapon 2 3+ 3+ 1 1 -
+Passive Once Per Battle (Army),
+VANGUARD CHAMBER: Through Deployment Phase
+swiftness, guile and more than a hint of ASTRAL COMPASS: The Vanguard-
+savagery, the warriors of the Vanguard Hunters use their astral compass to track
+chamber are able to outfight forces many their enemies across the Mortal Realms.
+times their own limited numbers.
+Declare: Pick an enemy unit to be
+Effect: This unit can use Shoot and/or the target.
+Charge abilities even if it used a Run or
+Effect: The target has the Hunted
+Retreat ability in the same turn.
+keyword for the rest of the battle.
+Passive
+STAR-MARKED: Those tracked by the
+Vanguard-Hunters can be sensed from
+great distances.
+Effect: Add 2" to this unit’s Move
+characteristic while a Hunted enemy
+unit is on the battlefield. In addition, add
+1 to hit rolls for this unit’s attacks that
+target a Hunted enemy unit.
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Vanguard Chamber
+
+--- Page 48 ---
+September 2024
+MOVE
+• STORMCAST ETERNALS WARSCROLL •
+14"
+H VANGUARD-
+T S
+L 5 3+A
+A V
+E E PALLADORS
+H
+2
+CONTROL WITH STARSTRIKE JAVELINS
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Boltstorm Pistol 10" 2 4+ 4+ 1 1 Shoot in Combat
+Starstrike Javelin 12" 1 3+ 3+ 1 2 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Starstrike Javelin 1 3+ 3+ 1 2 -
+Gryph-charger’s Razor Beak 3 4+ 3+ 1 1 Companion
+Passive Your Charge Phase
+VANGUARD CHAMBER: Through CHARGING VOLLEY: Vanguard-
+swiftness, guile and more than a hint of Palladors unleash a deadly volley of
+savagery, the warriors of the Vanguard missiles as they charge into their foes.
+chamber are able to outfight forces many
+Declare: If this unit charged this phase,
+times their own limited numbers.
+pick an enemy unit in combat with it to
+Effect: This unit can use Shoot and/or be the target.
+Charge abilities even if it used a Run or
+Effect: This unit can immediately use a
+Retreat ability in the same turn.
+Shoot ability as if it were your shooting
+phase, but it must target that enemy unit.
+This unit’s Starstrike Javelins have Shoot
+in Combat this phase.
+Cavalry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Vanguard Chamber, Vanguard-Palladors
+
+--- Page 49 ---
+September 2024
+MOVE
+• STORMCAST ETERNALS WARSCROLL •
+14"
+H VANGUARD-
+T S
+L 5 3+A
+A E E V PALLADORS
+H
+2
+CONTROL WITH SHOCK HANDAXES
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Boltstorm Pistol 10" 2 4+ 4+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Shock Handaxe 2 3+ 3+ 1 2 Charge (+1 Damage)
+Gryph-charger’s Razor Beak 3 4+ 3+ 1 1 Companion
+Passive Passive
+VANGUARD CHAMBER: Through SHOCKING STRIKES: Enemies struck
+swiftness, guile and more than a hint of with shock handaxes reel in pain as
+savagery, the warriors of the Vanguard electricity courses through their veins.
+chamber are able to outfight forces many
+Effect: If any damage points are allocated
+times their own limited numbers.
+to an enemy unit by attacks made with
+Effect: This unit can use Shoot and/or this unit’s Shock Handaxes, subtract 1
+Charge abilities even if it used a Run or from wound rolls for that enemy unit’s
+Retreat ability in the same turn. combat attacks for the rest of the turn.
+Cavalry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Vanguard Chamber, Vanguard-Palladors
+
+--- Page 50 ---
+September 2024
+MOVE
+• STORMCAST ETERNALS WARSCROLL •
+5"
+H VANGUARD-
+T S
+L 2 3+A
+A E E V RAPTORS
+H
+1
+CONTROL WITH HURRICANE CROSSBOWS
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Hurricane Crossbow 12" 4 3+ 3+ - 1
+Crit (2 Hits)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Heavy Stock 1 4+ 3+ - 1 -
+Passive Passive
+VANGUARD CHAMBER: Through COORDINATED STRIKE: The warriors
+swiftness, guile and more than a hint of of the Vanguard chamber train relentlessly
+savagery, the warriors of the Vanguard to fight in perfect unison.
+chamber are able to outfight forces many
+Effect: Add 1 to wound rolls for this
+times their own limited numbers.
+unit’s shooting attacks if the target is in
+Effect: This unit can use Shoot and/or combat with any friendly Vanguard
+Charge abilities even if it used a Run or Chamber units.
+Retreat ability in the same turn.
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Vanguard Chamber
+
+--- Page 51 ---
+September 2024
+MOVE
+• STORMCAST ETERNALS WARSCROLL •
+5"
+H VANGUARD-
+T S
+L 2 3+A
+A E E V RAPTORS
+H
+1
+WITH LONGSTRIKE CROSSBOWS
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Hero (+1 Rend),
+Longstrike Crossbow 18" 2 3+ 3+ 2 2
+Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Heavy Stock 1 4+ 3+ - 1 -
+Passive Your Shooting Phase
+VANGUARD CHAMBER: Through HEADSHOT: When given time to take
+swiftness, guile and more than a hint of careful aim, a Vanguard-Raptor can find
+savagery, the warriors of the Vanguard their mark even amidst the roiling mass
+chamber are able to outfight forces many of battle.
+times their own limited numbers.
+Effect: If this unit has not used a Move
+Effect: This unit can use Shoot and/or ability this turn and was not set up this
+Charge abilities even if it used a Run or turn, for the rest of the turn, this unit can
+Retreat ability in the same turn. ignore the effects of the ‘Guarded Hero’
+ability (Core Rules, 25.0) when picking
+targets for its shooting attacks.
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Vanguard Chamber
+
+--- Page 52 ---
+September 2024
+MOVE
+6"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 2 3+A V VIGILORS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Stormcaller Bow 18" 2 3+ 3+ 1 1 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stormblade 2 3+ 3+ 1 1 -
+Passive
+NAVIGATORS OF THE STORM:
+As the Vigilors move swiftly beneath
+dark thunderheads, the Grungni-
+forged arrowheads of their stormcaller
+bows unleash flickers of lightning
+that illuminate their target and allow
+vital reconnaissance.
+Effect: If an enemy unit had any damage
+points allocated to it this turn by this
+unit’s shooting attacks, add 1 to hit rolls
+for attacks made by friendly Stormcast
+Eternals units that target that unit for
+the rest of the turn.
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 53 ---
+September 2024
+MOVE
+5" • STORMCAST ETERNALS WARSCROLL •
+T H S QUESTOR
+L 3 3+A
+A V
+E E
+H SOULSWORN
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Questor Weapons 3 3+ 3+ 1 2 -
+Once Per Battle (Army), Once Per Battle, Your Movement Phase
+Deployment Phase RELICTOR SOULGUIDE: The Knight-
+ORDAINED QUEST: Questors travel Relictor who accompanies the Soulsworn
+deep into enemy territory to gain control of uses the winds of Sigmar’s Tempest to
+vital landmarks with hidden secrets. translocate the Questors to where they are
+most needed.
+Effect: Pick an objective wholly outside
+friendly territory. That objective is Declare: You can pick a friendly
+considered by you to be questmarked. Knight-Questor within this unit’s
+combat range to be the target.
+Effect: Remove this unit from the
+battlefield and set it up again on the
+battlefield more than 9" from all enemy
+units. Then, if you picked a target, remove
+it from the battlefield and set it up again
+within this unit’s combat range and more
+than 9" from all enemy units.
+Keywords Core
+Passive
+HIS WILL BE DONE: Questors will stop
+at nothing to fulfil the sacred task given to
+them by the God-King himself.
+Effect: While this unit is contesting a
+questmarked objective:
+•Add 3 to this unit’s control score.
+•This unit has Ward (5+).
+Infantry, Champion (1/6)
+KEYWORDS
+Order, Stormcast Eternals, Warrior Chamber
+
+--- Page 54 ---
+September 2024
+MOVE
+8"
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 7 6+A V CELESTIAN VORTEX
+E E
+H
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Storm of Vengeance 12 4+ 4+ 1 1 Crit (Auto-wound)
+Passive
+TORNADO OF MAGIC: A Celestian
+Vortex whips the air around it into a
+tornado that disrupts attacks made with
+missile weapons.
+Effect: Subtract 1 from hit rolls for
+shooting attacks made by enemy
+units while they are within 12" of
+this Manifestation.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 55 ---
+September 2024
+MOVE
+8"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L - - A V DAIS ARCANUM
+E E
+H
+7+
+BANISHMENT
+Passive
+ARCANE ENHANCEMENT: A
+Stormcast blessed to be borne upon a Dais
+Arcanum feels the celestial energies of
+Azyr course through them.
+Effect: While the unit that was picked
+to be the target of the ‘Summon Dais
+Arcanum’ ability is on the platform of
+this Manifestation:
+•That unit has Ward (5+) and Fly.
+•If that unit is a Wizard, add 1 to that
+unit’s power level.
+•That unit cannot use Move abilities
+and remains on this Manifestation
+each time it moves.
+•If that unit is picked to make
+a pile-in move, move this
+Manifestation instead.
+•Instead of measuring range or
+visibility to that unit, measure to this
+Manifestation instead.
+•This Manifestation cannot be picked
+to be the target of abilities other than
+Banish abilities.
+If this Manifestation is banished,
+before removing it from the battlefield,
+set up the unit on its platform on the
+battlefield within 3" of it. That unit can
+only be set up in combat with units it
+was already in combat with when this
+Manifestation was banished. If it is not
+possible to set up that unit, it is destroyed.
+If the unit on the platform is removed
+from the battlefield, immediately remove
+this Manifestation from play.
+Manifestation, Endless Spell, Fly
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 56 ---
+September 2024
+MOVE
+-
+H • STORMCAST ETERNALS WARSCROLL •
+T S
+A L 5 4+A V EVERBLAZE COMET
+E E
+H
+6+
+BANISHMENT
+Any Hero Phase Passive
+BURNING VENGEANCE: An Everblaze ARCANE DISRUPTION: The
+Comet smashes into the battlefield with emanations from an Everblaze
+tremendous force, whereupon it embeds Comet disrupt the magical abilities of
+itself into the ground, radiating a corona nearby wizards.
+of deadly Azyrite energies.
+Effect: Subtract 1 from casting rolls for
+Declare: If this Manifestation was enemy Wizards while they are within
+summoned this phase, pick any number 12" of this Manifestation.
+of enemy units within 6" of it to be
+the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 57 ---
+September 2024
+MOVE
+12"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 8 3+A V LORD-VIGILANT
+E E
+H
+2 ON GRYPH-STALKER
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Hallowed Greataxe 5 3+ 3+ 2 2 -
+Gryph-stalker’s Beak
+3 4+ 3+ 1 2 Companion
+and Talons
+Once Per Turn (Army), Reaction: This unit Once Per Battle (Army),
+was picked as the target of a non-Core ability Any Combat Phase
+RUINATION CHAMBER: These veterans DELIVER JUDGEMENT: This warrior
+march where others cannot tread, fighting orders Sigmar’s wrath to be delivered unto
+upon battlefields transformed into scenes their enemies.
+of apocalypse. Even the most corrosive
+Declare: Pick a friendly non-Hero
+magics find no purchase on their souls.
+Ruination Chamber unit wholly
+Effect: Make a resistance roll of D6. On a within 12" of this unit.
+4+, that ability has no effect on this unit.
+Effect: That unit can use 2 Fight abilities
+this phase. After the first is used, however,
+that unit has Strike-last for the rest of
+the turn.
+Hero, Cavalry
+KEYWORDS
+Order, Stormcast Eternals, Ruination Chamber
+
+--- Page 58 ---
+September 2024
+MOVE
+5"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 6 3+ S A LORD-TERMINOS
+A V
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+The Blade Terminos 4 3+ 2+ 2 3 Crit (Mortal)
+Once Per Turn (Army), Reaction: This unit Reaction: You declared a Fight ability
+was picked as the target of a non-Core ability for this unit
+RUINATION CHAMBER: These veterans EARN AN HONOURABLE DEATH: The
+march where others cannot tread, fighting Lord-Terminos heads to battle alongside
+upon battlefields transformed into scenes the Ruination chamber, the Stormcasts
+of apocalypse. Even the most corrosive seeking to earn their final rest by proving
+magics find no purchase on their souls. themselves in battle.
+Effect: Make a resistance roll of D6. On a Effect: Pick a friendly non-Hero
+4+, that ability has no effect on this unit. Ruination Chamber Infantry unit
+that has not used a Fight ability this turn
+Passive and is within this unit’s combat range to
+MEMORIAN: Memorians serve to be the target. The target can be picked to
+remind soul-damaged Stormcasts of use a Fight ability immediately after the
+their humanity. Fight ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+Effect: This unit’s Memorian is a hit rolls for the target’s attacks for the rest
+token. Add 3 to the control scores of of the turn.
+friendly Ruination Chamber units
+wholly within 12" of this unit while its
+Memorian is on the battlefield.
+If you make an unmodified save roll of 1
+for this unit, remove its Memorian from
+the battlefield after the Attack ability
+has been resolved (the damage point is
+still inflicted).
+Hero, Infantry
+KEYWORDS
+Order, Stormcast Eternals, Ruination Chamber
+
+--- Page 59 ---
+September 2024
+MOVE
+5"
+T H S • STORMCAST ETERNALS WARSCROLL •
+A L 3 3+A V RECLUSIANS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Rune-blessed Weapons 3 3+ 3+ 1 2 Crit (Mortal)
+Once Per Turn (Army), Reaction: This unit Passive
+was picked as the target of a non-Core ability MEMORIAN DESCENDANTS:
+RUINATION CHAMBER: These veterans Reclusians are accompanied by
+march where others cannot tread, fighting Memorians who serve to remind them of
+upon battlefields transformed into scenes their humanity.
+of apocalypse. Even the most corrosive
+Effect: This unit’s Memorians are tokens.
+magics find no purchase on their souls.
+There are 2 Memorians for every 3
+Effect: Make a resistance roll of D6. On a models in this unit. While any of this
+4+, that ability has no effect on this unit. unit’s Memorians are on the battlefield,
+add 1 to this unit’s resistance rolls when
+using the ‘Ruination Chamber’ ability.
+Each time you make an unmodified save
+roll of 1 for this unit, remove 1 of its
+Memorians from the battlefield after the
+Attack ability has been resolved (the
+damage point is still inflicted).
+Infantry, Champion
+KEYWORDS
+Order, Stormcast Eternals, Ruination Chamber
+
+--- Page 60 ---
+September 2024
+MOVE
+12"
+H • STORMCAST ETERNALS WARSCROLL •
+L T 16 3+ S A IONUS CRYPTBORN
+A V
+E E
+H
+5 WARDEN OF LOST SOULS
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Spirit-scouring Flames 10" 9 2+ 4+ 2 1 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Soulbreaker 4 3+ 3+ 1 2 -
+Cthorak’s Ancient Claws 6 4+ 2+ 2 3 Companion
+Passive Once Per Turn (Army),
+BATTLE DAMAGED Any Shooting Phase
+Effect: While this unit has 10 or more SPIRIT-SCOURING FLAMES: Enemies
+damage points, the Attacks characteristic engulfed by Cthorak’s pale-flame breath
+of Cthorak’s Ancient Claws is 4. feel their very souls begin to burn away.
+Declare: Pick an enemy unit that had
+Your Hero Phase 5 any damage points allocated to it this
+LIGHTNING TEMPEST: IIIooonnnuuusss cccaaallllllsss turn by attacks made with this unit’s
+upon Sigmar to unleash the wrath of Azyr. Spirit-scouring Flames to be the target.
+Declare: Pick a visible enemy unit within Effect: The target has the Soulburned
+12" of this unit to be struck by lightning, keyword for the rest of the battle.
+then make a chanting roll of D6.
+Keywords Rampage
+Effect: Inflict D3 mortal damage on
+that unit, then roll a dice. On a 1-2, the Any Shooting Phase
+sequence ends. On a 3+, pick another SOULBURNED: Once an enemy has
+enemy unit within 3" of that unit to be been burnt by Cthorak’s scouring flames,
+struck by lightning and inflict D3 mortal their soul ignites deep within their body.
+damage on it. If the chanting roll was 10+,
+you can pick another enemy unit within Declare: This unit can use this ability
+6" of that unit instead of 3". Keep rolling even if it has been destroyed. Pick any
+dice in this way until the sequence ends number of Soulburned enemy units to
+or there are no other enemy units eligible be the targets.
+to be struck by lightning. A unit cannot
+Effect: Roll a D3 for each target. On a 2+,
+be struck by lightning more than once
+inflict an amount of mortal damage on
+per turn.
+the target equal to the roll.
+Keywords Prayer
+Warmaster, Unique, Hero, Monster, Priest (2), Fly
+KEYWORDS
+Order, Stormcast Eternals
+
+--- Page 61 ---
+STORMCAST ETERNALS
+YNDRASTA’S SPEARHEAD
+The warriors under Yndrasta’s command ensure that the enemy overextend
+This Spearhead army consists themselves before the killing strike is dealt. That deadly blow is almost
+of the following units: always struck by Sigmar’s Huntress herself. It is her spear that plunges into
+the heart of the enemy’s most monstrous champion, and it is her hand that
+GENERAL raises their decapitated head to the skies to the thunder of Sigmar’s approval.
+Yndrasta, the
+Celestial Spear Yndrasta is one of Sigmar’s mightiest champions, her role to hunt down
+the deadliest and most evil of foes. Her Spearhead formation works in two
+UNITS distinct elements. The first is based around a small force of Vanquishers
+1 Knight-Vexillor that strike from the heavens in a blinding column of lightning. At their
+3 Annihilators head, a Knight-Vexillor raises a magical Banner of Apotheosis to heal any
+5 Vanquishers wounds they suffer, while a Stormstrike Chariot adds some serious punch to
+5 Vanquishers their charge. When the foe musters a counter-attack, its commanders and
+Stormstrike Chariot warbeasts seeking to overrun the Stormcast Eternals infantry, the second
+part of this dual assault descends in a blaze of force. Here the Annihilators
+are in their element, their meteoric charge crushing all but the most
+formidable foes. Yndrasta, waiting for the foe to reveal their hand, is often
+the last to strike – and when she does so, she is quite capable of slaying even a
+rampaging gargant with a series of pinpoint spear-thrusts.
+‘Let the vengeance of the God-King blast these fools from
+our sight. Attack!’
+– Yndrasta, the Celestial Spear
+Background writer Leila’s Anvils of the Heldenhammer, a chamber from Lethis, are a labour of love. Taking the chance
+to do something special with their centrepiece model, they carefully blended the teal on Yndrasta’s wings.
+
+--- Page 62 ---
+BATTLE TRAITS
+SCIONS OF THE STORM
+Upon blessed bolts of lightning do the Stormcast Eternals
+ride to war, the furious rumble of thunder heralding
+their arrival.
+Yndrasta and your Annihilators unit are not set up
+during the deployment phase. Instead, from the third
+battle round onwards, they can use the following ability:
+Your Movement Phase
+LIGHTNING-STRIKE ARRIVAL: With a clap
+of thunder, Yndrasta and her allies strike down onto
+the battlefield.
+Effect: Set up this unit anywhere on the battlefield
+more than 6" from all enemy units.
+Keywords Core
+Knight-Vexillor
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+End of Any Turn Passive
+DRIVE THEM BACK: Not an inch is given to the DEFEND TO THE LAST: These fearless warriors
+enemies of Sigmar. refuse to fall until their task is completed.
+Declare: Pick any number of friendly units that are Effect: Friendly units have Ward (6+) while they are
+both contesting an objective and in combat. contesting an objective you control.
+Effect: Each of those units can make a pile-in move
+(Core Rules, 15.3). For each unit that did so, pick an
+enemy unit within 1" of it and roll a dice. On a 4+,
+inflict 1 mortal damage on that enemy unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Passive
+THE PRIME HUNTRESS: Yndrasta relishes STRIKE WITH THE TEMPEST’S RAGE:
+hunting the mightiest and most terrifying quarry. Yndrasta’s enemies know that to catch her gaze is to
+be marked for annihilation.
+Effect: The Damage characteristic of Thengavar
+(Yndrasta’s spear) is 2D6 for attacks that target Effect: Your general has Strike-first if they
+a Monster. charged in the same turn.
+Once Per Battle, Your Movement Phase Once Per Battle, Any Combat Phase
+DAZZLING RADIANCE: Yndrasta’s god-touched HAWK OF THE CELESTIAL SKIES: The sight
+brilliance can call stranded Stormcast souls into the of Yndrasta’s seraphic form inspires her warriors with
+fray once more. immeasurable resolve.
+Declare: Pick your general to use this ability if they Effect: Until the end of the phase, add 1 to hit rolls
+were set up this phase. for attacks made by friendly units while they are
+wholly within 12" of your general.
+Effect: You can return 1 slain model to each friendly
+unit wholly within 12" of your general.
+
+--- Page 63 ---
+BATTLE TRAITS
+SCIONS OF THE STORM
+Upon blessed bolts of lightning do the Stormcast Eternals
+ride to war, the furious rumble of thunder heralding
+their arrival.
+Yndrasta and your Annihilators unit are not set up
+during the deployment phase. Instead, from the third
+battle round onwards, they can use the following ability:
+Your Movement Phase
+LIGHTNING-STRIKE ARRIVAL: With a clap
+of thunder, Yndrasta and her allies strike down onto
+the battlefield.
+Effect: Set up this unit anywhere on the battlefield
+more than 6" from all enemy units.
+Keywords Core
+Knight-Vexillor
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+End of Any Turn Passive
+DRIVE THEM BACK: Not an inch is given to the DEFEND TO THE LAST: These fearless warriors
+enemies of Sigmar. refuse to fall until their task is completed.
+Declare: Pick any number of friendly units that are Effect: Friendly units have Ward (6+) while they are
+both contesting an objective and in combat. contesting an objective you control.
+Effect: Each of those units can make a pile-in move
+(Core Rules, 15.3). For each unit that did so, pick an
+enemy unit within 1" of it and roll a dice. On a 4+,
+inflict 1 mortal damage on that enemy unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Passive
+THE PRIME HUNTRESS: Yndrasta relishes STRIKE WITH THE TEMPEST’S RAGE:
+hunting the mightiest and most terrifying quarry. Yndrasta’s enemies know that to catch her gaze is to
+be marked for annihilation.
+Effect: The Damage characteristic of Thengavar
+(Yndrasta’s spear) is 2D6 for attacks that target Effect: Your general has Strike-first if they
+a Monster. charged in the same turn.
+Once Per Battle, Your Movement Phase Once Per Battle, Any Combat Phase
+DAZZLING RADIANCE: Yndrasta’s god-touched HAWK OF THE CELESTIAL SKIES: The sight
+brilliance can call stranded Stormcast souls into the of Yndrasta’s seraphic form inspires her warriors with
+fray once more. immeasurable resolve.
+Declare: Pick your general to use this ability if they Effect: Until the end of the phase, add 1 to hit rolls
+were set up this phase. for attacks made by friendly units while they are
+wholly within 12" of your general.
+Effect: You can return 1 slain model to each friendly
+unit wholly within 12" of your general.
+
+--- Page 64 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+12"
+YNDRASTA
+8 3+
+THE CELESTIAL SPEAR
+2 RA NGED WEAPONS RRaannggee AAtttt aacckkss HHiitt WWoouunndd RReenndd DDaammaaggee AAbbiilliittyy
+Th engavar 1122"" 1 3+ 2+ 2 4 Shoot in Combat
+MELEE WEAPONS Att acks Hit Wound Rend Damage Ability
+Yndrasta is Sigmar’s Huntress. Blade of the High Heavens 5 3+ 3+ 2 3 -
+Her spear, Th engavar, is
+steel-sister to the God-King’s
+own legendary polearm; when Once Per Battle, Any Combat Phase
+hurled, it seeks out her prey, CHAMPION OF SIGMAR: Forged
+piercing its monstrous heart by Sigmar’s own hand, Yndrasta is
+before returning to Yndrasta’s
+grip. Th ere are those who protected by a divine aura so potent
+whisper that lifetimes of battle that swords and arrows simply rebound
+have hollowed out Yndrasta’s off her.
+soul and replaced it with
+pitiless starfi re , her divine aura Eff ect: Th is unit has Ward (5+)
+so intense it can protect her this phase.
+even from the emanations of
+Chaos. Even other Stormcasts
+mutter a prayer as she hunts the
+deadliest prey in the realms,
+for her transformation into
+an unfeeling instrument of
+vengeance sparks unease. Yet
+she remains one of Sigmar’s
+greatest champions, and her
+might is questioned by none.
+KEYWORDS Hero, Infantry, Fly, Ward (6+)
+• SPEARHEAD WARSCROLL •
+10"
+STORMSTRIKE CHARIOT
+10 3+
+2
+Stormstrike Chariots are
+potent linebreakers. When the
+clarion call to attack sounds,
+they thunder across even the
+most rugged terrain, with the Any Charge Phase
+archer in their carriage sending
+killing shaft s from their great AZYR UNLEASHED: Th e impact
+stormbow as they come. Th e of a Stormstrike Chariot on the
+chariot’s most devastating charge can obliterate even the most
+weapon, however, is its charge. durable of shieldwalls.
+As the charioteers build up
+speed, they draw the energies Declare: If this unit charged this
+of Azyr to themselves until a phase, pick an enemy unit within 1"
+crackling aurora surrounds of it to be the target and roll a dice.
+them. Upon impact into the
+enemy lines, the Stormcasts Eff ect: On a 2+, infl ict D3 mortal
+unleash this energy in damage on the target.
+thunderous blasts even as they
+strike out with axe and blade.
+KEYWORDS War Machine
+22
+
+--- Page 65 ---
+SAVE
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+VANQUISHERS
+2 3+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Celestial Greatsword 2 3+ 3+ 1 1 -
+Vanquishers bear swords that Passive
+incorporate shards of celestium, LIGHTNING STRIKES: Vanquishers utilise a stance that allows them to
+a mineral that radiates the power
+of foresight. This, combined with make a flurry of rapid strikes against a numerous foe.
+their expert bladecraft, makes Effect: Add 1 to the Damage characteristic of this unit’s Celestial
+them deadly fighters indeed. The
+Greatswords for attacks that target an enemy unit that has 5 or more models.
+more foes they face, the higher
+the toll they take.
+KKEEYYWWOORRDDSS IInnffaannttrryy
+• SPEARHEAD WARSCROLL •
+4"
+ANNIHILATORS
+3 2+
+1
+Clad in the thickest plate and Any Charge Phase
+wielding weaponry hewn FORCE OF A FALLING STAR: As Annihilators build up momentum, their
+from enchanted celestial
+charge turns the shockwave of their arrival into a deadly bludgeoning assault.
+rock, Annihilators shrug
+off bolts and arrows as they Declare: If this unit charged this phase and the unmodified charge roll was 8+,
+charge forward with meteoric
+pick an enemy unit within 1" of it to be the target.
+force. Those struck by them
+are bowled over even as the Effect: The target has Strike-last this turn.
+death blows rain down to
+finish the job.
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+5"
+6 3+ KNIGHT-VEXILLOR
+5
+The Knight-Vexillors are Your Hero Phase
+warriors of unshakeable will,
+proving themselves so many BANNER OF THE REFORGED: When a Banner of
+times that they have been Apotheosis is planted, its energies heal flesh and restore armour.
+entrusted with the sacred
+standards of Azyr. These Declare: Pick a friendly unit wholly within 12" of this unit to be
+relics, woven from star-silk by the target.
+Sigmarite saints, have the power
+to restore the forms of those who Effect:Heal (D3) the target. In addition, add 3 to that unit’s
+have undergone Reforging. control score until the start of your next turn.
+KEYWORDS Hero, Infantry
+
+--- Page 66 ---
+SAVE
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+VANQUISHERS
+2 3+
+1
+Vanquishers bear swords that Passive
+incorporate shards of celestium, LIGHTNING STRIKES: Vanquishers utilise a stance that allows them to
+a mineral that radiates the power
+of foresight. This, combined with make a flurry of rapid strikes against a numerous foe.
+their expert bladecraft, makes Effect: Add 1 to the Damage characteristic of this unit’s Celestial
+them deadly fighters indeed. The
+Greatswords for attacks that target an enemy unit that has 5 or more models.
+more foes they face, the higher
+the toll they take.
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+4"
+ANNIHILATORS
+3 2+
+1
+Clad in the thickest plate and Any Charge Phase
+wielding weaponry hewn FORCE OF A FALLING STAR: As Annihilators build up momentum, their
+from enchanted celestial
+charge turns the shockwave of their arrival into a deadly bludgeoning assault.
+rock, Annihilators shrug
+off bolts and arrows as they Declare: If this unit charged this phase and the unmodified charge roll was 8+,
+charge forward with meteoric
+pick an enemy unit within 1" of it to be the target.
+force. Those struck by them
+are bowled over even as the Effect: The target has Strike-last this turn.
+death blows rain down to
+finish the job.
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+5"
+6 3+ KNIGHT-VEXILLOR
+5
+MELEE WEAPONS Attacks Hit WWoouunndd Rend Damage Ability
+Sigmarite Warblade 4 3+ 33++ 1 2 -
+The Knight-Vexillors are Your Hero Phase
+warriors of unshakeable will,
+proving themselves so many BANNER OF THE REFORGED: When a Banner of
+times that they have been Apotheosis is planted, its energies heal flesh and restore armour.
+entrusted with the sacred
+standards of Azyr. These Declare: Pick a friendly unit wholly within 12" of this unit to be
+relics, woven from star-silk by the target.
+Sigmarite saints, have the power
+to restore the forms of those who Effect:Heal (D3) the target. In addition, add 3 to that unit’s
+have undergone Reforging. ccoonnttrrooll ssccoorree uunnttiill tthhee ssttaarrtt ooff yyoouurr nneexxtt ttuurrnn..
+KKEEYYWWOORRDDSS HHeerroo,, IInnffaannttrryy
+
+--- Page 67 ---
+SAVE
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+VANQUISHERS
+2 3+
+1
+Vanquishers bear swords that Passive
+incorporate shards of celestium, LIGHTNING STRIKES: Vanquishers utilise a stance that allows them to
+a mineral that radiates the power
+of foresight. This, combined with make a flurry of rapid strikes against a numerous foe.
+their expert bladecraft, makes Effect: Add 1 to the Damage characteristic of this unit’s Celestial
+them deadly fighters indeed. The
+Greatswords for attacks that target an enemy unit that has 5 or more models.
+more foes they face, the higher
+the toll they take.
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+4"
+ANNIHILATORS
+3 2+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Meteoric Hammer 3 3+ 3+ 1 2 -
+Clad in the thickest plate and Any Charge Phase
+wielding weaponry hewn FORCE OF A FALLING STAR: As Annihilators build up momentum, their
+from enchanted celestial
+charge turns the shockwave of their arrival into a deadly bludgeoning assault.
+rock, Annihilators shrug
+off bolts and arrows as they Declare: If this unit charged this phase and the unmodified charge roll was 8+,
+charge forward with meteoric
+pick an enemy unit within 1" of it to be the target.
+force. Those struck by them
+are bowled over even as the Effect: The target has Strike-last this turn.
+death blows rain down to
+finish the job.
+KKEEYYWWOORRDDSS IInnffaannttrryy
+• SPEARHEAD WARSCROLL •
+5"
+6 3+ KNIGHT-VEXILLOR
+5
+The Knight-Vexillors are Your Hero Phase
+warriors of unshakeable will,
+proving themselves so many BANNER OF THE REFORGED: When a Banner of
+times that they have been Apotheosis is planted, its energies heal flesh and restore armour.
+entrusted with the sacred
+standards of Azyr. These Declare: Pick a friendly unit wholly within 12" of this unit to be
+relics, woven from star-silk by the target.
+Sigmarite saints, have the power
+to restore the forms of those who Effect:Heal (D3) the target. In addition, add 3 to that unit’s
+have undergone Reforging. control score until the start of your next turn.
+KEYWORDS Hero, Infantry
+
+--- Page 68 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+12"
+YNDRASTA
+8 3+
+THE CELESTIAL SPEAR
+2
+Yndrasta is Sigmar’s Huntress.
+Her spear, Thengavar, is
+steel-sister to the God-King’s
+own legendary polearm; when Once Per Battle, Any Combat Phase
+hurled, it seeks out her prey, CHAMPION OF SIGMAR: Forged
+piercing its monstrous heart
+by Sigmar’s own hand, Yndrasta is
+before returning to Yndrasta’s
+grip. There are those who protected by a divine aura so potent
+whisper that lifetimes of battle that swords and arrows simply rebound
+have hollowed out Yndrasta’s off her.
+soul and replaced it with
+pitiless starfire , her divine aura Effect: This unit has Ward (5+)
+so intense it can protect her this phase.
+even from the emanations of
+Chaos. Even other Stormcasts
+mutter a prayer as she hunts the
+deadliest prey in the realms,
+for her transformation into
+an unfeeling instrument of
+vengeance sparks unease. Yet
+she remains one of Sigmar’s
+greatest champions, and her
+might is questioned by none.
+KEYWORDS Hero, Fly, Ward (6+)
+• SPEARHEAD WARSCROLL •
+10"
+STORMSTRIKE CHARIOT
+10 3+
+2 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Great Stormbow 18" 2 3+ 3+ 1 1 -
+MELEE WEAPONS AAttttaacckkss HHiitt WWoouunndd RReenndd DDaammaaggee AAbbiilliittyy
+Stormstrike Chariots are Stormstrike Axe 3 3+ 3+ 1 1 -
+potent linebreakers. When the
+clarion call to attack sounds, GGrryypphh--cchhaarrggeerrss’’ BBeeaakkss aanndd CCllaawwss 6 4+ 3+ 1 1 Companion
+they thunder across even the
+most rugged terrain, with the Any Charge Phase
+archer in their carriage sending
+killing shafts from their great AZYR UNLEASHED: The impact
+stormbow as they come. The of a Stormstrike Chariot on the
+chariot’s most devastating charge can obliterate even the most
+weapon, however, is its charge. durable of shieldwalls.
+As the charioteers build up
+speed, they draw the energies Declare: If this unit charged this
+of Azyr to themselves until a phase, pick an enemy unit within 1"
+crackling aurora surrounds of it to be the target and roll a dice.
+them. Upon impact into the
+enemy lines, the Stormcasts Effect: On a 2+, inflict D3 mortal
+unleash this energy in damage on the target.
+thunderous blasts even as they
+strike out with axe and blade.
+KEYWORDS War Machine
+
+--- Page 69 ---
+STORMCAST ETERNALS
+VIGILANT BROTHERHOOD
+Only when the hordes of Chaos threaten to choke all life from the realms
+This Spearhead army consists does the God-King call upon the Vigilant Brotherhoods. These are elite
+of the following units: formations led by Stormcasts of the Ruination chambers, warriors who have
+seen battle so many times and whose souls have been so eroded that they are
+GENERAL close to pure vessels of Sigmar’s will. Though their lack of humanity renders
+Lord-Vigilant them ruthless, they are nigh incorruptible, their sense of self too diminished
+on Gryph-stalker for Chaos to find true purchase. This allows them to traverse lands that are so
+twisted that other warriors would soon wither or mutate upon entering them.
+UNITS
+1 Lord-Veritant Each Vigilant Brotherhood is led by a Lord-Vigilant. These masterful
+3 Prosecutors commanders are hewn from centuries of service, and they tread the thin
+5 Liberators line between preserving humanity and achieving victory at all costs. Each
+is chosen by their Gryph-stalker mount, creatures born under the waxing
+of the fell moon Dharroth and that can detect which Stormcast souls are
+most resistant to entropy. Swooping above them come Prosecutors wielding
+flaming sigmarite spears. Though each is an exemplar of Sigmar’s creed,
+their exposure to the Cursed Skies has transformed them into shells of their
+former selves, leading them to pursue the eradication of Chaos at the expense
+of all else. A Lord-Veritant always accompanies each Vigilant Brotherhood,
+keeping watch over the state of their comrades’ fading identities whilst
+adding their considerable might to the force. The final element of the
+Brotherhood is a core of Liberators, unyielding champions of Order who have
+perished again and again in defence of the Mortal Realms.
+The Stormcast Eternals of studio editor Steve bear sigmarite armour with obsidian trim. The gemstone also features on
+their bases, giving them a dark and foreboding appearance.
+
+--- Page 70 ---
+BATTLE TRAITS
+HOLY ORDERS
+In the years before the Age of Sigmar began, the Stormcast Eternals honed their martial skills and tactical prowess in
+High Azyr, readying themselves to retake the Mortal Realms. They have fought ever since.
+During the battle, you can use the following abilities:
+Once Per Battle, Your Hero Phase Once Per Battle, Your Charge Phase
+SHIELD OF AZYR: Roaring oaths to Sigmar, STORM CHARGE: These warriors are driven
+these warriors are surrounded by an aura of forward by their faith, ever eager to bring Sigmar’s
+divine protection. holy retribution to his enemies.
+Declare: Pick a friendly unit. Declare: Pick a friendly unit that is not in combat.
+Effect: Until the start of your next turn, that unit has Effect: That unit can use Charge abilities this turn
+Ward (5+). even if it used a Run ability in the same turn.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Reaction: You declared a Retreat ability Once Per Battle, Any Combat Phase
+STRIKE WHERE NEEDED: Though often BLAZE OF GLORY: As these warriors are struck
+outnumbered by their foes, the Stormcast Eternals are down, Sigmar’s holy lightning wreaks devastation
+accustomed to fighting on many fronts and focusing around them before they are called back to the
+their efforts where they will have the greatest impact. heavens to be Reforged.
+Used By: The unit using that Retreat ability. Declare: Pick a friendly unit that is in combat.
+Effect: No mortal damage is inflicted on that unit by Effect: Until the end of the phase, each time a model
+that Retreat ability. In addition, that unit can still in that unit is slain, make a vengeance roll of D6.
+use Charge abilities this turn even though it used a On a 4+, inflict 1 mortal damage on an enemy unit
+Retreat ability. in combat with that unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Passive
+HALLOWED SCROLLS: Sacred parchments MORRDA’S TALON: Enemies of the God-King
+inscribed with Sigmarite blessings adorn this warrior. know this weapon by name and fear its keen blade.
+Effect: Your general has Ward (5+). Effect: Your general’s Hallowed Greataxe has
+Crit (Mortal).
+Once Per Battle, Any Combat Phase Once Per Battle, End of Any Turn
+QUICKSILVER DRAUGHT: This potion lends NULL PENDANT: This dark amulet holds magic
+uncanny speed to the one who imbibes it. within that can sap the resolve of the enemy.
+Effect: Your general has Strike-first this phase. Declare: Roll a dice for each enemy unit contesting
+the same objective as your general.
+Effect: On a 2+, subtract the roll from the control
+score of that enemy unit this turn.
+
+--- Page 71 ---
+BATTLE TRAITS
+BATTLE TRAITS
+HOLY ORDERS
+IHn OthLe Yye OarRs bDefEorRe Sthe Age of Sigmar began, the Stormcast Eternals honed their martial skills and tactical prowess in
+HIni gthhe A yzeyarr,s r beaefdoyrien tgh teh Aemges oelfv Seisg tmo arer tbaekgea tnh,e t hMeo Srttoarlm Rceaasltm Est.e Thrneayl sh haovne efdo uthgheitr e mvearr stiinacl es.kills and tactical prowess in
+High Azyr, readying themselves to retake the Mortal Realms. They have fought ever since.
+During the battle, you can use the following abilities:
+During the battle, you can use the following abilities:
+Once Per Battle, Your Hero Phase Once Per Battle, Your Charge Phase
+SHOnIcEeL PDer OBaFtt lAe,Z YYouRr :H Reoroa rPihnags oeaths to Sigmar, STOOncRe PMer CBHattAleR, YGouEr: CThhaersgee w Pahrarsieors are driven
+tShHesIeE wLaDrr OiorFs AarZe YsuRrr:o Ruonadreidn gb yo aatnh sa tuor aS iogfm ar, fSoTrwOaRrdM b yC tHheAirR faGitEh,: eThveers ee awgaerr rtioo rbsr ianrge Sdirgimveanr ’s
+dthivesine ew parrortieocrtsi oanre. surrounded by an aura of hfoorlwy arerdtr ibbyu tthioenir tfoa ihthis, eenveemr eiaesg.er to bring Sigmar’s
+divine protection. holy retribution to his enemies.
+Declare: Pick a friendly unit. Declare: Pick a friendly unit that is not in combat.
+Declare: Pick a friendly unit. Declare: Pick a friendly unit that is not in combat.
+Effect: Until the start of your next turn, that unit has Effect: That unit can use Charge abilities this turn
+WEffaerctd: U(5n+t)i.l the start of your next turn, that unit has eEvffeenc itf: iTht uaste udn ai tR cuann uabseil iCtyh ianr tghee saabmiliet iteusr tnh.is turn
+Ward (5+). even if it used a Run ability in the same turn.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+RE O G nc I e M Per E B N att T le , A Re B ac I ti L on I : T Y I ou E d S e : c lPaircekd a1 Roef tthree afotl alobwiliitnyg regimOennct ea Pbeilri tBieastt.le, Any Combat Phase
+STORncIeK PEer WBatHtleE, RReEac NtioEnE: YDoEu Dde:c Thlaroeud gah R oeftterne at ability BOLnAcZe PEe rO BFa tGtleL, OAnRyY C: oAmsb tahte Pseh awsaerriors are struck
+oSuTtRnuIKmEbe WredH bEy RthEei rN foEeEs,D thEeD S:t oThrmoucaghst oEftteenrn als are dBoLwAnZ, SEi gOmFa rG’s LhOolyR lYig:h Atns itnhge swe rweaakrrs idoervs aasrtea sttirounc k
+aoucctunsutmombeerde dto b fiyg thhteinirg f ooens m, thane yS tforormntcsa asnt dE tfeorcnuasilns ga re adroowunn,d S tighmema rb’se hfoorley tlhigehyt anrine gc awllreeda kbsa cdke vtoa stthaet ion
+tahceciurs etoffmoretds wtoh fiergeh ttihnegy owni lml haanvye f trhoen tgsr eaantde sfto icmuspiancgt . hareoauvennds t thoe mbe bReeffoorreg tehde.y are called back to the
+their efforts where they will have the greatest impact. heavens to be Reforged.
+Used By: The unit using that Retreat ability. Declare: Pick a friendly unit that is in combat.
+Used By: The unit using that Retreat ability. Declare: Pick a friendly unit that is in combat.
+Effect: No mortal damage is inflicted on that unit by Effect: Until the end of the phase, each time a model
+tEhffaet cRt:e Ntro emaotr atabli lditaym. Iang ea disd iintifloinc,t tehda ot nu nthita ct aunn istt iblyl iEnff tehcatt: uUnnitti li st hslea einn,d m oaf kthe ea pvhenasgee,a enacceh rtoimll eo fa Dm6o. del
+uthsaet C Rheatrrgeea ta baibliitliietys. tIhni sa tdudrinti oenve, nth tahto uungiht cita uns setdil la Oinn t haa 4t +u, ninitfl iisc stl a1i mn,o mrtaakl ed aa mveanggee oann caen reonlel mofy D u6n.i t
+Ruseet Crheaatr gabei alibtyil.ities this turn even though it used a iOnn c oa m4+b,a itn wfliitcht 1th mato urtnailt .damage on an enemy unit
+Retreat ability. in combat with that unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Passive
+HPAasLsiLvOeWED SCROLLS: Sacred parchments MPOasRsivReDA’S TALON: Enemies of the God-King
+iHnsAcrLibLeOd WwiEthD S iSgCmRarOiteL LblSe:s sSiancgrse add poarrnc hthmise nwtasr rior. kMnOowR tRhiDs wAe’Sa pToAn LbOy nNa:m Een aemndi efse aorf tihtse k Geeond -bKlaindge .
+inscribed with Sigmarite blessings adorn this warrior. know this weapon by name and fear its keen blade.
+Effect: Your general has Ward (5+). Effect: Your general’s Hallowed Greataxe has
+Effect: Your general has Ward (5+). CEffrietc (tM: Yoorutar lg).eneral’s Hallowed Greataxe has
+Crit (Mortal).
+Once Per Battle, Any Combat Phase Once Per Battle, End of Any Turn
+QOUnIcCe PKeSr IBLaVttlEe,R A DnyR CAomUbGatH PTha: sTheis potion lends NOUnLceL P PerE BNaDttlAe,N EnTd: Thof Aisn dya Trukr anmulet holds magic
+uQnUcaInCnKy SspIeLeVdE toR t hDeR onAeU wGhoH iTm:b Thibeiss pito.tion lends wNiUthLinL tPhaEtN caDnA sNapT t:h The riess dolavrek o af mthuel eetn hemoldy.s magic
+uncanny speed to the one who imbibes it. within that can sap the resolve of the enemy.
+Effect: Your general has Strike-first this phase. Declare: Roll a dice for each enemy unit contesting
+Effect: Your general has Strike-first this phase. tDheec slaamree: Robojlel cat diviec ea sfo yro euarc ghe enneermal.y unit contesting
+the same objective as your general.
+Effect: On a 2+, subtract the roll from the control
+Escffoerce to: fO tnh aat 2e+n,e smuyb turnacitt tthhies rtoulrln f.rom the control
+score of that enemy unit this turn.
+
+--- Page 72 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+12"
+LORD-VIGILANT
+8 3+
+ON GRYPH-STALKER
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Hallowed Greataxe 5 3+ 3+ 2 2 -
+Gryph-stalker’s Beak and Talons 3 4+ 3+ 1 2 Companion
+The Lord-Vigilants are the
+steadfast commanders of the Once Per Battle, Any Combat Phase
+Ruination chambers. They wield
+not only hallowed greataxes but DELIVER JUDGEMENT: This warrior orders
+also centuries of experience, Sigmar’s wrath to be delivered unto their enemies.
+leading the charge in the God-
+King’s name. Like the rest of Declare: Pick a friendly non-Hero unit wholly
+their chamber, they struggle to within 12" of this unit to be the target.
+maintain their memories and
+empathy, though the Gryph- Effect: The target can use 2 Fight abilities this
+stalker mounts ridden by the phase. After the first is used, however, the target
+Lord-Vigilants are rumoured has Strike-last for the rest of the phase.
+to slow the degradation of
+their souls. This allows them
+to strike a careful balance as Your Hero Phase
+merciless fighters and shrewd PLAN THE ATTACK: With honed tactical skill,
+commanders. Their ability to
+the Lord-Vigilant orders a vital position to be taken.
+read the tides of battle borders
+on the prophetic. They use Declare: Pick an objective you do not control.
+this to great effect in order to
+deliver the judgement of the Effect: For the rest of the turn, add 1 to hit rolls
+God-King, spurring their troops for combat attacks made by friendly units that
+to redouble their efforts against target enemy units contesting that objective.
+key enemy strongpoints even as
+they ride hard into the foe.
+KEYWORDS Hero, Cavalry
+• SPEARHEAD WARSCROLL •
+5"
+LORD-VERITANT
+6 3+
+2
+Long have the Lord-Veritants
+been known as the witchfinders
+of the realms, their bright fires
+allowing them to judge the
+spiritual state of mortals – and, Passive Your Hero Phase
+in the heat of battle, send forth
+a blast of cleansing flame into SENSE UNHOLY SORCERY: CLEANSING FIRES: Erupting
+the foe. Those who serve in the Gryph-crows are sensitive to spiritual forth from the Lord-Veritant’s
+Ruination chambers look not corruption and immediately alert brazier, a torrent of holy fire engulfs
+only for corruption of the soul their masters whenever unholy the enemy.
+but also any kind of spiritual energies are nearby.
+void. Blindfolded to better focus Declare: Pick a visible enemy unit
+the spirit-sight with which they Effect: This unit’s Gryph-crow is within 12" of this unit to be the
+scry the souls of friend and a token. This unit has Ward (5+) target, then make a chanting roll
+foe, they are daunting figures while its Gryph-crow is on of D6.
+known for their lack of mercy.
+the battlefield.
+At their feet bound faithful Effect: On a 3+, roll a dice for each
+Gryph-crows, creatures drawn If you make an unmodified ward model in the target unit. For each
+to condemned beings.
+roll of 1 for this unit, remove its 5+, inflict 1 mortal damage on the
+Gryph-crow from the battlefield. target unit.
+KEYWORDS Hero, Priest
+
+--- Page 73 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+12"
+LORD-VIGILANT
+8 3+
+ON GRYPH-STALKER
+2
+Th e Lord-Vigilants are the
+steadfast commanders of the Once Per Battle, Any Combat Phase
+Ruination chambers. Th ey wield
+not only hallowed greataxes but DELIVER JUDGEMENT: Th is warrior orders
+also centuries of experience, Sigmar’s wrath to be delivered unto their enemies.
+leading the charge in the God-
+King’s name. Like the rest of Declare: Pick a friendly non-Hero unit wholly
+their chamber, they struggle to within 12" of this unit to be the target.
+maintain their memories and
+empathy, though the Gryph- Eff ect: Th e target can use 2 Fight abilities this
+stalker mounts ridden by the phase. Aft er the fi rst is used, however, the target
+Lord-Vigilants are rumoured has Strike-last for the rest of the phase.
+to slow the degradation of
+their souls. Th is allows them
+to strike a careful balance as Your Hero Phase
+merciless fi ghters and shrewd PLAN THE ATT ACK: With honed tactical skill,
+commanders. Th eir ability to the Lord-Vigilant orders a vital position to be taken.
+read the tides of battle borders
+on the prophetic. Th ey use Declare: Pick an objective you do not control.
+this to great eff ect in order to
+deliver the judgement of the Eff ect: For the rest of the turn, add 1 to hit rolls
+God-King, spurring their troops for combat attacks made by friendly units that
+to redouble their eff orts against target enemy units contesting that objective.
+key enemy strongpoints even as
+they ride hard into the foe.
+KEYWORDS Hero, Cavalry
+• SPEARHEAD WARSCROLL •
+5"
+LORD-VERITANT
+6 3+
+2 MELEE WEAPONS Att acks Hit Wound Rend Damage Ability
+Staff of Abjuration 1 3+ 3+ 1 3 -
+Anti-Wizard
+Long have the Lord-Veritants Judgement Blade 3 3+ 3+ 1 D3 (+1 Rend), Anti-
+been known as the witchfi nders PPrriieesstt ((++11 RReenndd))
+of the realms, their bright fi res
+allowing them to judge the
+spiritual state of mortals – and, Passive Your Hero Phase
+in the heat of battle, send forth
+a blast of cleansing fl ame into SENSE UNHOLY SORCERY: CLEANSING FIRES: Erupting
+the foe. Th ose who serve in the Gryph-crows are sensitive to spiritual forth from the Lord-Veritant’s
+Ruination chambers look not corruption and immediately alert brazier, a torrent of holy fi re engulfs
+only for corruption of the soul their masters whenever unholy the enemy.
+but also any kind of spiritual energies are nearby.
+void. Blindfolded to better focus Declare: Pick a visible enemy unit
+the spirit-sight with which they Eff ect: Th is unit’s Gryph-crow is within 12" of this unit to be the
+scry the souls of friend and a token. Th is unit has Ward (5+) target, then make a chanting roll
+foe, they are daunting fi gures while its Gryph-crow is on of D6.
+known for their lack of mercy. the battlefi eld.
+At their feet bound faithful Eff ect: On a 3+, roll a dice for each
+Gryph-crows, creatures drawn If you make an unmodifi ed ward model in the target unit. For each
+to condemned beings. roll of 1 for this unit, remove its 5+, infl ict 1 mortal damage on the
+Gryph-crow from the battlefi eld. target unit.
+KEYWORDS Hero, Priest, Infantry
+18
+
+--- Page 74 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+12"
+PROSECUTORS
+2 3+
+1 RANGED WEAPONS RRaannggee AAttttaacckkss Hit WWoouunndd RReenndd Damage AAbbiilliittyy
+Stormcall Javelin 1100"" 1 3+ 3+ 1 D3 -
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Though the Prosecutors once Stormcall Javelin 3 3+ 3+ 1 1 -
+shone with the light of Azyr,
+Be’lakor’s fell rituals forced a
+great many of them to share Passive
+the skies with billowing clouds SKIRMISHERS: These warriors fight in a
+of Chaos corruption. Whilst dispersed formation.
+their unshakeable faith in the
+God-King has afforded them Effect: This unit has a coherency range of 2".
+protection against the worst
+effects of the Cursed Skies, their
+exposure has left the majority Passive
+of them hollow-eyed and eerily
+quiet. Each Reforging claims HERALDS OF RIGHTEOUSNESS:
+much more from these warriors Prosecutors speed across the battlefield in
+than it does their kin. Now they blurs of light.
+swoop alongside the Ruination
+chambers, their crumbling Effect: When you make a charge roll for this
+souls watched closely by their unit, roll 1 additional dice.
+Lord-Veritants. To see them vent
+their righteous fury in a death-
+defying, breakneck charge is to
+see something of the simmering
+anger within.
+KEYWORDS Infantry, Fly, Reinforcements
+• SPEARHEAD WARSCROLL •
+5"
+LIBERATORS
+2 3+
+1
+Countless tyrants have fallen to
+the Liberators. These staunch This unit has 4 Liberators armed with a
+souls are the most famed Warhammer and 1 Liberator armed with
+warriors of the Redeemer a Grandhammer.
+conclaves; whether forming
+implacable shieldwalls to defend
+Passive
+key strongpoints or expertly
+wielding paired weapons, they STALWART DEFENDERS:
+are undeniably the soul of their Liberators fiercely guard the lands
+Stormhost made manifest. brought into Sigmar’s domain.
+The iconic line infantry of the
+Stormcast Eternals, Liberators Effect: Add 3 to this unit’s control
+are depicted in a thousand score while it contests an objective
+statues and tapestries, their
+wholly within friendly territory.
+hammers raised and their Masks
+Impassive staring down with
+intimidating intensity. Their
+appearance has brought hope to
+countless struggling townships
+and beleaguered defenders
+across the realms.
+KEYWORDS Infantry, Reinforcements
+
+--- Page 75 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+12"
+PROSECUTORS
+2 3+
+1
+Though the Prosecutors once
+shone with the light of Azyr,
+Be’lakor’s fell rituals forced a
+great many of them to share Passive
+the skies with billowing clouds SKIRMISHERS: These warriors fight in a
+of Chaos corruption. Whilst dispersed formation.
+their unshakeable faith in the
+God-King has afforded them Effect: This unit has a coherency range of 2".
+protection against the worst
+effects of the Cursed Skies, their
+exposure has left the majority Passive
+of them hollow-eyed and eerily
+quiet. Each Reforging claims HERALDS OF RIGHTEOUSNESS:
+much more from these warriors Prosecutors speed across the battlefield in
+than it does their kin. Now they blurs of light.
+swoop alongside the Ruination
+chambers, their crumbling Effect: When you make a charge roll for this
+souls watched closely by their unit, roll 1 additional dice.
+Lord-Veritants. To see them vent
+their righteous fury in a death-
+defying, breakneck charge is to
+see something of the simmering
+anger within.
+KEYWORDS Infantry, Fly, Reinforcements
+• SPEARHEAD WARSCROLL •
+5"
+LIBERATORS
+2 3+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Warhammer 2 3+ 3+ 1 1 Crit (Mortal)
+Grandhammer 2 3+ 3+ 1 2 Crit (Mortal)
+Countless tyrants have fallen to
+the Liberators. These staunch This unit has 4 Liberators armed with a
+souls are the most famed Warhammer and 1 Liberator armed with
+warriors of the Redeemer a Grandhammer.
+conclaves; whether forming
+implacable shieldwalls to defend
+Passive
+key strongpoints or expertly
+wielding paired weapons, they STALWART DEFENDERS:
+are undeniably the soul of their Liberators fiercely guard the lands
+Stormhost made manifest. brought into Sigmar’s domain.
+The iconic line infantry of the
+Stormcast Eternals, Liberators Effect: Add 3 to this unit’s control
+are depicted in a thousand score while it contests an objective
+statues and tapestries, their
+wholly within friendly territory.
+hammers raised and their Masks
+Impassive staring down with
+intimidating intensity. Their
+appearance has brought hope to
+countless struggling townships
+and beleaguered defenders
+across the realms.
+KEYWORDS Infantry, Reinforcements

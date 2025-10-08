@@ -1,0 +1,2430 @@
+--- Page 1 ---
+FACTION PACK
+SLAVES
+TO
+DARKNESS
+
+--- Page 2 ---
+BATTLE TRAITS
+Once Per Turn, End of Any Turn Passive
+EYE OF THE GODS: The Slaves to MARKS OF CHAOS: In return for
+Darkness seek to attract the notice of power, a mortal may forsake their soul by
+the gods by performing great deeds in pledging it to one or all of the Dark Gods.
+battle. To court the gaze of these beings is
+perilous, yet those who prove worthy are Effect: Friendly Slaves to Darkness
+made mighty indeed. units have 1 of the following effects based
+on the Mark of Chaos keyword they have.
+Declare: Each friendly Slaves to
+Darkness unit that destroyed an enemy • Undivided: Add 1 to wound rolls for
+unit this turn is a target. Friendly Beasts the unit’s combat attacks that target a
+and non-Hero Monsters cannot be Hero or Monster.
+targeted by this ability. • Khorne: Add 1 to the Attacks
+Effect: Make a reward roll of D6 for each characteristic of the unit’s melee
+target and apply the corresponding effect weapons for the rest of the turn if the
+below. You can re-roll the reward roll for unit charged in the same turn.
+the target, but if you do so and you roll a • Tzeentch: The unit has Ward (4+)
+1, inflict D3 mortal damage on the target. against mortal damage inflicted by
+1 Snubbed by the Gods: No effect. Spell abilities and abilities used
+by Manifestations.
+2 Mutative Regrowth:Heal (3) the target.
+• Nurgle: Subtract 1 from wound rolls
+3 Unnatural Grace: Add 1 to hit rolls for for combat attacks that target the unit.
+the target’s combat attacks for the rest
+of the battle. • Slaanesh: Add 1 to run rolls and
+charge rolls for the unit.
+4 Lurid Aura: The target has Ward
+(6+) for the rest of the battle. If the If a unit with a Mark of Chaos keyword
+target already has Ward (6+), it has is replaced, the replacement unit has the
+Ward (5+) instead. same Mark of Chaos keyword.
+5 Slaughterer’s Might: Add 1 to the Rend
+characteristic of the target’s melee
+weapons for the rest of the battle.
+6 Champion of Chaos: Pick any
+other effect.
+The same effect can be applied multiple
+times to a unit, and more than 1 effect can
+apply to a unit at the same time.
+August 2024
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formation for a Slaves to Darkness army. Each battle
+fffffffffooooooooorrrrrrrrrmmmmmmmmmaaaaaaaaatttttttttiiiiiiiiiooooooooonnnnnnnnn gggggggggrrrrrrrrraaaaaaaaannnnnnnnntttttttttsssssssss aaaaaaaaa dddddddddiiiiiiiiiffffffffffffffffffeeeeeeeeerrrrrrrrreeeeeeeeennnnnnnnnttttttttt aaaaaaaaabbbbbbbbbiiiiiiiiillllllllliiiiiiiiitttttttttyyyyyyyyy yyyyyyyyyooooooooouuuuuuuuu cccccccccaaaaaaaaannnnnnnnn uuuuuuuuussssssssseeeeeeeee iiiiiiiiinnnnnnnnn ttttttttthhhhhhhhheeeeeeeee bbbbbbbbbaaaaaaaaattttttttttttttttttllllllllleeeeeeeee.........
+LEGION OF CHAOS GODSWRATH WARBAND
+Passive Once Per Turn (Army), End of Your Turn
+UNITED IN DARKNESS: The myriad IRONCLAD ONSLAUGHT: When a
+forces of Chaos march to war under a Chaos horde is on the march, the realms
+common cause, led by warlords who have tremble. Hundreds of heavily armoured
+put aside their rivalries in the name of warriors desecrate all in their path as they
+laying waste to the lands of a shared foe. roar oaths to the Dark Pantheon.
+Effect: While there is at least 1 friendly Declare: Pick an objective that is
+Warriors of Chaos Hero and contested by any friendly units to be
+1 other friendly Daemon Hero or the target.
+Darkoath Hero on the battlefield,
+add 2 to the control scores of friendly Effect: Place a defiled token next to the
+Slaves to Darkness units while they target objective. Then, roll a D3 for each
+are contesting an objective that is wholly enemy unit contesting an objective that
+outside friendly territory. has a defiled token. On a 2+, inflict an
+amount of mortal damage on that enemy
+unit equal to the roll.
+DESPOILERS DARKOATH HORDE
+Once Per Turn (Army), Reaction: You Once Per Turn (Army),
+declared a Fight ability for a friendly Your Movement Phase
+Daemon Prince unit RALLY THE TRIBES: One of the horde’s
+FERAL RUIN: A Daemon Prince’s unholy commanders looses a terrifying battle cry,
+radiance draws to them the most savage of calling more of their blade-sworn warriors
+chaotic creatures, abominations against to their side.
+nature that hunger to spill blood.
+Declare: If there is a friendly Darkoath
+Used By: The Daemon Prince unit using Hero on the battlefield, pick a friendly
+that Fight ability. non-Hero non-Unique Darkoath unit
+that has been destroyed to be the target.
+Effect: Pick a friendly non-HeroSlaves
+to Darkness Monster or Beast unit Effect: Roll a dice. On a 3+, set up a
+that has not used a Fight ability this replacement unit with half the number
+turn and is wholly within 12" of this unit of models from the target unit (rounding
+to be the target. The target can be picked up) on the battlefield, wholly within 6" of
+to use a Fight ability immediately after a battlefield edge and more than 3" from
+the Fight ability used by this unit has all enemy units.
+been resolved.
+August 2024
+
+--- Page 4 ---
+HEROIC TRAITS
+RUINOUS OVERLORDS (Hero only)
+Deployment Phase Any Hero Phase
+FAVOURED OF THE PANTHEON: RADIANCE OF DARK GLORY: In the
+The gods watch this warlord’s deeds presence of this champion, the mutative
+particularly closely. energies of Chaos can seal shut even the
+most grievous of wounds.
+Effect: This unit can use the ‘Eye of the
+Gods’ ability as if it were the end of the Declare: Pick each damaged friendly
+turn and it had destroyed an enemy unit unit wholly within 12" of this unit to be
+this turn. the targets.
+Effect: Roll a dice for each target. On a
+Once Per Battle, Any Combat Phase
+3+, Heal (1) the target. Heal (3) the target
+DEATHMONGER: Feared across the instead if it is a Monster.
+realms, this hero leaves naught in their
+wake but a trail of sun-bleached bones.
+Effect: This unit can use 2 Fight abilities
+this phase. After the first is used, however,
+this unit has Strike-last for the rest of
+the turn.
+August 2024
+
+--- Page 5 ---
+ARTEFACTS OF POWER
+INFERNAL TREASURES (Hero only)
+Once Per Battle, Start of Any Turn Once Per Battle, Your Hero Phase
+INFERNAL PUPPET: As it dances REALMWARPER’S TWIST-RUNE:
+upon the aetheric winds, this eldritch One who bears this cursed rune can bind
+marionette violently disrupts the spellcraft warped landscapes to their will. Ruptured
+of enemy mages. chasms open as thick palls of dark energy
+obscure the favoured and their servants
+Declare: Pick a visible enemy Wizard
+from view.
+within 24" of this unit to be the target.
+Declare: Pick a terrain feature within 12"
+Effect: For the rest of the turn, each time
+of this unit to be the target.
+the target is picked to use a Spell ability,
+inflict D3 mortal damage on the target Effect: If the target does not have the
+as a reaction. If the target is destroyed by ‘Obscuring’ terrain ability, it gains that
+this ability, do not resolve the effect of ability until the start of your next turn.
+that Spell ability. Then, roll a dice for each model (friendly
+and enemy) within 1" of the target. For
+Passive each 5+, inflict 1 mortal damage on that
+THE CONQUEROR’S CROWN: This model’s unit.
+blasphemous diadem grants the bearer
+dominion over the minds of lesser mortals.
+Effect: Subtract 5 from the control scores
+of enemy Infantry units while they are
+in combat with this unit.
+August 2024
+
+--- Page 6 ---
+SPELL LORE
+LORE OF THE DAMNED
+Your Hero Phase 5
+SPITE-TONGUE CURSE: Uttering the foul syllables of the Dark Tongue until blood
+pours from their mouth, the caster beseeches the Chaos Gods to destroy their enemies –
+though such pacts carry with them a terrible cost…
+Declare: Pick a friendly Slaves to Darkness Wizard to cast this spell, pick a visible
+enemy unit within 12" of them to be the target, then make a casting roll of 2D6. If the
+casting attempt is unsuccessful or if the spell is unbound, inflict D3 mortal damage on
+the caster.
+Effect: Inflict 3 mortal damage on the target.
+Keywords Spell, Unlimited
+Your Hero Phase 7 Your Hero Phase 7
+BINDING DAMNATION: At the DAEMONIC SPEED: IInnffeerrnnaall wwiinnddss
+caster’s urging, tendrils of raw Chaos burst blow at the back of these hordes, speeding
+from the tortured ground, entwining the them into battle against the enemies of
+limbs of their enemies and rendering them the gods.
+easy prey.
+Declare: Pick a friendly Slaves to
+Declare: Pick a friendly Slaves to Darkness Wizard to cast this spell,
+Darkness Wizard to cast this spell, pick a visible friendly Slaves to
+pick a visible enemy unit within 12" of Darkness unit wholly within 12" of
+them to be the target, then make a casting them to be the target, then make a casting
+roll of 2D6. roll of 2D6.
+Effect: The target has Strike-last until Effect: For the rest of the turn, add 1 to
+the start of your next turn. the number of dice rolled when making
+Keywords Spell charge rolls for the target, to a maximum
+of 3.
+Keywords Spell
+August 2024
+
+--- Page 7 ---
+MANIFESTATION LORE
+MANIFESTATIONS OF MALEVOLENCE
+Your Hero Phase 7 Your Hero Phase 7
+SUMMON DARKFIRE SUMMON EIGHTFOLD
+DAEMONRIFT: Darkfire Daemonrifts DOOM-SIGIL: Eightfold Doom-Sigils
+are eldritch portals torn ajar by dark are icons of Chaos in all its glory, blazing
+incantations. Once the veil has been symbols of pure ruin. To fall in the
+sundered, raw magic seeping from the presence of such a sorcerous construct is
+Realm of Chaos forms an opening for the to be damned, for these lingering spells
+horrors beyond to vent their spite, widened hungrily suck souls into the Realm of
+and empowered by spellcraft that draws Chaos for the gods to feast upon.
+upon the essence of Chaos.
+Declare: If there is not a friendly
+Declare: If there is not a friendly Eightfold Doom-Sigil on the battlefield,
+Darkfire Daemonrift on the battlefield, pick a friendly Slaves to Darkness
+pick a friendly Slaves to Darkness Wizard to cast this spell, then make a
+Wizard to cast this spell, then make a casting roll of 2D6.
+casting roll of 2D6.
+Effect: Set up an Eightfold Doom-Sigil
+Effect: Set up a Darkfire Daemonrift wholly within 12" of the caster and visible
+wholly within 12" of the caster, visible to them.
+to them and more than 9" from all Keywords Spell, Summon
+enemy units.
+Keywords Spell, Summon
+Your Hero Phase 7
+SUMMON REALMSCOURGE
+RUPTURE: Realmscourge Ruptures are
+not subtle weapons. When the necessary
+magical power has been channelled and
+released by a tribal shaman, the land itself
+writhes in the grip of Chaos, sharpened
+spikes surging forth like an accursed tidal
+wave to overwhelm anything in their path.
+Declare: If there is not a friendly
+Realmscourge Rupture on the battlefield,
+pick a friendly Slaves to Darkness
+Wizard to cast this spell, then make a
+casting roll of 2D6.
+Effect: Set up a Realmscourge Rupture
+wholly within 12" of the caster, visible
+to them and more than 9" from all
+enemy units.
+Keywords Spell, Summon
+August 2024
+
+--- Page 8 ---
+August 2024
+MOVE
+14"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 25 3+ S A ARCHAON
+A V
+E E
+H
+10 THE EVERCHOSEN
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+The Slayer of Kings 4 2+ 3+ 2 3 -
+Dorghar’s Claws and Tails 6 4+ 2+ 2 3 Companion
+Dorghar’s Heads 3 3+ 2+ 1 5 Companion
+Passive Deployment Phase
+BATTLE DAMAGED THE FAVOURED WARLORD: Archaon
+Effect: While this unit has 10 or more ruthlessly exploits the Dark Gods’
+damage points, the Attacks characteristic competition for his service.
+of Dorghar’s Claws and Tails is 4.
+Effect: Pick 1 of the following keywords:
+Khorne, Tzeentch, Nurgle or
+Once Per Battle, Your Hero Phase
+Slaanesh. This unit has that keyword in
+THE EYE OF SHEERIAN: Torn from the
+addition to Undivided.
+corpse of a mighty dragon, this artefact
+grants Archaon visions of future events.
+Once Per Turn (Army), Any Combat Phase
+Effect: Roll a dice. This roll replaces the THREE-HEADED TITAN
+priority roll of the next battle round. On Effect: Pick 1 of the following effects:
+a 1-3, your opponent must take the first Filth-spewer: Pick an enemy unit within
+turn of that battle round. On a 4-6, you 6" of this unit and roll a number of dice
+must take the first turn of that battle equal to the number of models in that
+round. This ability cannot be used if there unit, to a maximum of 7. For each 3+,
+is an enemy Archaon on the battlefield. inflict 1 mortal damage on that unit.
+Skull-gorger: Pick an enemy unit in
+Passive combat with this unit and roll a dice.
+THE SLAYER OF KINGS: This ancient If the roll exceeds that unit’s Health
+daemonblade thirsts for the souls of characteristic, 1 model in that unit is slain
+champions and warlords. and you can Heal (X) this unit, where X
+is that unit’s Health characteristic.
+Effect: Each time this unit uses a Fight Spell-eater: Pick a Manifestation
+ability, if the unmodified wound roll for within 12" of this unit and roll a dice. On
+2 or more attacks made with The Slayer a 2+, it is banished and inflict D3 mortal
+of Kings that target the same Hero is 6, damage on the unit that summoned it.
+that Hero is automatically destroyed. Keywords Rampage
+Warmaster, Unique, Hero, Monster, Wizard (2), Fly, Ward (5+)
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon, Undivided, Warriors of Chaos
+
+--- Page 9 ---
+August 2024
+MOVE
+8"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L10 3+A V DAEMON PRINCE
+E E
+H
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Hellforged Weapons 6 3+ 3+ 1 3 Crit (Mortal)
+MARK OF CHAOS Your Hero Phase
+During army composition, pick 1 of the
+following keywords for this unit: RUINOUS FAVOUR: A Daemon Prince
+•Undivided is an unholy conduit for the power and
+•Khorne influence of their patron, and those who
+•Tzeentch fight in their monstrous shadow may find
+•Nurgle themselves marked by the divine.
+•Slaanesh Declare: Pick a friendly non-Unique
+This unit is armed with Hellforged unit wholly within 12" of this unit that
+Weapons and has 1 of the following options: shares a Mark of Chaos keyword with this
+• Wings unit to be the target.
+• Trophy Rack
+Effect: Roll a dice. On a 3+, the target can
+Passive immediately use the ‘Eye of the Gods’
+AIRBORNE HORROR: Carried aloft ability as if it were the end of the turn
+by ragged leathery wings, this favoured and they had destroyed an enemy unit
+champion of the Chaos Gods will bring this turn.
+ruin wherever they descend.
+Effect: If this unit has Wings, it has a
+Move characteristic of 10" and has Fly.
+Passive
+THE MOUNTED SKULLS OF THE
+FALLEN: Some Daemon Princes revel
+in glory with each worthy foe slain by
+their hands.
+Effect: If this unit has a Trophy Rack,
+its Hellforged Weapons also have
+Anti-Hero (+1 Rend).
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon
+
+--- Page 10 ---
+August 2024
+MOVE
+10"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 5 3+A V VARANGUARD
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Daemonforged Blades 3 3+ 3+ 2 2
+Crit (Mortal)
+Steed’s Tearing Fangs 3 4+ 3+ 1 1 Companion
+MARK OF CHAOS Once Per Battle, Any Combat Phase
+During army composition, pick 1 of the
+following keywords for this unit: RELENTLESS KILLERS: The
+•Undivided Varanguard have slaughtered foes beyond
+•Khorne counting, butchering their way across
+•Tzeentch the battlefields of the Mortal Realms
+•Nurgle without mercy.
+•Slaanesh
+Effect: This unit can use 2 Fight abilities
+this phase. After the first is used, however,
+this unit has Strike-last for the rest of
+the turn.
+Cavalry
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 11 ---
+August 2024
+MOVE
+14"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 14 4+ S A BE’LAKOR
+A V
+E E
+H
+10 THE DARK MASTER
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Blade of Shadows 8 3+ 3+ 2 2 Crit (Auto-wound)
+Fell Claw and Spearing Tail 2 2+ 2+ 2 2 Charge (+1 Damage)
+Passive Once Per Battle, Enemy Hero Phase
+BATTLE DAMAGED THE DARK MASTER: Many puppets
+Effect: While this unit has 10 or more dance on Be’lakor’s infernal strings. Few
+damage points, the Attacks characteristic realise as much until their fate is sealed.
+of its Blade of Shadows is 6.
+Declare: Pick a visible enemy unit to be
+the target.
+Passive
+SHADOW FORM: Be’lakor can shift his Effect: Until the start of your next turn,
+physical form to be as insubstantial as the each time the target is picked to use an
+mists of Ulgu – and just as hard to land a ability, roll a dice as a reaction. On a 3+,
+telling blow upon. that ability has no effect.
+Effect: Ignore modifiers to save rolls for
+Your Hero Phase 6
+this unit (positive and negative).
+ENFEEBLE FOE: With a series of
+hissed incantations, Be’lakor instils
+Once Per Turn (Army),
+visions of loss and despair in the minds
+Enemy Combat Phase
+of his enemies to drain them of their
+DEADLY TRAP: The Dark Master delights
+fighting spirit.
+in lethal reversals of expectation and fate.
+Declare: Pick a visible enemy unit within
+Declare: Pick this unit and up to 2 friendly
+18" of this unit to be the target, then make
+Slaves to Darkness units within this
+a casting roll of 2D6.
+unit’s combat range to be the targets.
+Effect: Until the start of your next turn:
+Effect: Roll a dice for each target. On a
+• Subtract 1 from hit rolls from the
+4+, that target has Strike-first for the
+target’s combat attacks.
+rest of the turn.
+• The target’s combat attacks cannot
+Keywords Rampage
+score critical hits (treat them as regular
+hits instead).
+Keywords Spell
+Warmaster, Unique, Hero, Monster, Wizard (2), Fly, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon, Undivided
+
+--- Page 12 ---
+August 2024
+MOVE
+9"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 9 3+ S A ETERNUS
+A V
+E E
+H
+2 BLADE OF THE FIRST PRINCE
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Death Glaive and Skull Flail 6 3+ 3+ 1 2 Charge (+1 Damage)
+Drakocephalus’s Fangs 3 4+ 3+ - 1 Companion
+Any Movement Phase Reaction: Opponent declared a command
+VEINS OF BLACK LIGHTNING: for a unit within 12" of thisunit
+Reborn in the Cursed Skies above the NETWORK OF SPIES: Eternus
+realms, Eternus’s soul is tethered to the commands a legion of agents and
+Mortal Realms through the dark magics operatives to ensure he is always one step
+of his master; whenever he is struck down, ahead of his enemies.
+a flash of black lightning sees him stand
+Effect: Roll a dice. Add 1 to the roll if the
+defiant once more.
+enemy unit is in combat with a friendly
+Declare: This unit can use this ability if it Chaos Legionnaires or ChaosFuries
+has been destroyed. unit. On a 5+, that command has no
+effect. The command still counts as having
+Effect: Roll 2D6. Add 1 to the roll if a been used and the command points spent
+friendly Be’lakor is on the battlefield. to use the command are still lost.
+On an 8+, set up a replacement unit on
+the battlefield more than 9" from all
+enemy units.
+Keywords Core
+Unique, Hero, Cavalry
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided
+
+--- Page 13 ---
+August 2024
+MOVE
+10"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 8 3+ S A CHAOS LORD
+A V
+E E
+H
+2 ON DAEMONIC MOUNT
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cursed Weapons 5 3+ 3+ 2 2 Charge (+1 Damage)
+Daemonic Mount’s
+3 5+ 3+ - 1 Companion
+Mighty Hooves
+MARK OF CHAOS
+During army composition, pick 1 of the
+following keywords for this unit:
+•Undivided
+•Khorne
+•Tzeentch
+•Nurgle
+•Slaanesh
+Reaction: You declared a Fight ability
+for this unit
+THE KNIGHTS OF CHAOS: At the head
+of a charge, this Chaos Lord leads their
+cavalry to crush any foe before them.
+Effect: Pick a friendly non-Hero
+Warriors of Chaos Cavalry unit
+that has not used a Fight ability this turn
+and is within this unit’s combat range to
+be the target. The target can be picked to
+use a Fight ability immediately after the
+Fight ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+wound rolls for the target’s attacks for the
+rest of the turn.
+Hero, Cavalry
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 14 ---
+August 2024
+MOVE
+14"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 6 4+ S A GAUNT SUMMONER
+A V
+E E
+H
+2 ON DISC OF TZEENTCH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Changestaff 12" 3 4+ 3+ 1 D3 Crit (Mortal)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warptongue Blade 3 3+ 3+ 1 2 -
+Disc’s Teeth and Horns 2 4+ 3+ 1 D3 Companion
+Deployment Phase Your Hero Phase 7
+MINIONS OF THE SILVER TOWER: ARCANE IMPRISONMENT:
+The warped fortresses of the Gaunt Gaunt Summoners delight in banishing
+Summoners are infested with their foes to their Silver Towers.
+thrall hosts.
+Declare: Pick an enemy Hero in combat
+Declare: Pick a friendly unit that has not with this unit to be the target, then make
+been deployed to be the target. a casting roll of 2D6.
+Effect: The target is set up in reserve in a Effect: If the unmodified casting roll
+Silver Tower. It has now been deployed. exceeds the target’s Health characteristic,
+Keywords Deploy it is automatically destroyed. For the rest
+of the battle, that unit cannot be picked
+Your Movement Phase to be the target of an ability that allows a
+replacement unit to be set up.
+BOOK OF PROFANE SECRETS: Using
+this arcane tome, the Gaunt Summoner Keywords Spell
+calls forth minions from their Silver Tower.
+Declare: Pick a friendly unit in a
+Silver Tower to be the target.
+Effect: Set up the target on the battlefield
+wholly within 12" of this unit and more
+than 9" from all enemy units.
+Hero, Wizard (2), Cavalry, Fly, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon, Tzeentch
+
+--- Page 15 ---
+August 2024
+MOVE
+5"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 5 6+A V GAUNT SUMMONER
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Changestaff 12" 3 4+ 3+ 1 D3 Crit (Mortal)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warptongue Blade 3 3+ 3+ 1 2 -
+Deployment Phase Your Movement Phase
+MINIONS OF THE SILVER TOWER: BOOK OF PROFANE SECRETS: Using
+The warped fortresses of the Gaunt this arcane tome, the Gaunt Summoner
+Summoners are infested with their calls forth minions from their Silver Tower.
+thrall hosts.
+Declare: Pick a friendly unit in a
+Declare: Pick a friendly unit that has not Silver Tower to be the target.
+been deployed to be the target.
+Effect: Set up the target on the battlefield
+Effect: The target is set up in reserve in a wholly within 12" of this unit and more
+Silver Tower. It has now been deployed. than 9" from all enemy units.
+Keywords Deploy
+Your Hero Phase 7
+DIVERT REALMGATE: WWhhiissppeerriinngg
+fell incantations, a Gaunt Summoner can
+temporarily divert the path of a realmgate,
+allowing malefic Chaos entities to storm
+the battlefield.
+Declare: Make a casting roll of 2D6.
+Effect: Units set up this turn using this
+unit’s ‘Book of Profane Secrets’ ability can
+be set up wholly within 18" of this unit
+and more than 7" from all enemy units
+instead of the distances in the ability.
+Keywords Spell
+Hero, Wizard (2), Infantry, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon, Tzeentch
+
+--- Page 16 ---
+August 2024
+MOVE
+6"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 5 4+A V OGROID THERIDONS
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Goroan Weapons 4 4+ 2+ 1 2 Anti-Infantry (+1 Rend)
+MARK OF CHAOS
+During army composition, pick 1 of the
+following keywords for this unit:
+•Undivided
+•Khorne
+•Tzeentch
+•Nurgle
+•Slaanesh
+Once Per Battle, Any Combat Phase
+UNLEASHED SAVAGERY: Suppressing
+their savage spirit no more, these ferocious
+warriors hack at the foe in a bestial frenzy.
+Effect: Add 1 to the Damage
+characteristic of this unit’s melee weapons
+for the rest of the turn.
+Infantry, Champion, Musician (1/3), Standard Bearer (1/3)
+KEYWORDS
+Chaos, Slaves to Darkness
+
+--- Page 17 ---
+August 2024
+MOVE
+12"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 12 4+ S A CHAOS SORCERER LORD
+A V
+E E
+H
+5 ON MANTICORE
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sorcerous Reaping Staff 3 3+ 3+ 1 D3 -
+Manticore’s Claws Anti-Monster (+1 Rend),
+6 4+ 2+ 1 2
+and Fangs Companion
+MARK OF CHAOS Once Per Turn (Army), Any Combat Phase
+During army composition, pick 1 of the
+following keywords for this unit: VENOMOUS TAIL STRIKE: The barbed
+•Undivided tail of a Manticore secretes a paralysing toxin
+•Tzeentch that can stun an enemy long enough for the
+•Nurgle Manticore to tear into them with impunity.
+•Slaanesh
+Declare: Pick an enemy Monster in
+combat with this unit to be the target.
+Once Per Turn (Army), Your Hero Phase
+ORACULAR VISIONS: A sorcerer can Effect: Roll a dice. On a 3+, the target has
+temporarily bestow the gift of foresight Strike-last for the rest of the turn.
+upon their allies, helping them ward
+Keywords Rampage
+against enemy blows.
+Declare: Pick a friendly Warriors of
+Chaos unit wholly within 12" of this unit
+to be the target and roll a dice.
+Effect: On a 3+, the target has Ward (5+)
+until the start of your next turn.
+Hero, Monster, Wizard (1), Fly
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 18 ---
+August 2024
+MOVE
+12"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 12 4+ S A CHAOS LORD
+A V
+E E
+H
+5 ON MANTICORE
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Daemonbound Weapons 5 3+ 3+ 1 2 Crit (Mortal)
+Manticore’s Claws Anti-Monster (+1 Rend),
+6 4+ 2+ 1 2
+and Fangs Companion
+MARK OF CHAOS Once Per Turn (Army), Any Combat Phase
+During army composition, pick 1 of the
+following keywords for this unit: APEX PREDATOR: It is a point of
+•Undivided pride to a Manticore rider that they and
+•Khorne their steed are the apex predators of the
+•Tzeentch battlefield. They seek out the strongest
+•Nurgle foes and do not rest until they have proven
+•Slaanesh their supremacy with a vicious kill.
+Declare: Pick an enemy Monster in
+Passive
+combat with this unit to be the target.
+IRON-WILLED OVERLORD:
+Manticores are berserk killers, and any Effect: Add 1 to hit rolls for this unit’s
+Chaos Lord who rides one to battle combat attacks that target that Monster
+displays such obvious dominance that for the rest of the turn. This ability also
+none would dare deny their orders. affects Companion weapons.
+Effect: Add 2 to the control scores of Keywords Rampage
+friendly Warriors of Chaos units
+while they are wholly within 12" of
+this unit.
+Hero, Monster, Fly
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 19 ---
+August 2024
+MOVE
+5"
+H • SLAVES TO DARKNESS WARSCROLL •
+T S
+A L 6 3+A V CHAOS LORD
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Reaperblade 5 3+ 3+ 1 2 Crit (Mortal)
+MARK OF CHAOS
+During army composition, pick 1 of the
+following keywords for this unit:
+•Undivided
+•Khorne
+•Tzeentch
+•Nurgle
+•Slaanesh
+Reaction: You declared a Fight ability
+for this unit
+GLORY IN BATTLE: Under the
+command of their warlord, the warriors
+sworn to them waste no time in slaying
+the enemy.
+Effect: Pick a friendly non-Hero
+Warriors of Chaos Infantry unit
+that has not used a Fight ability this turn
+and is within this unit’s combat range to
+be the target. The target can be picked to
+use a Fight ability immediately after the
+Fight ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+wound rolls for the target’s attacks for the
+rest of the turn.
+Hero, Infantry
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 20 ---
+August 2024
+MOVE
+9"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 10 3+ S A CHAOS LORD
+A V
+E E
+H
+2 ON KARKADRAK
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Hexed Weapons 5 3+ 3+ 1 2
+Crit (Mortal)
+Karkadrak’s Claws and Horn 4 4+ 3+ 1 2 Companion
+MARK OF CHAOS Any Charge Phase
+During army composition, pick 1 of the
+following keywords for this unit: BRUTISH RAMPAGE: A charging
+•Undivided Karkadrak is an almost unstoppable force,
+•Khorne capable of smashing straight through even
+•Tzeentch the most determined shieldwall.
+•Nurgle
+Declare: If this unit charged this phase,
+•Slaanesh
+pick up to 3 enemy units within 1" of it to
+be the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Once Per Battle (Army),
+Any Charge Phase
+DRIVE THE LEGIONS FORWARD:
+Mounted atop a mighty Karkadrak, the
+Chaos Lord signals the charge.
+Declare: Pick this unit and up to 2
+friendly non-HeroWarriors of
+Chaos units wholly within 12" of this
+unit to be the targets.
+Effect: Add 2 to charge rolls for the
+targets for the rest of the turn.
+Hero, Cavalry
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 21 ---
+August 2024
+MOVE
+5" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S CHAOS
+L 5 4+A
+A V
+E E
+H SORCERER LORD
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sorcerer Staff and Runeblade 3 4+ 3+ 1 D3 -
+MARK OF CHAOS Once Per Turn (Army), Your Hero Phase
+During army composition, pick 1 of the
+following keywords for this unit: ORACULAR VISIONS: A sorcerer can
+•Undivided temporarily bestow the gift of foresight
+•Tzeentch upon their allies, helping them ward
+•Nurgle against enemy blows.
+•Slaanesh
+Declare: Pick a friendly Warriors of
+Chaos unit wholly within 12" of this unit
+to be the target and roll a dice.
+Effect: On a 3+, the target has Ward (5+)
+until the start of your next turn.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 22 ---
+August 2024
+MOVE
+5" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S EXALTED HERO
+L 6 3+A
+A V
+E E
+H OF CHAOS
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Blades of the Anti-Hero (+1 Rend),
+5 3+ 3+ 1 2
+Dark Champion Anti-Monster (+1 Rend)
+MARK OF CHAOS Passive
+During army composition, pick 1 of the
+following keywords for this unit: GLORY-SEEKER: To earn the favour of
+•Undivided their patron, these formidable warriors
+•Khorne ruthlessly hunt down enemy monsters
+•Tzeentch and champions.
+•Nurgle
+Effect: Add 1 to the Damage
+•Slaanesh
+characteristic of this unit’s melee
+weapons for attacks that target Heroes
+or Monsters.
+Hero, Infantry
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 23 ---
+August 2024
+MOVE
+6"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 8 4+A V OGROID MYRMIDON
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Gladiator Spear 10" 1 3+ 3+ 1 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gladiator Spear 6 3+ 2+ 1 3 Anti-Monster (+1 Rend)
+MARK OF CHAOS Passive
+During army composition, pick 1 of the
+following keywords for this unit: MYRMIDON RAGE: Every wound
+•Undivided inflicted on a Myrmidon only serves to
+•Khorne stoke its rage further.
+•Tzeentch
+Effect: While this unit is damaged, add
+•Nurgle
+2 to the Attacks characteristic of its
+•Slaanesh
+melee weapons.
+Reaction: You declared a Fight ability
+for this unit
+PIT MASTER: Myrmidons are given
+governance over the gladiatorial pits of the
+Varanspire, and all who have fought there
+willingly follow them into the fray.
+Effect: Pick a friendly Ogroid Theridons
+unit that has not used a Fight ability
+this turn and is within this unit’s combat
+range to be the target. The target can be
+picked to use a Fight ability immediately
+after the Fight ability used by this unit
+has been resolved. If it is picked to do so,
+add 1 to hit rolls for the target’s attacks
+for the rest of the turn.
+Hero, Infantry
+KEYWORDS
+Chaos, Slaves to Darkness
+
+--- Page 24 ---
+August 2024
+MOVE
+8"
+H • SLAVES TO DARKNESS WARSCROLL •
+T S
+A L14 4+A V CHAOS WARSHRINE
+E E
+H
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sacrificial Blade 4 3+ 3+ 1 2 -
+Flailing Fists 6 4+ 3+ - 2 Companion
+MARK OF CHAOS Your Hero Phase 4
+During army composition, pick 1 of the
+FAVOUR OF CHAOS: The
+following keywords for this unit:
+Shrinemaster invokes the Dark Pantheon
+•Undivided
+to bless nearby followers with their favour.
+•Khorne
+•Tzeentch Declare: Pick a visible friendly Slaves
+•Nurgle to Darkness unit wholly within 12"
+•Slaanesh of this unit that shares a Mark of Chaos
+keyword with this unit to be the target.
+Passive
+Then, make a chanting roll of D6.
+BATTLE DAMAGED
+Effect: While this unit has 10 or more Effect: Apply 1 of the following effects
+damage points, the Attacks characteristic to the target for the rest of the turn
+of its Flailing Fists is 4. depending on which Mark of Chaos
+keyword this unit has:
+Passive
+•Undivided:When the target uses
+PROTECTION OF THE DARK GODS: the ‘Rally’ command, you can make 3
+Worshippers of the Ruinous Powers additional rally rolls of D6.
+gather around these shrines in the hope of •Khorne:Add 1 to hit rolls for the
+receiving divine protection. target’s attacks.
+•Tzeentch:The target has Ward (5+).
+Effect: Friendly Warriors of Chaos
+•Nurgle:Add 1 to wound rolls for the
+units have Ward (6+) while they are
+target’s attacks.
+wholly within 12" of this unit.
+•Slaanesh:Add 1 to the number of dice
+rolled when making charge rolls for the
+target, to a maximum of 3.
+If the chanting roll was 8+, you can pick
+up to 2 eligible units to be the targets
+instead of 1.
+Keywords Prayer
+Hero, Priest (1), War Machine
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 25 ---
+August 2024
+MOVE
+10"
+H
+T S • SLAVES TO DARKNESS WARSCROLL •
+A L16 4+A V SOUL GRINDER
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Harvester Cannon 12" 6 4+ 3+ 1 1 Companion
+Phlegm Bombardment 12" 1 4+ 3+ 1 3 Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Piston-driven Legs and
+8 4+ 2+ 1 D3 Companion
+Daemonic Blade or Claw
+Hellforged Claw 1 4+ 2+ 2 D6 Crit (Mortal), Companion
+MARK OF CHAOS Passive
+During army composition, pick 1 of the
+following keywords for this unit: IMPLACABLE ADVANCE: This
+•Undivided daemonic engine is utterly relentless in
+•Khorne its desire to pay off the soul-tithe owed to
+•Tzeentch its masters.
+•Nurgle
+Effect: This unit can use Charge
+•Slaanesh
+abilities even if it used a Run ability in
+the same turn.
+Passive
+BATTLE DAMAGED
+Effect: While this unit has 10 or more Once Per Turn (Army), Any Combat Phase
+damage points, the Attacks characteristic PISTON-DRIVEN CARNAGE: The
+of its Piston-driven Legs and Daemonic mechanical lower limbs of a Soul Grinder
+Blade or Claw is 6. crush, stamp and impale without mercy.
+Declare: Pick an enemy Infantry unit
+in combat with this unit to be the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll. Then, this unit can move
+6". During that move, it can pass through
+models in the target unit but must end
+that move in combat.
+Keywords Rampage
+Monster, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon
+
+--- Page 26 ---
+August 2024
+MOVE
+10"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 7 4+A V CHAOS CHARIOT
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Chaos War-flail 6 3+ 3+ - 1 -
+Chaos Greatblade 3 4+ 3+ 1 2 -
+Lashing Whip 2 4+ 4+ - 1 -
+Chaos Steeds’
+4 5+ 3+ - 1 Companion
+Trampling Hooves
+MARK OF CHAOS Any Charge Phase
+During army composition, pick 1 of the
+following keywords for this unit: SWIFT DEATH: Chaos Chariots are at
+•Undivided their most deadly on the charge, where
+•Khorne their considerable bulk and bladed wheels
+•Tzeentch can cause untold devastation.
+•Nurgle
+Declare: If this unit charged this phase,
+•Slaanesh
+pick an enemy unit within 1" of it to be
+This unit is armed with a Lashing Whip, the target.
+Chaos Steeds’ Trampling Hooves and 1 of
+the following options: Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+•Chaos War-flail equal to the roll.
+•Chaos Greatblade
+War Machine
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 27 ---
+August 2024
+MOVE
+9" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S GOREBEAST
+L 8 4+A
+A V
+E E
+H CHARIOT
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Chaos War-flail 6 3+ 3+ - 1 -
+Chaos Greatblade 3 4+ 3+ 1 2 -
+Lashing Whip 2 4+ 4+ - 1 -
+Gorebeast’s Crushing Fists 4 4+ 4+ - 2 Companion
+MARK OF CHAOS Passive
+During army composition, pick 1 of the
+following keywords for this unit: BRUTAL MOMENTUM: The ferocity
+•Undivided of Gorebeasts is terrible to behold as they
+•Khorne carve a path of bloody destruction through
+•Tzeentch the enemy ranks.
+•Nurgle
+Effect: When this unit uses the ‘Power
+•Slaanesh
+Through’ command, inflict an additional
+This unit is armed with a Lashing Whip, D3 mortal damage on the target and add
+Gorebeast’s Crushing Fists and 1 of the 3" to the distance this unit can move as
+following options: part of that ability.
+•Chaos War-flail
+•Chaos Greatblade
+War Machine
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 28 ---
+August 2024
+MOVE
+5" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S DARKOATH
+L 5 5+A
+A V
+E E
+H CHIEFTAIN
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cursed Broadsword 5 4+ 3+ 1 2 Crit (Mortal)
+Reaction: You declared a Fight ability Once Per Battle, End of Any Turn
+for this unit OATH OF MURDER: Darkoath
+TRIBAL WARLEADER: With strength Chieftains offer up the souls of enemy
+and fierce purpose, the rulers of the lords and champions in exchange for
+Darkoath tribes lead those sworn to their divine power.
+banners into the fray to fulfil their oaths.
+Effect: If this unit destroyed an enemy
+Effect: Pick a friendly non-Hero Hero or Monster this turn, this
+Darkoath Infantry unit that has unit has Strike-first for the rest of
+not used a Fight ability this turn and the battle.
+is within this unit’s combat range to be
+the target. The target can be picked to
+use a Fight ability immediately after the
+Fight ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+the Attacks characteristic of the target’s
+melee weapons for the rest of the turn.
+Hero, Infantry
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath
+
+--- Page 29 ---
+August 2024
+MOVE
+5" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S DARKOATH
+L 5 5+A
+A V
+E E
+H WARQUEEN
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Rune-etched Axe 5 4+ 3+ 1 2 CCrriitt ((MMoorrttaall))
+Once Per Turn (Army), Your Hero Phase
+RUIN-BLESSED CONQUEROR: A
+Warqueen heeds the whispers of the gods,
+ravaging lands in their name and drawing
+their gaze onto her warrior hordes.
+Declare: Pick an objective that this unit
+is contesting.
+Effect: Roll a dice. On a 3+, for the rest
+of the turn, other friendly Darkoath
+units have Ward (5+) while they are
+contesting that objective.
+Once Per Battle, Any Charge Phase
+OATH OF SUPREMACY: By the will of
+the gods, this warrior leads her barbarous
+horde into the lands of the enemy, allowing
+none to oppose them.
+Effect: If this unit is wholly within enemy
+territory and charged this phase, for
+the rest of the battle, add 1 to hit rolls
+for combat attacks made by friendly
+Darkoath units while they are wholly
+within 12" of this unit.
+Hero, Infantry, Ward (5+)
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath
+
+--- Page 30 ---
+August 2024
+MOVE
+5"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 3 3+A V CHAOS CHOSEN
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Soul Splitter 3 3+ 3+ 1 2 Crit (Mortal)
+MARK OF CHAOS Once Per Battle, Any Combat Phase
+During army composition, pick 1 of the
+following keywords for this unit: HERALDS OF RUINATION: Paragons of
+•Undivided the Dark Gods, Chaos Chosen cut a swathe
+•Khorne through the enemy lines, leaving nothing
+•Tzeentch but blood and ruin in their wake.
+•Nurgle
+Effect: This unit can use 2 Fight abilities
+•Slaanesh
+this phase. After the first is used, however,
+this unit has Strike-last for the rest of
+the turn.
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 31 ---
+August 2024
+MOVE
+5"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 2 3+A V CHAOS WARRIORS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Rune-etched Weapons 2 3+ 3+ 1 1 Crit (Auto-wound)
+MARK OF CHAOS Passive
+During army composition, pick 1 of the
+following keywords for this unit: BRINGERS OF DESOLATION: Chaos
+•Undivided Warriors fight with relentless ferocity in
+•Khorne those places consecrated to the Dark Gods.
+•Tzeentch
+Effect: Add 1 to the Attacks characteristic
+•Nurgle
+of this unit’s Rune-etched Weapons
+•Slaanesh
+while it is contesting an objective
+you control.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 32 ---
+August 2024
+MOVE
+2D6"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+L 5 5+A
+A V CHAOS SPAWN
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Freakish Mutations 2D6 5+ 4+ - 1 Crit (2 Hits), Companion
+MARK OF CHAOS Passive
+During army composition, pick 1 of the
+following keywords for this unit: DRAWN TO POWER: Even cursed
+•Undivided with their hideous and twisted form,
+•Khorne Chaos Spawn still covet the boons of the
+•Tzeentch Dark Gods and are drawn to those most
+•Nurgle favoured by their patron.
+•Slaanesh
+Effect: While this unit is wholly within
+12" of a friendly Daemon Prince
+Passive
+that shares a Mark of Chaos keyword
+BEAST
+with it, you can re-roll the random
+Effect: This unit has a maximum control
+characteristic rolls for this unit’s Move
+score of 1.
+and Attacks characteristics.
+Beast
+KEYWORDS
+Chaos, Slaves to Darkness
+
+--- Page 33 ---
+August 2024
+MOVE
+10"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 4 3+A V CHAOS KNIGHTS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cursed Lance 3 3+ 3+ 1 1 Charge (+1 Damage)
+Warsteed’s Hooves 2 5+ 3+ - 1 Companion
+MARK OF CHAOS Passive
+During army composition, pick 1 of the
+following keywords for this unit: IMPALING CHARGE: A charging
+•Undivided Chaos Knight is capable of spitting several
+•Khorne enemies at once with the point of their
+•Tzeentch ensorcelled polearm.
+•Nurgle
+Effect: If this unit charged this turn, for
+•Slaanesh
+the rest of the turn, add 1 to the Rend
+characteristic of its Cursed Lances.
+Cavalry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Chaos, Slaves to Darkness, Warriors of Chaos
+
+--- Page 34 ---
+August 2024
+MOVE
+10" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S MUTALITH
+L14 4+A
+A V
+E E
+H VORTEX BEAST
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Crushing Claws 4 4+ 2+ 1 D3 Companion
+Crit (Auto-wound),
+Betentacled Maw 12 4+ 4+ - 1
+Companion
+Passive Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED AURA OF MUTATION: To stand near a
+Effect: While this unit has 10 or more Mutalith can have horrific consequences.
+damage points, the Attacks characteristic
+of its Betentacled Maw is 8. Declare: Pick a visible enemy unit within
+12" of this unit to be the target.
+Any Hero Phase Effect: Roll a dice and apply the
+MUTANT REGENERATION: This corresponding effect below. If this
+unnatural abomination is invigorated by unit is wholly within 12" of a friendly
+the raw power of Chaos. Tzeentch Wizard, you can roll 2 dice
+instead, pick either result, then apply the
+Effect:Heal (D3) this unit.
+corresponding effect below.
+1 Untouched:No effect.
+2 Hideous Disfigurement: Subtract 3
+from the target’s control score until
+the start of your next turn.
+3 Troggbrains: The target cannot use
+commands for the rest of the turn.
+4 Gift of Mutations: Subtract 1" from
+the target’s Move characteristic for
+the rest of the battle.
+5 Horrific Absorption: Inflict D6
+mortal damage on the target. Then,
+Heal (D6) this unit.
+6 Transmogrification: Pick any
+other effect.
+Keywords Rampage
+Monster
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon, Tzeentch
+
+--- Page 35 ---
+August 2024
+MOVE
+10"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L14 4+A V SLAUGHTERBRUTE
+E E
+H
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Razor-tipped Claws 8 4+ 2+ 1 2
+Companion
+Mighty Jaws 2 4+ 2+ 1 3 Companion
+Passive Deployment Phase
+BATTLE DAMAGED SIGILS OF DOMINATION: By
+Effect: While this unit has 10 or more carving runes of domination into a
+damage points, the Attacks characteristic Slaughterbrute’s back and driving cursed
+of its Razor-tipped Claws is 5. blades of binding into its flesh, the
+monster’s will can be bound to a champion
+Once Per Turn (Army), Any Charge Phase of Chaos.
+RAMPAGING CHARGE: The
+Declare: Pick a friendly Slaves to
+Slaughterbrute crashes into the enemy’s
+Darkness Hero within this unit’s
+ranks in a frenzy of destruction.
+combat range to be this unit’s master.
+Declare: If this unit charged this phase,
+Effect: For the rest of the battle, while this
+pick an enemy unit within 1" of it to be
+unit is within its master’s combat range,
+the target.
+add 1 to the number of dice rolled when
+Effect: Roll a D3. On a 2+, inflict an making charge rolls for this unit, to a
+amount of mortal damage on the target maximum of 3.
+equal to the roll. If the target unit is
+Infantry, double the amount of mortal
+damage inflicted.
+Keywords Rampage
+Monster
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon, Khorne
+
+--- Page 36 ---
+August 2024
+MOVE
+8" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S CENTAURION
+L10 4+A
+A V
+E E
+H MARSHAL
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Mauling Spear,
+Skull Bludgeon and 6 3+ 3+ 1 2 Charge (+1 Damage)
+Varanspire Gladius
+Reaction: You declared a Fight ability
+for this unit
+MARSHAL OF THE LEGIONS: Not
+only formidable combatants, Centaurion
+Marshals lead the forces of the First Prince
+into battle with an iron fist.
+Effect: Pick a friendly non-Hero
+Undivided unit that has not used a
+Fight ability this turn and is within this
+unit’s combat range to be the target. The
+target can be picked to use a Fight ability
+immediately after the Fight ability used
+by this unit has been resolved. If it is
+picked to do so, add 1 to hit rolls for the
+target’s attacks for the rest of the turn.
+Hero, Cavalry
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided
+
+--- Page 37 ---
+August 2024
+MOVE
+5" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S CHAOS
+L 1 4+A
+A V
+E E
+H LEGIONNAIRES
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Darkiron Weapons 2 3+ 4+ 1 1 -
+Once Per Turn (Army),
+Your Movement Phase
+SOW CONFUSION: To the disciples of
+Be’lakor, subterfuge and lies are as keen as
+any blade.
+Declare: Pick an enemy unit within 6" of
+this unit to be the target.
+Effect: Roll a dice. On a 4+, the target
+cannot use commands for the rest of
+the turn.
+Infantry, Champion (1/8)
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided
+
+--- Page 38 ---
+August 2024
+MOVE
+10"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 2 6+A V RAPTORYX
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Razor-sharp Beak
+3 4+ 4+ - 1 Companion
+and Talons
+Passive Passive
+CRAZED FLOCK: A flock of snapping, BEAST
+screeching Raptoryx is capable of swiftly Effect: This unit has a maximum control
+bringing down any prey should they catch score of 1.
+them unawares.
+Effect: If this unit charged this turn, for
+the rest of the turn, add 1 to the Attacks
+characteristic of its melee weapons. This
+ability also affects Companion weapons.
+Beast
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided
+
+--- Page 39 ---
+August 2024
+MOVE
+12"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 1 6+A V CHAOS FURIES
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Razor-sharp Dagger
+3 4+ 4+ 1 1 -
+and Claws
+Any Combat Phase
+SNEAKY LITTLE DEVILS: Chaos
+Furies are spiteful creatures that utterly
+loathe the idea of engaging in a fair fight,
+much preferring – where possible – to stab
+distracted enemies in the back.
+Effect: If this unit is in combat, roll a
+dice. On a 3+, this unit can immediately
+use the ‘Retreat’ ability as if it were your
+movement phase without any mortal
+damage being inflicted on it.
+Infantry, Fly, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness, Daemon, Undivided
+
+--- Page 40 ---
+August 2024
+MOVE
+10" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S MINDSTEALER
+L10 5+A
+A V
+E E
+H SPHIRANX
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Shredding Claws 6 4+ 4+ 1 2 -
+Once Per Turn (Army), Any Combat Phase
+DOMINATE MIND: A Sphiranx can
+manipulate the actions of its enemies with
+a simple glance.
+Declare: Pick an enemy unit within 6" of
+this unit to be the target.
+Effect: Roll a dice. If the roll exceeds the
+target’s Control characteristic, the target
+has Strike-last for the rest of the turn.
+Keywords Rampage
+Monster
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided
+
+--- Page 41 ---
+August 2024
+MOVE
+6" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S FOMOROID
+L 8 5+A
+A V
+E E
+H CRUSHER
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Hurled Terrain 12" D3 4+ 2+ 1 2 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Crushing Fists and
+6 4+ 2+ 1 D3 Crit (2 Hits)
+Swinging Masonry
+Once Per Turn (Army), Any Combat Phase
+CURSED DESTROYERS: Once skilled
+masons, these creatures have been
+cursed by the Everchosen to now live only
+to destroy.
+Declare: Pick a terrain feature within
+1" of this unit, then pick each other unit
+(friendly and enemy) within 3" of that
+terrain feature to be the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Keywords Rampage
+Monster
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided
+
+--- Page 42 ---
+August 2024
+MOVE
+9" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S REALMSCOURGE
+L 6 5+A
+A V
+E E
+H RUPTURE
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Surging Spikes 2D3 4+ 3+ 1 1 Crit (2 Hits)
+Any Charge Phase
+DEBILITATING SHOCKWAVE:
+The vicious spikes that erupt from an
+onrushing Realmscourge Rupture impale
+those unfortunate enough to be struck by
+them even as the tremors that accompany
+them send those nearby staggering.
+Declare: If this Manifestation charged
+this phase, pick an enemy unit within 1"
+of it to be the target.
+Effect: Roll a dice for each model in the
+target unit. For each 6, inflict 1 mortal
+damage on the target. If any models in
+the target unit are slain by this ability,
+subtract 1 from hit rolls for the target’s
+attacks for the rest of the turn.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness
+
+--- Page 43 ---
+August 2024
+MOVE
+- • SLAVES TO DARKNESS WARSCROLL •
+H
+T S EIGHTFOLD
+L 6 5+A
+A V
+E E
+H DOOM-SIGIL
+7+
+BANISHMENT
+Passive
+EMPOWERED BY ATROCITY: The
+souls of those slain in the presence of an
+Eightfold Doom-Sigil are absorbed by the
+magical manifestation, feeding the Dark
+Gods’ eternal hunger and inspiring their
+servants to battle all the harder, even as
+their own lives are offered in tribute.
+Effect: If 2 or more units (friendly or
+enemy) were destroyed this turn, for
+the rest of the turn, add 1 to the Attacks
+characteristic of melee weapons used by
+friendly Slaves to Darkness units
+while they are wholly within 12" of
+this Manifestation.
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness
+
+--- Page 44 ---
+August 2024
+MOVE
+9" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S DARKFIRE
+L 6 6+A
+A V
+E E
+H DAEMONRIFT
+7+
+BANISHMENT
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Darkfire Torrent 8" D6 2+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Daemonrift Maw 3 4+ 2+ - D3 -
+Passive
+FUELLED BY SORCERY: A Darkfire
+Daemonrift absorbs magical power,
+widening and expelling ever more gouts
+of ruinous sorcery as it hungrily devours
+arcane energies.
+Effect: Each time a spell is
+successfully cast by a unit within 12"
+of this Manifestation, give this
+Manifestation 1 ruinous energy
+point, to a maximum of 6.
+Each time this Manifestation uses
+a Shoot ability, add 1 to the Attacks
+characteristic of its Darkfire Torrent for
+each ruinous energy point it has.
+If this Manifestation is removed from
+play, all of its ruinous energy points
+are lost.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Chaos, Slaves to Darkness
+
+--- Page 45 ---
+August 2024
+MOVE
+-
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 12 4+ S A NEXUS CHAOTICA
+A V
+E E
+H
+-
+CONTROL
+The following universal terrain abilities
+Your Hero Phase
+apply to this terrain feature (Terrain, 1.2):
+CORRUPT THE REALMS: These
+Cover, Impassable diabolical constructs use harnessed
+daemonic power to corrupt the geomantic
+Your Hero Phase energy of the Mortal Realms.
+DRAW POWER: Constructed at
+confluences where magical ley lines Declare: If this terrain feature has 9 or
+converge, a Nexus Chaotica can draw more power points, pick an objective or
+power from the realms and into a terrain feature within 24" of this terrain
+floating crucible. feature to be the source. Then, pick any
+number of enemy units within 3" of the
+Effect: Roll a dice. Give a number of source to be the targets.
+power points to this terrain feature equal
+to the roll. This terrain feature can have a Effect: Remove 9 power points from
+maximum of 12 power points at once. this terrain feature, then roll a D3 for
+each target. On a 2+, inflict an amount
+of mortal damage on the target equal to
+Your Hero Phase
+the roll.
+INFERNAL SORCERY: A sorcerer of
+Chaos can draw upon the bound daemons
+of the Nexus Chaotica to empower
+their spellcasting.
+Declare: If this terrain feature has 3
+or more power points, pick a friendly
+Slaves to Darkness Wizard within
+3" of this terrain feature to be the target.
+Effect: Remove 3 power points from this
+terrain feature, then add 1 to casting rolls
+for the target for the rest of the turn.
+Faction Terrain
+KEYWORDS
+Chaos, Slaves to Darkness
+
+--- Page 46 ---
+August 2024
+MOVE
+8" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S DARKOATH
+L 9 5+A
+A V
+E E
+H WILDERFIEND
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Flesh-tearing Maw 3 3+ 3+ 2 D3 Companion
+Razor-sharp Claws 6 4+ 3+ 1 2 Companion
+Passive Passive
+FEED ON FLESH: Having been appeased BEAST
+with sacrificial blood, this creature may Effect: This unit has a maximum control
+bestow dark blessings upon its kin. score of 1.
+Effect: Each time a model (friendly or
+Your Hero Phase
+enemy) is slain within 12" of this unit,
+give this unit a sacrifice point, to a PRIMAL SORCERY: Though bestial,
+Darkoath Wilderfiends possess innate
+maximum of 6. If there are more than
+powers of sorcery.
+1 friendly Darkoath Wilderfiend units
+within 12" of the slain model, only 1 of Effect: Pick 1 of the following effects:
+them can be given a sacrifice point for
+that slain model. Mind Shroud: Pick an enemy unit within
+12" of this unit to be the target and roll
+a number of dice equal to the number of
+sacrifice points this unit has. If any of
+the rolls are a 5+, the target cannot use
+commands for the rest of the turn.
+Warping Balefire: Pick an enemy unit
+within 12" of this unit to be the target and
+roll a number of dice equal to the number
+of sacrifice points this unit has. For each
+3+, inflict 1 mortal damage on the target.
+Dark Might:Heal (X) this unit, where
+X is the number of sacrifice points this
+unit has.
+After applying the effect you picked, reset
+this unit’s sacrifice points to 0.
+Beast, Ward (5+)
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath
+
+--- Page 47 ---
+August 2024
+MOVE
+• SLAVES TO DARKNESS WARSCROLL •
+12"
+H DARKOATH
+T S
+L 7 4+A
+A E E V CHIEFTAIN
+H
+2
+CONTROL ON WARSTEED
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Darkoath Cursed Weapon 5 4+ 3+ 1 2 Crit (Mortal)
+Warsteed’s Hooves 2 5+ 3+ - 1 Companion
+Passive Once Per Battle, End of Any Turn
+CAVALRY WARLEADER: The Darkoath OATH OF MURDER: Darkoath
+Chieftain leads the cavalry swiftly into the Chieftains offer up the souls of enemy
+enemy ranks. lords and champions in exchange for
+divine power.
+Effect: You can re-roll charge rolls for
+friendly Darkoath Cavalry units Effect: If this unit destroyed an enemy
+while they are wholly within 12" of Hero or Monster this turn, this
+this unit. unit has Strike-first for the rest of
+the battle.
+Hero, Cavalry
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath
+
+--- Page 48 ---
+August 2024
+MOVE
+5" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S DARKOATH
+L 1 5+A
+A V
+E E
+H MARAUDERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Raider Weapons 2 4+ 3+ - 1 -
+Once Per Battle, Any Charge Phase Passive
+OATH OF THE MARAUDER: These GLORIOUS DEATH: Ever keen to earn
+bloodthirsty tribal warriors loudly declare the favour of their tribe, when the eyes of
+vows of violence and slaughter as they race the fiercest fighters are upon them, these
+after their foes. warriors will not go down without a fight.
+Effect: If this unit charged this phase and Effect: While this unit is wholly within
+the unmodified charge roll was 8+, add 12" of any friendly Darkoath Heroes,
+1 to the Rend characteristic of this unit’s each time a model in this unit is slain
+weapons for the rest of the battle. by a combat attack and that model was
+in combat with the attacking unit, roll a
+dice. On a 5+, inflict 1 mortal damage on
+the attacking unit after the Fight ability
+has been resolved.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath
+
+--- Page 49 ---
+August 2024
+MMOOVVEE
+5" • SLAVES TO DARKNESS WARSCROLL •
+TT HH SS DARKOATH
+LL 1 5+AA
+AA VV
+EE EE
+HH SAVAGERS
+1 WARSCROLL SUBTITLE
+CCOONNTTRROOLL
+MELEE WEAPONS Atk HHHiiittt WWWnnndddRRRnnndddDDDmmmggg AAAbbbiiillliiitttyyy
+Darkoath Weapons 2 4+ 3+ - 1 Crit (Mortal)
+Once Per Battle, Any Hero Phase
+OATH OF CONQUEST: Heeding their
+Godspeaker’s proclamations, these
+warriors seek to earn glory by driving back
+the enemy.
+Effect: If this unit is contesting an
+objective you control that is wholly within
+enemy territory, this unit has Ward (5+)
+for the rest of the battle.
+Infantry, Champion (1/10)
+KKEEYYWWOORRDDSS
+Chaos, Slaves to Darkness, Undivided, Darkoath
+
+--- Page 50 ---
+August 2024
+MOVE
+12" • SLAVES TO DARKNESS WARSCROLL •
+H
+T S DARKOATH
+L 3 5+A
+A V
+E E
+H FELLRIDERS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Marauder Javelin 10" 1 4+ 3+ - D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Broadsword 2 4+ 3+ - 1 Charge (+1 Damage)
+Marauder Javelin 2 4+ 4+ 1 1 -
+Warsteed’s Hooves 2 5+ 3+ - 1 Companion
+Each model in this unit is armed
+Passive
+with Warsteed’s Hooves and 1 of the
+following options: SWIFT ATTACKERS: As they close in
+on the enemy at frightening speed, these
+•Marauder Javelin skilled horsemen are nigh impossible to hit
+•Broadsword
+with missile fire.
+Once Per Battle, Any Charge Phase Effect: Subtract 1 from hit rolls for
+OATH OF THE RAIDER: Before battle, shooting attacks that target this unit.
+Fellriders swear oaths to harry the enemy
+without mercy, showing no mercy to those
+stragglers who fall beneath their axes.
+Effect: If this unit charged this phase and
+is only in combat with 1 enemy unit, and
+that enemy unit is only in combat with
+this unit, add 1 to the Rend characteristic
+of this unit’s weapons for the rest of
+the battle.
+Cavalry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath
+
+--- Page 51 ---
+August 2024
+MOVE
+10"
+H • SLAVES TO DARKNESS WARSCROLL •
+L T 14 3+ S A ABRAXIA
+A V
+E E
+H
+5 SPEAR OF THE EVERCHOSEN
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Hero (+1 Rend),
+Gorbolga 5 3+ 3+ 2 2
+Charge (+1 Damage)
+The Thanatorg’s Claws and Fangs 6 4+ 3+ 1 2 Companion
+Passive Passive
+BATTLE DAMAGED BLOOD OF MOLTEN VARANITE:
+Effect: While this unit has 10 or more Any who wound the Thanatorg risk being
+damage points, the Attacks characteristic splashed by its highly mutative blood.
+of Gorbolga is 3.
+Effect: Roll a dice each time a damage
+point inflicted by a combat attack is
+Passive
+allocated to this unit. On a 4+, inflict 1
+WARLORD OF THE FIRST CIRCLE:
+mortal damage on the attacking unit after
+Abraxia commands the Swords of Chaos
+the Fight ability has been resolved.
+with relentless brutality.
+Effect: If a friendly Varanguard unit uses Any Combat Phase
+the ‘Relentless Killers’ ability while it is GORBOLGA THE ACCURS’D:
+wholly within 12" of this unit, that unit A ‘gift’ from the Everchosen, Gorbolga
+does not have Strike-last as a result of is a varanite spear that carries a potent
+that ability. mutative curse – but should its wielder’s
+will slip, they too will learn of its hunger…
+Once Per Turn (Army), Any Combat Phase
+Effect: If this unit is in combat, roll a dice
+ROAR OF DOMINATION: The
+and apply the corresponding effect:
+Thanatorg is quick to put potential
+usurpers of Abraxia’s power in their place. 1 Uncontrollable Power: Allocate 1
+damage point to this unit.
+Declare: Pick an enemy Hero in combat 2 The Spear Slumbers: No effect.
+with this unit to be the target. 3-5 White-hot Varanite: Add 1 to the
+Damage characteristic of this unit’s
+Effect: Roll a dice. On a 3+, subtract 1
+Gorbolga for the rest of the turn.
+from the Attacks characteristic of the
+6 Rampant Mutation: The effect
+target’s melee weapons for the rest of
+of ‘White-hot Varanite’ applies
+the turn.
+and this unit’s Gorbolga has
+Keywords Rampage Crit (Mortal) for the rest of the turn.
+Unique, Hero, Monster, Ward (5+)
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Warriors of Chaos
+
+--- Page 52 ---
+August 2024
+MOVE
+5"
+H
+T S • SLAVES TO DARKNESS WARSCROLL •
+A L 6 5+A V GUNNAR BRAND
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Dual Axes 10 4+ 3+ 1 1 Crit (Mortal)
+Any Combat Phase Once Per Battle, End of Any Turn
+CARVE A PATH TO GLORY: Ruthless OATH OF BLOODSHED: Though he is
+in battle, Gunnar Brand closes in on the contemptuous of the gods, Gunnar is still
+enemy’s champions, claiming skulls and Darkoath; he is not so foolish as to reject
+earning glory with each swing of his axes. their boons should they seek to reward
+his murder-making.
+Declare: This unit can only use
+this ability if it is in combat with an Declare: This unit can only use this
+enemy Hero. ability if any enemy Heroes were slain
+by this unit’s combat attacks this turn.
+Effect: This unit can use 2 Fight abilities
+this phase. After the first is used, however, Effect: Friendly Gunnar’s Oathsworn
+this unit has Strike-last for the rest units have Ward (4+) for the rest of
+of the turn. This unit can only use the the battle.
+second Fight ability if it is in combat
+with an enemy Hero, and if it does so,
+it must pick an enemy Hero to be the
+target of all of its attacks.
+Unique, Hero, Infantry
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath, Gunnar’s Oathsworn
+
+--- Page 53 ---
+August 2024
+MOVE
+12"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+A L 4 5+A V SINGRI BRAND
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Singri’s Warbow 18" 2 3+ 3+ 1 D3 Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Brand Ancestral Knife 3 4+ 3+ 1 1 -
+Warsteed’s Hooves 2 5+ 3+ - 1 CCoommppaanniioonn
+Passive
+SWIFT AS THE WIND: Singri’s
+horsemanship is unrivalled by any of
+the Darkoath. She weaves deftly across
+the battlefield, avoiding enemy fire and
+loosing deadly accurate shots with her bow
+in return.
+Effect: Only critical hits score successful
+hits for shooting attacks that target
+this unit.
+Passive
+UNCANNY SHOT: Gunnar Brand has
+been saved on more than one occasion by a
+well-placed arrow from Singri.
+Effect: Add 1 to the Rend characteristic
+of this unit’s Singri’s Warbow for attacks
+that target enemy units that are within 6"
+of a friendly Gunnar Brand.
+Unique, Hero, Cavalry
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath, Gunnar’s Oathsworn
+
+--- Page 54 ---
+August 2024
+MOVE
+5"
+T H S • SLAVES TO DARKNESS WARSCROLL •
+L 3 5+A
+A V THE OATHSWORN KIN
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Heavy Darkoath Weapon 4 4+ 3+ - 2 Crit (Mortal)
+Gnarled Staff 3 4+ 4+ - D3 -
+•Warqueen Tanari and Dendrel
+Passive
+Direbrand are each armed with a
+Heavy Darkoath Weapon. BROKEN NADJA: Broken Nadja
+wields the energies of ruin itself through
+•Broken Nadja is armed with a
+Gnarled Staff. dark incantations.
+Your Hero Phase 5 Effect: While this unit’s Broken Nadja is
+on the battlefield, it has Wizard (1).
+WITHERING DEATH: Nadja spits
+a vile curse in the Dark Tongue, drawing
+unnatural shadows to coil around an
+enemy champion and sap their life force.
+Declare: Pick a visible enemy Hero
+within 18" of this unit to be the target,
+then make a casting roll of 2D6.
+Effect: Inflict 1 mortal damage on the
+target and subtract 1 from the Attacks
+characteristic of the target’s melee
+weapons until the start of your next turn.
+Keywords Spell
+Unique, Infantry
+KEYWORDS
+Chaos, Slaves to Darkness, Undivided, Darkoath, Gunnar’s Oathsworn
+
+--- Page 55 ---
+SLAVES TO DARKNESS
+BLOODWIND LEGION
+When a worshipper of the Dark Gods has walked the Path to Glory,
+This Spearhead army consists conquering lands and slaughtering their rivals, they will eventually reach
+of the following units: the final obstacle that lies before their ascension to daemonhood. Such a
+fell blessing requires dedication tenfold compared to what hardships came
+GENERAL before, and only feats of the most spectacular violence can hope to catch the
+Chaos Lord Dark Pantheon’s eyes. Thus will a newly crowned Chaos Lord strike out in
+order to seek the bloodiest battles and raise their own despoiling armies.
+UNITS
+1 Chaos Chariot Such cursed ranks can be spotted marauding across the realms with their
+5 Chaos Warriors Chaos Lord at their head. With the Ruinous Powers watching their every
+5 Chaos Warriors move, the Lord will cleave through front lines with their reaperblade,
+5 Chaos Knights receiving bounteous blessings in exchange. The fighters that accompany this
+champion are equal parts their soldiers and rivals, hoping to steal glory for
+themselves. Alongside Chaos Warriors thunder Chaos Knights, towering
+warriors atop gore-streaked steeds that shatter enemy formations with the
+power of their charge. Should numerically superior foes seek to overwhelm
+these elites, a rumbling Chaos Chariot will come to the fore. This heavy
+war-carriage can bowl over and crush entire rows of infantry once it gathers
+momentum, even as its riders lay about themselves with lash and spiked flail.
+‘They will see me. Even if I have to damn a million souls,
+they will see me.’
+– Chaos Lord Eris Bloodwrath
+Rules writer John started his Spearhead army with the aim of building it into a bigger force under the rule of Archaon
+himself. To that end, he went for a quick but effective black armour recipe, with teal capes for a dramatic dash of colour.
+
+--- Page 56 ---
+BATTLE TRAITS
+Once Per Turn, End of Any Turn
+EYE OF THE GODS
+The Slaves to Darkness seek to attract the notice of the D6 ABILITY
+gods by performing great deeds in battle.
+1 Snubbed by the Gods: No effect.
+Declare: Pick one of the following friendly units to WARD OF TZEENTCH:This unit
+2
+use this ability: has Ward (6+).
+GRACE OF SLAANESH:Add 1 to
+• A unit that is contesting an objective not controlled 3
+run rolls for this unit.
+by your opponent and is not in combat.
+• A unit that destroyed an enemy unit this turn. BLESSING OF NURGLE:Subtract 1
+4 from wound rolls for attacks that target
+Effect: Roll once on the Eye of the Gods table for this unit.
+that unit. That unit gains the Eye of the Gods passive
+ability that corresponds to the roll (the unit keeps all FURY OF KHORNE:Add 1 to the
+Eye of the Gods abilities gained in previous turns). If 5 Rend characteristic of this unit’s
+the same unit gains the same ability more than once in melee weapons.
+the battle, the effects are not cumulative. Champion of Chaos: Pick any ability from
+6
+the table.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Start of the First Battle Round Passive
+THE DREAD BANNER: Marked with sigils of FIERCE CONQUERORS: These warriors are
+each of the Dark Gods, those who bear this banner hell-bent on desecrating the territory and holdings of
+seek ruinous blessings whatever their provenance. any who dare oppose them.
+Declare: Pick a friendly Chaos Warriors or Effect: Add 3 to the control scores of friendly Chaos
+Chaos Knights unit. Warriors units.
+Effect: You can immediately roll on the Eye of the
+Gods table for that unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Once Per Battle, Your Movement Phase
+MARK OF KHORNE: This general serves the MARK OF TZEENTCH: The Changer of the Ways
+Blood God and promises to deliver endless carnage shapes the destiny of your general and grants them the
+upon the battlefield in return for his dark gifts. ability to twist and warp the realms around them.
+Effect: Add 1 to the Rend characteristic of your Declare: Pick a friendly unit on the battlefield. You
+general’s melee weapons if they charged in the cannot pick your general.
+same turn.
+Effect: Remove that unit from the battlefield and set
+it up again wholly within 6" of your general and more
+than 6" from all enemy units. It cannot use Move
+abilities for the rest of the phase.
+Passive Passive
+MARK OF NURGLE: The Father of Plagues has MARK OF SLAANESH: Your general is bound to
+blessed your general with unnatural resilience. the Dark Prince, who, for the price of their soul, gifts
+them inhuman grace and martial skill.
+Effect: Subtract 1 from wound rolls for
+combat attacks that target your general. Effect: Your general has Strike-first.
+
+--- Page 57 ---
+BATTLE TRAITS
+BATTLE TRAITS
+Once Per Turn, End of Any Turn
+Once Per Turn, End of Any Turn
+EYE OF THE GODS
+E Th Th Y e e E S S l l O a a v v F e e s s T t t o o H D D E a a r r G k k n n O e e s s D s s s s S e e e e k k t t o o a a t t t t r r a a c c t t t t h h e e n n o o t t i i c c e e o o f f t t h h e e D D 6 6 A A B B I I L L I I T T Y Y
+gods by performing great deeds in battle.
+gods by performing great deeds in battle. 1 Snubbed by the Gods: No effect.
+1 Snubbed by the Gods: No effect.
+Declare: Pick one of the following friendly units to WARD OF TZEENTCH:This unit
+D us e e c t l h ar is e : a P bi i l c i k ty o : ne of the following friendly units to 2 2 has W Wa A r R d D (6 O +) F . TZEENTCH:This unit
+use this ability: has Ward (6+).
+GRACE OF SLAANESH:Add 1 to
+• A unit that is contesting an objective not controlled 3 GRACE OF SLAANESH:Add 1 to
+• A unit that is contesting an objective not controlled 3 run rolls for this unit.
+by your opponent and is not in combat. run rolls for this unit.
+by your opponent and is not in combat.
+• A unit that destroyed an enemy unit this turn. BLESSING OF NURGLE:Subtract 1
+• A unit that destroyed an enemy unit this turn. 4 from B L w E ou S n S d IN ro G ll s O fo F r N at U ta R ck G s L th E a : t S t u ar b g t e ra t ct 1
+Effect: Roll once on the Eye of the Gods table for 4 f t r h o is m u w ni o t u . nd rolls for attacks that target
+E th ff a e t c u t n : R it o . Th ll o a n t c u e n o it n g t a h i e n E s y th e e o E f y th e e o G f t o h d e s G ta o b d l s e p fo a r s sive this unit.
+t a E t a E t h h h b b y y e e a i i e e l l t s s i i o o t t u a a y y f f m m n t t t t i h h h h e e t. e e a a u u Th t t G G n n c c o o i i o o a t t d d t r r g g r r s s u a a e e a a n i i s s n n b b p p it s s i i o o l l g i i t t n n t t a h h i i d d i e e e e n s s s s s s s t t g g a a o o t a a m m h t t i i e n n h h e e e e e e E a a d d b b y r r o o e i i i i l l n n l l i i o l l t t p p f ( ( y y t t r r t h h m m e e h e e v v e o o i i u u r r o o G n n e e u u o i i t t s s t t h h d t t k k a a s u u e e n n p r r e e n n a p p o o s s s s s n n ) ) s . . c c a a i v I I e e l l f f l l e i i n n 5 5 R m R m e e e e n n l l e e F F d d e e U U c c w w h h R R e e a a Y Y a a r r p p a a c c O O o o t t n n e e F F s s r r . . i i K K s s t t H H i i c c O O o o f f R R t t h h N N i i s s E E u u : : n n A A i i d d t t ’ ’ d d s s 1 1 t t o o t t h h e e
+the battle, the effects are not cumulative. Champion of Chaos: Pick any ability from
+the battle, the effects are not cumulative. 6 Champion of Chaos: Pick any ability from
+6 the table.
+the table.
+R R E E G G I I M M E E N N T T A A B B I I L L I I T T I I E E S S : : P P i i c c k k 1 1 o o f f t t h h e e f f o o l l l l o o w w i i n n g g r r e e g g i i m m e e n n t t a a b b i i l l i i t t i i e e s s . .
+Once Per Battle, Start of the First Battle Round Passive
+Once Per Battle, Start of the First Battle Round Passive
+THE DREAD BANNER: Marked with sigils of FIERCE CONQUERORS: These warriors are
+THE DREAD BANNER: Marked with sigils of FIERCE CONQUERORS: These warriors are
+each of the Dark Gods, those who bear this banner hell-bent on desecrating the territory and holdings of
+each of the Dark Gods, those who bear this banner hell-bent on desecrating the territory and holdings of
+seek ruinous blessings whatever their provenance. any who dare oppose them.
+seek ruinous blessings whatever their provenance. any who dare oppose them.
+Declare: Pick a friendly Chaos Warriors or Effect: Add 3 to the control scores of friendly Chaos
+Declare: Pick a friendly Chaos Warriors or Effect: Add 3 to the control scores of friendly Chaos
+Chaos Knights unit. Warriors units.
+Chaos Knights unit. Warriors units.
+Effect: You can immediately roll on the Eye of the
+Effect: You can immediately roll on the Eye of the
+Gods table for that unit.
+Gods table for that unit.
+E E N N H H A A N N C C E E M M E E N N T T S S : : G G i i v v e e y y o o u u r r g g e e n n e e r r a a l l 1 1 o o f f t t h h e e f f o o l l l l o o w w i i n n g g e e n n h h a a n n c c e e m m e e n n t t s s . .
+Passive Once Per Battle, Your Movement Phase
+Passive Once Per Battle, Your Movement Phase
+MARK OF KHORNE: This general serves the MARK OF TZEENTCH: The Changer of the Ways
+MARK OF KHORNE: This general serves the MARK OF TZEENTCH: The Changer of the Ways
+Blood God and promises to deliver endless carnage shapes the destiny of your general and grants them the
+Blood God and promises to deliver endless carnage shapes the destiny of your general and grants them the
+upon the battlefield in return for his dark gifts. ability to twist and warp the realms around them.
+upon the battlefield in return for his dark gifts. ability to twist and warp the realms around them.
+Effect: Add 1 to the Rend characteristic of your Declare: Pick a friendly unit on the battlefield. You
+Effect: Add 1 to the Rend characteristic of your Declare: Pick a friendly unit on the battlefield. You
+general’s melee weapons if they charged in the cannot pick your general.
+general’s melee weapons if they charged in the cannot pick your general.
+same turn.
+same turn.
+Effect: Remove that unit from the battlefield and set
+Effect: Remove that unit from the battlefield and set
+it up again wholly within 6" of your general and more
+it up again wholly within 6" of your general and more
+than 6" from all enemy units. It cannot use Move
+than 6" from all enemy units. It cannot use Move
+abilities for the rest of the phase.
+abilities for the rest of the phase.
+Passive Passive
+Passive Passive
+MARK OF NURGLE: The Father of Plagues has MARK OF SLAANESH: Your general is bound to
+MARK OF NURGLE: The Father of Plagues has MARK OF SLAANESH: Your general is bound to
+blessed your general with unnatural resilience. the Dark Prince, who, for the price of their soul, gifts
+blessed your general with unnatural resilience. the Dark Prince, who, for the price of their soul, gifts
+them inhuman grace and martial skill.
+them inhuman grace and martial skill.
+Effect: Subtract 1 from wound rolls for
+Effect: Subtract 1 from wound rolls for
+combat attacks that target your general. Effect: Your general has Strike-first.
+combat attacks that target your general. Effect: Your general has Strike-first.
+
+--- Page 58 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+CHAOS LORD
+6 3+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Reaperblade 5 3+ 3+ 1 2 Crit (Mortal)
+Chaos Lords are baleful Your Hero Phase
+champions who have walked the
+Path to Glory and are now only FAVOURED OF THE PANTHEON: The gods watch
+one step away from ascension this warlord’s deeds particularly closely.
+or damnation. They are the
+rulers of great warbands and Effect: Roll a dice. On a 4+, you can roll on the Eye of
+hordes, and their followers the Gods table for this unit.
+would rather risk death than
+face their wrath. Each one is a
+legendary warrior, gifted by the Any Combat Phase
+gods with enough raw strength IRON-WILLED CHAMPION: This champion of
+to command by pure fear, for Chaos demands that their warriors give no quarter.
+deep down, they know that it
+only takes a single misstep to Declare: Pick a friendly unit wholly within 12" of this
+disappoint their fell patrons. unit to be the target and roll a dice. You cannot pick
+Their feats of epic violence
+this unit.
+inspire the bloodthirsty throngs
+that follow them, shaping them Effect: On a 2+, add 1 to hit rolls for attacks made by the
+into an unstoppable legion of
+target unit this phase.
+dark-hearted killers.
+KEYWORDS Hero, Infantry
+• SPEARHEAD WARSCROLL •
+10"
+CHAOS CHARIOT
+7 4+
+2
+Swift Chaos Chariots thunder
+across the plains hunting
+for worthy foes. Drawn
+by corrupted steeds, the Your Charge Phase
+momentum of these constructs SWIFT DEATH: Chaos Chariots are at their most
+is a weapon of its own, and the deadly on the charge, causing devastation with their
+charioteers take dark pleasure in
+bladed wheels and hurtling mass.
+crushing enemies beneath their
+spiked wheels, each as heavy as a Declare: If this unit charged this phase, pick an enemy
+boulder of iron. Once the chariot
+unit within 1" of it to be the target and roll a dice.
+has smashed a hole through the
+enemy’s main formation, it will Effect: On a 2+, inflict D3 mortal damage on the target.
+rampage among their back lines
+with impunity, its riders lashing
+and bludgeoning stragglers
+and any who try to flee with
+cruel abandon.
+KEYWORDS War Machine
+
+--- Page 59 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+CHAOS LORD
+6 3+
+2
+Chaos Lords are baleful Your Hero Phase
+champions who have walked the
+Path to Glory and are now only FAVOURED OF THE PANTHEON: The gods watch
+one step away from ascension this warlord’s deeds particularly closely.
+or damnation. They are the
+rulers of great warbands and Effect: Roll a dice. On a 4+, you can roll on the Eye of
+hordes, and their followers the Gods table for this unit.
+would rather risk death than
+face their wrath. Each one is a
+legendary warrior, gifted by the Any Combat Phase
+gods with enough raw strength IRON-WILLED CHAMPION: This champion of
+to command by pure fear, for Chaos demands that their warriors give no quarter.
+deep down, they know that it
+only takes a single misstep to Declare: Pick a friendly unit wholly within 12" of this
+disappoint their fell patrons. unit to be the target and roll a dice. You cannot pick
+Their feats of epic violence
+this unit.
+inspire the bloodthirsty throngs
+that follow them, shaping them Effect: On a 2+, add 1 to hit rolls for attacks made by the
+into an unstoppable legion of
+target unit this phase.
+dark-hearted killers.
+KEYWORDS Hero, Infantry
+• SPEARHEAD WARSCROLL •
+10"
+CHAOS CHARIOT
+7 4+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Chaos War-flail 6 3+ 3+ - 1 -
+Driver’s Lashing Whip 2 4+ 4+ - 1 -
+Swift Chaos Chariots thunder Warhorses’ Trampling Hooves 4 5+ 3+ - 1 Companion
+across the plains hunting
+for worthy foes. Drawn
+by corrupted steeds, the Your Charge Phase
+momentum of these constructs SWIFT DEATH: Chaos Chariots are at their most
+is a weapon of its own, and the deadly on the charge, causing devastation with their
+charioteers take dark pleasure in
+bladed wheels and hurtling mass.
+crushing enemies beneath their
+spiked wheels, each as heavy as a Declare: If this unit charged this phase, pick an enemy
+boulder of iron. Once the chariot
+unit within 1" of it to be the target and roll a dice.
+has smashed a hole through the
+enemy’s main formation, it will Effect: On a 2+, inflict D3 mortal damage on the target.
+rampage among their back lines
+with impunity, its riders lashing
+and bludgeoning stragglers
+and any who try to flee with
+cruel abandon.
+KEYWORDS War Machine
+
+--- Page 60 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+CHAOS WARRIORS
+2 3+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Rune-etched Halberd 2 3+ 3+ 1 1 -
+Clad in hellforged iron and Passive
+swollen with dark blessings, BRINGERS OF
+Chaos Warriors are the bane
+of civilisation. Entire legions DESOLATION: Paragons of the
+of these armoured killers Dark Gods, Chaos Warriors cut a
+march into battle in search of swathe through the enemy lines,
+divine favour, each warrior the leaving nothing but blood and ruin
+equal of several lesser mortals. in their wake.
+Though they obey their chosen
+lord without hesitation, each Effect: Add 1 to wound rolls for
+one also walks the Path to combat attacks made by this unit
+Glory – and knows that once that target an enemy unit that is
+they gain enough power to contesting an objective you do
+rival their leader, they will do not control.
+so in an instant. Many Chaos
+Warriors eventually fuse with
+their armour, having spent
+so long within their suits of
+cursed metal.
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+10"
+CHAOS KNIGHTS
+4 3+
+1
+The coming of the Chaos
+Knights heralds the death Passive
+of empires. These dreaded
+champions charge fearlessly IMPALING CHARGE: A
+into the staunchest battlelines, charging Chaos Knight is capable
+striking down foes all around of spitting several enemies at
+them with sundering blows once with the point of their
+from their ensorcelled weapons. ensorcelled polearm.
+The huge destriers they ride
+are no ordinary horses; each Effect: Add 1 to the Rend
+snorts clouds of brimstone, and characteristic of this unit’s
+tongues of flame drip from their
+Cursed Lances if it charged in the
+pounding hooves. For a Chaos
+Knight to be chosen by one of same turn.
+these daemon-touched steeds is
+a blessing from the Dark Gods
+themselves, for the creatures are
+wild and untameable.
+KEYWORDS Cavalry
+
+--- Page 61 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+CHAOS WARRIORS
+2 3+
+1
+Clad in hellforged iron and Passive
+swollen with dark blessings, BRINGERS OF
+Chaos Warriors are the bane
+of civilisation. Entire legions DESOLATION: Paragons of the
+of these armoured killers Dark Gods, Chaos Warriors cut a
+march into battle in search of swathe through the enemy lines,
+divine favour, each warrior the leaving nothing but blood and ruin
+equal of several lesser mortals. in their wake.
+Though they obey their chosen
+lord without hesitation, each Effect: Add 1 to wound rolls for
+one also walks the Path to combat attacks made by this unit
+Glory – and knows that once that target an enemy unit that is
+they gain enough power to contesting an objective you do
+rival their leader, they will do not control.
+so in an instant. Many Chaos
+Warriors eventually fuse with
+their armour, having spent
+so long within their suits of
+cursed metal.
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+10"
+CHAOS KNIGHTS
+4 3+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Cursed Lance 3 3+ 3+ 1 1 Charge (+1 Damage)
+Chaos Steed’s Trampling Hooves 2 5+ 3+ - 1 Companion
+The coming of the Chaos
+Knights heralds the death Passive
+of empires. These dreaded
+champions charge fearlessly IMPALING CHARGE: A
+into the staunchest battlelines, charging Chaos Knight is capable
+striking down foes all around of spitting several enemies at
+them with sundering blows once with the point of their
+from their ensorcelled weapons. ensorcelled polearm.
+The huge destriers they ride
+are no ordinary horses; each Effect: Add 1 to the Rend
+snorts clouds of brimstone, and characteristic of this unit’s
+tongues of flame drip from their
+Cursed Lances if it charged in the
+pounding hooves. For a Chaos
+Knight to be chosen by one of same turn.
+these daemon-touched steeds is
+a blessing from the Dark Gods
+themselves, for the creatures are
+wild and untameable.
+KEYWORDS Cavalry

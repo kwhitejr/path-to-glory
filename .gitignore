@@ -46,3 +46,10 @@ yarn-error.log*
 # Local development
 .serverless/
 .dynamodb/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/

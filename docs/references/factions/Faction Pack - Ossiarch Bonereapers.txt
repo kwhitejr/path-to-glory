@@ -1,0 +1,1442 @@
+--- Page 1 ---
+FACTION PACK
+OSSIARCH
+BONEREAPERS
+
+--- Page 2 ---
+BATTLE TRAITS
+Ossiarch Bonereapers armies can use the following abilities:
+Your Movement Phase Your Movement Phase
+UNSTOPPABLE ADVANCE: The RE-FORM RANKS: Bonereapers swiftly
+Ossiarchs advance at a remorseless pace. disengage and charge back into the fray.
+Declare: If no friendly units have used Declare: If no friendly units have used
+a Relentless Discipline ability a Relentless Discipline ability
+this phase, pick a friendly Ossiarch this phase, pick a friendly Ossiarch
+Bonereapers Hero to use this ability. Bonereapers Hero to use this ability.
+All friendly Ossiarch Bonereapers
+units wholly within 12" of that Hero are Effect: For the rest of the turn, while
+the targets. they are wholly within 12" of that Hero,
+friendly Ossiarch Bonereapers units
+Effect: Add 2" to the Move characteristic can use Charge abilities even if they
+of each target for the rest of the turn. used a Retreat ability in the same turn.
+Keywords Relentless Discipline Keywords Relentless Discipline
+Any Charge Phase Any Charge Phase
+COORDINATED CHARGE: At a signal, COUNTER-STRIKE: The Ossiarchs
+the Ossiarch legions charge in unison. ready their weapons for an enemy assault.
+Declare: If no friendly units have used Declare: If no friendly units have used
+a Relentless Discipline ability a Relentless Discipline ability
+this phase, pick a friendly Ossiarch this phase, pick a friendly Ossiarch
+Bonereapers Hero to use this ability. Bonereapers Hero to use this ability.
+Effect: For the rest of the turn, add 1 Effect: For the rest of the turn, friendly
+to charge rolls for friendly Ossiarch units’ melee weapons have Anti-charge
+Bonereapers units while they are (+1 Rend) while they are wholly within
+wholly within 12" of that Hero. 12" of that Hero.
+Keywords Relentless Discipline Keywords Relentless Discipline
+Any Combat Phase Any Combat Phase
+BLUDGEON: The Bonereapers deliver IMPENETRABLE RANKS: Ossiarch
+blows that make a mockery of armour. warriors snap into defensive formations
+that grant them even greater resilience.
+Declare: If no friendly units have used
+a Relentless Discipline ability Declare: If no friendly units have used
+this phase, pick a friendly Ossiarch a Relentless Discipline ability
+Bonereapers Hero to use this ability. this phase, pick a friendly Ossiarch
+Bonereapers Hero to use this ability.
+Effect: For the rest of the turn, add 1 to
+wound rolls for combat attacks made Effect: For the rest of the turn, friendly
+by friendly Ossiarch Bonereapers Ossiarch Bonereapers have
+units while they are wholly within 12" of Ward (5+) while they are wholly within
+that Hero. 12" of that Hero.
+Keywords Relentless Discipline Keywords Relentless Discipline
+December 2024
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for an Ossiarch Bonereapers army. Each
+bbbbbbbbbaaaaaaaaattttttttttttttttttllllllllleeeeeeeee fffffffffooooooooorrrrrrrrrmmmmmmmmmaaaaaaaaatttttttttiiiiiiiiiooooooooonnnnnnnnn gggggggggrrrrrrrrraaaaaaaaannnnnnnnntttttttttsssssssss aaaaaaaaa dddddddddiiiiiiiiiffffffffffffffffffeeeeeeeeerrrrrrrrreeeeeeeeennnnnnnnnttttttttt aaaaaaaaabbbbbbbbbiiiiiiiiillllllllliiiiiiiiitttttttttyyyyyyyyy yyyyyyyyyooooooooouuuuuuuuu cccccccccaaaaaaaaannnnnnnnn uuuuuuuuussssssssseeeeeeeee iiiiiiiiinnnnnnnnn ttttttttthhhhhhhhheeeeeeeee bbbbbbbbbaaaaaaaaattttttttttttttttttllllllllleeeeeeeee.........
+MORTISAN COUNCIL MORTEK BALLISTARI
+PPaassssiivvee Your Shooting Phase
+NECROTIC SYMPHONY: Each CRAWLING BARRAGE: Ossiarch
+Mortisan thrives in the presence of their artillery is best utilised en masse,
+fellow craftsmen, their arcane might unleashing their necrotic payload from a
+spiralling as the collective magnifies their secure position behind the Mortek ranks.
+individual potency.
+Declare: Pick up to 3 friendly Mortek
+Effect: Add 1 to casting rolls for Crawler units that are wholly within
+friendly Ossiarch Bonereapers friendly territory and that have not used a
+Infantry Wizards. Move ability this turn to be the targets.
+Effect: Add 1 to hit rolls for each target’s
+shooting attacks for the rest of the turn.
+KAVALOS LANCE MORTEK PHALANX
+Once Per Battle (Army), Once Per Turn (Army),
+Deployment Phase Your Movement Phase
+SWIFT AS DEATH: Kavalos formations SEND IN THE RESERVE: The Mortek
+dominate the battlefield with their sheer Guard are deployed in deep ranks, with
+speed, seeking out the enemy’s weakest strategic reserves ready to enter the fray
+point before sending a deadly charge whenever the cohesion of the battleline
+crashing home. is threatened.
+Declare: Pick up to 3 friendly Ossiarch Declare: Pick a friendly Mortek Guard
+Bonereapers Cavalry units to be unit that has been destroyed to be
+the targets. the target.
+Effect: Each target can move 6" but Effect: Roll a dice. On a 5+, set up a
+cannot end that move in combat. replacement unit with half the number
+of models from the target unit (rounding
+up) on the battlefield more than 9" from
+all enemy units.
+December 2024
+
+--- Page 4 ---
+HEROIC TRAITS
+TEACHINGS OF THE TITHE-REAPERS (Hero only)
+Passive Passive
+DIVERSIONARY TACTICS: Infused AURA OF STERILITY: Ending magics
+with especially cunning souls, this hero shroud this hero, sapping the force from
+uses all manner of snares and ruses to arrows and other projectiles.
+hinder a foe’s advance.
+Effect: Subtract 1 from wound rolls for
+Effect: Subtract 2 from charge rolls for shooting attacks that target friendly
+enemy units while they are within 12" of Ossiarch Bonereapers units while
+this unit. they are wholly within 12" of this unit.
+Passive
+MIGHTY ARCHAEOSSIAN: The
+fossilised bone from which this hero is
+formed is supernaturally hard.
+Effect: If the unmodified hit roll for an
+attack that targets this unit is 1-3, the
+attack fails and the attack sequence ends.
+ARTEFACTS OF POWER
+RELICS OF THE EMPIRE (Hero only)
+Once Per Battle, Any Combat Phase Passive
+MARROWPACT: The glyphs borne to LODE OF SATURATION: This ingot of
+war by this champion bind those who nadirite–iron alloy, when pressed against
+view them in arcane pacts that siphon the a bone construct, renders its structure
+energy from their bone marrow. nigh invulnerable.
+Effect: For the rest of the turn, if the Effect: This unit has Ward (5+).
+unmodified hit roll for a combat attack
+that targets this unit is 1-2, inflict 1 Passive
+mortal damage on the attacking unit after
+HELM OF TYRANNY: This helm radiates
+the Fight ability has been resolved.
+the oppressive will of the wearer, filling
+nearby foes with supernatural dread.
+Effect: Subtract 2 from the control scores
+of enemy units while they are within 12"
+of this unit.
+December 2024
+
+--- Page 5 ---
+SPELL LORE
+LORE OF OSSIAN SORCERY
+Your Hero Phase 5
+EMPOWER NADIRITE WEAPONS: The caster imbues nadirite weapons with
+deadly power.
+Declare: Pick a friendly Ossiarch Bonereapers Wizard to cast this spell, pick a
+visible friendly Ossiarch Bonereapers unit within 12" of them to be the target, then
+make a casting roll of 2D6.
+Effect: The target’s combat attacks score critical hits on unmodified hit rolls of 5+ until
+the start of your next turn.
+Keywords Spell, Unlimited
+Your Hero Phase 7 Your Hero Phase 7
+DRAIN VITALITY: This cursed spell SHARD STORM: ThThee ccaasstteerr ccoonnjjuurreess
+saps a foe’s strength, leaving them weak forth a great cloud of bone-shards and
+and vulnerable. hurls them at the foe.
+Declare: Pick a friendly Ossiarch Declare: Pick a friendly Ossiarch
+Bonereapers Wizard to cast this Bonereapers Wizard to cast this
+spell, pick a visible enemy unit within spell, pick a visible enemy unit within
+12" of them to be the target, then make a 18" of them to be the target, then make a
+casting roll of 2D6. casting roll of 2D6.
+Effect: Until the start of your next turn, Effect: Roll a number of dice equal to
+subtract 1 from hit rolls for the target’s the number of models in the target unit.
+attacks and subtract 1 from save rolls for For each 5+, inflict 1 mortal damage on
+the target. the target.
+Keywords Spell Keywords Spell
+December 2024
+
+--- Page 6 ---
+MANIFESTATION LORE
+HORRORS OF THE NECROPOLIS
+Your Hero Phase 6 Your Hero Phase 6
+SUMMON SOULSTEALER SUMMON NIGHTMARE
+CARRION: Soaring from its caster’s PREDATOR: The Nightmare Predator is
+spread fingertips, the Soulstealer Carrion a looming conjuration of Shyishan magic
+takes wing above the battlefield. that takes the form of a disturbing terror.
+Declare: If there is not a friendly Declare: If there is not a friendly
+Soulstealer Carrion on the battlefield, Nightmare Predator on the battlefield,
+pick a friendly Ossiarch Bonereapers pick a friendly Ossiarch Bonereapers
+Wizard to cast this spell, then make a Wizard to cast this spell, then make a
+casting roll of 2D6. casting roll of 2D6.
+Effect: Set up a Soulstealer Carrion Effect: Set up a Nightmare Predator
+wholly within 12" of the caster, visible wholly within 12" of the caster, visible
+to them and more than 9" from all to them and more than 9" from all
+enemy units. enemy units.
+Keywords Spell, Summon Keywords Spell, Summon
+Your Hero Phase 6
+SUMMON BONE-TITHE
+SHRIEKER: The caster conjures a
+four-headed, all-seeing monstrosity to
+hunt down those who would escape the
+Ossiarch tithe.
+Declare: If there is not a friendly
+Bone-tithe Shrieker on the battlefield,
+pick a friendly Ossiarch Bonereapers
+Wizard to cast this spell, then make a
+casting roll of 2D6.
+Effect: Set up a Bone-tithe Shrieker
+wholly within 12" of the caster, visible
+to them and more than 9" from all
+enemy units.
+Keywords Spell, Summon
+December 2024
+
+--- Page 7 ---
+December 2024
+MOVE
+10"
+H • OSSIARCH BONEREAPERS WARSCROLL •
+L T 18 3+ S A NAGASH
+A V
+E E
+H
+10 SUPREME LORD OF THE UNDEAD
+CONTROL
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Alakanash 4 3+ 3+ 2 D6 -
+Zefet-nebtar 4 3+ 3+ 2 3 -
+Passive Once Per Battle, Your Hero Phase
+BATTLE DAMAGED SUPREME LORD OF THE UNDEAD
+Effect: While this unit has 10 or more Declare: Pick a friendly non-Hero
+damage points, subtract 3 from its non-Unique Death unit that has been
+power level. destroyed to be the target.
+Effect: Set up a replacement unit identical
+Passive
+to the target wholly within 12" of this unit
+THE STAFF OF POWER: Alakanash is and more than 9" from all enemy units.
+capped with gems of purest grave-sand.
+Effect: Add 2 to casting rolls for this unit Your Hero Phase 7
+while it has not miscast any spells this INVOCATION OF NAGASH: In a
+turn. If this unit miscasts a spell, ignore storm of morbid sorcery, Nagash blasts his
+the restriction that would stop this unit foes’ souls or re-knits his minions’ bodies.
+from casting any more spells this turn.
+Declare: This unit can cast this spell more
+than once per phase. Pick a visible unit
+Once Per Turn (Army), End of Any Turn
+wholly within 18" of this unit that has not
+HAND OF DUST: Nagash’s touch can turn been picked to be the target of this spell
+a foe to a pile of dusty bones in moments. this turn to be the target, then make a
+casting roll of 2D6.
+Declare: Pick a visible enemy Hero or
+Monster in combat with this unit to be Effect: If the target is an enemy unit,
+the target. inflict D3 mortal damage on it.
+If the target is a friendly Death unit,
+Effect: Hide a dice in one of your
+pick 1 of the following effects:
+hands or under one of two appropriate
+• Return a number of slain models to
+containers. Your opponent must pick one
+the target unit with a combined Health
+of your hands or containers. If they pick
+characteristic of up to 3.
+the one hiding the dice, this ability has
+• The target has Ward (5+) until the start
+no effect. If they pick the empty one, the
+of your next turn.
+target is automatically destroyed.
+Keywords Spell
+Keywords Rampage
+Warmaster, Unique, Hero, Monster, Wizard (9), Fly, Ward (5+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 8 ---
+December 2024
+MOVE
+4"
+H • OSSIARCH BONEREAPERS WARSCROLL •
+L T 20 3+ S A KATAKROS
+A V
+E E
+H
+5 MORTARCH OF THE NECROPOLIS
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Inda-Khaat 5 3+ 3+ 2 3 Crit (2 Hits)
+The Shield Immortis 3 3+ 3+ 2 2 -
+Retinue Blades 10 3+ 4+ 1 1 Crit (2 Hits)
+Passive Passive
+BATTLE DAMAGED PRIME NECROPHOROS: This
+Effect: While this unit has 10 or more Necrophoros holds aloft Katakros’s
+damage points, the Attacks characteristic personal banner.
+of its Inda-Khaat is 3.
+Effect: Add 3 to the control scores of
+other friendly Ossiarch Bonereapers
+Passive
+units while they are wholly within 18" of
+MORTARCH OF THE NECROPOLIS:
+this unit.
+Katakros is the most perfect of
+Nagash’s constructs and the ruler of the 1
+Your Hero Phase
+Ossiarch Empire.
+SUPREME LORD OF THE
+Effect: If this unit uses a Relentless BONEREAPER LEGIONS: An Ossiarch
+Discipline ability, that ability affects force personally led by Katakros is said
+friendly Ossiarch Bonereapers units to be worth ten identical forces led by
+wholly within 18" of this unit instead of his generals.
+wholly within 12".
+Declare: Pick up to 3 friendly Ossiarch
+Bonereapers units wholly within 18" of
+Once Per Turn, Reaction: Opponent
+this unit to be the targets.
+declared a command for a unit within 18"
+of this unit Effect: Until the start of your next turn,
+AVIARCH SPYMASTER: The Aviarch add 1 to save rolls for the targets while
+Spymaster can use their spy network to they are wholly within 18" of this unit.
+disrupt the plans of Katakros’s enemies.
+Effect: Roll a dice. On a 5+, that
+command has no effect, it still counts
+as having been used and the command
+points spent to use it are still lost.
+Warmaster, Unique, Hero, Infantry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 9 ---
+December 2024
+MOVE
+12"
+H • OSSIARCH BONEREAPERS WARSCROLL •
+L T 14 3+ S A ARKHAN THE BLACK
+A V
+E E
+H
+5 MORTARCH OF SACRAMENT
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Zefet-kar and Khenash-an 4 4+ 3+ 1 D3 Crit (2 Hits)
+Razarak’s Ebon Claws 6 4+ 2+ 2 2 Companion
+Passive Reaction: Opponent declared a
+BATTLE DAMAGED Spell ability
+Effect: While this unit has 10 or more MORTARCH OF SACRAMENT:
+damage points, the Attacks characteristic Arkhan’s loyalty has seen him become
+of Razarak’s Ebon Claws is 4. privy to secrets of Shyishan magic known
+to none outside the ranks of the gods.
+Passive Effect: If a friendly Ossiarch
+THE STAFF OF SPIRITS: Khenash-an, Bonereapers unit wholly within 18"
+the Staff of Spirits, grants Arkhan the of this unit was picked to be the target of
+power to absorb the souls of his foes. that spell, roll a dice. On a 4+, ignore the
+effect of that spell on that unit. This unit
+Effect: Add 1 to casting rolls for this unit.
+can use this ability more than once per
+Each time this unit successfully casts a
+phase but only once per Spell ability.
+spell, Heal (1) this unit.
+Your Hero Phase 6
+Once Per Turn (Army), Any Combat Phase
+CURSE OF YEARS: Tracing a
+THE DOOM OF TRAITORS: The dread
+spiteful gesture in the air, Arkhan curses
+abyssal Razarak bears Arkhan into battle,
+the enemy to age at an incredible rate.
+seeking out those who have stoked the ire
+of the Great Necromancer. Declare: Pick a visible enemy unit within
+18" of this unit to be the target, then make
+Declare: If this unit charged this turn,
+a casting roll of 2D6.
+pick an enemy unit in combat with it to
+be the target. Effect: Roll 10 dice. For each 6:
+• Inflict 1 mortal damage on the target.
+Effect: Roll a D3. On a 2+, inflict an
+• Roll an extra dice.
+amount of mortal damage on the
+target equal to the roll. If the target is For each 5+ on those extra dice, repeat
+a Hero, double the amount of mortal the above bullet points. Then, do the same
+damage inflicted. for each 4+, then each 3+, then each 2+.
+Keywords Rampage Keywords Spell
+Warmaster, Unique, Hero, Monster, Wizard (3), Fly, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 10 ---
+December 2024
+MOVE
+10" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S ARCH-KAVALOS
+L 8 3+A
+A V
+E E
+H ZANDTOS
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+The Dark Lance 5 3+ 3+ 2 2
+Crit (2 Hits)
+Kavalos Steed’s Hooves,
+4 5+ 3+ - 1 Companion
+Teeth and Barbed Tails
+Passive Once Per Battle, Any Combat Phase
+SPEAR OF THE KAVALOI: A Liege- STILL THEIR BREATH!: Such is
+Kavalos on the charge can punch straight Zandtos’s disdain for those who trespass
+through the enemy line. in Shyish that those who fight beside him
+come to share it.
+Effect: When this unit uses a Charge
+ability, it can pass through models in Effect: If this unit is in combat, for the
+enemy Infantry units as if it had Fly. rest of the turn, add 1 to the Attacks
+characteristic of melee weapons used
+Any Charge Phase by friendly non-Hero Ossiarch
+UNSTOPPABLE CHARGE: When Bonereapers units while they are
+a Kavalos steed charges the foe, it can wholly within 12" of this unit.
+use its size and weight to smash enemy
+footsoldiers to the ground and crush them
+beneath its nadirite-shod hooves.
+Declare: If this unit charged this phase,
+pick an enemy Infantry unit that it
+passed across to be the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Unique, Hero, Cavalry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 11 ---
+December 2024
+MOVE
+5"
+H • OSSIARCH BONEREAPERS WARSCROLL •
+L T 5 4+ S A VOKMORTIAN
+A V
+E E
+H
+2 MASTER OF THE BONE-TITHE
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Gaze of Death 12" 1 3+ 2+ 1 2 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Retribution 3 4+ 3+ 1 2 Crit (2 Hits)
+Once Per Battle, Any Hero Phase Your Hero Phase 7
+VOICE OF NAGASH: The sheer force of MORTAL CONTRACT: Vokmortian
+Vokmortian’s oratory fills even the boldest binds an enemy to a deadly
+commanders with doubt. mystical contract.
+Declare: Pick a visible enemy unit within Declare: Pick a visible enemy unit within
+12" of this unit to be the target. 18" of this unit to be bound, pick a visible
+friendly Ossiarch Bonereapers
+Effect: For the rest of the turn,
+unit wholly within 18" of this unit to be
+non-FightCore abilities cost
+bound, then make a casting roll of 2D6.
+1 command point for the target to
+use. Those abilities do not count Effect: Until the start of your next turn,
+as commands. each time the bound friendly unit is
+picked to be the target of an ability used
+by the bound enemy unit, roll a D3. On a
+2+, inflict an amount of mortal damage
+on the bound enemy unit equal to the roll
+as a reaction. If the bound enemy unit is
+destroyed by this ability, do not resolve
+the effect of the enemy ability.
+Keywords Spell
+Unique, Hero, Wizard (2), Infantry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 12 ---
+December 2024
+MOVE
+5" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S MORTISAN
+L 5 4+A
+A V
+E E
+H BONESHAPER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ossified Talons 3 4+ 4+ - 2 Crit (2 Hits)
+Once Per Turn, Your Hero Phase
+BONESHAPER: The Boneshaper uses
+their arcane arts to form shattered bones
+into new Ossiarch constructs.
+Declare: Pick a friendly Ossiarch
+Bonereapers unit wholly within 12" of
+this unit to be the target.
+Effect: Roll a dice. On a 3+:
+• If the target is damaged, Heal (3)
+the target.
+• If the target is not damaged, return
+a number of slain models to the
+target unit with a combined Health
+characteristic of up to 3.
+Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers, Mortisan
+
+--- Page 13 ---
+December 2024
+MOVE
+5" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S MORTISAN
+L 5 4+A
+A V
+E E
+H OSSIFECTOR
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ossified Talons 3 4+ 4+ - 2 Crit (2 Hits)
+Once Per Turn (Army), Your Hero Phase
+REFINED CREATIONS: Ossifectors
+are always looking to improve upon their
+work, wielding necrotic sorcery to augment
+their creations in battle.
+Declare: Pick a friendly Gothizzar
+Harvester, Morghast Archai or
+Morghast Harbingers unit wholly within
+12" of this unit to be the target.
+Effect: Roll a dice. On a 3+, add 1 to the
+Rend characteristic of the target’s melee
+weapons until the start of your next turn.
+Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers, Mortisan
+
+--- Page 14 ---
+December 2024
+MOVE
+5" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S MORTISAN
+L 5 4+A
+A V
+E E
+H SOULREAPER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Soulreaper Scythe 3 4+ 3+ 2 2 Crit (2 Hits)
+Passive Reaction: You declared a Fight ability
+SOULREAPER: The mere presence of a for this unit
+Soulreaper will sap a foe’s strength, leaving NECROTIC IMPETUS: The Soulreaper
+them weak and vulnerable. sends a surge of death energy through
+nearby Ossiarch footsoldiers, redoubling
+Effect: Subtract 1 from wound rolls for the ferocity of their attacks.
+combat attacks made by enemy units
+while they are in combat with this unit. Effect: Pick a friendly non-Hero
+Ossiarch Bonereapers Infantry
+unit that has not used a Fight ability
+this turn and is within this unit’s combat
+range to be the target. The target can be
+picked to use a Fight ability immediately
+after the Fight ability used by this unit
+has been resolved. If it is picked to do so,
+add 1 to hit rolls for the target’s attacks
+for the rest of the turn.
+Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers, Mortisan
+
+--- Page 15 ---
+December 2024
+MOVE
+5" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S MORTISAN
+L 6 4+A
+A V
+E E
+H SOULMASON
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Soulmason’s Staff 3 4+ 4+ 1 D3 Crit (2 Hits)
+Mortek Throne’s
+2 5+ 4+ 1 1 Companion
+Ossified Claws
+Your Hero Phase 7
+SOUL-GUIDE: The Soulmason
+empowers and focuses the souls
+that animate a nearby regiment of
+Ossiarch warriors.
+Declare: Pick a visible friendly
+Ossiarch Bonereapers unit wholly
+within 12" of the caster to be the target,
+then make a casting roll of 2D6.
+Effect: The target has Strike-first for
+the rest of the turn.
+Keywords Spell
+Hero, Wizard (2), Infantry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers, Mortisan
+
+--- Page 16 ---
+December 2024
+MOVE
+7"
+T H S • OSSIARCH BONEREAPERS WARSCROLL •
+A L 2 4+A V TERATIC COHORT
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Teratic Weapons 2 3+ 4+ 1 1 Crit (2 Hits)
+Claws and Talons 2 4+ 3+ - 1 Companion
+Each model in this unit is armed with
+Your Movement Phase
+Claws and Talons.
+HUNTERS UNLEASHED: Unable to
+•The champion is a Kavalos Centari and hold back any longer, these feral constructs
+must replace their Claws and Talons with rush forward to engage their prey.
+Teratic Weapons.
+•2/8 models in this unit are Mortek Declare: Pick this unit if it is outflanking
+Cykloptians and must replace their Claws the enemy.
+and Talons with Teratic Weapons.
+Effect: Set up this unit anywhere on
+Deployment Phase the battlefield more than 9" from all
+PREDATOR’S CUNNING: Fashioned enemy units.
+from the soulstuff of hunting beasts,
+Teratic Cohorts have perfected the art of
+the ambush.
+Declare: Pick this unit if it has not
+been deployed.
+Effect: Set up this unit in reserve
+outflanking the enemy. It has now
+been deployed.
+Keywords Deploy
+Infantry, Champion (1/8), Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 17 ---
+December 2024
+MOVE
+4"
+H
+T S • OSSIARCH BONEREAPERS WARSCROLL •
+L 1 4+A
+A V MORTEK GUARD
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-charge (+1 Rend),
+Nadirite Weapons 2 3+ 4+ - 1
+Crit (2 Hits)
+Passive
+SHIELDWALL: At their leader’s
+command, the regiment locks their shields
+to form an impenetrable barrier.
+Effect: Ignore all modifiers to save rolls
+for this unit (positive and negative) for
+the rest of the turn if this unit did not use
+a Move ability in the same turn.
+Infantry, Champion, Standard Bearer (1/10), Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 18 ---
+December 2024
+MOVE
+5"
+T H S • OSSIARCH BONEREAPERS WARSCROLL •
+A L 4 3+A V IMMORTIS GUARD
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg AAbbiilliittyy
+Dread Halberd 3 3+ 3+ 1 22 Crit (2 Hits)
+Passive
+SOULBOUND PROTECTORS:
+Immortis Guard will use their own bodies
+to shield their rulers from harm.
+Effect: Add 1 to ward rolls for friendly
+Ossiarch Bonereapers Heroes
+within this unit’s combat range.
+However, each time you make an
+unmodified ward roll of 1 for a friendly
+Ossiarch Bonereapers Hero
+within this unit’s combat range, allocate
+1 damage point to this unit after the
+damage sequence for that Hero has been
+resolved (ward rolls cannot be made for
+those damage points).
+Infantry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 19 ---
+December 2024
+MOVE
+6" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S NECROPOLIS
+L 4 4+A
+A V
+E E
+H STALKERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stalker Blades 4 3+ 3+ 2 1 Crit (2 Hits)
+Any Combat Phase
+QUADRARCH ASPECTS: Stalkers are
+imbued with a powerful skill by whichever
+of their four skulls faces the foe.
+Effect: Pick 1 of the following effects to
+apply for the rest of the turn:
+Domination Aspect: Subtract 3 from the
+control scores of enemy units while they
+are in combat with this unit.
+Blade-parry Aspect: Subtract 1 from
+hit rolls for combat attacks that target
+this unit.
+Destroyer Aspect: Ward rolls cannot be
+made for damage points inflicted by this
+unit’s combat attacks.
+Precision Aspect: This unit’s melee
+weapons have Anti-Hero (+1 Rend)
+while this unit is in combat with an
+enemy Hero.
+Infantry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 20 ---
+December 2024
+MOVE
+10"
+T H S • OSSIARCH BONEREAPERS WARSCROLL •
+A L 7 3+A V LIEGE-KAVALOS
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Commander’s Blade 5 3+ 3+ 1 2
+Crit (2 Hits)
+Kavalos Steed’s Hooves,
+4 5+ 3+ - 1 Companion
+Teeth and Barbed Tails
+Passive Reaction: You declared a Fight ability
+SPEAR OF THE KAVALOI: A Liege- for this unit
+Kavalos on the charge can punch straight MASTER OF CAVALRY: A Liege-Kavalos
+through the enemy line. rides at the very tip of the cavalry
+spearhead, driving deep into the enemy’s
+Effect: When this unit uses a Charge vitals and smashing open a breach for
+ability, it can pass through models in their Deathriders to exploit.
+enemy Infantry units as if it had Fly.
+Effect: Pick a friendly Kavalos
+Deathriders unit that has not used a
+Any Charge Phase
+Fight ability this turn and is within this
+UNSTOPPABLE CHARGE: When
+unit’s combat range to be the target. The
+a Kavalos steed charges the foe, it can
+target can be picked to use a Fight ability
+use its size and weight to smash enemy
+immediately after the Fight ability used
+footsoldiers to the ground and crush them
+by this unit has been resolved.
+beneath its nadirite-shod hooves.
+Declare: If this unit charged this phase,
+pick an enemy Infantry unit that it
+passed across to be the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Hero, Cavalry, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 21 ---
+December 2024
+MOVE
+5"
+T H S • OSSIARCH BONEREAPERS WARSCROLL •
+A L12 4+A V MORTEK CRAWLER
+E E
+H
+5
+CONTROL
+RANGED WEAPONS RngAtk Hit WndRnd Dmg Ability
+Anti-Infantry (+1 Rend),
+Dread Catapult 24" 4 4+ 2+ 1 D3+2
+Crit (2 Hits)
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Attendants’ Crawler Tools 6 4+ 4+ - 1 Companion
+Any Shooting Phase
+DEATHLY BARRAGE: The grisly
+ammunition of a Mortek Crawler can
+leave even the most stoic souls staggering.
+Declare: Pick an enemy unit that was
+targeted by all of this unit’s shooting
+attacks this phase to be the target.
+Effect: Roll a dice. Add 1 to the roll if this
+unit is wholly within 12" of a friendly
+Mortisan Ossifector, and add 1 to the
+roll if any other friendly Mortek Crawler
+units picked that enemy unit to be the
+target of this ability this turn. On a 4+,
+the target has Strike-last for the rest
+of the turn.
+War Machine, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 22 ---
+December 2024
+MOVE
+10" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S KAVALOS
+L 3 4+A
+A V
+E E
+H DEATHRIDERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Kavalos Blades 3 3+ 4+ 1 1
+Crit (2 Hits)
+Kavalos Steed’s
+2 5+ 3+ - 1 Companion
+Hooves and Teeth
+Passive
+DEATHRIDER WEDGE: Kavalos
+Deathriders charge in an arrowhead
+formation that punches straight through
+the enemy line.
+Effect: When this unit uses a Charge
+ability, models in this unit can pass
+through models in enemy Infantry
+units as if this unit had Fly.
+Any Charge Phase
+UNSTOPPABLE CHARGE: When
+a Kavalos steed charges the foe, it can
+use its size and weight to smash enemy
+footsoldiers to the ground and crush them
+beneath its nadirite-shod hooves.
+Declare: If this unit charged this phase,
+pick an enemy Infantry unit that it
+passed across to be the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Cavalry, Champion, Standard Bearer (1/5), Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 23 ---
+December 2024
+MOVE
+6" • OSSIARCH BONEREAPERS WARSCROLL •
+H
+T S GOTHIZZAR
+L10 4+A
+A V
+E E
+H HARVESTER
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Death’s Head Maw 12" 4 4+ 4+ 1 1 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Soulcrusher Weapons 6 4+ 2+ 2 2 Crit (2 Hits)
+Ossified Hooves and Tail 4 4+ 3+ 1 2 -
+Once Per Turn (Army), Any Combat Phase End of Any Turn
+GRUESOME SURGERY: Gothizzar REPAIR CONSTRUCT: The Harvester
+Harvesters are capable of swiftly uses a portion of its morbid crop to restore
+disassembling their foes so that nearby the forms of fellow Ossiarchs.
+Mortek might be reconstituted from their
+Declare: Pick a friendly Ossiarch
+blood-smeared bones.
+Bonereapers unit wholly within 12" of
+Declare: Pick an enemy Infantry unit this unit to be the target.
+in combat with this unit to be the target.
+Effect: Return a number of slain models
+Effect: Roll a D3. On a 2+, inflict an to the target with a combined Health
+amount of mortal damage on the target characteristic equal to the number of
+equal to the roll. For each model slain by bone-tithe points this unit has. Then,
+this ability, you can return 1 slain model reset this unit’s bone-tithe points to 0.
+to a friendly Mortek Guard unit wholly
+within 12" of this unit.
+Keywords Rampage
+Passive
+BONE HARVEST: As a Gothizzar
+Harvester fights, it works to amass a grisly
+stockpile of bones.
+Effect: Each time an enemy model from a
+unit in combat with this unit is slain, give
+this unit 1 bone-tithe point. This unit can
+have a maximum of 6 bone-tithe points
+at once.
+Monster, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 24 ---
+December 2024
+MOVE
+10"
+H • OSSIARCH BONEREAPERS WARSCROLL •
+T S
+A L 6 3+A V MORGHAST ARCHAI
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Monster (+1 Rend),
+Spirit Weapons 3 3+ 2+ 2 3
+Crit (2 Hits)
+Passive Any Hero Phase
+EBON-WROUGHT ARMOUR: The DISCHARGE ARMOUR: The Morghast
+Morghast’s armour is threaded with spells releases the arcane energy in their armour
+that protect them against arcane assault. to overpower nearby magic users.
+Effect: This unit has Ward (3+) against Declare: If this unit has an arcane
+damage points inflicted by Spell charge token, pick a friendly Ossiarch
+abilities, Prayer abilities and abilities Bonereapers Wizard wholly within
+used by Manifestations. 12" of this unit to be the target.
+If you make a successful ward roll for this Effect: Remove this unit’s arcane charge
+unit, or if this unit destroys an enemy token,then add 1 to casting rolls for the
+Manifestation, give this unit an target for the rest of the turn.
+arcane charge token. This unit cannot
+have more than 1 arcane charge token
+at once.
+Infantry, Fly, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 25 ---
+December 2024
+MOVE
+10" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S MORGHAST
+L 6 4+A
+A V
+E E
+H HARBINGERS
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Monster (+1 Rend),
+Spirit Weapons 3 3+ 2+ 2 3
+Crit (2 Hits)
+Once Per Turn (Army), Reaction: You Passive
+declared a Relentless Discipline ability HARBINGERS OF DEATH: Morghast
+HERALDS OF NAGASH: Morghast Harbingers hurl themselves at the foe with
+Harbingers are direct embodiments unbridled ferocity.
+of Nagash’s will and as such require
+Effect: Add 1 to the number of dice rolled
+no commander to function with
+when making charge rolls for this unit, to
+deadly efficiency.
+a maximum of 3.
+Effect: This unit is affected by that
+Relentless Discipline ability as if it
+were wholly within range of the friendly
+Hero picked to use it.
+Infantry, Fly, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 26 ---
+December 2024
+MOVE
+8" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S NIGHTMARE
+L 7 5+A
+A V
+E E
+H PREDATOR
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Lacerating Claws 6 4+ 2+ 2 2 -
+End of Any Turn
+DEATH INCARNATE: Even when
+destroyed, the nightmare predator reforms
+to continue tormenting its enemies.
+Effect: If this Manifestation was
+destroyed or banished this turn and
+the unit that summoned it is on the
+battlefield, roll a dice. On a 4+, set up this
+Manifestation again, wholly within
+12" of the unit that summoned it and
+more than 9" from all enemy units.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 27 ---
+December 2024
+MOVE
+10" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S SOULSTEALER
+L 7 5+A
+A V
+E E
+H CARRION
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Spectral Claws and Beak 6 4+ 2+ 1 D3 -
+Passive
+AVIARCH SENTRY: This ethereal
+monstrosity invokes terror as it swoops
+over enemy battlelines, causing the foe’s
+resolve to waver.
+Effect: Subtract 5 from the control scores
+of enemy Infantry units while they are
+within 6" of this Manifestation.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 28 ---
+December 2024
+MOVE
+8" • OSSIARCH BONEREAPERS WARSCROLL •
+T H S BONE-TITHE
+L 7 5+A
+A V
+E E
+H SHRIEKER
+7+
+BANISHMENT
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Soul-rending Shriek 12" 4 3+ 4+ 1 D3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Soul-rending Shriek 4 3+ 4+ 1 D3 -
+Passive
+NO ESCAPE: There is no hope for
+the enemy when a Bone-tithe Shrieker
+is nearby.
+Effect: Subtract 1 from ward rolls for
+enemy units while they are within 12" of
+this Manifestation.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 29 ---
+December 2024
+MOVE
+-
+H • OSSIARCH BONEREAPERS WARSCROLL •
+L T 13 4+ S A BONE-TITHE NEXUS
+A V
+E E
+H
+-
+CONTROL
+The following universal terrain abilities
+apply to this terrain feature (Terrain, 1.2):
+Cover, Unstable
+Your Hero Phase
+DEADLY GAZE: The statue that towers
+above a Bone-tithe Nexus can unleash
+punishing beams of energy upon those
+who break an Ossiarch contract. Each
+of the statue’s four faces can deliver a
+different punishment.
+Declare: Pick a visible enemy unit within
+18" of this terrain feature to be the target.
+Effect: Roll a dice. On a 4+, pick 1 of the
+following effects to apply:
+Punishment of Agony: Subtract 1 from
+hit rolls for the target until the start of
+your next turn.
+Punishment of Ignorance: Subtract 1
+from casting rolls and/or chanting rolls
+for the target until the start of your
+next turn.
+Punishment of Lethargy: Halve the
+target’s Move characteristic until the start
+of your next turn.
+Punishment of Death: Inflict D3 mortal
+damage on the target.
+Faction Terrain
+KEYWORDS
+Death, Ossiarch Bonereapers
+
+--- Page 30 ---
+OSSIARCH BONEREAPERS
+TITHE-REAPER ECHELON
+Bone and soul are the twin foundations of the Ossiarch Empire. Ensuring a
+This Spearhead army consists constant stream of these supplies is thus essential. It is through the bone-
+of the following units: tithe that the Ossiarchs harvest physical remains – but this does not solve
+the issue of soul acquisition, which must be ripped from the living by force.
+GENERAL With typical relentless efficiency, the Ossiarchs seek to solve both these
+Mortisan Soulreaper conundrums at once, forming specialised Tithe-Reaper Echelons to punish
+recalcitrant subjects and secure a harvest of bone and soul.
+UNITS
+10 Mortek Guard Tithe-Reaper Echelons will allow the foe to break upon a line of
+10 Mortek Guard Mortek Guard, before deploying a second line to grind them down. Kavalos
+5 Kavalos Deathriders Deathriders circle around the flanks of the enemy host before committing to
+1 Gothizzar Harvester a trampling charge from an unexpected angle. The nightmarish Gothizzar
+Harvester has a far more straightforward purpose: this construct-beast wades
+into the fray with scythes and mauls swinging, its subsidiary limbs snatching
+up bloodied bones for processing. Tithe-Reaper Echelons are commanded by
+Mortisan Soulreapers. When the enemy has been pushed to breaking point,
+these mages will step into the fray themselves, acquiring a harvest of souls
+with their fell scythes.
+‘Let us be done with this, and swiftly. Lord Xornas requires
+seven new legions for the campaign. These ingrates will provide
+a beginning.’
+– Thakaros, Mortisan Soulreaper
+Army painter Nathan had to paint his Gothizzar Harvester twice, after his dog mangled the first! To capture the amber
+blades of the Ivory Host, he shaded them Skrag Brown, before picking out the cracks with Screaming Skull.
+
+--- Page 31 ---
+BATTLE TRAITS
+RESERVE CONTINGENT OSSIARCH COMMANDS
+The Ossiarch commanders will bolster their forces The Bonereapers display a formidable mastery of war,
+wherever battle is met. and in battle they act with a relentless precision.
+One of your Mortek Guard units is not set up during the Ossiarch Commands are abilities that can only be
+deployment phase. Instead, from the third battle round used by spending Ossiarch command points.
+onwards, it can use the following ability:
+At the start of the battle round, you receive 2 Ossiarch
+Your Movement Phase command points. Each Ossiarch Command costs
+CONTINGENT ARRIVAL: Marching in perfect 1 Ossiarch command point to use.
+unison, a reinforcing unit of Mortek Guard arrives.
+The same unit cannot use more than one Ossiarch
+Effect: Set up this unit anywhere on the battlefield Command in the same phase. At the end of the battle
+wholly within 3" of a battlefield edge and more than round, all remaining Ossiarch command points are lost.
+6" from all enemy units.
+Keywords Core
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Any Combat Phase Once Per Battle, Your Movement Phase
+IMPENETRABLE RANKS: If given the order, RE-FORM RANKS: A group of Bonereapers swiftly
+Ossiarch warriors will snap into an unyielding disengages from combat with flawless precision.
+defensive line.
+Declare: Pick a friendly Mortek Guard unit in
+Declare: Pick a friendly unit to use this ability. combat to use this ability.
+Effect: Until the end of the phase, add 1 to ward rolls Effect: That unit can use a Retreat ability this phase
+for that unit. without any mortal damage being inflicted on it.
+Keywords Ossiarch Command Keywords Ossiarch Command
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Your Hero Phase Your Movement Phase
+EMPOWER NADIRITE WEAPONS: A UNSTOPPABLE COMMANDER: This
+Soulreaper can call upon stolen life essence to bolster Soulreaper’s animus contains the essence of a brilliant
+nadirite weapons. commander that can still urge their troops to victory.
+Declare: Pick a visible friendly Mortek Guard unit Declare: Pick a friendly Mortek Guard unit wholly
+wholly within 12" of your general, then make a within 12" your general, then roll a dice.
+casting roll of 2D6.
+Effect: On a 2+, add 3" to that unit’s Move
+Effect: On a 5+, until the start of your next turn, characteristic this phase.
+add 1 to the Rend characteristic of that unit’s
+melee weapons.
+Passive Passive
+MURDEROUS DRIVE: This Soulreaper is MARROWPACT: The glyphs borne to war by your
+animated by especially vicious and warlike spirits. general bind those who view them in arcane pacts.
+Effect: Your general’s Soulreaper Scythe has Effect: Each time your general uses a Fight ability,
+Crit (2 Hits). after all of their attacks have been resolved, Heal (X)
+your general where X is the number of damage
+points allocated by those attacks.
+
+--- Page 32 ---
+BATTLE TRAITS
+RESERVE CONTINGENT OSSIARCH COMMANDS
+The Ossiarch commanders will bolster their forces The Bonereapers display a formidable mastery of war,
+wherever battle is met. and in battle they act with a relentless precision.
+One of your Mortek Guard units is not set up during the Ossiarch Commands are abilities that can only be
+deployment phase. Instead, from the third battle round used by spending Ossiarch command points.
+onwards, it can use the following ability:
+At the start of the battle round, you receive 2 Ossiarch
+Your Movement Phase command points. Each Ossiarch Command costs
+CONTINGENT ARRIVAL: Marching in perfect 1 Ossiarch command point to use.
+unison, a reinforcing unit of Mortek Guard arrives.
+The same unit cannot use more than one Ossiarch
+Effect: Set up this unit anywhere on the battlefield Command in the same phase. At the end of the battle
+wholly within 3" of a battlefield edge and more than round, all remaining Ossiarch command points are lost.
+6" from all enemy units.
+Keywords Core
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Any Combat Phase Once Per Battle, Your Movement Phase
+IMPENETRABLE RANKS: If given the order, RE-FORM RANKS: A group of Bonereapers swiftly
+Ossiarch warriors will snap into an unyielding disengages from combat with flawless precision.
+defensive line.
+Declare: Pick a friendly Mortek Guard unit in
+Declare: Pick a friendly unit to use this ability. combat to use this ability.
+Effect: Until the end of the phase, add 1 to ward rolls Effect: That unit can use a Retreat ability this phase
+for that unit. without any mortal damage being inflicted on it.
+Keywords Ossiarch Command Keywords Ossiarch Command
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Your Hero Phase Your Movement Phase
+EMPOWER NADIRITE WEAPONS: A UNSTOPPABLE COMMANDER: This
+Soulreaper can call upon stolen life essence to bolster Soulreaper’s animus contains the essence of a brilliant
+nadirite weapons. commander that can still urge their troops to victory.
+Declare: Pick a visible friendly Mortek Guard unit Declare: Pick a friendly Mortek Guard unit wholly
+wholly within 12" of your general, then make a within 12" your general, then roll a dice.
+casting roll of 2D6.
+Effect: On a 2+, add 3" to that unit’s Move
+Effect: On a 5+, until the start of your next turn, characteristic this phase.
+add 1 to the Rend characteristic of that unit’s
+melee weapons.
+Passive Passive
+MURDEROUS DRIVE: This Soulreaper is MARROWPACT: The glyphs borne to war by your
+animated by especially vicious and warlike spirits. general bind those who view them in arcane pacts.
+Effect: Your general’s Soulreaper Scythe has Effect: Each time your general uses a Fight ability,
+Crit (2 Hits). after all of their attacks have been resolved, Heal (X)
+your general where X is the number of damage
+points allocated by those attacks.
+
+--- Page 33 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+MORTISAN SOULREAPER
+5 4+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Soulreaper Scythe 3 4+ 3+ 2 2 -
+Soulreapers are the most warlike Your Hero Phase Your Movement Phase
+and destructive Ossiarch mages. DRAIN VITALITY: This cursed REKNIT CONSTRUCT: This Mortisan
+Though they possess the ability
+to reknit fellow constructs, spell saps a foe’s strength, leaving has the power to remake and renew that
+alone of the Mortisan Order they them weak and vulnerable. which has been destroyed.
+do not create in any meaningful
+sense – their only task is to rip Declare: Pick a visible enemy unit Declare: Pick a friendly unit wholly
+the spirits of the living from within 18" of this unit to be the within 12" of this unit and that is not in
+their bodies with their scythes target, then make a casting roll combat to be the target.
+and store them for later use in of 2D6.
+the creation of new construct Effect:Heal (D3) the target. If the target
+legions. Soulreapers are seen Effect: On a 6+, subtract 1 from unit is not damaged, you can instead
+as grim and sinister even by hit rolls for attacks made by the return a number of slain models to it that
+other Ossiarchs; created without target unit until the start of your have a combined Health characteristic of
+mouths, the better to avoid next turn. D3 or less.
+stolen souls channelling screams
+through them, they fight in an Keywords Ossiarch Command
+eerie silence, surrounded by
+flickering gheist-energies.
+KEYWORDS Hero, Wizard, Infantry, Ward (6+)
+• SPEARHEAD WARSCROLL •
+4"
+MORTEK GUARD
+1 4+
+1
+Mortek Guard are the backbone
+of the Ossiarch legions, crafted Any Combat Phase
+for resilience and obedience.
+These are no mindless NADIRITE ASSAULT: The weapons of the
+revenants, in the manner of Ossiarch legions can siphon souls with a single
+a reanimated skeleton; their cut, stealing the foe’s life force.
+soultrap gems contain the stolen
+essence of dutiful warriors Effect: Until the end of the phase, this unit’s
+and servants, and they are melee weapons have Crit (2 Hits).
+capable of performing intricate
+manoeuvres with precision and Keywords Ossiarch Command
+skill. The weapons of the Mortek
+Guard are forged from nadirite,
+a soul-sucking material that is
+said to be crafted in proximity
+to the abominable Shyish Nadir.
+With such tools of war, the
+Mortek diligently cut a path
+through anything their masters
+mark for destruction.
+KEYWORDS Infantry, Ward (6+)
+
+--- Page 34 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+MORTISAN SOULREAPER
+5 4+
+2
+Soulreapers are the most warlike Your Hero Phase Your Movement Phase
+and destructive Ossiarch mages. DRAIN VITALITY: This cursed REKNIT CONSTRUCT: This Mortisan
+Though they possess the ability
+to reknit fellow constructs, spell saps a foe’s strength, leaving has the power to remake and renew that
+alone of the Mortisan Order they them weak and vulnerable. which has been destroyed.
+do not create in any meaningful
+sense – their only task is to rip Declare: Pick a visible enemy unit Declare: Pick a friendly unit wholly
+the spirits of the living from within 18" of this unit to be the within 12" of this unit and that is not in
+their bodies with their scythes target, then make a casting roll combat to be the target.
+and store them for later use in of 2D6.
+the creation of new construct Effect:Heal (D3) the target. If the target
+legions. Soulreapers are seen Effect: On a 6+, subtract 1 from unit is not damaged, you can instead
+as grim and sinister even by hit rolls for attacks made by the return a number of slain models to it that
+other Ossiarchs; created without target unit until the start of your have a combined Health characteristic of
+mouths, the better to avoid next turn. D3 or less.
+stolen souls channelling screams
+through them, they fight in an Keywords Ossiarch Command
+eerie silence, surrounded by
+flickering gheist-energies.
+KEYWORDS Hero, Wizard, Infantry, Ward (6+)
+• SPEARHEAD WARSCROLL •
+4"
+MORTEK GUARD
+1 4+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Anti-charge Nadirite Spear 2 3+ 4+ - 1
+(+1 Rend)
+Mortek Guard are the backbone
+of the Ossiarch legions, crafted Any Combat Phase
+for resilience and obedience.
+These are no mindless NADIRITE ASSAULT: The weapons of the
+revenants, in the manner of Ossiarch legions can siphon souls with a single
+a reanimated skeleton; their cut, stealing the foe’s life force.
+soultrap gems contain the stolen
+essence of dutiful warriors Effect: Until the end of the phase, this unit’s
+and servants, and they are melee weapons have Crit (2 Hits).
+capable of performing intricate
+manoeuvres with precision and Keywords Ossiarch Command
+skill. The weapons of the Mortek
+Guard are forged from nadirite,
+a soul-sucking material that is
+said to be crafted in proximity
+to the abominable Shyish Nadir.
+With such tools of war, the
+Mortek diligently cut a path
+through anything their masters
+mark for destruction.
+KEYWORDS Infantry, Ward (6+)
+
+--- Page 35 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+10"
+KAVALOS DEATHRIDERS
+3 4+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Nadirite Spear 3 3+ 4+ 1 1 Charge (+1 Damage)
+Kavalos Steed’s Hooves and Teeth 2 5+ 3+ - 1 Companion
+Deathriders are the feared
+cavalry hosts of the Ossiarch Your Charge Phase
+Empire. Infamy cloaks these
+warriors; any who have fought DEATHRIDER WEDGE: Kavalos Deathriders can
+against the Ossiarchs have heard charge in a deadly arrowhead formation that bursts
+of their devastating charges, for through the enemy’s defences.
+their arrowhead formations and
+thunderous charges can shatter Effect: The following effects apply this phase:
+any battleline. The steeds of the
+Deathriders are not lowly equine •Models in this unit can pass across enemy Infantry
+remains but constructs in their models as if this unit had Fly.
+own right, often crafted from
+the bodies and soultrap gems of •After this unit has charged, you can pick an enemy
+failed Ossiarch commanders. unit that it passed across and roll a dice. On a 2+,
+Existence as a Kavalos steed is a inflict D3 mortal damage on that enemy unit.
+humiliating thing and renders
+these creatures just as eager to Keywords Ossiarch Command
+vent cold fury upon the living as
+their riders.
+KEYWORDS Cavalry, Ward (6+)
+• SPEARHEAD WARSCROLL •
+6"
+GOTHIZZAR HARVESTER
+10 4+
+5
+Gothizzar Harvesters are
+perhaps the most horrific of
+all Ossiarch constructs. From
+their maws leap bolts of killing
+baleflame, and their nadirite Passive
+weapons are capable of inflicting BONE HARVEST: As a Gothizzar Harvester fights, it
+horrendous carnage. Yet a works to amass a grisly stockpile of bones.
+Gothizzar Harvester’s true value
+to the Ossiarchs is the great Effect: Each time an enemy model in combat with this
+hollow on its back and the bones unit is slain, this unit gains 1 bone-tithe point. It can
+contained therein; as the thing
+never have more than 6 bone-tithe points.
+marches across the battlefield,
+it snatches up the remains of
+the dead, flensing the worthy End of Any Turn
+and storing them for delivery
+to a necropolis. In extremis, REPAIR CONSTRUCT: The Harvester uses a portion
+a Harvester can even perform of its morbid crop to restore the forms of fellow Ossiarchs.
+field repairs on fellow Ossiarchs,
+making it a formidable anchor Declare: Pick a friendly Mortek Guard unit within 6" of
+in a legion’s battleline. this unit to be the target. Then, roll a dice for each bone-
+tithe point this unit has.
+Effect: For each 4+, you can return 1 slain model to the
+target unit.Then, reset this unit’s bone-tithe points to 0.
+KEYWORDS Monster, Ward (6+)
+
+--- Page 36 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+10"
+KAVALOS DEATHRIDERS
+3 4+
+1
+Deathriders are the feared
+cavalry hosts of the Ossiarch Your Charge Phase
+Empire. Infamy cloaks these
+warriors; any who have fought DEATHRIDER WEDGE: Kavalos Deathriders can
+against the Ossiarchs have heard charge in a deadly arrowhead formation that bursts
+of their devastating charges, for through the enemy’s defences.
+their arrowhead formations and
+thunderous charges can shatter Effect: The following effects apply this phase:
+any battleline. The steeds of the
+Deathriders are not lowly equine •Models in this unit can pass across enemy Infantry
+remains but constructs in their models as if this unit had Fly.
+own right, often crafted from
+the bodies and soultrap gems of •After this unit has charged, you can pick an enemy
+failed Ossiarch commanders. unit that it passed across and roll a dice. On a 2+,
+Existence as a Kavalos steed is a inflict D3 mortal damage on that enemy unit.
+humiliating thing and renders
+these creatures just as eager to Keywords Ossiarch Command
+vent cold fury upon the living as
+their riders.
+KEYWORDS Cavalry, Ward (6+)
+• SPEARHEAD WARSCROLL •
+6"
+GOTHIZZAR HARVESTER
+10 4+
+5 RANGED WEAPONS Range AAttttaacckkss Hit Wound Rend Damage Ability
+Death’s Head Maw 12" 44 4+ 4+ 1 1 -
+MELEE WEAPONS AAttttaacckkss Hit Wound Rend Damage Ability
+Gothizzar Harvesters are Soulcrusher Bludgeons 66 4+ 2+ 2 2 -
+perhaps the most horrific of
+Ossified Hooves and Tail 44 4+ 3+ 1 2 -
+all Ossiarch constructs. From
+their maws leap bolts of killing
+baleflame, and their nadirite Passive
+weapons are capable of inflicting BONE HARVEST: As a Gothizzar Harvester fights, it
+horrendous carnage. Yet a works to amass a grisly stockpile of bones.
+Gothizzar Harvester’s true value
+to the Ossiarchs is the great Effect: Each time an enemy model in combat with this
+hollow on its back and the bones unit is slain, this unit gains 1 bone-tithe point. It can
+contained therein; as the thing
+never have more than 6 bone-tithe points.
+marches across the battlefield,
+it snatches up the remains of
+the dead, flensing the worthy End of Any Turn
+and storing them for delivery
+to a necropolis. In extremis, REPAIR CONSTRUCT: The Harvester uses a portion
+a Harvester can even perform of its morbid crop to restore the forms of fellow Ossiarchs.
+field repairs on fellow Ossiarchs,
+making it a formidable anchor Declare: Pick a friendly Mortek Guard unit within 6" of
+in a legion’s battleline. this unit to be the target. Then, roll a dice for each bone-
+tithe point this unit has.
+Effect: For each 4+, you can return 1 slain model to the
+target unit.Then, reset this unit’s bone-tithe points to 0.
+KEYWORDS Monster, Ward (6+)
