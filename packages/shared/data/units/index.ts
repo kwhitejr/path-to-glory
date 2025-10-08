@@ -1,6 +1,8 @@
 import { UnitWarscroll } from '../../src/types/unit';
 import { ossiarchBonereapersUnits } from './ossiarch-bonereapers';
 import { fleshEaterCourtsUnits } from './flesh-eater-courts';
+import { slavesToDarknessUnits } from './slaves-to-darkness';
+import { stormcastEternalsUnits } from './stormcast-eternals';
 
 /**
  * All unit warscrolls organized by faction
@@ -8,6 +10,8 @@ import { fleshEaterCourtsUnits } from './flesh-eater-courts';
 export const allUnits: Record<string, Record<string, UnitWarscroll>> = {
   'ossiarch-bonereapers': ossiarchBonereapersUnits,
   'flesh-eater-courts': fleshEaterCourtsUnits,
+  'slaves-to-darkness': slavesToDarknessUnits,
+  'stormcast-eternals': stormcastEternalsUnits,
 };
 
 /**
@@ -31,4 +35,4 @@ export function getAllUnits(): UnitWarscroll[] {
   return Object.values(allUnits).flatMap(factionUnits => Object.values(factionUnits));
 }
 
-export { ossiarchBonereapersUnits, fleshEaterCourtsUnits };
+export { ossiarchBonereapersUnits, fleshEaterCourtsUnits, slavesToDarknessUnits, stormcastEternalsUnits };

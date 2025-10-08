@@ -36,6 +36,16 @@ export const FACTIONS: Record<string, FactionData> = {
     sourceFile: 'Faction Pack - Slaves to Darkness.pdf',
     extractedAt: '2025-10-07T03:47:31.961Z',
   },
+  'stormcast-eternals': {
+    id: 'stormcast-eternals',
+    name: 'Stormcast Eternals',
+    grandAlliance: 'ORDER',
+    startingGlory: 0,
+    startingRenown: 1,
+    description: 'Path to Glory faction pack for Stormcast Eternals',
+    sourceFile: 'Faction Pack - Stormcast Eternals.pdf',
+    extractedAt: '2025-10-07T03:47:31.961Z',
+  },
 };
 
 /**

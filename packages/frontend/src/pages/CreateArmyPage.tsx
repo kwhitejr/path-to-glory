@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { getAllFactions } from '@path-to-glory/shared';
+import { getAllFactions, getUnitsByFaction, type UnitWarscroll } from '@path-to-glory/shared';
+import UnitSelector, { SelectedUnit } from '../components/UnitSelector';
 
 export default function CreateArmyPage() {
   const navigate = useNavigate();
@@ -13,14 +14,24 @@ export default function CreateArmyPage() {
     background: '',
   });
 
+  const [selectedUnits, setSelectedUnits] = useState<SelectedUnit[]>([]);
+
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     // TODO: GraphQL mutation to create army
     console.log('Creating army:', formData);
+    console.log('With units:', selectedUnits);
     navigate('/armies');
   };
 
   const selectedFaction = factions.find((f) => f.id === formData.factionId);
+  const availableUnits: Record<string, UnitWarscroll> = formData.factionId ? getUnitsByFaction(formData.factionId) : {};
+
+  const handleFactionChange = (factionId: string) => {
+    setFormData({ ...formData, factionId });
+    // Clear units when faction changes
+    setSelectedUnits([]);
+  };
 
   return (
     <div className="max-w-2xl mx-auto">
@@ -53,7 +64,7 @@ export default function CreateArmyPage() {
             required
             className="input"
             value={formData.factionId}
-            onChange={(e) => setFormData({ ...formData, factionId: e.target.value })}
+            onChange={(e) => handleFactionChange(e.target.value)}
           >
             <option value="">Select a faction...</option>
             {factions.map((faction: { id: string; name: string; grandAlliance: string }) => (
@@ -96,6 +107,17 @@ export default function CreateArmyPage() {
             placeholder="Tell the story of your warband..."
           />
         </div>
+
+        {/* Unit Selection */}
+        {formData.factionId && (
+          <div className="card bg-white border border-gray-300">
+            <UnitSelector
+              availableUnits={availableUnits}
+              selectedUnits={selectedUnits}
+              onUnitsChange={setSelectedUnits}
+            />
+          </div>
+        )}
 
         {/* Starting Stats Info */}
         {selectedFaction && (

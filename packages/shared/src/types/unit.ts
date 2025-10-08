@@ -12,7 +12,7 @@ export const WeaponSchema = z.object({
   wound: z.string(), // e.g., "3+"
   rend: z.union([z.number(), z.string()]), // e.g., 2, "-"
   damage: z.union([z.number(), z.string()]), // e.g., "D6", 3
-  ability: z.string().optional(), // e.g., "Crit (2 Hits)", "Companion"
+  ability: z.string().nullable().optional(), // e.g., "Crit (2 Hits)", "Companion", or null
 });
 
 export type Weapon = z.infer<typeof WeaponSchema>;
@@ -47,10 +47,11 @@ export const AbilitySchema = z.object({
 export type Ability = z.infer<typeof AbilitySchema>;
 
 export const UnitCharacteristicsSchema = z.object({
-  move: z.string(), // e.g., "10\""
+  move: z.string().nullable(), // e.g., "10\"", "-" for stationary units, or null
   health: z.number(),
-  save: z.string(), // e.g., "3+"
-  control: z.number(),
+  save: z.string().nullable(), // e.g., "3+", or null for some units
+  control: z.number().optional(), // Normal units have control
+  banishment: z.string().optional(), // Manifestations/Endless Spells have banishment instead
 });
 
 export type UnitCharacteristics = z.infer<typeof UnitCharacteristicsSchema>;
@@ -71,9 +72,9 @@ export const UnitWarscrollSchema = z.object({
   // Core characteristics
   characteristics: UnitCharacteristicsSchema,
 
-  // Weapons
+  // Weapons (optional for terrain, manifestations without weapons)
   rangedWeapons: z.array(WeaponSchema).optional(),
-  meleeWeapons: z.array(WeaponSchema),
+  meleeWeapons: z.array(WeaponSchema).optional(),
 
   // Abilities
   abilities: z.array(AbilitySchema),

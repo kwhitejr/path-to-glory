@@ -1,7 +1,6 @@
 import { UnitWarscroll } from '../../../src/types/unit';
 
 // Named Heroes
-import nagash from './nagash.json';
 import ushoran from './ushoran.json';
 import grandJusticeGormayne from './grand-justice-gormayne.json';
 
@@ -43,7 +42,6 @@ import chaliceOfUshoran from './chalice-of-ushoran.json';
 
 export const fleshEaterCourtsUnits: Record<string, UnitWarscroll> = {
   // Named Heroes
-  'nagash': nagash as UnitWarscroll,
   'ushoran': ushoran as UnitWarscroll,
   'grand-justice-gormayne': grandJusticeGormayne as UnitWarscroll,
 
