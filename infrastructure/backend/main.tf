@@ -302,10 +302,10 @@ resource "aws_apigatewayv2_domain_name" "main" {
 }
 
 resource "aws_apigatewayv2_api_mapping" "main" {
-  api_id          = aws_apigatewayv2_api.main.id
-  domain_name     = aws_apigatewayv2_domain_name.main.id
-  stage           = aws_apigatewayv2_stage.main.id
-  api_mapping_key = "graphql"
+  api_id      = aws_apigatewayv2_api.main.id
+  domain_name = aws_apigatewayv2_domain_name.main.id
+  stage       = aws_apigatewayv2_stage.main.id
+  # No api_mapping_key means map to root path
 }
 
 resource "aws_route53_record" "api" {
