@@ -1,0 +1,57 @@
+import { PutCommand, GetCommand } from '@aws-sdk/lib-dynamodb';
+import { docClient, TABLE_NAME } from '../db/client.js';
+import { keys } from '../db/keys.js';
+import { UserItem } from '../db/models.js';
+
+export interface CreateUserParams {
+  cognitoId: string;
+  email: string;
+  name: string;
+  googleId: string;
+}
+
+export class UserRepository {
+  async create(params: CreateUserParams): Promise<UserItem> {
+    const now = new Date().toISOString();
+
+    const user: UserItem = {
+      ...keys.user(params.cognitoId),
+      type: 'USER',
+      cognitoId: params.cognitoId,
+      email: params.email,
+      name: params.name,
+      googleId: params.googleId,
+      createdAt: now,
+      updatedAt: now,
+    };
+
+    await docClient.send(
+      new PutCommand({
+        TableName: TABLE_NAME,
+        Item: user,
+        ConditionExpression: 'attribute_not_exists(PK)',
+      })
+    );
+
+    return user;
+  }
+
+  async findByCognitoId(cognitoId: string): Promise<UserItem | null> {
+    const result = await docClient.send(
+      new GetCommand({
+        TableName: TABLE_NAME,
+        Key: keys.user(cognitoId),
+      })
+    );
+
+    return (result.Item as UserItem) || null;
+  }
+
+  async upsert(params: CreateUserParams): Promise<UserItem> {
+    const existing = await this.findByCognitoId(params.cognitoId);
+    if (existing) {
+      return existing;
+    }
+    return this.create(params);
+  }
+}

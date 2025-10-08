@@ -1,0 +1,135 @@
+name: Deploy Backend
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'packages/backend/**'
+      - 'packages/shared/**'
+      - 'infrastructure/backend/**'
+      - '.github/workflows/deploy-backend.yml'
+  workflow_dispatch:
+
+env:
+  AWS_REGION: us-east-1
+  NODE_VERSION: '20'
+
+jobs:
+  deploy:
+    name: Build and Deploy Backend
+    runs-on: ubuntu-latest
+
+    permissions:
+      id-token: write
+      contents: read
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build shared package
+        run: npm run build -w @path-to-glory/shared
+
+      - name: Build backend
+        run: npm run build -w @path-to-glory/backend
+
+      - name: Package Lambda function
+        run: |
+          cd packages/backend/dist
+          zip -r ../lambda.zip .
+          # Include node_modules for production dependencies
+          cd ..
+          npm ci --production
+          cd node_modules
+          zip -r ../lambda.zip .
+          cd ..
+          echo "Lambda package size: $(du -h lambda.zip | cut -f1)"
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ env.AWS_REGION }}
+          role-to-assume: ${{ secrets.AWS_ROLE_TO_ASSUME }}
+          role-duration-seconds: 1200
+          role-skip-session-tagging: true
+
+      - name: Verify AWS credentials
+        run: |
+          echo "Testing AWS credentials and role assumption..."
+          aws sts get-caller-identity
+          echo "✓ AWS credentials verified"
+
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v3
+        with:
+          terraform_version: 1.6.0
+
+      - name: Terraform Init
+        run: |
+          cd infrastructure/backend
+          terraform init
+
+      - name: Terraform Plan
+        env:
+          TF_VAR_cognito_user_pool_id: ${{ secrets.COGNITO_USER_POOL_ID }}
+          TF_VAR_cognito_client_id: ${{ secrets.COGNITO_CLIENT_ID }}
+        run: |
+          cd infrastructure/backend
+          terraform plan -out=tfplan
+
+      - name: Terraform Apply
+        env:
+          TF_VAR_cognito_user_pool_id: ${{ secrets.COGNITO_USER_POOL_ID }}
+          TF_VAR_cognito_client_id: ${{ secrets.COGNITO_CLIENT_ID }}
+        run: |
+          cd infrastructure/backend
+          terraform apply -auto-approve tfplan
+
+      - name: Get GraphQL URL
+        id: outputs
+        run: |
+          cd infrastructure/backend
+          GRAPHQL_URL=$(terraform output -raw graphql_url)
+          echo "graphql_url=$GRAPHQL_URL" >> $GITHUB_OUTPUT
+          echo "### 🚀 Deployment Successful!" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**GraphQL Endpoint:** $GRAPHQL_URL" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Test with:" >> $GITHUB_STEP_SUMMARY
+          echo '```bash' >> $GITHUB_STEP_SUMMARY
+          echo "curl -X POST $GRAPHQL_URL \\" >> $GITHUB_STEP_SUMMARY
+          echo '  -H "Content-Type: application/json" \' >> $GITHUB_STEP_SUMMARY
+          echo '  -d '"'"'{"query":"{ factions { id name } }"}'"'"'' >> $GITHUB_STEP_SUMMARY
+          echo '```' >> $GITHUB_STEP_SUMMARY
+
+      - name: Smoke test
+        run: |
+          cd infrastructure/backend
+          GRAPHQL_URL=$(terraform output -raw graphql_url)
+          echo "Testing GraphQL endpoint: $GRAPHQL_URL"
+
+          RESPONSE=$(curl -s -X POST "$GRAPHQL_URL" \
+            -H "Content-Type: application/json" \
+            -d '{"query":"{ factions { id name } }"}')
+
+          echo "Response: $RESPONSE"
+
+          # Check if response contains data
+          if echo "$RESPONSE" | grep -q '"data"'; then
+            echo "✅ Smoke test passed!"
+          else
+            echo "❌ Smoke test failed!"
+            exit 1
+          fi

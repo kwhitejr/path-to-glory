@@ -23,7 +23,8 @@
       "Bash(python3:*)",
       "Bash(source:*)",
       "Bash(pip install:*)",
-      "Bash(python scripts/extract_pdf_text.py:*)"
+      "Bash(python scripts/extract_pdf_text.py:*)",
+      "mcp__sequential-thinking__sequentialthinking"
     ],
     "deny": [],
     "ask": []

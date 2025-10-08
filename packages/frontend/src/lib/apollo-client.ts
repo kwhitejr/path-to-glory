@@ -1,6 +1,7 @@
 import { ApolloClient, InMemoryCache, createHttpLink, from } from '@apollo/client';
 import { setContext } from '@apollo/client/link/context';
 import { onError } from '@apollo/client/link/error';
+import { fetchAuthSession } from 'aws-amplify/auth';
 
 // GraphQL API endpoint (will be configured via environment variables)
 const httpLink = createHttpLink({
@@ -8,16 +9,23 @@ const httpLink = createHttpLink({
 });
 
 // Auth link to add JWT token to requests
-const authLink = setContext((_, { headers }) => {
-  // Get token from Amplify Auth (will be implemented with Cognito)
-  const token = localStorage.getItem('authToken');
+const authLink = setContext(async (_, { headers }) => {
+  try {
+    // Get token from Amplify Auth session
+    const session = await fetchAuthSession();
+    const token = session.tokens?.idToken?.toString();
 
-  return {
-    headers: {
-      ...headers,
-      authorization: token ? `Bearer ${token}` : '',
-    },
-  };
+    return {
+      headers: {
+        ...headers,
+        authorization: token ? `Bearer ${token}` : '',
+      },
+    };
+  } catch (error) {
+    // No valid session, continue without auth header
+    console.warn('[Apollo] Failed to get auth session:', error);
+    return { headers };
+  }
 });
 
 // Error handling link

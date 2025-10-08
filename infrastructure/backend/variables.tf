@@ -1,0 +1,59 @@
+variable "aws_region" {
+  description = "AWS region for resources"
+  type        = string
+  default     = "us-east-1"
+}
+
+variable "domain_name" {
+  description = "Domain name for the API"
+  type        = string
+  default     = "ptg.kwhitejr.com"
+}
+
+variable "dynamodb_table_name" {
+  description = "DynamoDB table name"
+  type        = string
+  default     = "path-to-glory-prod"
+}
+
+variable "lambda_zip_path" {
+  description = "Path to Lambda deployment package"
+  type        = string
+  default     = "../../packages/backend/dist/lambda.zip"
+}
+
+variable "cognito_user_pool_id" {
+  description = "Cognito User Pool ID"
+  type        = string
+  sensitive   = true
+}
+
+variable "cognito_client_id" {
+  description = "Cognito App Client ID"
+  type        = string
+  sensitive   = true
+}
+
+variable "enable_mock_data" {
+  description = "Enable mock data seeding"
+  type        = string
+  default     = "false"
+}
+
+variable "cors_allowed_origins" {
+  description = "CORS allowed origins"
+  type        = list(string)
+  default     = ["https://ptg.kwhitejr.com", "http://localhost:5173"]
+}
+
+variable "billing_alert_threshold" {
+  description = "Billing alert threshold in USD"
+  type        = number
+  default     = 10
+}
+
+variable "alarm_email" {
+  description = "Email address for CloudWatch alarms (leave empty to disable)"
+  type        = string
+  default     = ""
+}

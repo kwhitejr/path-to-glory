@@ -1,0 +1,38 @@
+{
+  "name": "@path-to-glory/backend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "serverless offline start",
+    "deploy": "serverless deploy",
+    "test": "jest",
+    "type-check": "tsc --noEmit",
+    "seed": "tsx src/scripts/seed.ts"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.10.0",
+    "@as-integrations/aws-lambda": "^3.1.0",
+    "@aws-sdk/client-dynamodb": "^3.496.0",
+    "@aws-sdk/lib-dynamodb": "^3.496.0",
+    "aws-jwt-verify": "^4.0.1",
+    "graphql": "^16.8.1",
+    "graphql-tag": "^2.12.6",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@path-to-glory/shared": "*",
+    "@types/aws-lambda": "^8.10.133",
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.11.5",
+    "@types/uuid": "^9.0.7",
+    "jest": "^29.7.0",
+    "serverless": "^3.38.0",
+    "serverless-dynamodb": "^0.2.47",
+    "serverless-offline": "^13.3.3",
+    "ts-jest": "^29.1.1",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
