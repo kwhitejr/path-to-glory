@@ -47,26 +47,32 @@ jobs:
         run: |
           cd packages/backend
 
-          # Copy GraphQL schema to dist
-          mkdir -p dist
-          cp ../shared/src/schema/schema.graphql dist/schema.graphql
+          # Create a clean packaging directory
+          mkdir -p package
 
-          # Install production dependencies
-          npm ci --production
+          # Copy compiled code
+          cp -r dist/* package/
 
-          # Create deployment package
-          cd dist
+          # Copy GraphQL schema
+          cp ../shared/src/schema/schema.graphql package/schema.graphql
+
+          # Copy package.json and package-lock.json for production install
+          cp package.json package/
+          cp package-lock.json package/ 2>/dev/null || true
+
+          # Install production dependencies in the package directory
+          cd package
+          npm install --production --no-package-lock
+
+          # Create the deployment zip
           zip -r ../lambda.zip .
 
-          # Add node_modules to the zip
           cd ..
-          zip -r lambda.zip node_modules
-
           echo "Lambda package size: $(du -h lambda.zip | cut -f1)"
 
           # Verify contents
           echo "Package contents:"
-          unzip -l lambda.zip | head -25
+          unzip -l lambda.zip | head -30
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
