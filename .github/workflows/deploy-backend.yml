@@ -89,17 +89,11 @@ jobs:
           terraform init
 
       - name: Terraform Plan
-        env:
-          TF_VAR_cognito_user_pool_id: ${{ secrets.COGNITO_USER_POOL_ID }}
-          TF_VAR_cognito_client_id: ${{ secrets.COGNITO_CLIENT_ID }}
         run: |
           cd infrastructure/backend
           terraform plan -out=tfplan
 
       - name: Terraform Apply
-        env:
-          TF_VAR_cognito_user_pool_id: ${{ secrets.COGNITO_USER_POOL_ID }}
-          TF_VAR_cognito_client_id: ${{ secrets.COGNITO_CLIENT_ID }}
         run: |
           cd infrastructure/backend
           terraform apply -auto-approve tfplan

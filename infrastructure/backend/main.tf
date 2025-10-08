@@ -33,8 +33,13 @@ provider "aws" {
 # Data sources
 data "aws_caller_identity" "current" {}
 
+# Reference the Cognito User Pool created by frontend infrastructure
 data "aws_cognito_user_pools" "main" {
-  name = "path-to-glory-users"
+  name = "path-to-glory-user-pool"
+}
+
+data "aws_cognito_user_pool_clients" "main" {
+  user_pool_id = tolist(data.aws_cognito_user_pools.main.ids)[0]
 }
 
 # DynamoDB Table
@@ -160,8 +165,8 @@ resource "aws_lambda_function" "graphql" {
   environment {
     variables = {
       DYNAMODB_TABLE        = aws_dynamodb_table.main.name
-      COGNITO_USER_POOL_ID  = var.cognito_user_pool_id
-      COGNITO_CLIENT_ID     = var.cognito_client_id
+      COGNITO_USER_POOL_ID  = tolist(data.aws_cognito_user_pools.main.ids)[0]
+      COGNITO_CLIENT_ID     = tolist(data.aws_cognito_user_pool_clients.main.client_ids)[0]
       ENABLE_MOCK_DATA      = var.enable_mock_data
     }
   }
