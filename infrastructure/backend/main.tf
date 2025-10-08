@@ -249,12 +249,14 @@ resource "aws_lambda_permission" "api_gateway" {
 
 # Custom Domain (using existing ptg.kwhitejr.com)
 data "aws_route53_zone" "main" {
-  name = var.domain_name
+  name         = "kwhitejr.com"
+  private_zone = false
 }
 
 data "aws_acm_certificate" "main" {
-  domain   = var.domain_name
-  statuses = ["ISSUED"]
+  domain      = var.domain_name
+  statuses    = ["ISSUED"]
+  most_recent = true
 }
 
 resource "aws_apigatewayv2_domain_name" "main" {

@@ -19,7 +19,7 @@ variable "dynamodb_table_name" {
 variable "lambda_zip_path" {
   description = "Path to Lambda deployment package"
   type        = string
-  default     = "../../packages/backend/dist/lambda.zip"
+  default     = "../../packages/backend/lambda.zip"
 }
 
 variable "cognito_user_pool_id" {
