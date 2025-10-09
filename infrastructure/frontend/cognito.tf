@@ -15,32 +15,9 @@ resource "aws_cognito_user_pool" "main" {
     require_uppercase = true
   }
 
-  # User attributes
-  schema {
-    name                = "email"
-    attribute_data_type = "String"
-    required            = true
-    mutable             = false
-  }
-
-  schema {
-    name                = "name"
-    attribute_data_type = "String"
-    required            = true
-    mutable             = true
-  }
-
-  schema {
-    name                = "picture"
-    attribute_data_type = "String"
-    required            = false
-    mutable             = true
-  }
-
-  # Prevent Terraform from trying to modify schema after creation
-  lifecycle {
-    ignore_changes = [schema]
-  }
+  # Note: Standard attributes (email, name, picture) are automatically available
+  # Custom schema attributes should only be defined if you need additional fields
+  # The built-in attributes are already configured by alias_attributes and auto_verified_attributes above
 
   # Account recovery
   account_recovery_setting {
