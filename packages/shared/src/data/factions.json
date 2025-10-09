@@ -7,7 +7,41 @@
     "startingRenown": 1,
     "description": "Path to Glory faction pack for Flesh Eater Courts",
     "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-    "extractedAt": "2025-10-07T03:47:31.959Z"
+    "extractedAt": "2025-10-09T00:00:00.000Z",
+    "enhancements": [
+      {
+        "id": "charnel-vestments",
+        "name": "Charnel Vestments",
+        "description": "Strips of flayed skin and crudely stitched sinew form a gruesome parody of priestly robes. If this unit is not a Priest, it has Priest (1). If this unit is already a Priest, add 1 to chanting rolls for this unit."
+      },
+      {
+        "id": "the-grim-garland",
+        "name": "The Grim Garland",
+        "description": "Formed from the skulls of kings and emperors, this morbid wreath evokes fear in all who see it. Subtract 2 from the control scores of enemy units while they are within 12\" of this unit."
+      },
+      {
+        "id": "heart-of-the-gargant",
+        "name": "Heart of the Gargant",
+        "description": "This slab of muscle still beats with the strength of the gargant from which it was torn, and each bite of it grants colossal might. Once per battle in combat: Add 1 to the Attacks characteristic of this unit's melee weapons for the rest of the turn. This ability also affects Companion weapons."
+      }
+    ],
+    "pathAbilities": [
+      {
+        "id": "cruel-taskmaster",
+        "name": "Cruel Taskmaster",
+        "description": "The warriors under this courtier's command instantly obey their summons. Each time a friendly unit wholly within 12\" of this unit uses the 'Rally' command, you can make 3 additional rally rolls of D6."
+      },
+      {
+        "id": "stronger-in-madness",
+        "name": "Stronger in Madness",
+        "description": "The Boon of Ushoran has rendered this warrior's physical form near-indestructible. Add 2 to this unit's Health characteristic. In addition, while this unit has 6 noble deeds points, it has Ward (5+)."
+      },
+      {
+        "id": "savage-beyond-reason",
+        "name": "Savage Beyond Reason",
+        "description": "The fury of battle drives this general into an intense rage. While this unit has fewer than 6 noble deeds points, its melee weapons have Crit (2 Hits). While it has 6 noble deeds points, its melee weapons have Crit (Mortal)."
+      }
+    ]
   },
   "ossiarch-bonereapers": {
     "id": "ossiarch-bonereapers",
@@ -17,7 +51,41 @@
     "startingRenown": 1,
     "description": "Path to Glory faction pack for Ossiarch Bonereapers",
     "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
-    "extractedAt": "2025-10-07T03:47:31.961Z"
+    "extractedAt": "2025-10-09T00:00:00.000Z",
+    "enhancements": [
+      {
+        "id": "marrowpact",
+        "name": "Marrowpact",
+        "description": "The glyphs borne to war by this champion bind those who view them in arcane pacts that siphon the energy from their bone marrow. For the rest of the turn, if the unmodified hit roll for a combat attack that targets this unit is 1-2, inflict 1 mortal damage on the attacking unit after the Fight ability has been resolved."
+      },
+      {
+        "id": "lode-of-saturation",
+        "name": "Lode of Saturation",
+        "description": "This ingot of nadirite-iron alloy, when pressed against a bone construct, renders its structure nigh invulnerable. This unit has Ward (5+)."
+      },
+      {
+        "id": "helm-of-tyranny",
+        "name": "Helm of Tyranny",
+        "description": "This helm radiates the oppressive will of the wearer, filling nearby foes with supernatural dread. Subtract 2 from the control scores of enemy units while they are within 12\" of this unit."
+      }
+    ],
+    "pathAbilities": [
+      {
+        "id": "diversionary-tactics",
+        "name": "Diversionary Tactics",
+        "description": "Infused with especially cunning souls, this hero uses all manner of snares and ruses to hinder a foe's advance. Subtract 2 from charge rolls for enemy units while they are within 12\" of this unit."
+      },
+      {
+        "id": "aura-of-sterility",
+        "name": "Aura of Sterility",
+        "description": "Ending magics shroud this hero, sapping the force from arrows and other projectiles. Subtract 1 from wound rolls for shooting attacks that target friendly Ossiarch Bonereapers units while they are wholly within 12\" of this unit."
+      },
+      {
+        "id": "mighty-archaeossian",
+        "name": "Mighty Archaeossian",
+        "description": "The fossilised bone from which this hero is formed is supernaturally hard. If the unmodified hit roll for an attack that targets this unit is 1-3, the attack fails and the attack sequence ends."
+      }
+    ]
   },
   "slaves-to-darkness": {
     "id": "slaves-to-darkness",
@@ -27,6 +95,40 @@
     "startingRenown": 1,
     "description": "Path to Glory faction pack for Slaves to Darkness",
     "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-    "extractedAt": "2025-10-07T03:47:31.961Z"
+    "extractedAt": "2025-10-09T00:00:00.000Z",
+    "enhancements": [
+      {
+        "id": "infernal-puppet",
+        "name": "Infernal Puppet",
+        "description": "As it dances upon the aetheric winds, this eldritch marionette violently disrupts the spellcraft of enemy mages. Once per battle: Pick a visible enemy Wizard within 24\" of this unit. For the rest of the turn, each time the target is picked to use a Spell ability, inflict D3 mortal damage on the target as a reaction."
+      },
+      {
+        "id": "the-conquerors-crown",
+        "name": "The Conqueror's Crown",
+        "description": "This blasphemous diadem grants the bearer dominion over the minds of lesser mortals. Subtract 5 from the control scores of enemy Infantry units while they are in combat with this unit."
+      },
+      {
+        "id": "realmwarpers-twist-rune",
+        "name": "Realmwarper's Twist-Rune",
+        "description": "One who bears this cursed rune can bind warped landscapes to their will. Once per battle: Pick a terrain feature within 12\" of this unit. If the target does not have the 'Obscuring' terrain ability, it gains that ability until the start of your next turn. Then, roll a dice for each model within 1\" of the target. For each 5+, inflict 1 mortal damage on that model's unit."
+      }
+    ],
+    "pathAbilities": [
+      {
+        "id": "favoured-of-the-pantheon",
+        "name": "Favoured of the Pantheon",
+        "description": "The gods watch this warlord's deeds particularly closely. This unit can use the 'Eye of the Gods' ability as if it were the end of the turn and it had destroyed an enemy unit this turn."
+      },
+      {
+        "id": "radiance-of-dark-glory",
+        "name": "Radiance of Dark Glory",
+        "description": "In the presence of this champion, the mutative energies of Chaos can seal shut even the most grievous of wounds. Pick each damaged friendly unit wholly within 12\" of this unit. Roll a dice for each. On a 3+, Heal (1) the target. Heal (3) instead if it is a Monster."
+      },
+      {
+        "id": "deathmonger",
+        "name": "Deathmonger",
+        "description": "Feared across the realms, this hero leaves naught in their wake but a trail of sun-bleached bones. Once per battle: This unit can use 2 Fight abilities this phase. After the first is used, however, this unit has Strike-last for the rest of the turn."
+      }
+    ]
   }
 }

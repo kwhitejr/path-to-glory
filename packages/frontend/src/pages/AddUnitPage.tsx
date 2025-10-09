@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
-import { getUnitsByFaction, type UnitWarscroll } from '@path-to-glory/shared';
+import { getUnitsByFaction, getFactionById, type UnitWarscroll } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
 
 const RANKS = ['Regular', 'Veteran', 'Elite'];
@@ -20,12 +20,9 @@ export default function AddUnitPage() {
     rank: 'Regular',
     renown: 0,
     reinforced: false,
-    enhancements: [] as string[],
-    pathAbilities: [] as string[],
+    enhancement: '',
+    pathAbility: '',
   });
-
-  const [enhancementInput, setEnhancementInput] = useState('');
-  const [pathAbilityInput, setPathAbilityInput] = useState('');
 
   useEffect(() => {
     // TODO: Replace with GraphQL query when backend is ready
@@ -75,8 +72,8 @@ export default function AddUnitPage() {
       rank: formData.rank,
       renown: formData.renown,
       reinforced: formData.reinforced,
-      enhancements: formData.enhancements.filter(Boolean),
-      pathAbilities: formData.pathAbilities.filter(Boolean),
+      enhancements: formData.enhancement ? [formData.enhancement] : [],
+      pathAbilities: formData.pathAbility ? [formData.pathAbility] : [],
     };
 
     // TODO: Replace with GraphQL mutation when backend is ready
@@ -98,39 +95,6 @@ export default function AddUnitPage() {
     navigate(`/armies/${armyId}`);
   };
 
-  const addEnhancement = () => {
-    if (enhancementInput.trim()) {
-      setFormData({
-        ...formData,
-        enhancements: [...formData.enhancements, enhancementInput.trim()],
-      });
-      setEnhancementInput('');
-    }
-  };
-
-  const removeEnhancement = (index: number) => {
-    setFormData({
-      ...formData,
-      enhancements: formData.enhancements.filter((_, i) => i !== index),
-    });
-  };
-
-  const addPathAbility = () => {
-    if (pathAbilityInput.trim()) {
-      setFormData({
-        ...formData,
-        pathAbilities: [...formData.pathAbilities, pathAbilityInput.trim()],
-      });
-      setPathAbilityInput('');
-    }
-  };
-
-  const removePathAbility = (index: number) => {
-    setFormData({
-      ...formData,
-      pathAbilities: formData.pathAbilities.filter((_, i) => i !== index),
-    });
-  };
 
   if (loading || authLoading) {
     return (
@@ -266,79 +230,53 @@ export default function AddUnitPage() {
           </label>
         </div>
 
-        {/* Enhancements */}
+        {/* Enhancement */}
         <div>
-          <label className="label">Enhancements</label>
-          <div className="flex gap-2 mb-2">
-            <input
-              type="text"
-              className="input flex-1"
-              value={enhancementInput}
-              onChange={(e) => setEnhancementInput(e.target.value)}
-              placeholder="Enter enhancement name"
-              onKeyDown={(e) => e.key === 'Enter' && (e.preventDefault(), addEnhancement())}
-            />
-            <button
-              type="button"
-              onClick={addEnhancement}
-              className="btn-secondary"
-            >
-              Add
-            </button>
-          </div>
-          {formData.enhancements.length > 0 && (
-            <ul className="space-y-2">
-              {formData.enhancements.map((enhancement, index) => (
-                <li key={index} className="flex items-center justify-between bg-gray-50 p-2 rounded">
-                  <span className="text-sm">• {enhancement}</span>
-                  <button
-                    type="button"
-                    onClick={() => removeEnhancement(index)}
-                    className="text-red-600 hover:text-red-800 text-sm"
-                  >
-                    Remove
-                  </button>
-                </li>
-              ))}
-            </ul>
+          <label htmlFor="enhancement" className="label">
+            Enhancement (Artefact of Power)
+          </label>
+          <select
+            id="enhancement"
+            className="input"
+            value={formData.enhancement}
+            onChange={(e) => setFormData({ ...formData, enhancement: e.target.value })}
+          >
+            <option value="">None</option>
+            {army && getFactionById(army.factionId)?.enhancements?.map((enh) => (
+              <option key={enh.id} value={enh.name}>
+                {enh.name}
+              </option>
+            ))}
+          </select>
+          {formData.enhancement && army && (
+            <p className="mt-2 text-sm text-gray-600">
+              {getFactionById(army.factionId)?.enhancements?.find(e => e.name === formData.enhancement)?.description}
+            </p>
           )}
         </div>
 
-        {/* Path Abilities */}
+        {/* Path Ability */}
         <div>
-          <label className="label">Path Abilities</label>
-          <div className="flex gap-2 mb-2">
-            <input
-              type="text"
-              className="input flex-1"
-              value={pathAbilityInput}
-              onChange={(e) => setPathAbilityInput(e.target.value)}
-              placeholder="Enter path ability name"
-              onKeyDown={(e) => e.key === 'Enter' && (e.preventDefault(), addPathAbility())}
-            />
-            <button
-              type="button"
-              onClick={addPathAbility}
-              className="btn-secondary"
-            >
-              Add
-            </button>
-          </div>
-          {formData.pathAbilities.length > 0 && (
-            <ul className="space-y-2">
-              {formData.pathAbilities.map((ability, index) => (
-                <li key={index} className="flex items-center justify-between bg-gray-50 p-2 rounded">
-                  <span className="text-sm">• {ability}</span>
-                  <button
-                    type="button"
-                    onClick={() => removePathAbility(index)}
-                    className="text-red-600 hover:text-red-800 text-sm"
-                  >
-                    Remove
-                  </button>
-                </li>
-              ))}
-            </ul>
+          <label htmlFor="pathAbility" className="label">
+            Path Ability (Heroic Trait)
+          </label>
+          <select
+            id="pathAbility"
+            className="input"
+            value={formData.pathAbility}
+            onChange={(e) => setFormData({ ...formData, pathAbility: e.target.value })}
+          >
+            <option value="">None</option>
+            {army && getFactionById(army.factionId)?.pathAbilities?.map((ability) => (
+              <option key={ability.id} value={ability.name}>
+                {ability.name}
+              </option>
+            ))}
+          </select>
+          {formData.pathAbility && army && (
+            <p className="mt-2 text-sm text-gray-600">
+              {getFactionById(army.factionId)?.pathAbilities?.find(a => a.name === formData.pathAbility)?.description}
+            </p>
           )}
         </div>
 
