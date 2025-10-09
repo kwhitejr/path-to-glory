@@ -167,9 +167,9 @@ export default function ArmyDetailPage() {
               </div>
 
               {/* Enhancements & Abilities */}
-              {(unit.enhancements.length > 0 || unit.pathAbilities.length > 0) && (
+              {((unit.enhancements && unit.enhancements.length > 0) || (unit.pathAbilities && unit.pathAbilities.length > 0)) && (
                 <div className="grid md:grid-cols-2 gap-3 text-sm">
-                  {unit.enhancements.length > 0 && (
+                  {unit.enhancements && unit.enhancements.length > 0 && (
                     <div>
                       <span className="text-gray-500 block mb-1">Enhancements:</span>
                       <ul className="space-y-1">
@@ -181,7 +181,7 @@ export default function ArmyDetailPage() {
                       </ul>
                     </div>
                   )}
-                  {unit.pathAbilities.length > 0 && (
+                  {unit.pathAbilities && unit.pathAbilities.length > 0 && (
                     <div>
                       <span className="text-gray-500 block mb-1">Path Abilities:</span>
                       <ul className="space-y-1">
