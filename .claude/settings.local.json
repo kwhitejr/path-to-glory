@@ -30,7 +30,8 @@
       "Bash(npm run bundle:*)",
       "Bash(curl:*)",
       "Bash(gh workflow:*)",
-      "Read(//Users/kwhitejr/Desktop/**)"
+      "Read(//Users/kwhitejr/Desktop/**)",
+      "Read(//Users/kwhitejr/Downloads/**)"
     ],
     "deny": [],
     "ask": []
