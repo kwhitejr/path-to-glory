@@ -173,7 +173,7 @@ export default function ArmyDetailPage() {
                     <div>
                       <span className="text-gray-500 block mb-1">Enhancements:</span>
                       <ul className="space-y-1">
-                        {unit.enhancements.map((e, i) => (
+                        {unit.enhancements.map((e: string, i: number) => (
                           <li key={i} className="text-sm">
                             • {e}
                           </li>
@@ -185,7 +185,7 @@ export default function ArmyDetailPage() {
                     <div>
                       <span className="text-gray-500 block mb-1">Path Abilities:</span>
                       <ul className="space-y-1">
-                        {unit.pathAbilities.map((a, i) => (
+                        {unit.pathAbilities.map((a: string, i: number) => (
                           <li key={i} className="text-sm">
                             • {a}
                           </li>
