@@ -161,6 +161,20 @@ npm run dev -w @path-to-glory/frontend
 4. **DynamoDB**: Use DynamoDB Local for testing
 5. **GraphQL Codegen**: Run after schema changes
 
+### Pre-Commit Validation (CRITICAL)
+**ALWAYS run the build before committing frontend changes:**
+```bash
+npm run build -w @path-to-glory/frontend
+```
+
+This ensures:
+- TypeScript compilation succeeds
+- No unused imports or variables
+- Build will pass in CI/CD pipeline
+- Prevents broken deployments
+
+If the build fails, fix all errors before committing.
+
 ## Deployment
 
 ### Frontend Deployment
@@ -191,7 +205,12 @@ See `infrastructure/frontend/README.md` for manual deployment steps.
 ### Implemented Features
 - ✅ Army list view with faction info and filtering
 - ✅ Create new army with faction selection
+- ✅ Edit army (name, realm, background)
+- ✅ Delete army with confirmation
 - ✅ Army detail view (Order of Battle)
+- ✅ Add units to army with full details (rank, renown, enhancements, path abilities)
+- ✅ Edit units in army roster
+- ✅ Delete units with confirmation
 - ✅ Mobile-first responsive UI
 - ✅ Faction data ingestion from PDFs
 - ✅ AWS deployment infrastructure (Terraform + GitHub Actions)
@@ -202,10 +221,10 @@ See `infrastructure/frontend/README.md` for manual deployment steps.
 ### Next Implementation Steps
 - Backend GraphQL API implementation (Lambda + Apollo Server)
 - DynamoDB integration for persistent data
-- Connect frontend to real API (currently using mock data)
-- Add/edit units in army roster
-- Track Glory Points and Renown
-- Manage enhancements and path abilities (based on `docs/references/forms/Path To Glory Roster.pdf`)
+- Connect frontend to real API (currently using localStorage)
+- Track Glory Points and Renown updates from battles
+- Campaign management (multiple armies in a campaign)
+- Battle recording and results
 
 ### Roster Data Structure (from PDF)
 The roster tracks:

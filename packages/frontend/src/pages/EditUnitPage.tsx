@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
-import { getUnitsByFaction } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
 
 const RANKS = ['Regular', 'Veteran', 'Elite'];
