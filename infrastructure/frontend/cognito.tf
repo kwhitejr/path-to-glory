@@ -74,16 +74,12 @@ resource "aws_cognito_user_pool_client" "main" {
 
   callback_urls = [
     "https://${local.frontend_domain}",
-    "https://${local.frontend_domain}/",
-    "http://localhost:5173",  # For local development
-    "http://localhost:5173/"
+    "https://${local.frontend_domain}/"
   ]
 
   logout_urls = [
     "https://${local.frontend_domain}",
-    "https://${local.frontend_domain}/",
-    "http://localhost:5173",
-    "http://localhost:5173/"
+    "https://${local.frontend_domain}/"
   ]
 
   # Token validity
