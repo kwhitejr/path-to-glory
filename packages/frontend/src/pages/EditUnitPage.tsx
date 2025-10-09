@@ -238,52 +238,114 @@ export default function EditUnitPage() {
 
         {/* Enhancement */}
         <div>
-          <label htmlFor="enhancement" className="label">
-            Enhancement (Artefact of Power)
-          </label>
-          <select
-            id="enhancement"
-            className="input"
-            value={formData.enhancement}
-            onChange={(e) => setFormData({ ...formData, enhancement: e.target.value })}
-          >
-            <option value="">None</option>
+          <label className="label">Enhancement (Artefact of Power)</label>
+          <div className="space-y-2">
+            {/* None option */}
+            <label className="flex items-start p-3 border border-gray-200 rounded-lg hover:bg-gray-50 cursor-pointer">
+              <input
+                type="radio"
+                name="enhancement"
+                value=""
+                checked={formData.enhancement === ''}
+                onChange={(e) => setFormData({ ...formData, enhancement: e.target.value })}
+                className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
+              />
+              <span className="ml-3 text-sm font-medium text-gray-700">None</span>
+            </label>
+
+            {/* Enhancement options */}
             {army && getFactionById(army.factionId)?.enhancements?.map((enh) => (
-              <option key={enh.id} value={enh.name}>
-                {enh.name}
-              </option>
+              <label
+                key={enh.id}
+                className="flex items-start p-3 border border-gray-200 rounded-lg hover:bg-gray-50 cursor-pointer group"
+                title={enh.description}
+              >
+                <input
+                  type="radio"
+                  name="enhancement"
+                  value={enh.name}
+                  checked={formData.enhancement === enh.name}
+                  onChange={(e) => setFormData({ ...formData, enhancement: e.target.value })}
+                  className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
+                />
+                <div className="ml-3 flex-1">
+                  <div className="flex items-center gap-2">
+                    <span className="text-sm font-medium text-gray-700">{enh.name}</span>
+                    <svg
+                      className="w-4 h-4 text-gray-400"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                      />
+                    </svg>
+                  </div>
+                  <p className="mt-1 text-xs text-gray-500">{enh.description}</p>
+                </div>
+              </label>
             ))}
-          </select>
-          {formData.enhancement && army && (
-            <p className="mt-2 text-sm text-gray-600">
-              {getFactionById(army.factionId)?.enhancements?.find(e => e.name === formData.enhancement)?.description}
-            </p>
-          )}
+          </div>
         </div>
 
         {/* Path Ability */}
         <div>
-          <label htmlFor="pathAbility" className="label">
-            Path Ability (Heroic Trait)
-          </label>
-          <select
-            id="pathAbility"
-            className="input"
-            value={formData.pathAbility}
-            onChange={(e) => setFormData({ ...formData, pathAbility: e.target.value })}
-          >
-            <option value="">None</option>
+          <label className="label">Path Ability (Heroic Trait)</label>
+          <div className="space-y-2">
+            {/* None option */}
+            <label className="flex items-start p-3 border border-gray-200 rounded-lg hover:bg-gray-50 cursor-pointer">
+              <input
+                type="radio"
+                name="pathAbility"
+                value=""
+                checked={formData.pathAbility === ''}
+                onChange={(e) => setFormData({ ...formData, pathAbility: e.target.value })}
+                className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
+              />
+              <span className="ml-3 text-sm font-medium text-gray-700">None</span>
+            </label>
+
+            {/* Path Ability options */}
             {army && getFactionById(army.factionId)?.pathAbilities?.map((ability) => (
-              <option key={ability.id} value={ability.name}>
-                {ability.name}
-              </option>
+              <label
+                key={ability.id}
+                className="flex items-start p-3 border border-gray-200 rounded-lg hover:bg-gray-50 cursor-pointer group"
+                title={ability.description}
+              >
+                <input
+                  type="radio"
+                  name="pathAbility"
+                  value={ability.name}
+                  checked={formData.pathAbility === ability.name}
+                  onChange={(e) => setFormData({ ...formData, pathAbility: e.target.value })}
+                  className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
+                />
+                <div className="ml-3 flex-1">
+                  <div className="flex items-center gap-2">
+                    <span className="text-sm font-medium text-gray-700">{ability.name}</span>
+                    <svg
+                      className="w-4 h-4 text-gray-400"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
+                      />
+                    </svg>
+                  </div>
+                  <p className="mt-1 text-xs text-gray-500">{ability.description}</p>
+                </div>
+              </label>
             ))}
-          </select>
-          {formData.pathAbility && army && (
-            <p className="mt-2 text-sm text-gray-600">
-              {getFactionById(army.factionId)?.pathAbilities?.find(a => a.name === formData.pathAbility)?.description}
-            </p>
-          )}
+          </div>
         </div>
 
         {/* Actions */}
