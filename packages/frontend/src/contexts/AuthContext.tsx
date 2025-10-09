@@ -61,6 +61,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       setError(null);
       console.log('[AuthContext] Loading user...');
       console.log('[AuthContext] Current URL:', window.location.href);
+      console.log('[AuthContext] URL has OAuth params:', window.location.href.includes('code='));
 
       // First check if we have a valid session
       const session = await fetchAuthSession();
@@ -118,7 +119,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
     // Listen for auth events (sign in, sign out, token refresh)
     const hubListener = Hub.listen('auth', ({ payload }) => {
-      console.log('[AuthContext] Hub event:', payload.event);
+      console.log('[AuthContext] Hub event:', payload.event, payload);
 
       switch (payload.event) {
         case 'signInWithRedirect':
@@ -138,6 +139,11 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
           console.log('[AuthContext] User signed out');
           setUser(null);
           break;
+        case 'customOAuthState':
+          console.log('[AuthContext] Custom OAuth state received');
+          break;
+        default:
+          console.log('[AuthContext] Unhandled Hub event:', payload.event);
       }
     });
 
