@@ -76,6 +76,9 @@ resource "aws_cognito_user_pool_client" "main" {
   # Enable Google sign-in
   supported_identity_providers = ["Google"]
 
+  # Ensure Google provider is created before this client
+  depends_on = [aws_cognito_identity_provider.google]
+
   # Read/write permissions
   read_attributes = [
     "email",
