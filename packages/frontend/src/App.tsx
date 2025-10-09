@@ -25,10 +25,18 @@ function RootRedirect() {
   if (hasOAuthParams) {
     console.log('[App] OAuth callback detected, not redirecting');
 
-    // Once auth loading is complete, redirect to /armies
+    // Once auth loading is complete, redirect back to where user came from
     if (!loading) {
-      console.log('[App] OAuth processing complete, redirecting to /armies');
-      return <Navigate to="/armies" replace />;
+      // Check if there's a state parameter with the original path
+      const params = new URLSearchParams(location.search);
+      const state = params.get('state');
+
+      // Try to get the original path from localStorage (set before OAuth redirect)
+      const returnPath = localStorage.getItem('oauth_return_path') || '/armies';
+      localStorage.removeItem('oauth_return_path');
+
+      console.log('[App] OAuth processing complete, redirecting to:', returnPath);
+      return <Navigate to={returnPath} replace />;
     }
 
     // Return a loading state while OAuth processes

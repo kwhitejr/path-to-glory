@@ -158,6 +158,11 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       console.log('[AuthContext] Initiating login from:', window.location.href);
       console.log('[AuthContext] Current origin:', window.location.origin);
 
+      // Save current path to return to after OAuth
+      const currentPath = window.location.pathname + window.location.search;
+      localStorage.setItem('oauth_return_path', currentPath);
+      console.log('[AuthContext] Saved return path:', currentPath);
+
       // Clear any stale OAuth state before initiating new flow
       // This prevents "different origin" errors
       try {
