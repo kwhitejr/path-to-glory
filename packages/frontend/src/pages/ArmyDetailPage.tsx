@@ -172,30 +172,18 @@ export default function ArmyDetailPage() {
               </div>
 
               {/* Enhancements & Abilities */}
-              {((unit.enhancements && unit.enhancements.length > 0) || (unit.pathAbilities && unit.pathAbilities.length > 0)) && (
+              {(unit.enhancement || unit.pathAbility) && (
                 <div className="grid md:grid-cols-2 gap-3 text-sm">
-                  {unit.enhancements && unit.enhancements.length > 0 && (
+                  {unit.enhancement && (
                     <div>
-                      <span className="text-gray-500 block mb-1">Enhancements:</span>
-                      <ul className="space-y-1">
-                        {unit.enhancements.map((e: string, i: number) => (
-                          <li key={i} className="text-sm">
-                            • {e}
-                          </li>
-                        ))}
-                      </ul>
+                      <span className="text-gray-500 block mb-1">Enhancement:</span>
+                      <p className="text-sm">• {unit.enhancement}</p>
                     </div>
                   )}
-                  {unit.pathAbilities && unit.pathAbilities.length > 0 && (
+                  {unit.pathAbility && (
                     <div>
-                      <span className="text-gray-500 block mb-1">Path Abilities:</span>
-                      <ul className="space-y-1">
-                        {unit.pathAbilities.map((a: string, i: number) => (
-                          <li key={i} className="text-sm">
-                            • {a}
-                          </li>
-                        ))}
-                      </ul>
+                      <span className="text-gray-500 block mb-1">Path Ability:</span>
+                      <p className="text-sm">• {unit.pathAbility}</p>
                     </div>
                   )}
                 </div>

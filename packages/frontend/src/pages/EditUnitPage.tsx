@@ -55,8 +55,8 @@ export default function EditUnitPage() {
       rank: foundUnit.rank || 'Regular',
       renown: foundUnit.renown || 0,
       reinforced: foundUnit.reinforced || false,
-      enhancement: foundUnit.enhancements?.[0] || '',
-      pathAbility: foundUnit.pathAbilities?.[0] || '',
+      enhancement: foundUnit.enhancement || '',
+      pathAbility: foundUnit.pathAbility || '',
     });
     setLoading(false);
   }, [armyId, unitId, navigate, user, authLoading]);
@@ -92,8 +92,8 @@ export default function EditUnitPage() {
       rank: formData.rank,
       renown: formData.renown,
       reinforced: formData.reinforced,
-      enhancements: formData.enhancement ? [formData.enhancement] : [],
-      pathAbilities: formData.pathAbility ? [formData.pathAbility] : [],
+      enhancement: formData.enhancement,
+      pathAbility: formData.pathAbility,
     };
 
     localStorage.setItem('armies', JSON.stringify(existingArmies));

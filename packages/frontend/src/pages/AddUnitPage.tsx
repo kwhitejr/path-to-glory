@@ -72,8 +72,8 @@ export default function AddUnitPage() {
       rank: formData.rank,
       renown: formData.renown,
       reinforced: formData.reinforced,
-      enhancements: formData.enhancement ? [formData.enhancement] : [],
-      pathAbilities: formData.pathAbility ? [formData.pathAbility] : [],
+      enhancement: formData.enhancement,
+      pathAbility: formData.pathAbility,
     };
 
     // TODO: Replace with GraphQL mutation when backend is ready
