@@ -7,6 +7,9 @@ import Layout from './components/Layout';
 import ArmyListPage from './pages/ArmyListPage';
 import ArmyDetailPage from './pages/ArmyDetailPage';
 import CreateArmyPage from './pages/CreateArmyPage';
+import EditArmyPage from './pages/EditArmyPage';
+import AddUnitPage from './pages/AddUnitPage';
+import EditUnitPage from './pages/EditUnitPage';
 import CampaignsPage from './pages/CampaignsPage';
 import BattlesPage from './pages/BattlesPage';
 
@@ -60,6 +63,9 @@ function App() {
               <Route path="armies" element={<ArmyListPage />} />
               <Route path="armies/new" element={<CreateArmyPage />} />
               <Route path="armies/:armyId" element={<ArmyDetailPage />} />
+              <Route path="armies/:armyId/edit" element={<EditArmyPage />} />
+              <Route path="armies/:armyId/units/new" element={<AddUnitPage />} />
+              <Route path="armies/:armyId/units/:unitId/edit" element={<EditUnitPage />} />
               <Route path="campaigns" element={<CampaignsPage />} />
               <Route path="battles" element={<BattlesPage />} />
             </Route>

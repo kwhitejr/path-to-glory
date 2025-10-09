@@ -110,7 +110,9 @@ export default function ArmyDetailPage() {
       <div className="card">
         <div className="flex justify-between items-center mb-4">
           <h3 className="font-bold text-lg">Order of Battle</h3>
-          <button className="btn-primary text-sm">+ Add Unit</button>
+          <Link to={`/armies/${armyId}/units/new`} className="btn-primary text-sm">
+            + Add Unit
+          </Link>
         </div>
 
         <div className="space-y-4">
@@ -130,7 +132,10 @@ export default function ArmyDetailPage() {
                   </div>
                   <p className="text-sm text-gray-600">{unit.warscroll}</p>
                 </div>
-                <button className="text-gray-400 hover:text-gray-600">
+                <Link
+                  to={`/armies/${armyId}/units/${unit.id}/edit`}
+                  className="text-gray-400 hover:text-gray-600"
+                >
                   <svg
                     className="w-5 h-5"
                     fill="none"
@@ -141,10 +146,10 @@ export default function ArmyDetailPage() {
                       strokeLinecap="round"
                       strokeLinejoin="round"
                       strokeWidth={2}
-                      d="M12 5v.01M12 12v.01M12 19v.01M12 6a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2zm0 7a1 1 0 110-2 1 1 0 010 2z"
+                      d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
                     />
                   </svg>
-                </button>
+                </Link>
               </div>
 
               {/* Unit Stats */}
