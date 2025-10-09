@@ -1,6 +1,6 @@
 # Cognito User Pool for authentication
 resource "aws_cognito_user_pool" "main" {
-  name = "${var.project_name}-user-pool"
+  name = "${var.project_name}-user-pool-v2"
 
   # Allow users to sign in with email
   alias_attributes = ["email", "preferred_username"]
