@@ -114,10 +114,27 @@ Get these values from: `cd infrastructure/frontend && terraform output`
 - Logout button for authenticated users
 - Creator profile pictures on army cards (in "All Armies" view)
 - "My Armies" filter uses authenticated user ID
+- After OAuth login, users are returned to the page they started from
+
+### Key Implementation Details
+1. **OAuth Callback Handling**: The app checks for OAuth `code=` parameter and shows loading state instead of auto-redirecting, allowing Amplify to process the auth code before navigation
+2. **Return Path**: Uses localStorage to save the original path before OAuth redirect, then returns user to that path after authentication
+3. **Required OAuth Scopes**: Must include `aws.cognito.signin.user.admin` scope to fetch user attributes
+4. **Schema Constraints**: Do NOT define custom schema for standard Cognito attributes (email, name, picture) - let Cognito handle them automatically to avoid mutability issues
+5. **Cognito Resource Dependencies**: User Pool Client must depend on Google Identity Provider creation (`depends_on = [aws_cognito_identity_provider.google]`)
+
+### Troubleshooting
+Common OAuth issues and solutions:
+- **"user.email: Attribute cannot be updated"** → Custom schema with immutable attributes; remove schema and recreate User Pool
+- **"Access Token does not have required scopes"** → Add `aws.cognito.signin.user.admin` to allowed OAuth scopes
+- **No tokens after OAuth redirect** → Check if app is auto-redirecting before Amplify can process the code parameter
+- **"redirect is coming from a different origin"** → Clear stale OAuth state with `signOut({ global: false })` before `signInWithRedirect`
+- **"provider Google does not exist"** → Add explicit `depends_on` to User Pool Client
 
 ### Documentation
 - `docs/AUTHENTICATION.md` - Architecture and implementation details
 - `docs/GOOGLE_OAUTH_SETUP.md` - Step-by-step OAuth setup guide
+- `docs/AUTH_TROUBLESHOOTING.md` - Common issues and solutions
 
 ## Development Workflow
 
