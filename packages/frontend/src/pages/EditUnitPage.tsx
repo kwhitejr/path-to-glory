@@ -130,6 +130,17 @@ export default function EditUnitPage() {
     );
   }
 
+  if (!unit || !army) {
+    return (
+      <div className="text-center py-12">
+        <h2 className="text-2xl font-bold mb-4">Unit not found</h2>
+        <Link to={`/armies/${armyId}`} className="btn-primary">
+          Back to Army
+        </Link>
+      </div>
+    );
+  }
+
   return (
     <div className="max-w-2xl mx-auto">
       {/* Back button */}

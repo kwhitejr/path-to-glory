@@ -157,6 +157,7 @@ export default function CreateArmyPage() {
         {formData.factionId && (
           <div className="card bg-white border border-gray-300">
             <UnitSelector
+              factionId={formData.factionId}
               availableUnits={availableUnits}
               selectedUnits={selectedUnits}
               onUnitsChange={setSelectedUnits}
