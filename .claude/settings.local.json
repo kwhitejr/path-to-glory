@@ -27,7 +27,9 @@
       "mcp__sequential-thinking__sequentialthinking",
       "Bash(find:*)",
       "Bash(unzip:*)",
-      "Bash(npm run bundle:*)"
+      "Bash(npm run bundle:*)",
+      "Bash(curl:*)",
+      "Bash(gh workflow:*)"
     ],
     "deny": [],
     "ask": []

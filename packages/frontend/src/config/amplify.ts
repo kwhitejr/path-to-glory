@@ -34,6 +34,7 @@ export function configureAmplify() {
     identityPoolId: amplifyConfig.Auth.Cognito.identityPoolId,
     domain: amplifyConfig.Auth.Cognito.loginWith.oauth.domain,
     redirectSignIn: amplifyConfig.Auth.Cognito.loginWith.oauth.redirectSignIn,
+    redirectSignOut: amplifyConfig.Auth.Cognito.loginWith.oauth.redirectSignOut,
   });
 
   Amplify.configure(amplifyConfig);

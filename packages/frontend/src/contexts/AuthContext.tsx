@@ -60,10 +60,15 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       setLoading(true);
       setError(null);
       console.log('[AuthContext] Loading user...');
+      console.log('[AuthContext] Current URL:', window.location.href);
 
       // First check if we have a valid session
       const session = await fetchAuthSession();
-      console.log('[AuthContext] Session check:', { hasTokens: !!session.tokens });
+      console.log('[AuthContext] Session check:', {
+        hasTokens: !!session.tokens,
+        hasIdToken: !!session.tokens?.idToken,
+        hasAccessToken: !!session.tokens?.accessToken,
+      });
 
       if (!session.tokens) {
         console.log('[AuthContext] No valid tokens in session');
@@ -83,7 +88,11 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
       setUser(mapAuthUserToUser(authUser, attributes));
     } catch (err: any) {
-      console.log('[AuthContext] Load user error:', err?.name, err?.message || err);
+      console.error('[AuthContext] Load user error:', {
+        name: err?.name,
+        message: err?.message,
+        error: err,
+      });
 
       // If error is about already being authenticated, try to sign out and retry
       if (err?.name === 'UserAlreadyAuthenticatedException') {
@@ -138,13 +147,23 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const login = async () => {
     try {
       setError(null);
+      console.log('[AuthContext] Initiating login from:', window.location.href);
+
+      // Clear any stale OAuth state before initiating new flow
+      // This prevents "different origin" errors
+      try {
+        await signOut({ global: false });
+      } catch (e) {
+        // Ignore errors if not signed in
+        console.log('[AuthContext] Pre-login cleanup (expected if not signed in)');
+      }
 
       // signInWithRedirect will redirect to Google OAuth
       // The page will reload after redirect, so no need to wait
-      signInWithRedirect({ provider: 'Google' });
+      await signInWithRedirect({ provider: 'Google' });
     } catch (err) {
       const error = err instanceof Error ? err : new Error('Login failed');
-      console.error('Login error:', error);
+      console.error('[AuthContext] Login error:', error);
       setError(error);
       throw error;
     }
