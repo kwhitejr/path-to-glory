@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Mostly empty space with white background -->
+  <rect width="32" height="32" fill="#FFF"/>
+  
+  <!-- Simple top hat icon - just the essence -->
+  <rect x="12" y="10" width="8" height="9" fill="#000"/>
+  <rect x="10" y="18" width="12" height="2" fill="#000"/>
+  
+  <!-- Single accent stripe in cyan -->
+  <rect x="12" y="16" width="8" height="1.5" fill="#00CED1"/>
+</svg>

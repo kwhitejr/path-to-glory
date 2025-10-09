@@ -8,6 +8,7 @@ dist/
 build/
 .next/
 out/
+*.zip
 
 # TypeScript
 *.tsbuildinfo
@@ -32,10 +33,10 @@ Thumbs.db
 coverage/
 
 # Terraform
-infrastructure/.terraform/
-infrastructure/*.tfstate
-infrastructure/*.tfstate.*
-infrastructure/.terraform.lock.hcl
+**/.terraform/
+infrastructure/**/*.tfstate
+infrastructure/**/*.tfstate.*
+**/.terraform.lock.hcl
 
 # Logs
 *.log
