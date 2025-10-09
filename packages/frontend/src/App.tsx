@@ -16,6 +16,7 @@ configureAmplify();
 // Component to handle root redirect with OAuth callback awareness
 function RootRedirect() {
   const location = useLocation();
+  const { loading } = useAuth();
 
   // Don't redirect if we have OAuth callback parameters
   // This allows Amplify to process the OAuth code before navigating
@@ -23,6 +24,13 @@ function RootRedirect() {
 
   if (hasOAuthParams) {
     console.log('[App] OAuth callback detected, not redirecting');
+
+    // Once auth loading is complete, redirect to /armies
+    if (!loading) {
+      console.log('[App] OAuth processing complete, redirecting to /armies');
+      return <Navigate to="/armies" replace />;
+    }
+
     // Return a loading state while OAuth processes
     return (
       <div className="flex items-center justify-center min-h-screen">

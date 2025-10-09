@@ -87,7 +87,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         hasPicture: !!attributes.picture
       });
 
-      setUser(mapAuthUserToUser(authUser, attributes));
+      const mappedUser = mapAuthUserToUser(authUser, attributes);
+      setUser(mappedUser);
+      console.log('[AuthContext] Loading complete. User: logged in');
     } catch (err: any) {
       console.error('[AuthContext] Load user error:', {
         name: err?.name,
@@ -108,9 +110,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
       setUser(null);
       setError(null); // Not an error, just not logged in
+      console.log('[AuthContext] Loading complete. User: not logged in');
     } finally {
       setLoading(false);
-      console.log('[AuthContext] Loading complete. User:', user ? 'logged in' : 'not logged in');
     }
   };
 
