@@ -1,46 +1,60 @@
+import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { getFactionById } from '@path-to-glory/shared';
 
-// Mock data - will be replaced with GraphQL query
-const mockArmy = {
-  id: '1',
-  name: 'The Crimson Host',
-  factionId: 'flesh-eater-courts',
-  glory: 12,
-  renown: 3,
-  realmOfOrigin: 'Shyish',
-  background: 'A noble court of cannibalistic ghouls',
-  units: [
-    {
-      id: 'u1',
-      name: 'Lord Commander',
-      warscroll: 'Abhorrant Archregent',
-      rank: 'Warlord',
-      renown: 2,
-      enhancements: ['Ancient Heraldry'],
-      pathAbilities: ['Inspiring Presence'],
-      reinforced: false,
-    },
-    {
-      id: 'u2',
-      name: 'The Royal Guard',
-      warscroll: 'Crypt Horrors',
-      rank: 'Favoured',
-      renown: 1,
-      enhancements: [],
-      pathAbilities: ['Deadly Coordination'],
-      reinforced: true,
-    },
-  ],
-};
+const LOADING_MESSAGES = [
+  'Marshalling the forces...',
+  'Consulting the battle scrolls...',
+  'Mustering the warband...',
+  'Communing with the Realm Gods...',
+  'Reading the ancient tomes...',
+  'Rallying the troops...',
+  'Gathering the order of battle...',
+  'Preparing for glory...',
+  'Summoning the host...',
+  'Unfurling the battle standards...',
+];
 
 export default function ArmyDetailPage() {
   const { armyId } = useParams();
-  const army = mockArmy; // TODO: GraphQL query
-  const faction = getFactionById(army.factionId);
+  const [army, setArmy] = useState<any>(null);
+  const [loading, setLoading] = useState(true);
+  const [loadingMessage] = useState(() =>
+    LOADING_MESSAGES[Math.floor(Math.random() * LOADING_MESSAGES.length)]
+  );
+
+  useEffect(() => {
+    // TODO: Replace with GraphQL query when backend is ready
+    const storedArmies = JSON.parse(localStorage.getItem('armies') || '[]');
+    const foundArmy = storedArmies.find((a: any) => a.id === armyId);
+
+    // Simulate network delay for loading state
+    setTimeout(() => {
+      setArmy(foundArmy || null);
+      setLoading(false);
+    }, 300);
+  }, [armyId]);
+
+  const faction = army ? getFactionById(army.factionId) : null;
+
+  if (loading) {
+    return (
+      <div className="flex flex-col items-center justify-center min-h-[50vh] space-y-4">
+        <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600"></div>
+        <p className="text-gray-600 italic">{loadingMessage}</p>
+      </div>
+    );
+  }
 
   if (!army) {
-    return <div>Army not found</div>;
+    return (
+      <div className="text-center py-12">
+        <h2 className="text-2xl font-bold mb-4">Army not found</h2>
+        <Link to="/armies" className="btn-primary">
+          Back to Armies
+        </Link>
+      </div>
+    );
   }
 
   return (
@@ -100,7 +114,8 @@ export default function ArmyDetailPage() {
         </div>
 
         <div className="space-y-4">
-          {army.units.map((unit) => (
+          {army.units && army.units.length > 0 ? (
+            army.units.map((unit: any) => (
             <div key={unit.id} className="border border-gray-200 rounded-lg p-4">
               {/* Unit Header */}
               <div className="flex justify-between items-start mb-3">
@@ -181,7 +196,13 @@ export default function ArmyDetailPage() {
                 </div>
               )}
             </div>
-          ))}
+            ))
+          ) : (
+            <div className="text-center py-8 text-gray-500">
+              <p>No units in this army yet</p>
+              <p className="text-sm mt-2">Add units to build your order of battle</p>
+            </div>
+          )}
         </div>
       </div>
 
