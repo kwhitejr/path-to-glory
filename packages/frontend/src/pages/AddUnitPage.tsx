@@ -263,22 +263,7 @@ export default function AddUnitPage() {
                   className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
                 />
                 <div className="ml-3 flex-1">
-                  <div className="flex items-center gap-2">
-                    <span className="text-sm font-medium text-gray-700">{enh.name}</span>
-                    <svg
-                      className="w-4 h-4 text-gray-400"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                      />
-                    </svg>
-                  </div>
+                  <span className="text-sm font-medium text-gray-700">{enh.name}</span>
                   <p className="mt-1 text-xs text-gray-500">{enh.description}</p>
                 </div>
               </label>
@@ -319,22 +304,7 @@ export default function AddUnitPage() {
                   className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
                 />
                 <div className="ml-3 flex-1">
-                  <div className="flex items-center gap-2">
-                    <span className="text-sm font-medium text-gray-700">{ability.name}</span>
-                    <svg
-                      className="w-4 h-4 text-gray-400"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"
-                      />
-                    </svg>
-                  </div>
+                  <span className="text-sm font-medium text-gray-700">{ability.name}</span>
                   <p className="mt-1 text-xs text-gray-500">{ability.description}</p>
                 </div>
               </label>

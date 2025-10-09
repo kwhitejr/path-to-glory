@@ -31,7 +31,11 @@
       "Bash(curl:*)",
       "Bash(gh workflow:*)",
       "Read(//Users/kwhitejr/Desktop/**)",
-      "Read(//Users/kwhitejr/Downloads/**)"
+      "Read(//Users/kwhitejr/Downloads/**)",
+      "Bash(git log:*)",
+      "Bash(npm run dev:*)",
+      "Bash(git restore:*)",
+      "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_gPyZe4/**)"
     ],
     "deny": [],
     "ask": []
