@@ -154,6 +154,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     try {
       setError(null);
       console.log('[AuthContext] Initiating login from:', window.location.href);
+      console.log('[AuthContext] Current origin:', window.location.origin);
 
       // Clear any stale OAuth state before initiating new flow
       // This prevents "different origin" errors
@@ -164,9 +165,13 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
         console.log('[AuthContext] Pre-login cleanup (expected if not signed in)');
       }
 
+      console.log('[AuthContext] Calling signInWithRedirect...');
+
       // signInWithRedirect will redirect to Google OAuth
       // The page will reload after redirect, so no need to wait
       await signInWithRedirect({ provider: 'Google' });
+
+      console.log('[AuthContext] signInWithRedirect completed (should not see this)');
     } catch (err) {
       const error = err instanceof Error ? err : new Error('Login failed');
       console.error('[AuthContext] Login error:', error);

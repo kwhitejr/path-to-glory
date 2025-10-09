@@ -29,7 +29,8 @@
       "Bash(unzip:*)",
       "Bash(npm run bundle:*)",
       "Bash(curl:*)",
-      "Bash(gh workflow:*)"
+      "Bash(gh workflow:*)",
+      "Read(//Users/kwhitejr/Desktop/**)"
     ],
     "deny": [],
     "ask": []

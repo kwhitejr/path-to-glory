@@ -1,5 +1,5 @@
 import { ApolloProvider } from '@apollo/client';
-import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import { client } from './lib/apollo-client';
 import { AuthProvider } from './contexts/AuthContext';
 import { configureAmplify } from './config/amplify';
@@ -13,6 +13,30 @@ import BattlesPage from './pages/BattlesPage';
 // Configure Amplify on app initialization
 configureAmplify();
 
+// Component to handle root redirect with OAuth callback awareness
+function RootRedirect() {
+  const location = useLocation();
+
+  // Don't redirect if we have OAuth callback parameters
+  // This allows Amplify to process the OAuth code before navigating
+  const hasOAuthParams = location.search.includes('code=') || location.search.includes('error=');
+
+  if (hasOAuthParams) {
+    console.log('[App] OAuth callback detected, not redirecting');
+    // Return a loading state while OAuth processes
+    return (
+      <div className="flex items-center justify-center min-h-screen">
+        <div className="text-center">
+          <div className="inline-block animate-spin rounded-full h-8 w-8 border-b-2 border-primary-600"></div>
+          <p className="mt-4 text-gray-600">Completing sign in...</p>
+        </div>
+      </div>
+    );
+  }
+
+  return <Navigate to="/armies" replace />;
+}
+
 function App() {
   return (
     <AuthProvider>
@@ -20,7 +44,7 @@ function App() {
         <BrowserRouter>
           <Routes>
             <Route path="/" element={<Layout />}>
-              <Route index element={<Navigate to="/armies" replace />} />
+              <Route index element={<RootRedirect />} />
               <Route path="armies" element={<ArmyListPage />} />
               <Route path="armies/new" element={<CreateArmyPage />} />
               <Route path="armies/:armyId" element={<ArmyDetailPage />} />
