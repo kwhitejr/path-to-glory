@@ -49,15 +49,27 @@ type Army {
   factionId: ID!
   faction: Faction!
   name: String!
+  heraldry: String
+  realmOfOrigin: RealmOfOrigin
+  battleFormation: String
   glory: Int!
   renown: Int!
+  background: String
+  notableEvents: String
+  currentQuest: String
+  questPoints: Int!
+  completedQuests: [String!]!
+  spellLore: [String!]!
+  prayerLore: [String!]!
+  manifestationLore: [String!]!
+  warlord: Unit
   units: [Unit!]!
   createdAt: String!
   updatedAt: String!
 }
 
 """
-A unit within an army
+A unit within an army (includes both Warlord and regular units)
 """
 type Unit {
   id: ID!
@@ -65,14 +77,17 @@ type Unit {
   army: Army!
   unitTypeId: String!
   name: String!
+  warscroll: String!
   size: Int!
   wounds: Int!
   rank: String!
   renown: Int!
   reinforced: Boolean!
+  isWarlord: Boolean!
   veteranAbilities: [String!]!
   injuries: [String!]!
   enhancements: [String!]!
+  pathAbilities: [String!]!
   createdAt: String!
   updatedAt: String!
 }
@@ -108,6 +123,20 @@ enum BattleOutcome {
   VICTORY
   DEFEAT
   DRAW
+}
+
+"""
+The eight Mortal Realms of Age of Sigmar
+"""
+enum RealmOfOrigin {
+  AQSHY
+  CHAMON
+  GHUR
+  GHYRAN
+  HYSH
+  SHYISH
+  ULGU
+  AZYR
 }
 
 # Queries
@@ -200,34 +229,56 @@ input CreateArmyInput {
   campaignId: ID!
   factionId: ID!
   name: String!
+  heraldry: String
+  realmOfOrigin: RealmOfOrigin
+  battleFormation: String
+  background: String
+  warlordUnitId: String
 }
 
 input UpdateArmyInput {
   name: String
+  heraldry: String
+  realmOfOrigin: RealmOfOrigin
+  battleFormation: String
   glory: Int
   renown: Int
+  background: String
+  notableEvents: String
+  currentQuest: String
+  questPoints: Int
+  completedQuests: [String!]
+  spellLore: [String!]
+  prayerLore: [String!]
+  manifestationLore: [String!]
 }
 
 input AddUnitInput {
   unitTypeId: String!
   name: String!
+  warscroll: String!
   size: Int!
   wounds: Int!
   rank: String!
   renown: Int!
   reinforced: Boolean!
+  isWarlord: Boolean!
+  pathAbilities: [String!]
 }
 
 input UpdateUnitInput {
   name: String
+  warscroll: String
   size: Int
   wounds: Int
   rank: String
   renown: Int
   reinforced: Boolean
+  isWarlord: Boolean
   veteranAbilities: [String!]
   injuries: [String!]
   enhancements: [String!]
+  pathAbilities: [String!]
 }
 
 input RecordBattleInput {

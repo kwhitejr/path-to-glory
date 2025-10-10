@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useMutation, useQuery } from '@apollo/client';
-import { getAllFactions, getUnitsByFaction, type UnitWarscroll } from '@path-to-glory/shared';
+import { getAllFactions, getUnitsByFaction, type UnitWarscroll, RealmOfOrigin, RealmOfOriginLabels } from '@path-to-glory/shared';
 import UnitSelector, { SelectedUnit } from '../components/UnitSelector';
 import { useAuth } from '../contexts/AuthContext';
 import { CREATE_CAMPAIGN, CREATE_ARMY, ADD_UNIT, GET_MY_CAMPAIGNS, GET_MY_ARMIES } from '../graphql/operations';
@@ -27,10 +27,13 @@ export default function CreateArmyPage() {
   const [formData, setFormData] = useState({
     name: '',
     factionId: '',
-    realmOfOrigin: '',
+    heraldry: '',
+    realmOfOrigin: '' as RealmOfOrigin | '',
+    battleFormation: '',
     background: '',
   });
   const [selectedUnits, setSelectedUnits] = useState<SelectedUnit[]>([]);
+  const [warlordUnitId, setWarlordUnitId] = useState<string>('');
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -81,6 +84,10 @@ export default function CreateArmyPage() {
             campaignId,
             factionId: formData.factionId,
             name: formData.name,
+            heraldry: formData.heraldry || undefined,
+            realmOfOrigin: formData.realmOfOrigin || undefined,
+            battleFormation: formData.battleFormation || undefined,
+            background: formData.background || undefined,
           },
         },
       });
@@ -98,17 +105,21 @@ export default function CreateArmyPage() {
         for (const unit of selectedUnits) {
           // Get the unit warscroll to find size and wounds
           const warscroll = availableUnits[unit.warscrollId];
+          const isWarlord = warlordUnitId === unit.id;
           await addUnit({
             variables: {
               armyId: newArmy.id,
               input: {
                 unitTypeId: unit.warscrollId,
                 name: unit.name,
+                warscroll: warscroll?.name || unit.name,
                 size: 1, // Default to 1 model - can be updated later
                 wounds: warscroll?.characteristics?.health || 1,
-                rank: 'Regular',
-                renown: 0,
-                reinforced: false,
+                rank: unit.rank,
+                renown: unit.renown,
+                reinforced: unit.reinforced,
+                isWarlord,
+                pathAbilities: unit.pathAbility ? [unit.pathAbility] : [],
               },
             },
           });
@@ -130,9 +141,18 @@ export default function CreateArmyPage() {
 
   const handleFactionChange = (factionId: string) => {
     setFormData({ ...formData, factionId });
-    // Clear units when faction changes
+    // Clear units and warlord when faction changes
     setSelectedUnits([]);
+    setWarlordUnitId('');
   };
+
+  // Update warlord selection when units change
+  useEffect(() => {
+    // If the current warlord was removed, clear the selection
+    if (warlordUnitId && !selectedUnits.find(u => u.id === warlordUnitId)) {
+      setWarlordUnitId('');
+    }
+  }, [selectedUnits, warlordUnitId]);
 
   const loading = authLoading || campaignsLoading;
 
@@ -172,6 +192,25 @@ export default function CreateArmyPage() {
           />
         </div>
 
+        {/* Heraldry */}
+        <div>
+          <label htmlFor="heraldry" className="label">
+            Heraldry
+          </label>
+          <input
+            id="heraldry"
+            type="text"
+            className="input"
+            value={formData.heraldry}
+            onChange={(e) => setFormData({ ...formData, heraldry: e.target.value })}
+            placeholder="e.g., A crimson skull on black field"
+            disabled={isSubmitting}
+          />
+          <p className="mt-1 text-xs text-gray-500">
+            Describe your army's banner, colors, or symbols
+          </p>
+        </div>
+
         {/* Faction Selection */}
         <div>
           <label htmlFor="faction" className="label">
@@ -202,15 +241,39 @@ export default function CreateArmyPage() {
           <label htmlFor="realm" className="label">
             Realm of Origin
           </label>
-          <input
+          <select
             id="realm"
-            type="text"
             className="input"
             value={formData.realmOfOrigin}
-            onChange={(e) => setFormData({ ...formData, realmOfOrigin: e.target.value })}
-            placeholder="e.g., Ghyran, Aqshy, Shyish..."
+            onChange={(e) => setFormData({ ...formData, realmOfOrigin: e.target.value as RealmOfOrigin | '' })}
+            disabled={isSubmitting}
+          >
+            <option value="">Select a realm...</option>
+            {Object.values(RealmOfOrigin).map((realm) => (
+              <option key={realm} value={realm}>
+                {RealmOfOriginLabels[realm]}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        {/* Battle Formation */}
+        <div>
+          <label htmlFor="battleFormation" className="label">
+            Battle Formation
+          </label>
+          <input
+            id="battleFormation"
+            type="text"
+            className="input"
+            value={formData.battleFormation}
+            onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
+            placeholder="e.g., Bloodbound Warhorde, Hammer and Anvil..."
             disabled={isSubmitting}
           />
+          <p className="mt-1 text-xs text-gray-500">
+            Strategic formation for your army (faction-specific)
+          </p>
         </div>
 
         {/* Background */}
@@ -238,6 +301,50 @@ export default function CreateArmyPage() {
               selectedUnits={selectedUnits}
               onUnitsChange={setSelectedUnits}
             />
+          </div>
+        )}
+
+        {/* Warlord Selection */}
+        {selectedUnits.length > 0 && (
+          <div className="card bg-primary-50 border border-primary-200">
+            <h3 className="font-semibold mb-2">Warlord Selection</h3>
+            <p className="text-sm text-gray-600 mb-3">
+              Choose your army's warlord (must be a Hero). According to Path to Glory rules, your starting warlord must have a points value of 350 or less.
+            </p>
+            <div className="space-y-2">
+              {selectedUnits
+                .filter((unit) => {
+                  const warscroll = availableUnits[unit.warscrollId];
+                  return warscroll?.keywords?.unit?.includes('Hero');
+                })
+                .map((unit) => (
+                  <label
+                    key={unit.id}
+                    className="flex items-center p-3 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                  >
+                    <input
+                      type="radio"
+                      name="warlord"
+                      value={unit.id}
+                      checked={warlordUnitId === unit.id}
+                      onChange={(e) => setWarlordUnitId(e.target.value)}
+                      className="h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
+                    />
+                    <div className="ml-3">
+                      <div className="font-medium text-sm">{unit.name}</div>
+                      <div className="text-xs text-gray-600">{unit.warscroll}</div>
+                    </div>
+                  </label>
+                ))}
+              {selectedUnits.filter((unit) => {
+                const warscroll = availableUnits[unit.warscrollId];
+                return warscroll?.keywords?.unit?.includes('Hero');
+              }).length === 0 && (
+                <p className="text-sm text-gray-500 italic">
+                  No Heroes added yet. Add a Hero unit to select your warlord.
+                </p>
+              )}
+            </div>
           </div>
         )}
 

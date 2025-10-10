@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
 import { useQuery, useMutation } from '@apollo/client';
-import { getAllFactions } from '@path-to-glory/shared';
+import { getAllFactions, RealmOfOrigin, RealmOfOriginLabels } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
 import { GET_ARMY, UPDATE_ARMY, GET_MY_ARMIES } from '../graphql/operations';
 
@@ -25,6 +25,17 @@ export default function EditArmyPage() {
 
   const [formData, setFormData] = useState({
     name: '',
+    heraldry: '',
+    realmOfOrigin: '' as RealmOfOrigin | '',
+    battleFormation: '',
+    background: '',
+    notableEvents: '',
+    currentQuest: '',
+    questPoints: 0,
+    completedQuests: [] as string[],
+    spellLore: [] as string[],
+    prayerLore: [] as string[],
+    manifestationLore: [] as string[],
   });
 
   const [submitError, setSubmitError] = useState<string | null>(null);
@@ -42,6 +53,17 @@ export default function EditArmyPage() {
     if (army) {
       setFormData({
         name: army.name,
+        heraldry: army.heraldry || '',
+        realmOfOrigin: army.realmOfOrigin || '',
+        battleFormation: army.battleFormation || '',
+        background: army.background || '',
+        notableEvents: army.notableEvents || '',
+        currentQuest: army.currentQuest || '',
+        questPoints: army.questPoints || 0,
+        completedQuests: army.completedQuests || [],
+        spellLore: army.spellLore || [],
+        prayerLore: army.prayerLore || [],
+        manifestationLore: army.manifestationLore || [],
       });
     }
   }, [army, user, authLoading, navigate]);
@@ -61,6 +83,17 @@ export default function EditArmyPage() {
           id: armyId!,
           input: {
             name: formData.name,
+            heraldry: formData.heraldry || undefined,
+            realmOfOrigin: formData.realmOfOrigin || undefined,
+            battleFormation: formData.battleFormation || undefined,
+            background: formData.background || undefined,
+            notableEvents: formData.notableEvents || undefined,
+            currentQuest: formData.currentQuest || undefined,
+            questPoints: formData.questPoints,
+            completedQuests: formData.completedQuests,
+            spellLore: formData.spellLore,
+            prayerLore: formData.prayerLore,
+            manifestationLore: formData.manifestationLore,
           },
         },
       });
@@ -148,6 +181,25 @@ export default function EditArmyPage() {
           />
         </div>
 
+        {/* Heraldry */}
+        <div>
+          <label htmlFor="heraldry" className="label">
+            Heraldry
+          </label>
+          <input
+            id="heraldry"
+            type="text"
+            className="input"
+            value={formData.heraldry}
+            onChange={(e) => setFormData({ ...formData, heraldry: e.target.value })}
+            placeholder="e.g., A crimson skull on black field"
+            disabled={updating}
+          />
+          <p className="mt-1 text-xs text-gray-500">
+            Describe your army's banner, colors, or symbols
+          </p>
+        </div>
+
         {/* Faction (Read-only) */}
         <div>
           <label htmlFor="faction" className="label">
@@ -165,12 +217,185 @@ export default function EditArmyPage() {
           </p>
         </div>
 
-        {/* Note about missing fields */}
-        <div className="card bg-yellow-50 border border-yellow-200">
-          <p className="text-sm text-yellow-800">
-            <strong>Note:</strong> Realm of Origin and Background fields are not yet implemented in the backend schema.
-            Only the army name can be edited at this time.
+        {/* Realm of Origin */}
+        <div>
+          <label htmlFor="realm" className="label">
+            Realm of Origin
+          </label>
+          <select
+            id="realm"
+            className="input"
+            value={formData.realmOfOrigin}
+            onChange={(e) => setFormData({ ...formData, realmOfOrigin: e.target.value as RealmOfOrigin | '' })}
+            disabled={updating}
+          >
+            <option value="">Select a realm...</option>
+            {Object.values(RealmOfOrigin).map((realm) => (
+              <option key={realm} value={realm}>
+                {RealmOfOriginLabels[realm]}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        {/* Battle Formation */}
+        <div>
+          <label htmlFor="battleFormation" className="label">
+            Battle Formation
+          </label>
+          <input
+            id="battleFormation"
+            type="text"
+            className="input"
+            value={formData.battleFormation}
+            onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
+            placeholder="e.g., Bloodbound Warhorde, Hammer and Anvil..."
+            disabled={updating}
+          />
+          <p className="mt-1 text-xs text-gray-500">
+            Strategic formation for your army (faction-specific)
           </p>
+        </div>
+
+        {/* Background */}
+        <div>
+          <label htmlFor="background" className="label">
+            Background
+          </label>
+          <textarea
+            id="background"
+            rows={4}
+            className="input"
+            value={formData.background}
+            onChange={(e) => setFormData({ ...formData, background: e.target.value })}
+            placeholder="Tell the story of your warband..."
+            disabled={updating}
+          />
+        </div>
+
+        {/* Notable Events */}
+        <div>
+          <label htmlFor="notableEvents" className="label">
+            Notable Events
+          </label>
+          <textarea
+            id="notableEvents"
+            rows={4}
+            className="input"
+            value={formData.notableEvents}
+            onChange={(e) => setFormData({ ...formData, notableEvents: e.target.value })}
+            placeholder="Record memorable battles, victories, defeats, and key moments in your army's history..."
+            disabled={updating}
+          />
+        </div>
+
+        {/* Quest Log Section */}
+        <div className="border-t pt-6">
+          <h3 className="text-lg font-semibold mb-4">Quest Log</h3>
+
+          {/* Current Quest */}
+          <div className="mb-4">
+            <label htmlFor="currentQuest" className="label">
+              Current Quest
+            </label>
+            <input
+              id="currentQuest"
+              type="text"
+              className="input"
+              value={formData.currentQuest}
+              onChange={(e) => setFormData({ ...formData, currentQuest: e.target.value })}
+              placeholder="e.g., Claim the Ancient Ruins, Forge an Alliance..."
+              disabled={updating}
+            />
+          </div>
+
+          {/* Quest Points */}
+          <div className="mb-4">
+            <label htmlFor="questPoints" className="label">
+              Quest Points
+            </label>
+            <input
+              id="questPoints"
+              type="number"
+              min="0"
+              className="input"
+              value={formData.questPoints}
+              onChange={(e) => setFormData({ ...formData, questPoints: parseInt(e.target.value) || 0 })}
+              disabled={updating}
+            />
+            <p className="mt-1 text-xs text-gray-500">
+              Progress toward completing your current quest
+            </p>
+          </div>
+
+          {/* Completed Quests */}
+          <div>
+            <label htmlFor="completedQuests" className="label">
+              Completed Quests
+            </label>
+            <textarea
+              id="completedQuests"
+              rows={3}
+              className="input"
+              value={formData.completedQuests.join('\n')}
+              onChange={(e) => setFormData({ ...formData, completedQuests: e.target.value.split('\n').filter(q => q.trim()) })}
+              placeholder="Enter completed quests, one per line..."
+              disabled={updating}
+            />
+          </div>
+        </div>
+
+        {/* Arcane Tome Section */}
+        <div className="border-t pt-6">
+          <h3 className="text-lg font-semibold mb-4">Arcane Tome</h3>
+
+          {/* Spell Lore */}
+          <div className="mb-4">
+            <label htmlFor="spellLore" className="label">
+              Spell Lore (max 6)
+            </label>
+            <textarea
+              id="spellLore"
+              rows={3}
+              className="input"
+              value={formData.spellLore.join('\n')}
+              onChange={(e) => setFormData({ ...formData, spellLore: e.target.value.split('\n').filter(s => s.trim()).slice(0, 6) })}
+              placeholder="Enter spells, one per line (max 6)..."
+              disabled={updating}
+            />
+          </div>
+
+          {/* Prayer Lore */}
+          <div className="mb-4">
+            <label htmlFor="prayerLore" className="label">
+              Prayer Lore (max 6)
+            </label>
+            <textarea
+              id="prayerLore"
+              rows={3}
+              className="input"
+              value={formData.prayerLore.join('\n')}
+              onChange={(e) => setFormData({ ...formData, prayerLore: e.target.value.split('\n').filter(p => p.trim()).slice(0, 6) })}
+              placeholder="Enter prayers, one per line (max 6)..."
+              disabled={updating}
+            />
+          </div>
+
+          {/* Manifestation Lore */}
+          <div>
+            <label htmlFor="manifestationLore" className="label">
+              Manifestation Lore (max 6)
+            </label>
+            <textarea
+              id="manifestationLore"
+              rows={3}
+              className="input"
+              value={formData.manifestationLore.join('\n')}
+              onChange={(e) => setFormData({ ...formData, manifestationLore: e.target.value.split('\n').filter(m => m.trim()).slice(0, 6) })}
+              placeholder="Enter manifestations, one per line (max 6)..."
+              disabled={updating}
+            />
+          </div>
         </div>
 
         {/* Actions */}

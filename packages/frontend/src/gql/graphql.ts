@@ -17,31 +17,46 @@ export type Scalars = {
 };
 
 export type AddUnitInput = {
+  isWarlord: Scalars['Boolean']['input'];
   name: Scalars['String']['input'];
+  pathAbilities?: InputMaybe<Array<Scalars['String']['input']>>;
   rank: Scalars['String']['input'];
   reinforced: Scalars['Boolean']['input'];
   renown: Scalars['Int']['input'];
   size: Scalars['Int']['input'];
   unitTypeId: Scalars['String']['input'];
+  warscroll: Scalars['String']['input'];
   wounds: Scalars['Int']['input'];
 };
 
 /** An army/warband belonging to a player in a campaign */
 export type Army = {
   __typename?: 'Army';
+  background?: Maybe<Scalars['String']['output']>;
+  battleFormation?: Maybe<Scalars['String']['output']>;
   campaign: Campaign;
   campaignId: Scalars['ID']['output'];
+  completedQuests: Array<Scalars['String']['output']>;
   createdAt: Scalars['String']['output'];
+  currentQuest?: Maybe<Scalars['String']['output']>;
   faction: Faction;
   factionId: Scalars['ID']['output'];
   glory: Scalars['Int']['output'];
+  heraldry?: Maybe<Scalars['String']['output']>;
   id: Scalars['ID']['output'];
+  manifestationLore: Array<Scalars['String']['output']>;
   name: Scalars['String']['output'];
+  notableEvents?: Maybe<Scalars['String']['output']>;
   player: User;
   playerId: Scalars['ID']['output'];
+  prayerLore: Array<Scalars['String']['output']>;
+  questPoints: Scalars['Int']['output'];
+  realmOfOrigin?: Maybe<RealmOfOrigin>;
   renown: Scalars['Int']['output'];
+  spellLore: Array<Scalars['String']['output']>;
   units: Array<Unit>;
   updatedAt: Scalars['String']['output'];
+  warlord?: Maybe<Unit>;
 };
 
 /** A battle record between armies */
@@ -78,9 +93,14 @@ export type Campaign = {
 };
 
 export type CreateArmyInput = {
+  background?: InputMaybe<Scalars['String']['input']>;
+  battleFormation?: InputMaybe<Scalars['String']['input']>;
   campaignId: Scalars['ID']['input'];
   factionId: Scalars['ID']['input'];
+  heraldry?: InputMaybe<Scalars['String']['input']>;
   name: Scalars['String']['input'];
+  realmOfOrigin?: InputMaybe<RealmOfOrigin>;
+  warlordUnitId?: InputMaybe<Scalars['String']['input']>;
 };
 
 export type CreateCampaignInput = {
@@ -209,6 +229,18 @@ export type QueryFactionArgs = {
   id: Scalars['ID']['input'];
 };
 
+/** The eight Mortal Realms of Age of Sigmar */
+export enum RealmOfOrigin {
+  Aqshy = 'AQSHY',
+  Azyr = 'AZYR',
+  Chamon = 'CHAMON',
+  Ghur = 'GHUR',
+  Ghyran = 'GHYRAN',
+  Hysh = 'HYSH',
+  Shyish = 'SHYISH',
+  Ulgu = 'ULGU'
+}
+
 export type RecordBattleInput = {
   armies: Array<Scalars['ID']['input']>;
   campaignId: Scalars['ID']['input'];
@@ -218,7 +250,7 @@ export type RecordBattleInput = {
   playedAt: Scalars['String']['input'];
 };
 
-/** A unit within an army */
+/** A unit within an army (includes both Warlord and regular units) */
 export type Unit = {
   __typename?: 'Unit';
   army: Army;
@@ -227,7 +259,9 @@ export type Unit = {
   enhancements: Array<Scalars['String']['output']>;
   id: Scalars['ID']['output'];
   injuries: Array<Scalars['String']['output']>;
+  isWarlord: Scalars['Boolean']['output'];
   name: Scalars['String']['output'];
+  pathAbilities: Array<Scalars['String']['output']>;
   rank: Scalars['String']['output'];
   reinforced: Scalars['Boolean']['output'];
   renown: Scalars['Int']['output'];
@@ -235,24 +269,39 @@ export type Unit = {
   unitTypeId: Scalars['String']['output'];
   updatedAt: Scalars['String']['output'];
   veteranAbilities: Array<Scalars['String']['output']>;
+  warscroll: Scalars['String']['output'];
   wounds: Scalars['Int']['output'];
 };
 
 export type UpdateArmyInput = {
+  background?: InputMaybe<Scalars['String']['input']>;
+  battleFormation?: InputMaybe<Scalars['String']['input']>;
+  completedQuests?: InputMaybe<Array<Scalars['String']['input']>>;
+  currentQuest?: InputMaybe<Scalars['String']['input']>;
   glory?: InputMaybe<Scalars['Int']['input']>;
+  heraldry?: InputMaybe<Scalars['String']['input']>;
+  manifestationLore?: InputMaybe<Array<Scalars['String']['input']>>;
   name?: InputMaybe<Scalars['String']['input']>;
+  notableEvents?: InputMaybe<Scalars['String']['input']>;
+  prayerLore?: InputMaybe<Array<Scalars['String']['input']>>;
+  questPoints?: InputMaybe<Scalars['Int']['input']>;
+  realmOfOrigin?: InputMaybe<RealmOfOrigin>;
   renown?: InputMaybe<Scalars['Int']['input']>;
+  spellLore?: InputMaybe<Array<Scalars['String']['input']>>;
 };
 
 export type UpdateUnitInput = {
   enhancements?: InputMaybe<Array<Scalars['String']['input']>>;
   injuries?: InputMaybe<Array<Scalars['String']['input']>>;
+  isWarlord?: InputMaybe<Scalars['Boolean']['input']>;
   name?: InputMaybe<Scalars['String']['input']>;
+  pathAbilities?: InputMaybe<Array<Scalars['String']['input']>>;
   rank?: InputMaybe<Scalars['String']['input']>;
   reinforced?: InputMaybe<Scalars['Boolean']['input']>;
   renown?: InputMaybe<Scalars['Int']['input']>;
   size?: InputMaybe<Scalars['Int']['input']>;
   veteranAbilities?: InputMaybe<Array<Scalars['String']['input']>>;
+  warscroll?: InputMaybe<Scalars['String']['input']>;
   wounds?: InputMaybe<Scalars['Int']['input']>;
 };
 
@@ -279,7 +328,7 @@ export type GetArmyQueryVariables = Exact<{
 }>;
 
 
-export type GetArmyQuery = { __typename?: 'Query', army?: { __typename?: 'Army', id: string, campaignId: string, name: string, factionId: string, glory: number, renown: number, createdAt: string, updatedAt: string, player: { __typename?: 'User', id: string, name: string, email: string, picture?: string | null }, units: Array<{ __typename?: 'Unit', id: string, unitTypeId: string, name: string, size: number, wounds: number, rank: string, renown: number, reinforced: boolean, veteranAbilities: Array<string>, injuries: Array<string>, enhancements: Array<string>, createdAt: string, updatedAt: string }> } | null };
+export type GetArmyQuery = { __typename?: 'Query', army?: { __typename?: 'Army', id: string, campaignId: string, name: string, factionId: string, heraldry?: string | null, realmOfOrigin?: RealmOfOrigin | null, battleFormation?: string | null, glory: number, renown: number, background?: string | null, notableEvents?: string | null, currentQuest?: string | null, questPoints: number, completedQuests: Array<string>, spellLore: Array<string>, prayerLore: Array<string>, manifestationLore: Array<string>, createdAt: string, updatedAt: string, player: { __typename?: 'User', id: string, name: string, email: string, picture?: string | null }, units: Array<{ __typename?: 'Unit', id: string, unitTypeId: string, name: string, warscroll: string, size: number, wounds: number, rank: string, renown: number, reinforced: boolean, isWarlord: boolean, veteranAbilities: Array<string>, injuries: Array<string>, enhancements: Array<string>, pathAbilities: Array<string>, createdAt: string, updatedAt: string }> } | null };
 
 export type GetFactionsQueryVariables = Exact<{ [key: string]: never; }>;
 
@@ -351,7 +400,7 @@ export type AddVeteranAbilityMutation = { __typename?: 'Mutation', addVeteranAbi
 
 
 export const GetMyArmiesDocument = {"kind":"Document","definitions":[{"kind":"OperationDefinition","operation":"query","name":{"kind":"Name","value":"GetMyArmies"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"myArmies"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"factionId"}},{"kind":"Field","name":{"kind":"Name","value":"glory"}},{"kind":"Field","name":{"kind":"Name","value":"renown"}},{"kind":"Field","name":{"kind":"Name","value":"createdAt"}},{"kind":"Field","name":{"kind":"Name","value":"updatedAt"}},{"kind":"Field","name":{"kind":"Name","value":"player"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"email"}},{"kind":"Field","name":{"kind":"Name","value":"picture"}}]}}]}}]}}]} as unknown as DocumentNode<GetMyArmiesQuery, GetMyArmiesQueryVariables>;
-export const GetArmyDocument = {"kind":"Document","definitions":[{"kind":"OperationDefinition","operation":"query","name":{"kind":"Name","value":"GetArmy"},"variableDefinitions":[{"kind":"VariableDefinition","variable":{"kind":"Variable","name":{"kind":"Name","value":"id"}},"type":{"kind":"NonNullType","type":{"kind":"NamedType","name":{"kind":"Name","value":"ID"}}}}],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"army"},"arguments":[{"kind":"Argument","name":{"kind":"Name","value":"id"},"value":{"kind":"Variable","name":{"kind":"Name","value":"id"}}}],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"campaignId"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"factionId"}},{"kind":"Field","name":{"kind":"Name","value":"glory"}},{"kind":"Field","name":{"kind":"Name","value":"renown"}},{"kind":"Field","name":{"kind":"Name","value":"createdAt"}},{"kind":"Field","name":{"kind":"Name","value":"updatedAt"}},{"kind":"Field","name":{"kind":"Name","value":"player"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"email"}},{"kind":"Field","name":{"kind":"Name","value":"picture"}}]}},{"kind":"Field","name":{"kind":"Name","value":"units"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"unitTypeId"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"size"}},{"kind":"Field","name":{"kind":"Name","value":"wounds"}},{"kind":"Field","name":{"kind":"Name","value":"rank"}},{"kind":"Field","name":{"kind":"Name","value":"renown"}},{"kind":"Field","name":{"kind":"Name","value":"reinforced"}},{"kind":"Field","name":{"kind":"Name","value":"veteranAbilities"}},{"kind":"Field","name":{"kind":"Name","value":"injuries"}},{"kind":"Field","name":{"kind":"Name","value":"enhancements"}},{"kind":"Field","name":{"kind":"Name","value":"createdAt"}},{"kind":"Field","name":{"kind":"Name","value":"updatedAt"}}]}}]}}]}}]} as unknown as DocumentNode<GetArmyQuery, GetArmyQueryVariables>;
+export const GetArmyDocument = {"kind":"Document","definitions":[{"kind":"OperationDefinition","operation":"query","name":{"kind":"Name","value":"GetArmy"},"variableDefinitions":[{"kind":"VariableDefinition","variable":{"kind":"Variable","name":{"kind":"Name","value":"id"}},"type":{"kind":"NonNullType","type":{"kind":"NamedType","name":{"kind":"Name","value":"ID"}}}}],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"army"},"arguments":[{"kind":"Argument","name":{"kind":"Name","value":"id"},"value":{"kind":"Variable","name":{"kind":"Name","value":"id"}}}],"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"campaignId"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"factionId"}},{"kind":"Field","name":{"kind":"Name","value":"heraldry"}},{"kind":"Field","name":{"kind":"Name","value":"realmOfOrigin"}},{"kind":"Field","name":{"kind":"Name","value":"battleFormation"}},{"kind":"Field","name":{"kind":"Name","value":"glory"}},{"kind":"Field","name":{"kind":"Name","value":"renown"}},{"kind":"Field","name":{"kind":"Name","value":"background"}},{"kind":"Field","name":{"kind":"Name","value":"notableEvents"}},{"kind":"Field","name":{"kind":"Name","value":"currentQuest"}},{"kind":"Field","name":{"kind":"Name","value":"questPoints"}},{"kind":"Field","name":{"kind":"Name","value":"completedQuests"}},{"kind":"Field","name":{"kind":"Name","value":"spellLore"}},{"kind":"Field","name":{"kind":"Name","value":"prayerLore"}},{"kind":"Field","name":{"kind":"Name","value":"manifestationLore"}},{"kind":"Field","name":{"kind":"Name","value":"createdAt"}},{"kind":"Field","name":{"kind":"Name","value":"updatedAt"}},{"kind":"Field","name":{"kind":"Name","value":"player"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"email"}},{"kind":"Field","name":{"kind":"Name","value":"picture"}}]}},{"kind":"Field","name":{"kind":"Name","value":"units"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"unitTypeId"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"warscroll"}},{"kind":"Field","name":{"kind":"Name","value":"size"}},{"kind":"Field","name":{"kind":"Name","value":"wounds"}},{"kind":"Field","name":{"kind":"Name","value":"rank"}},{"kind":"Field","name":{"kind":"Name","value":"renown"}},{"kind":"Field","name":{"kind":"Name","value":"reinforced"}},{"kind":"Field","name":{"kind":"Name","value":"isWarlord"}},{"kind":"Field","name":{"kind":"Name","value":"veteranAbilities"}},{"kind":"Field","name":{"kind":"Name","value":"injuries"}},{"kind":"Field","name":{"kind":"Name","value":"enhancements"}},{"kind":"Field","name":{"kind":"Name","value":"pathAbilities"}},{"kind":"Field","name":{"kind":"Name","value":"createdAt"}},{"kind":"Field","name":{"kind":"Name","value":"updatedAt"}}]}}]}}]}}]} as unknown as DocumentNode<GetArmyQuery, GetArmyQueryVariables>;
 export const GetFactionsDocument = {"kind":"Document","definitions":[{"kind":"OperationDefinition","operation":"query","name":{"kind":"Name","value":"GetFactions"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"factions"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"grandAlliance"}},{"kind":"Field","name":{"kind":"Name","value":"startingGlory"}},{"kind":"Field","name":{"kind":"Name","value":"startingRenown"}},{"kind":"Field","name":{"kind":"Name","value":"description"}}]}}]}}]} as unknown as DocumentNode<GetFactionsQuery, GetFactionsQueryVariables>;
 export const GetMeDocument = {"kind":"Document","definitions":[{"kind":"OperationDefinition","operation":"query","name":{"kind":"Name","value":"GetMe"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"me"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"email"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"picture"}},{"kind":"Field","name":{"kind":"Name","value":"googleId"}},{"kind":"Field","name":{"kind":"Name","value":"createdAt"}}]}}]}}]} as unknown as DocumentNode<GetMeQuery, GetMeQueryVariables>;
 export const GetMyCampaignsDocument = {"kind":"Document","definitions":[{"kind":"OperationDefinition","operation":"query","name":{"kind":"Name","value":"GetMyCampaigns"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"myCampaigns"},"selectionSet":{"kind":"SelectionSet","selections":[{"kind":"Field","name":{"kind":"Name","value":"id"}},{"kind":"Field","name":{"kind":"Name","value":"name"}},{"kind":"Field","name":{"kind":"Name","value":"ownerId"}},{"kind":"Field","name":{"kind":"Name","value":"createdAt"}}]}}]}}]} as unknown as DocumentNode<GetMyCampaignsQuery, GetMyCampaignsQueryVariables>;

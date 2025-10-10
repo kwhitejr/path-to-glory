@@ -9,14 +9,29 @@ export interface CreateArmyParams {
   playerId: string;
   factionId: string;
   name: string;
+  heraldry?: string;
+  realmOfOrigin?: string;
+  battleFormation?: string;
+  background?: string;
   glory?: number;
   renown?: number;
 }
 
 export interface UpdateArmyParams {
   name?: string;
+  heraldry?: string;
+  realmOfOrigin?: string;
+  battleFormation?: string;
   glory?: number;
   renown?: number;
+  background?: string;
+  notableEvents?: string;
+  currentQuest?: string;
+  questPoints?: number;
+  completedQuests?: string[];
+  spellLore?: string[];
+  prayerLore?: string[];
+  manifestationLore?: string[];
 }
 
 export class ArmyRepository {
@@ -33,8 +48,17 @@ export class ArmyRepository {
       playerId: params.playerId,
       factionId: params.factionId,
       name: params.name,
+      heraldry: params.heraldry,
+      realmOfOrigin: params.realmOfOrigin,
+      battleFormation: params.battleFormation,
       glory: params.glory ?? 0,
       renown: params.renown ?? 0,
+      background: params.background,
+      questPoints: 0,
+      completedQuests: [],
+      spellLore: [],
+      prayerLore: [],
+      manifestationLore: [],
       createdAt: now,
       updatedAt: now,
     };
@@ -99,13 +123,28 @@ export class ArmyRepository {
   ): Promise<ArmyItem> {
     const updateExpressions: string[] = [];
     const expressionAttributeNames: Record<string, string> = {};
-    const expressionAttributeValues: Record<string, any> = {};
+    const expressionAttributeValues: Record<string, string | number> = {};
 
     // Build dynamic update expression
     if (params.name !== undefined) {
       updateExpressions.push('#name = :name');
       expressionAttributeNames['#name'] = 'name';
       expressionAttributeValues[':name'] = params.name;
+    }
+
+    if (params.heraldry !== undefined) {
+      updateExpressions.push('heraldry = :heraldry');
+      expressionAttributeValues[':heraldry'] = params.heraldry;
+    }
+
+    if (params.realmOfOrigin !== undefined) {
+      updateExpressions.push('realmOfOrigin = :realmOfOrigin');
+      expressionAttributeValues[':realmOfOrigin'] = params.realmOfOrigin;
+    }
+
+    if (params.battleFormation !== undefined) {
+      updateExpressions.push('battleFormation = :battleFormation');
+      expressionAttributeValues[':battleFormation'] = params.battleFormation;
     }
 
     if (params.glory !== undefined) {
@@ -116,6 +155,46 @@ export class ArmyRepository {
     if (params.renown !== undefined) {
       updateExpressions.push('renown = :renown');
       expressionAttributeValues[':renown'] = params.renown;
+    }
+
+    if (params.background !== undefined) {
+      updateExpressions.push('background = :background');
+      expressionAttributeValues[':background'] = params.background;
+    }
+
+    if (params.notableEvents !== undefined) {
+      updateExpressions.push('notableEvents = :notableEvents');
+      expressionAttributeValues[':notableEvents'] = params.notableEvents;
+    }
+
+    if (params.currentQuest !== undefined) {
+      updateExpressions.push('currentQuest = :currentQuest');
+      expressionAttributeValues[':currentQuest'] = params.currentQuest;
+    }
+
+    if (params.questPoints !== undefined) {
+      updateExpressions.push('questPoints = :questPoints');
+      expressionAttributeValues[':questPoints'] = params.questPoints;
+    }
+
+    if (params.completedQuests !== undefined) {
+      updateExpressions.push('completedQuests = :completedQuests');
+      expressionAttributeValues[':completedQuests'] = params.completedQuests as any;
+    }
+
+    if (params.spellLore !== undefined) {
+      updateExpressions.push('spellLore = :spellLore');
+      expressionAttributeValues[':spellLore'] = params.spellLore as any;
+    }
+
+    if (params.prayerLore !== undefined) {
+      updateExpressions.push('prayerLore = :prayerLore');
+      expressionAttributeValues[':prayerLore'] = params.prayerLore as any;
+    }
+
+    if (params.manifestationLore !== undefined) {
+      updateExpressions.push('manifestationLore = :manifestationLore');
+      expressionAttributeValues[':manifestationLore'] = params.manifestationLore as any;
     }
 
     // Always update updatedAt

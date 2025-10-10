@@ -9,23 +9,29 @@ export interface CreateUnitParams {
   armyId: string;
   unitTypeId: string;
   name: string;
+  warscroll: string;
   size: number;
   wounds: number;
   rank: string;
   renown: number;
   reinforced: boolean;
+  isWarlord: boolean;
+  pathAbilities?: string[];
 }
 
 export interface UpdateUnitParams {
   name?: string;
+  warscroll?: string;
   size?: number;
   wounds?: number;
   rank?: string;
   renown?: number;
   reinforced?: boolean;
+  isWarlord?: boolean;
   veteranAbilities?: string[];
   injuries?: string[];
   enhancements?: string[];
+  pathAbilities?: string[];
 }
 
 export class UnitRepository {
@@ -41,14 +47,17 @@ export class UnitRepository {
       armyId: params.armyId,
       unitTypeId: params.unitTypeId,
       name: params.name,
+      warscroll: params.warscroll,
       size: params.size,
       wounds: params.wounds,
       rank: params.rank,
       renown: params.renown,
       reinforced: params.reinforced,
+      isWarlord: params.isWarlord,
       veteranAbilities: [],
       injuries: [],
       enhancements: [],
+      pathAbilities: params.pathAbilities || [],
       createdAt: now,
       updatedAt: now,
     };
@@ -87,7 +96,7 @@ export class UnitRepository {
   ): Promise<UnitItem> {
     const updateExpressions: string[] = [];
     const expressionAttributeNames: Record<string, string> = {};
-    const expressionAttributeValues: Record<string, any> = {};
+    const expressionAttributeValues: Record<string, string | number | boolean | string[]> = {};
 
     // Build dynamic update expression
     if (params.name !== undefined) {
@@ -136,6 +145,21 @@ export class UnitRepository {
     if (params.enhancements !== undefined) {
       updateExpressions.push('enhancements = :enhancements');
       expressionAttributeValues[':enhancements'] = params.enhancements;
+    }
+
+    if (params.warscroll !== undefined) {
+      updateExpressions.push('warscroll = :warscroll');
+      expressionAttributeValues[':warscroll'] = params.warscroll;
+    }
+
+    if (params.isWarlord !== undefined) {
+      updateExpressions.push('isWarlord = :isWarlord');
+      expressionAttributeValues[':isWarlord'] = params.isWarlord;
+    }
+
+    if (params.pathAbilities !== undefined) {
+      updateExpressions.push('pathAbilities = :pathAbilities');
+      expressionAttributeValues[':pathAbilities'] = params.pathAbilities;
     }
 
     // Always update updatedAt

@@ -33,8 +33,19 @@ export interface ArmyModel {
   playerId: string; // cognitoId
   factionId: string;
   name: string;
+  heraldry?: string;
+  realmOfOrigin?: string; // Enum: AQSHY, CHAMON, GHUR, GHYRAN, HYSH, SHYISH, ULGU, AZYR
+  battleFormation?: string;
   glory: number;
   renown: number;
+  background?: string;
+  notableEvents?: string;
+  currentQuest?: string;
+  questPoints: number;
+  completedQuests: string[];
+  spellLore: string[];
+  prayerLore: string[];
+  manifestationLore: string[];
   createdAt: string;
   updatedAt: string;
 }
@@ -46,11 +57,17 @@ export interface UnitModel {
   armyId: string;
   unitTypeId: string;
   name: string;
+  warscroll: string;
   size: number;
   wounds: number;
+  rank: string;
+  renown: number;
+  reinforced: boolean;
+  isWarlord: boolean;
   veteranAbilities: string[];
   injuries: string[];
   enhancements: string[];
+  pathAbilities: string[];
   createdAt: string;
   updatedAt: string;
 }

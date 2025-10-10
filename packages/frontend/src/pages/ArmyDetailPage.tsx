@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useQuery } from '@apollo/client';
-import { getFactionById, UnitRank, getUnit } from '@path-to-glory/shared';
+import { getFactionById, UnitRank, getUnit, RealmOfOriginLabels } from '@path-to-glory/shared';
 import { GET_ARMY } from '../graphql/operations';
 import type { GetArmyQuery } from '../gql/graphql';
 
@@ -92,18 +92,129 @@ export default function ArmyDetailPage() {
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm">
           <div>
             <span className="text-gray-500 block">Glory Points</span>
-            <span className="font-bold text-lg">{army.glory}</span>
+            <span className="font-bold text-lg text-primary-600">{army.glory}</span>
           </div>
           <div>
             <span className="text-gray-500 block">Renown</span>
-            <span className="font-bold text-lg">{army.renown}</span>
+            <span className="font-bold text-lg text-primary-600">{army.renown}</span>
           </div>
           <div>
             <span className="text-gray-500 block">Grand Alliance</span>
             <span className="font-semibold">{faction?.grandAlliance}</span>
           </div>
+          {army.realmOfOrigin && (
+            <div>
+              <span className="text-gray-500 block">Realm of Origin</span>
+              <span className="font-semibold">{RealmOfOriginLabels[army.realmOfOrigin as unknown as keyof typeof RealmOfOriginLabels]}</span>
+            </div>
+          )}
+          {army.battleFormation && (
+            <div>
+              <span className="text-gray-500 block">Battle Formation</span>
+              <span className="font-semibold">{army.battleFormation}</span>
+            </div>
+          )}
         </div>
+
+        {/* Heraldry */}
+        {army.heraldry && (
+          <div className="mt-4 pt-4 border-t">
+            <span className="text-gray-500 block mb-2">Heraldry</span>
+            <p className="text-sm">{army.heraldry}</p>
+          </div>
+        )}
+
+        {/* Background */}
+        {army.background && (
+          <div className="mt-4 pt-4 border-t">
+            <span className="text-gray-500 block mb-2">Background</span>
+            <p className="text-sm whitespace-pre-wrap">{army.background}</p>
+          </div>
+        )}
+
+        {/* Notable Events */}
+        {army.notableEvents && (
+          <div className="mt-4 pt-4 border-t">
+            <span className="text-gray-500 block mb-2">Notable Events</span>
+            <p className="text-sm whitespace-pre-wrap">{army.notableEvents}</p>
+          </div>
+        )}
       </div>
+
+      {/* Quest Log */}
+      {(army.currentQuest || army.completedQuests?.length > 0) && (
+        <div className="card">
+          <h3 className="font-bold text-lg mb-4">Quest Log</h3>
+
+          {army.currentQuest && (
+            <div className="mb-4 p-3 bg-primary-50 border border-primary-200 rounded-lg">
+              <div className="flex justify-between items-start mb-2">
+                <span className="text-sm text-gray-600">Current Quest</span>
+                <span className="text-xs font-semibold px-2 py-1 bg-primary-600 text-white rounded">
+                  {army.questPoints || 0} points
+                </span>
+              </div>
+              <p className="font-semibold">{army.currentQuest}</p>
+            </div>
+          )}
+
+          {army.completedQuests && army.completedQuests.length > 0 && (
+            <div>
+              <span className="text-sm text-gray-600 block mb-2">Completed Quests ({army.completedQuests.length})</span>
+              <ul className="space-y-1">
+                {army.completedQuests.map((quest: string, idx: number) => (
+                  <li key={idx} className="text-sm flex items-start">
+                    <span className="text-green-600 mr-2">✓</span>
+                    <span>{quest}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* Arcane Tome */}
+      {(army.spellLore?.length > 0 || army.prayerLore?.length > 0 || army.manifestationLore?.length > 0) && (
+        <div className="card">
+          <h3 className="font-bold text-lg mb-4">Arcane Tome</h3>
+
+          <div className="grid md:grid-cols-3 gap-4">
+            {army.spellLore && army.spellLore.length > 0 && (
+              <div>
+                <span className="text-sm text-gray-600 block mb-2">Spell Lore</span>
+                <ul className="space-y-1">
+                  {army.spellLore.map((spell: string, idx: number) => (
+                    <li key={idx} className="text-sm">• {spell}</li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            {army.prayerLore && army.prayerLore.length > 0 && (
+              <div>
+                <span className="text-sm text-gray-600 block mb-2">Prayer Lore</span>
+                <ul className="space-y-1">
+                  {army.prayerLore.map((prayer: string, idx: number) => (
+                    <li key={idx} className="text-sm">• {prayer}</li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            {army.manifestationLore && army.manifestationLore.length > 0 && (
+              <div>
+                <span className="text-sm text-gray-600 block mb-2">Manifestation Lore</span>
+                <ul className="space-y-1">
+                  {army.manifestationLore.map((manifestation: string, idx: number) => (
+                    <li key={idx} className="text-sm">• {manifestation}</li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
 
       {/* Order of Battle - matches roster PDF structure */}
       <div className="card">

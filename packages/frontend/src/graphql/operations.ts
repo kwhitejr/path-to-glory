@@ -31,8 +31,19 @@ export const GET_ARMY = gql`
       campaignId
       name
       factionId
+      heraldry
+      realmOfOrigin
+      battleFormation
       glory
       renown
+      background
+      notableEvents
+      currentQuest
+      questPoints
+      completedQuests
+      spellLore
+      prayerLore
+      manifestationLore
       createdAt
       updatedAt
       player {
@@ -45,14 +56,17 @@ export const GET_ARMY = gql`
         id
         unitTypeId
         name
+        warscroll
         size
         wounds
         rank
         renown
         reinforced
+        isWarlord
         veteranAbilities
         injuries
         enhancements
+        pathAbilities
         createdAt
         updatedAt
       }

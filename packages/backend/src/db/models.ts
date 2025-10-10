@@ -37,8 +37,19 @@ export interface ArmyItem extends BaseItem {
   playerId: string;
   factionId: string;
   name: string;
+  heraldry?: string;
+  realmOfOrigin?: string;
+  battleFormation?: string;
   glory: number;
   renown: number;
+  background?: string;
+  notableEvents?: string;
+  currentQuest?: string;
+  questPoints: number;
+  completedQuests: string[];
+  spellLore: string[];
+  prayerLore: string[];
+  manifestationLore: string[];
 }
 
 export interface UnitItem extends BaseItem {
@@ -48,14 +59,17 @@ export interface UnitItem extends BaseItem {
   armyId: string;
   unitTypeId: string;
   name: string;
+  warscroll: string;
   size: number;
   wounds: number;
   rank: string;
   renown: number;
   reinforced: boolean;
+  isWarlord: boolean;
   veteranAbilities: string[];
   injuries: string[];
   enhancements: string[];
+  pathAbilities: string[];
 }
 
 export interface BattleItem extends BaseItem {
