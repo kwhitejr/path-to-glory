@@ -1,7 +1,9 @@
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
+import { useQuery } from '@apollo/client';
 import { getAllFactions, type FactionData } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
+import { GET_MY_ARMIES } from '../graphql/operations';
 
 type ViewMode = 'mine' | 'all';
 
@@ -10,14 +12,12 @@ export default function ArmyListPage() {
   const factions = getAllFactions();
   const factionsMap = Object.fromEntries(factions.map((f: FactionData) => [f.id, f]));
 
-  // Load armies from localStorage
-  const [allArmies, setAllArmies] = useState<any[]>([]);
+  // Load armies from backend via GraphQL
+  const { data, loading, error } = useQuery(GET_MY_ARMIES, {
+    skip: !user,
+  });
 
-  useEffect(() => {
-    // TODO: Replace with GraphQL query when backend is ready
-    const storedArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    setAllArmies(storedArmies);
-  }, []);
+  const allArmies = data?.myArmies || [];
 
   const [viewMode, setViewMode] = useState<ViewMode>('mine');
   const [selectedGrandAlliance, setSelectedGrandAlliance] = useState<string>('all');
@@ -32,24 +32,26 @@ export default function ArmyListPage() {
 
   const players = useMemo(() => {
     const playerMap = new Map<string, string>();
-    allArmies.forEach((army) => {
-      playerMap.set(army.playerId, army.playerName);
+    allArmies.forEach((army: any) => {
+      if (army.player) {
+        playerMap.set(army.player.id, army.player.name);
+      }
     });
     return Array.from(playerMap.entries()).map(([id, name]) => ({ id, name }));
   }, [allArmies]);
 
   // Filter armies
   const filteredArmies = useMemo(() => {
-    let result = allArmies;
+    let result: any[] = allArmies;
 
     // Filter by view mode (mine vs all)
     if (viewMode === 'mine' && user) {
-      result = result.filter((army) => army.playerId === user.id);
+      result = result.filter((army: any) => army.player?.id === user.id);
     }
 
     // Filter by grand alliance
     if (selectedGrandAlliance !== 'all') {
-      result = result.filter((army) => {
+      result = result.filter((army: any) => {
         const faction = factionsMap[army.factionId];
         return faction?.grandAlliance === selectedGrandAlliance;
       });
@@ -57,12 +59,12 @@ export default function ArmyListPage() {
 
     // Filter by faction
     if (selectedFaction !== 'all') {
-      result = result.filter((army) => army.factionId === selectedFaction);
+      result = result.filter((army: any) => army.factionId === selectedFaction);
     }
 
     // Filter by player (only in 'all' mode)
     if (viewMode === 'all' && selectedPlayer !== 'all') {
-      result = result.filter((army) => army.playerId === selectedPlayer);
+      result = result.filter((army: any) => army.player?.id === selectedPlayer);
     }
 
     return result;
@@ -75,6 +77,40 @@ export default function ArmyListPage() {
     setSelectedFaction('all');
     setSelectedPlayer('all');
   };
+
+  // Show loading state
+  if (loading) {
+    return (
+      <div className="space-y-6">
+        <div className="flex justify-between items-center">
+          <h2 className="text-2xl font-bold">Armies</h2>
+        </div>
+        <div className="text-center py-12">
+          <p className="text-gray-600">Loading armies...</p>
+        </div>
+      </div>
+    );
+  }
+
+  // Show error state
+  if (error) {
+    return (
+      <div className="space-y-6">
+        <div className="flex justify-between items-center">
+          <h2 className="text-2xl font-bold">Armies</h2>
+        </div>
+        <div className="card bg-red-50 border border-red-200">
+          <p className="text-red-800">Error loading armies: {error.message}</p>
+          <button
+            onClick={() => window.location.reload()}
+            className="btn-secondary mt-4"
+          >
+            Retry
+          </button>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="space-y-6">
@@ -224,7 +260,7 @@ export default function ArmyListPage() {
             )}
           </div>
         ) : (
-          filteredArmies.map((army) => {
+          filteredArmies.map((army: any) => {
             const faction = factionsMap[army.factionId];
             return (
               <Link
@@ -235,25 +271,17 @@ export default function ArmyListPage() {
                 <div className="flex justify-between items-start mb-3">
                   <div className="flex-1 flex items-start gap-3">
                     {/* Player profile picture */}
-                    {viewMode === 'all' && (
+                    {viewMode === 'all' && army.player && (
                       <div className="flex-shrink-0">
-                        {army.playerPicture ? (
-                          <img
-                            src={army.playerPicture}
-                            alt={army.playerName}
-                            className="h-10 w-10 rounded-full border-2 border-gray-200"
-                          />
-                        ) : (
-                          <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-gray-200 bg-gray-100 text-sm font-semibold text-gray-600">
-                            {army.playerName.charAt(0).toUpperCase()}
-                          </div>
-                        )}
+                        <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-gray-200 bg-gray-100 text-sm font-semibold text-gray-600">
+                          {army.player.name.charAt(0).toUpperCase()}
+                        </div>
                       </div>
                     )}
                     <div className="flex-1 min-w-0">
                       <h3 className="font-bold text-lg">{army.name}</h3>
-                      {viewMode === 'all' && (
-                        <p className="text-xs text-gray-500 mt-0.5">by {army.playerName}</p>
+                      {viewMode === 'all' && army.player && (
+                        <p className="text-xs text-gray-500 mt-0.5">by {army.player.name}</p>
                       )}
                     </div>
                   </div>
