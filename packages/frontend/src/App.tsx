@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate, useLocation } from 'react-route
 import { client } from './lib/apollo-client';
 import { AuthProvider, useAuth } from './contexts/AuthContext';
 import { configureAmplify } from './config/amplify';
+import { useFavicon } from './hooks/useFavicon';
 import Layout from './components/Layout';
 import ArmyListPage from './pages/ArmyListPage';
 import ArmyDetailPage from './pages/ArmyDetailPage';
@@ -52,25 +53,37 @@ function RootRedirect() {
   return <Navigate to="/armies" replace />;
 }
 
+// Inner component that has access to auth context
+function AppContent() {
+  const { user } = useAuth();
+
+  // Update favicon based on authentication status
+  useFavicon(!!user);
+
+  return (
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<RootRedirect />} />
+          <Route path="armies" element={<ArmyListPage />} />
+          <Route path="armies/new" element={<CreateArmyPage />} />
+          <Route path="armies/:armyId" element={<ArmyDetailPage />} />
+          <Route path="armies/:armyId/edit" element={<EditArmyPage />} />
+          <Route path="armies/:armyId/units/new" element={<AddUnitPage />} />
+          <Route path="armies/:armyId/units/:unitId/edit" element={<EditUnitPage />} />
+          <Route path="campaigns" element={<CampaignsPage />} />
+          <Route path="battles" element={<BattlesPage />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
+  );
+}
+
 function App() {
   return (
     <AuthProvider>
       <ApolloProvider client={client}>
-        <BrowserRouter>
-          <Routes>
-            <Route path="/" element={<Layout />}>
-              <Route index element={<RootRedirect />} />
-              <Route path="armies" element={<ArmyListPage />} />
-              <Route path="armies/new" element={<CreateArmyPage />} />
-              <Route path="armies/:armyId" element={<ArmyDetailPage />} />
-              <Route path="armies/:armyId/edit" element={<EditArmyPage />} />
-              <Route path="armies/:armyId/units/new" element={<AddUnitPage />} />
-              <Route path="armies/:armyId/units/:unitId/edit" element={<EditUnitPage />} />
-              <Route path="campaigns" element={<CampaignsPage />} />
-              <Route path="battles" element={<BattlesPage />} />
-            </Route>
-          </Routes>
-        </BrowserRouter>
+        <AppContent />
       </ApolloProvider>
     </AuthProvider>
   );
