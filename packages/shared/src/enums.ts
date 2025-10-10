@@ -31,6 +31,34 @@ export enum UnitRank {
 }
 
 /**
+ * The eight Mortal Realms of Age of Sigmar
+ */
+export enum RealmOfOrigin {
+  AQSHY = 'AQSHY', // Realm of Fire
+  CHAMON = 'CHAMON', // Realm of Metal
+  GHUR = 'GHUR', // Realm of Beasts
+  GHYRAN = 'GHYRAN', // Realm of Life
+  HYSH = 'HYSH', // Realm of Light
+  SHYISH = 'SHYISH', // Realm of Death
+  ULGU = 'ULGU', // Realm of Shadow
+  AZYR = 'AZYR', // Realm of Heavens
+}
+
+/**
+ * Human-readable labels for Realms of Origin
+ */
+export const RealmOfOriginLabels: Record<RealmOfOrigin, string> = {
+  [RealmOfOrigin.AQSHY]: 'Aqshy (Fire)',
+  [RealmOfOrigin.CHAMON]: 'Chamon (Metal)',
+  [RealmOfOrigin.GHUR]: 'Ghur (Beasts)',
+  [RealmOfOrigin.GHYRAN]: 'Ghyran (Life)',
+  [RealmOfOrigin.HYSH]: 'Hysh (Light)',
+  [RealmOfOrigin.SHYISH]: 'Shyish (Death)',
+  [RealmOfOrigin.ULGU]: 'Ulgu (Shadow)',
+  [RealmOfOrigin.AZYR]: 'Azyr (Heavens)',
+}
+
+/**
  * View mode for army list filtering
  */
 export enum ViewMode {

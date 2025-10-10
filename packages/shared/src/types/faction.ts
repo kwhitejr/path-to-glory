@@ -23,6 +23,23 @@ export const PathAbilitySchema = z.object({
 export type PathAbility = z.infer<typeof PathAbilitySchema>;
 
 /**
+ * Unit from battle profiles - represents a hero or regular unit
+ */
+export const UnitProfileSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  unitSize: z.union([z.number(), z.string()]), // Can be a number or range like "3-6"
+  points: z.number(),
+  isHero: z.boolean(),
+  regimentOptions: z.string().optional(),
+  keywords: z.array(z.string()).optional(),
+  notes: z.string().optional(),
+  baseSize: z.string().optional(),
+});
+
+export type UnitProfile = z.infer<typeof UnitProfileSchema>;
+
+/**
  * Schema for faction data extracted from PDFs
  */
 export const FactionSchema = z.object({
@@ -36,6 +53,7 @@ export const FactionSchema = z.object({
   extractedAt: z.string(), // ISO timestamp
   enhancements: z.array(EnhancementSchema).optional(), // Artefacts of Power
   pathAbilities: z.array(PathAbilitySchema).optional(), // Heroic Traits
+  units: z.array(UnitProfileSchema).optional(), // Units from battle profiles
 });
 
 export type FactionData = z.infer<typeof FactionSchema>;
