@@ -244,7 +244,7 @@ jobs:
       - name: Rebuild frontend with Cognito configuration
         run: npm run build -w @path-to-glory/frontend
         env:
-          VITE_GRAPHQL_ENDPOINT: https://ptg.kwhitejr.com/graphql
+          VITE_GRAPHQL_ENDPOINT: https://api.ptg.kwhitejr.com/graphql
           VITE_APP_URL: https://ptg.kwhitejr.com
           VITE_COGNITO_USER_POOL_ID: ${{ steps.tf-outputs.outputs.cognito_user_pool_id }}
           VITE_COGNITO_USER_POOL_CLIENT_ID: ${{ steps.tf-outputs.outputs.cognito_user_pool_client_id }}

@@ -1,4 +1,4 @@
-import { PutCommand, GetCommand, QueryCommand, UpdateCommand } from '@aws-sdk/lib-dynamodb';
+import { PutCommand, GetCommand, QueryCommand, UpdateCommand, DeleteCommand } from '@aws-sdk/lib-dynamodb';
 import { v4 as uuidv4 } from 'uuid';
 import { docClient, TABLE_NAME } from '../db/client.js';
 import { keys, gsiKeys } from '../db/keys.js';
@@ -141,8 +141,9 @@ export class ArmyRepository {
   async delete(campaignId: string, armyId: string): Promise<void> {
     // Note: In a production system, you'd want to handle cascading deletes
     // or prevent deletion if the army has units
+    // For now, we'll just delete the army (units should be deleted first by the caller)
     await docClient.send(
-      new GetCommand({
+      new DeleteCommand({
         TableName: TABLE_NAME,
         Key: keys.army(campaignId, armyId),
       })
