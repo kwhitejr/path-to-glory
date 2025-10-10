@@ -5,6 +5,7 @@ export interface AuthenticatedUser {
   cognitoId: string;
   email: string;
   name: string;
+  picture?: string;
   googleId: string;
 }
 
@@ -40,6 +41,7 @@ export async function getUserFromToken(
       cognitoId: payload.sub,
       email: payload.email as string,
       name: payload.name as string,
+      picture: payload.picture as string | undefined,
       googleId: payload.identities?.[0]?.userId as string || payload.sub,
     };
   } catch (error) {
@@ -59,6 +61,7 @@ export async function ensureUserExists(
     cognitoId: user.cognitoId,
     email: user.email,
     name: user.name,
+    picture: user.picture,
     googleId: user.googleId,
   });
 }

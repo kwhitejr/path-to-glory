@@ -14,7 +14,7 @@ const unitRepo = new UnitRepository();
 
 export const resolvers = {
   Query: {
-    me: async (_: any, __: any, context: GraphQLContext) => {
+    me: async (_: unknown, __: unknown, context: GraphQLContext) => {
       if (!context.user) {
         return null;
       }
@@ -28,12 +28,13 @@ export const resolvers = {
         id: user.cognitoId,
         email: user.email,
         name: user.name,
+        picture: user.picture,
         googleId: user.googleId,
         createdAt: user.createdAt,
       };
     },
 
-    campaign: async (_: any, { id }: { id: string }) => {
+    campaign: async (_: unknown, { id }: { id: string }) => {
       const campaign = await campaignRepo.findById(id);
       if (!campaign) {
         return null;
@@ -47,7 +48,7 @@ export const resolvers = {
       };
     },
 
-    myCampaigns: async (_: any, __: any, context: GraphQLContext) => {
+    myCampaigns: async (_: unknown, __: unknown, context: GraphQLContext) => {
       requireAuth(context);
 
       const campaigns = await campaignRepo.findByOwnerId(context.user.cognitoId);
@@ -59,7 +60,7 @@ export const resolvers = {
       }));
     },
 
-    army: async (_: any, { id }: { id: string }, context: GraphQLContext) => {
+    army: async (_: unknown, { id }: { id: string }, context: GraphQLContext) => {
       // For now, we need to find the army across all campaigns
       // In a real system, you'd pass campaignId as well
       // For simplicity, we'll query the user's armies and find by ID
@@ -85,7 +86,7 @@ export const resolvers = {
       };
     },
 
-    myArmies: async (_: any, __: any, context: GraphQLContext) => {
+    myArmies: async (_: unknown, __: unknown, context: GraphQLContext) => {
       requireAuth(context);
 
       const armies = await armyRepo.findByPlayerId(context.user.cognitoId);
@@ -106,14 +107,14 @@ export const resolvers = {
       return getAllFactions();
     },
 
-    faction: (_: any, { id }: { id: string }) => {
+    faction: (_: unknown, { id }: { id: string }) => {
       return getFactionById(id);
     },
   },
 
   Mutation: {
     createCampaign: async (
-      _: any,
+      _: unknown,
       { input }: { input: { name: string } },
       context: GraphQLContext
     ) => {
@@ -133,7 +134,7 @@ export const resolvers = {
     },
 
     createArmy: async (
-      _: any,
+      _: unknown,
       {
         input,
       }: {
@@ -182,7 +183,7 @@ export const resolvers = {
     },
 
     updateArmy: async (
-      _: any,
+      _: unknown,
       {
         id,
         input,
@@ -224,7 +225,7 @@ export const resolvers = {
     },
 
     addUnit: async (
-      _: any,
+      _: unknown,
       {
         armyId,
         input,
@@ -286,7 +287,7 @@ export const resolvers = {
     },
 
     updateUnit: async (
-      _: any,
+      _: unknown,
       {
         id,
         input,
@@ -355,7 +356,7 @@ export const resolvers = {
     },
 
     removeUnit: async (
-      _: any,
+      _: unknown,
       { id }: { id: string },
       context: GraphQLContext
     ) => {
@@ -390,7 +391,7 @@ export const resolvers = {
     },
 
     addVeteranAbility: async (
-      _: any,
+      _: unknown,
       {
         unitId,
         ability,
@@ -486,6 +487,7 @@ export const resolvers = {
         id: user.cognitoId,
         email: user.email,
         name: user.name,
+        picture: user.picture,
         googleId: user.googleId,
         createdAt: user.createdAt,
       };
@@ -535,6 +537,7 @@ export const resolvers = {
         id: user.cognitoId,
         email: user.email,
         name: user.name,
+        picture: user.picture,
         googleId: user.googleId,
         createdAt: user.createdAt,
       };

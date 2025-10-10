@@ -6,6 +6,19 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 Path to Glory Campaign Tracker - A web application for tracking Warhammer Age of Sigmar Path to Glory campaigns among friends.
 
+## Development Phase: Active Refactoring
+
+**BREAKING CHANGES ARE ACCEPTABLE** - The application is in active development and refactoring. Do not preserve backwards compatibility or co-mingle legacy code with new implementations.
+
+### Refactoring Guidelines
+1. **Replace, don't preserve**: When implementing new patterns, completely replace old code rather than supporting both
+2. **No legacy compatibility layers**: Remove old implementations entirely when introducing new ones
+3. **Clean slate approach**: Treat each refactor as an opportunity to do it right, not to maintain old patterns
+4. **Delete unused code**: Aggressively remove deprecated code, unused exports, and obsolete patterns
+5. **Schema changes are fine**: Breaking changes to GraphQL schema, database models, and API contracts are acceptable
+
+This guideline will remain in effect until the application reaches a stable release.
+
 ## Architecture
 
 ### Monorepo Structure

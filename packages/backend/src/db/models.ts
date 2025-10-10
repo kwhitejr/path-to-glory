@@ -2,6 +2,8 @@
  * DynamoDB item types matching the single-table design
  */
 
+import { BattleOutcome } from '@path-to-glory/shared';
+
 export interface BaseItem {
   PK: string;
   SK: string;
@@ -17,6 +19,7 @@ export interface UserItem extends BaseItem {
   cognitoId: string;
   email: string;
   name: string;
+  picture?: string;
   googleId: string;
 }
 
@@ -60,7 +63,7 @@ export interface BattleItem extends BaseItem {
   id: string;
   campaignId: string;
   armies: string[];
-  outcome: 'VICTORY' | 'DEFEAT' | 'DRAW';
+  outcome: BattleOutcome;
   gloryAwarded: Array<{
     armyId: string;
     amount: number;

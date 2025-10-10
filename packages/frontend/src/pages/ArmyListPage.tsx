@@ -1,11 +1,10 @@
 import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { useQuery } from '@apollo/client';
-import { getAllFactions, type FactionData } from '@path-to-glory/shared';
+import { getAllFactions, type FactionData, ViewMode, FilterValue, GrandAlliance } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
 import { GET_MY_ARMIES } from '../graphql/operations';
-
-type ViewMode = 'mine' | 'all';
+import type { GetMyArmiesQuery } from '../gql/graphql';
 
 export default function ArmyListPage() {
   const { user } = useAuth();
@@ -13,16 +12,17 @@ export default function ArmyListPage() {
   const factionsMap = Object.fromEntries(factions.map((f: FactionData) => [f.id, f]));
 
   // Load armies from backend via GraphQL
-  const { data, loading, error } = useQuery(GET_MY_ARMIES, {
+  const { data, loading, error } = useQuery<GetMyArmiesQuery>(GET_MY_ARMIES, {
     skip: !user,
   });
 
   const allArmies = data?.myArmies || [];
+  type ArmyType = GetMyArmiesQuery['myArmies'][number];
 
-  const [viewMode, setViewMode] = useState<ViewMode>('mine');
-  const [selectedGrandAlliance, setSelectedGrandAlliance] = useState<string>('all');
-  const [selectedFaction, setSelectedFaction] = useState<string>('all');
-  const [selectedPlayer, setSelectedPlayer] = useState<string>('all');
+  const [viewMode, setViewMode] = useState<ViewMode>(ViewMode.MINE);
+  const [selectedGrandAlliance, setSelectedGrandAlliance] = useState<string>(FilterValue.ALL);
+  const [selectedFaction, setSelectedFaction] = useState<string>(FilterValue.ALL);
+  const [selectedPlayer, setSelectedPlayer] = useState<string>(FilterValue.ALL);
 
   // Get unique values for filters
   const grandAlliances = useMemo(() => {
@@ -32,7 +32,7 @@ export default function ArmyListPage() {
 
   const players = useMemo(() => {
     const playerMap = new Map<string, string>();
-    allArmies.forEach((army: any) => {
+    allArmies.forEach((army) => {
       if (army.player) {
         playerMap.set(army.player.id, army.player.name);
       }
@@ -42,29 +42,29 @@ export default function ArmyListPage() {
 
   // Filter armies
   const filteredArmies = useMemo(() => {
-    let result: any[] = allArmies;
+    let result: ArmyType[] = allArmies;
 
     // Filter by view mode (mine vs all)
-    if (viewMode === 'mine' && user) {
-      result = result.filter((army: any) => army.player?.id === user.id);
+    if (viewMode === ViewMode.MINE && user) {
+      result = result.filter((army) => army.player?.id === user.id);
     }
 
     // Filter by grand alliance
-    if (selectedGrandAlliance !== 'all') {
-      result = result.filter((army: any) => {
+    if (selectedGrandAlliance !== FilterValue.ALL) {
+      result = result.filter((army) => {
         const faction = factionsMap[army.factionId];
         return faction?.grandAlliance === selectedGrandAlliance;
       });
     }
 
     // Filter by faction
-    if (selectedFaction !== 'all') {
-      result = result.filter((army: any) => army.factionId === selectedFaction);
+    if (selectedFaction !== FilterValue.ALL) {
+      result = result.filter((army) => army.factionId === selectedFaction);
     }
 
     // Filter by player (only in 'all' mode)
-    if (viewMode === 'all' && selectedPlayer !== 'all') {
-      result = result.filter((army: any) => army.player?.id === selectedPlayer);
+    if (viewMode === ViewMode.ALL && selectedPlayer !== FilterValue.ALL) {
+      result = result.filter((army) => army.player?.id === selectedPlayer);
     }
 
     return result;
@@ -73,9 +73,9 @@ export default function ArmyListPage() {
   // Reset filters when switching view mode
   const handleViewModeChange = (mode: ViewMode) => {
     setViewMode(mode);
-    setSelectedGrandAlliance('all');
-    setSelectedFaction('all');
-    setSelectedPlayer('all');
+    setSelectedGrandAlliance(FilterValue.ALL);
+    setSelectedFaction(FilterValue.ALL);
+    setSelectedPlayer(FilterValue.ALL);
   };
 
   // Show loading state
@@ -127,9 +127,9 @@ export default function ArmyListPage() {
       {/* View mode toggle */}
       <div className="flex gap-2 bg-gray-100 p-1 rounded-lg w-fit">
         <button
-          onClick={() => handleViewModeChange('mine')}
+          onClick={() => handleViewModeChange(ViewMode.MINE)}
           className={`px-4 py-2 rounded-md font-medium transition-colors ${
-            viewMode === 'mine'
+            viewMode === ViewMode.MINE
               ? 'bg-white text-primary-700 shadow-sm'
               : 'text-gray-600 hover:text-gray-900'
           }`}
@@ -137,9 +137,9 @@ export default function ArmyListPage() {
           My Armies
         </button>
         <button
-          onClick={() => handleViewModeChange('all')}
+          onClick={() => handleViewModeChange(ViewMode.ALL)}
           className={`px-4 py-2 rounded-md font-medium transition-colors ${
-            viewMode === 'all'
+            viewMode === ViewMode.ALL
               ? 'bg-white text-primary-700 shadow-sm'
               : 'text-gray-600 hover:text-gray-900'
           }`}
@@ -163,7 +163,7 @@ export default function ArmyListPage() {
               value={selectedGrandAlliance}
               onChange={(e) => setSelectedGrandAlliance(e.target.value)}
             >
-              <option value="all">All Alliances</option>
+              <option value={FilterValue.ALL}>All Alliances</option>
               {grandAlliances.map((alliance) => (
                 <option key={alliance} value={alliance}>
                   {alliance}
@@ -183,7 +183,7 @@ export default function ArmyListPage() {
               value={selectedFaction}
               onChange={(e) => setSelectedFaction(e.target.value)}
             >
-              <option value="all">All Factions</option>
+              <option value={FilterValue.ALL}>All Factions</option>
               {factions.map((faction: FactionData) => (
                 <option key={faction.id} value={faction.id}>
                   {faction.name}
@@ -193,7 +193,7 @@ export default function ArmyListPage() {
           </div>
 
           {/* Player filter (only show in 'all' mode) */}
-          {viewMode === 'all' && (
+          {viewMode === ViewMode.ALL && (
             <div>
               <label htmlFor="player" className="label text-xs">
                 Player
@@ -204,7 +204,7 @@ export default function ArmyListPage() {
                 value={selectedPlayer}
                 onChange={(e) => setSelectedPlayer(e.target.value)}
               >
-                <option value="all">All Players</option>
+                <option value={FilterValue.ALL}>All Players</option>
                 {players.map((player) => (
                   <option key={player.id} value={player.id}>
                     {player.name}
@@ -216,18 +216,18 @@ export default function ArmyListPage() {
         </div>
 
         {/* Active filters count */}
-        {(selectedGrandAlliance !== 'all' ||
-          selectedFaction !== 'all' ||
-          (viewMode === 'all' && selectedPlayer !== 'all')) && (
+        {(selectedGrandAlliance !== FilterValue.ALL ||
+          selectedFaction !== FilterValue.ALL ||
+          (viewMode === ViewMode.ALL && selectedPlayer !== FilterValue.ALL)) && (
           <div className="mt-3 pt-3 border-t flex items-center justify-between">
             <p className="text-sm text-gray-600">
               Showing {filteredArmies.length} of {allArmies.length} armies
             </p>
             <button
               onClick={() => {
-                setSelectedGrandAlliance('all');
-                setSelectedFaction('all');
-                setSelectedPlayer('all');
+                setSelectedGrandAlliance(FilterValue.ALL);
+                setSelectedFaction(FilterValue.ALL);
+                setSelectedPlayer(FilterValue.ALL);
               }}
               className="text-sm text-primary-600 hover:text-primary-700"
             >
@@ -239,7 +239,7 @@ export default function ArmyListPage() {
 
       {/* Army list - mobile-optimized cards */}
       <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-        {!user && viewMode === 'mine' ? (
+        {!user && viewMode === ViewMode.MINE ? (
           <div className="col-span-full text-center py-12">
             <p className="text-gray-500 mb-4">
               Please sign in to view and create your armies
@@ -251,16 +251,16 @@ export default function ArmyListPage() {
         ) : filteredArmies.length === 0 ? (
           <div className="col-span-full text-center py-12">
             <p className="text-gray-500 mb-4">
-              {viewMode === 'mine' ? 'No armies yet' : 'No armies match your filters'}
+              {viewMode === ViewMode.MINE ? 'No armies yet' : 'No armies match your filters'}
             </p>
-            {viewMode === 'mine' && user && (
+            {viewMode === ViewMode.MINE && user && (
               <Link to="/armies/new" className="btn-primary">
                 Create Your First Army
               </Link>
             )}
           </div>
         ) : (
-          filteredArmies.map((army: any) => {
+          filteredArmies.map((army) => {
             const faction = factionsMap[army.factionId];
             return (
               <Link
@@ -271,16 +271,24 @@ export default function ArmyListPage() {
                 <div className="flex justify-between items-start mb-3">
                   <div className="flex-1 flex items-start gap-3">
                     {/* Player profile picture */}
-                    {viewMode === 'all' && army.player && (
+                    {viewMode === ViewMode.ALL && army.player && (
                       <div className="flex-shrink-0">
-                        <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-gray-200 bg-gray-100 text-sm font-semibold text-gray-600">
-                          {army.player.name.charAt(0).toUpperCase()}
-                        </div>
+                        {army.player.picture ? (
+                          <img
+                            src={army.player.picture}
+                            alt={army.player.name}
+                            className="h-10 w-10 rounded-full border-2 border-gray-200"
+                          />
+                        ) : (
+                          <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-gray-200 bg-gray-100 text-sm font-semibold text-gray-600">
+                            {army.player.name.charAt(0).toUpperCase()}
+                          </div>
+                        )}
                       </div>
                     )}
                     <div className="flex-1 min-w-0">
                       <h3 className="font-bold text-lg">{army.name}</h3>
-                      {viewMode === 'all' && army.player && (
+                      {viewMode === ViewMode.ALL && army.player && (
                         <p className="text-xs text-gray-500 mt-0.5">by {army.player.name}</p>
                       )}
                     </div>
@@ -315,13 +323,13 @@ export default function ArmyListPage() {
 
 function getAllianceColor(alliance?: string) {
   switch (alliance) {
-    case 'ORDER':
+    case GrandAlliance.ORDER:
       return 'bg-blue-100 text-blue-700';
-    case 'CHAOS':
+    case GrandAlliance.CHAOS:
       return 'bg-red-100 text-red-700';
-    case 'DEATH':
+    case GrandAlliance.DEATH:
       return 'bg-purple-100 text-purple-700';
-    case 'DESTRUCTION':
+    case GrandAlliance.DESTRUCTION:
       return 'bg-green-100 text-green-700';
     default:
       return 'bg-gray-100 text-gray-700';

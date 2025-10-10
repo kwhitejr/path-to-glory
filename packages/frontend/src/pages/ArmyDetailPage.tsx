@@ -1,8 +1,9 @@
 import { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useQuery } from '@apollo/client';
-import { getFactionById } from '@path-to-glory/shared';
+import { getFactionById, UnitRank, getUnit } from '@path-to-glory/shared';
 import { GET_ARMY } from '../graphql/operations';
+import type { GetArmyQuery } from '../gql/graphql';
 
 const LOADING_MESSAGES = [
   'Marshalling the forces...',
@@ -23,13 +24,15 @@ export default function ArmyDetailPage() {
     LOADING_MESSAGES[Math.floor(Math.random() * LOADING_MESSAGES.length)]
   );
 
-  const { data, loading, error } = useQuery(GET_ARMY, {
+  const { data, loading, error } = useQuery<GetArmyQuery>(GET_ARMY, {
     variables: { id: armyId! },
     skip: !armyId,
   });
 
   const army = data?.army;
   const faction = army ? getFactionById(army.factionId) : null;
+
+  type UnitType = NonNullable<GetArmyQuery['army']>['units'][number];
 
   if (loading) {
     return (
@@ -86,7 +89,7 @@ export default function ArmyDetailPage() {
           </Link>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm">
           <div>
             <span className="text-gray-500 block">Glory Points</span>
             <span className="font-bold text-lg">{army.glory}</span>
@@ -96,21 +99,10 @@ export default function ArmyDetailPage() {
             <span className="font-bold text-lg">{army.renown}</span>
           </div>
           <div>
-            <span className="text-gray-500 block">Realm of Origin</span>
-            <span className="font-semibold">{army.realmOfOrigin || '-'}</span>
-          </div>
-          <div>
-            <span className="text-gray-500 block">Faction</span>
+            <span className="text-gray-500 block">Grand Alliance</span>
             <span className="font-semibold">{faction?.grandAlliance}</span>
           </div>
         </div>
-
-        {army.background && (
-          <div className="mt-4 pt-4 border-t">
-            <h3 className="font-semibold text-sm text-gray-500 mb-1">Background</h3>
-            <p className="text-sm">{army.background}</p>
-          </div>
-        )}
       </div>
 
       {/* Order of Battle - matches roster PDF structure */}
@@ -124,41 +116,31 @@ export default function ArmyDetailPage() {
 
         <div className="space-y-4">
           {army.units && army.units.length > 0 ? (
-            army.units.map((unit: any) => (
-            <div key={unit.id} className="border border-gray-200 rounded-lg p-4">
+            army.units.map((unit: UnitType) => {
+              const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
+              const unitTypeName = unitWarscroll?.name || unit.unitTypeId;
+
+              return (
+            <Link
+              key={unit.id}
+              to={`/armies/${armyId}/units/${unit.id}/edit`}
+              className="block border border-gray-200 rounded-lg p-4 hover:border-primary-300 hover:bg-primary-50/50 transition-colors cursor-pointer"
+            >
               {/* Unit Header */}
               <div className="flex justify-between items-start mb-3">
                 <div className="flex-1">
                   <div className="flex items-center gap-2 mb-1">
                     <h4 className="font-bold">{unit.name}</h4>
-                    {unit.rank === 'Warlord' && (
+                    {unit.rank === UnitRank.WARLORD && (
                       <span className="px-2 py-0.5 bg-yellow-100 text-yellow-800 text-xs font-medium rounded">
                         WARLORD
                       </span>
                     )}
                   </div>
-                  {unit.name !== unit.unitTypeId && (
-                    <p className="text-sm text-gray-600">{unit.unitTypeId}</p>
+                  {unit.name !== unitTypeName && (
+                    <p className="text-sm text-gray-600">{unitTypeName}</p>
                   )}
                 </div>
-                <Link
-                  to={`/armies/${armyId}/units/${unit.id}/edit`}
-                  className="text-gray-400 hover:text-gray-600"
-                >
-                  <svg
-                    className="w-5 h-5"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={2}
-                      d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"
-                    />
-                  </svg>
-                </Link>
               </div>
 
               {/* Unit Stats */}
@@ -201,8 +183,9 @@ export default function ArmyDetailPage() {
                   )}
                 </div>
               )}
-            </div>
-            ))
+            </Link>
+              );
+            })
           ) : (
             <div className="text-center py-8 text-gray-500">
               <p>No units in this army yet</p>

@@ -5,6 +5,7 @@ type User {
   id: ID!
   email: String!
   name: String!
+  picture: String
   googleId: String!
   createdAt: String!
   campaigns: [Campaign!]!

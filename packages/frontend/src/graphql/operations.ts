@@ -18,6 +18,7 @@ export const GET_MY_ARMIES = gql`
         id
         name
         email
+        picture
       }
     }
   }
@@ -38,6 +39,7 @@ export const GET_ARMY = gql`
         id
         name
         email
+        picture
       }
       units {
         id
@@ -77,6 +79,7 @@ export const GET_ME = gql`
       id
       email
       name
+      picture
       googleId
       createdAt
     }
@@ -124,6 +127,7 @@ export const CREATE_ARMY = gql`
         id
         name
         email
+        picture
       }
     }
   }

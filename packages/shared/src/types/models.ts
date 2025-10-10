@@ -3,12 +3,15 @@
  * These map to the GraphQL types but represent the actual stored structure
  */
 
+import { BattleOutcome } from '../enums.js';
+
 export interface UserModel {
   pk: string; // USER#<cognitoId>
   sk: string; // METADATA
   cognitoId: string;
   email: string;
   name: string;
+  picture?: string;
   googleId: string;
   createdAt: string;
 }
@@ -58,7 +61,7 @@ export interface BattleModel {
   id: string;
   campaignId: string;
   armies: string[]; // army IDs
-  outcome: 'VICTORY' | 'DEFEAT' | 'DRAW';
+  outcome: BattleOutcome;
   gloryAwarded: Array<{
     armyId: string;
     amount: number;

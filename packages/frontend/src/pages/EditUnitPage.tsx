@@ -2,7 +2,9 @@ import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
 import { useQuery, useMutation } from '@apollo/client';
 import { useAuth } from '../contexts/AuthContext';
+import { getUnit } from '@path-to-glory/shared';
 import { GET_ARMY, UPDATE_UNIT, REMOVE_UNIT, GET_MY_ARMIES } from '../graphql/operations';
+import type { GetArmyQuery } from '../gql/graphql';
 
 const RANKS = ['Regular', 'Veteran', 'Elite'];
 
@@ -12,7 +14,7 @@ export default function EditUnitPage() {
   const { user, loading: authLoading } = useAuth();
 
   // GraphQL operations
-  const { data, loading: queryLoading, error } = useQuery(GET_ARMY, {
+  const { data, loading: queryLoading, error } = useQuery<GetArmyQuery>(GET_ARMY, {
     variables: { id: armyId! },
     skip: !armyId,
   });
@@ -40,7 +42,9 @@ export default function EditUnitPage() {
   const [submitError, setSubmitError] = useState<string | null>(null);
 
   const army = data?.army;
-  const unit = army?.units?.find((u: any) => u.id === unitId);
+  const unit = army?.units?.find((u) => u.id === unitId);
+  const unitWarscroll = unit && army ? getUnit(army.factionId, unit.unitTypeId) : undefined;
+  const unitTypeName = unitWarscroll?.name || unit?.unitTypeId || '';
 
   useEffect(() => {
     // Check if user owns this army
@@ -172,7 +176,7 @@ export default function EditUnitPage() {
             type="text"
             disabled
             className="input bg-gray-100 cursor-not-allowed"
-            value={unit.unitTypeId}
+            value={unitTypeName}
           />
           <p className="mt-2 text-sm text-gray-500">Unit type cannot be changed after creation</p>
         </div>
@@ -192,7 +196,7 @@ export default function EditUnitPage() {
             disabled={updating}
           />
           <p className="mt-1 text-sm text-gray-500">
-            Leave empty to use default unit type ID: {unit.unitTypeId}
+            Leave empty to use default unit type name: {unitTypeName}
           </p>
         </div>
 

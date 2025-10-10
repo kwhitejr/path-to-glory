@@ -7,6 +7,7 @@ export interface CreateUserParams {
   cognitoId: string;
   email: string;
   name: string;
+  picture?: string;
   googleId: string;
 }
 
@@ -20,6 +21,7 @@ export class UserRepository {
       cognitoId: params.cognitoId,
       email: params.email,
       name: params.name,
+      ...(params.picture && { picture: params.picture }),
       googleId: params.googleId,
       createdAt: now,
       updatedAt: now,
