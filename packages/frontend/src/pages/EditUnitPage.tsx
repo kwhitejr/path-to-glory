@@ -50,8 +50,12 @@ export default function EditUnitPage() {
 
     setArmy(foundArmy);
     setUnit(foundUnit);
+
+    // If unit.name differs from warscroll, it's a custom name
+    const hasCustomName = foundUnit.name !== foundUnit.warscroll;
+
     setFormData({
-      customName: foundUnit.name !== foundUnit.warscroll ? foundUnit.name : '',
+      customName: hasCustomName ? foundUnit.name : '',
       rank: foundUnit.rank || 'Regular',
       renown: foundUnit.renown || 0,
       reinforced: foundUnit.reinforced || false,
