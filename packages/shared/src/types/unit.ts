@@ -63,6 +63,15 @@ export const UnitKeywordsSchema = z.object({
 
 export type UnitKeywords = z.infer<typeof UnitKeywordsSchema>;
 
+export const BattleProfileSchema = z.object({
+  unitSize: z.union([z.number(), z.string()]), // Can be a number or range like "3-6"
+  points: z.number(),
+  keywords: z.array(z.string()).optional(),
+  baseSize: z.string().optional(),
+});
+
+export type BattleProfile = z.infer<typeof BattleProfileSchema>;
+
 export const UnitWarscrollSchema = z.object({
   id: z.string(), // Unique identifier (slugified name)
   name: z.string(), // Unit name
@@ -81,6 +90,9 @@ export const UnitWarscrollSchema = z.object({
 
   // Keywords and traits
   keywords: UnitKeywordsSchema,
+
+  // Battle profile (points, unit size, etc.)
+  battleProfile: BattleProfileSchema.optional(),
 
   // Metadata
   sourceFile: z.string(),

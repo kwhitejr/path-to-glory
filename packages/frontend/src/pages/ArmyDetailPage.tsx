@@ -219,7 +219,19 @@ export default function ArmyDetailPage() {
       {/* Order of Battle - matches roster PDF structure */}
       <div className="card">
         <div className="flex justify-between items-center mb-4">
-          <h3 className="font-bold text-lg">Order of Battle</h3>
+          <div>
+            <h3 className="font-bold text-lg">Order of Battle</h3>
+            {army.units && army.units.length > 0 && (
+              <p className="text-sm text-gray-600 mt-1">
+                Total Points: <span className="font-bold text-primary-600">
+                  {army.units.reduce((sum: number, unit: UnitType) => {
+                    const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
+                    return sum + (unitWarscroll?.battleProfile?.points || 0);
+                  }, 0)}
+                </span>
+              </p>
+            )}
+          </div>
           <Link to={`/armies/${armyId}/units/new`} className="btn-primary text-sm">
             + Add Unit
           </Link>
@@ -230,6 +242,7 @@ export default function ArmyDetailPage() {
             army.units.map((unit: UnitType) => {
               const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
               const unitTypeName = unitWarscroll?.name || unit.unitTypeId;
+              const points = unitWarscroll?.battleProfile?.points || 0;
 
               return (
             <Link
@@ -251,6 +264,9 @@ export default function ArmyDetailPage() {
                   {unit.name !== unitTypeName && (
                     <p className="text-sm text-gray-600">{unitTypeName}</p>
                   )}
+                </div>
+                <div className="text-right">
+                  <div className="text-sm font-semibold text-primary-600">{points} pts</div>
                 </div>
               </div>
 

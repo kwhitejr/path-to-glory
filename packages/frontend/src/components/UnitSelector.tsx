@@ -115,9 +115,10 @@ export default function UnitSelector({
                 .map((unit) => {
                   const isHero = unit.keywords.unit.includes('Hero');
                   const prefix = isHero ? '[Hero] ' : '';
+                  const points = unit.battleProfile?.points || 0;
                   return (
                     <option key={unit.id} value={unit.id}>
-                      {prefix}{unit.name}
+                      {prefix}{unit.name} ({points} pts)
                     </option>
                   );
                 })}
@@ -279,6 +280,8 @@ export default function UnitSelector({
       {selectedUnits.length > 0 ? (
         <div className="space-y-2">
           {selectedUnits.map((unit) => {
+            const unitData = availableUnits[unit.warscrollId];
+            const points = unitData?.battleProfile?.points || 0;
             return (
               <div
                 key={unit.id}
@@ -289,13 +292,16 @@ export default function UnitSelector({
                     <div className="font-medium">{unit.name}</div>
                     <div className="text-sm text-gray-600">{unit.warscroll}</div>
                   </div>
-                  <button
-                    type="button"
-                    onClick={() => handleRemoveUnit(unit.id)}
-                    className="text-red-600 hover:text-red-800 text-sm"
-                  >
-                    Remove
-                  </button>
+                  <div className="flex items-center gap-3">
+                    <div className="text-sm font-semibold text-primary-600">{points} pts</div>
+                    <button
+                      type="button"
+                      onClick={() => handleRemoveUnit(unit.id)}
+                      className="text-red-600 hover:text-red-800 text-sm"
+                    >
+                      Remove
+                    </button>
+                  </div>
                 </div>
                 <div className="grid grid-cols-2 gap-2 text-xs text-gray-600">
                   <div>Rank: {unit.rank}</div>

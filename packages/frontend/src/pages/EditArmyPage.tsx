@@ -25,7 +25,6 @@ export default function EditArmyPage() {
 
   const [formData, setFormData] = useState({
     name: '',
-    heraldry: '',
     realmOfOrigin: '' as RealmOfOrigin | '',
     battleFormation: '',
     background: '',
@@ -53,7 +52,6 @@ export default function EditArmyPage() {
     if (army) {
       setFormData({
         name: army.name,
-        heraldry: army.heraldry || '',
         realmOfOrigin: army.realmOfOrigin || '',
         battleFormation: army.battleFormation || '',
         background: army.background || '',
@@ -83,7 +81,6 @@ export default function EditArmyPage() {
           id: armyId!,
           input: {
             name: formData.name,
-            heraldry: formData.heraldry || undefined,
             realmOfOrigin: formData.realmOfOrigin || undefined,
             battleFormation: formData.battleFormation || undefined,
             background: formData.background || undefined,
@@ -186,18 +183,12 @@ export default function EditArmyPage() {
           <label htmlFor="heraldry" className="label">
             Heraldry
           </label>
-          <input
-            id="heraldry"
-            type="text"
-            className="input"
-            value={formData.heraldry}
-            onChange={(e) => setFormData({ ...formData, heraldry: e.target.value })}
-            placeholder="e.g., A crimson skull on black field"
-            disabled={updating}
-          />
-          <p className="mt-1 text-xs text-gray-500">
-            Describe your army's banner, colors, or symbols
-          </p>
+          <div className="p-4 bg-gray-50 border border-gray-200 rounded-md text-center">
+            <p className="text-sm text-gray-600">Image upload coming soon</p>
+            <p className="text-xs text-gray-500 mt-1">
+              Upload your army's banner, colors, or symbols
+            </p>
+          </div>
         </div>
 
         {/* Faction (Read-only) */}
@@ -249,11 +240,11 @@ export default function EditArmyPage() {
             className="input"
             value={formData.battleFormation}
             onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
-            placeholder="e.g., Bloodbound Warhorde, Hammer and Anvil..."
+            placeholder="Enter battle formation..."
             disabled={updating}
           />
           <p className="mt-1 text-xs text-gray-500">
-            Strategic formation for your army (faction-specific)
+            Faction-specific formations coming soon
           </p>
         </div>
 
