@@ -1,14 +1,30 @@
 import { ApolloServer } from '@apollo/server';
+import { ApolloServerPluginLandingPageLocalDefault, ApolloServerPluginLandingPageProductionDefault } from '@apollo/server/plugin/landingPage/default';
 import { startServerAndCreateLambdaHandler, handlers } from '@as-integrations/aws-lambda';
 import { resolvers } from '../resolvers/index.js';
 import { GraphQLContext, getUserFromToken } from '../auth/context.js';
 import { UserRepository } from '../repositories/UserRepository.js';
 import typeDefs from '../../../shared/src/schema/schema.graphql';
 
+const isDevelopment = process.env.NODE_ENV !== 'production';
+
 const server = new ApolloServer<GraphQLContext>({
   typeDefs,
   resolvers,
-  introspection: true, // Enable GraphQL Playground
+  introspection: true, // Enable introspection for GraphQL clients
+  plugins: [
+    // Enable GraphiQL in development, Apollo Sandbox in production
+    isDevelopment
+      ? ApolloServerPluginLandingPageLocalDefault({
+          embed: true,
+          includeCookies: true,
+        })
+      : ApolloServerPluginLandingPageProductionDefault({
+          embed: true,
+          graphRef: 'path-to-glory@current',
+          includeCookies: true,
+        }),
+  ],
 });
 
 export const handler = startServerAndCreateLambdaHandler(
