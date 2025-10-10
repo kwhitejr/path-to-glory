@@ -51,3 +51,15 @@ variable "alarm_email" {
   type        = string
   default     = ""
 }
+
+variable "cognito_user_pool_id" {
+  description = "Cognito User Pool ID from frontend infrastructure"
+  type        = string
+  default     = "us-east-1_l4Fob0tQH"
+}
+
+variable "cognito_client_id" {
+  description = "Cognito User Pool Client ID from frontend infrastructure"
+  type        = string
+  default     = "7eod9l3vofi7ke8jodaapgcs65"
+}
