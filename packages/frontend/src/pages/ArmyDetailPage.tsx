@@ -130,7 +130,9 @@ export default function ArmyDetailPage() {
                       </span>
                     )}
                   </div>
-                  <p className="text-sm text-gray-600">{unit.warscroll}</p>
+                  {unit.name !== unit.warscroll && (
+                    <p className="text-sm text-gray-600">{unit.warscroll}</p>
+                  )}
                 </div>
                 <Link
                   to={`/armies/${armyId}/units/${unit.id}/edit`}
