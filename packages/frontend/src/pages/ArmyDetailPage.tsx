@@ -116,14 +116,6 @@ export default function ArmyDetailPage() {
           )}
         </div>
 
-        {/* Heraldry */}
-        {army.heraldry && (
-          <div className="mt-4 pt-4 border-t">
-            <span className="text-gray-500 block mb-2">Heraldry</span>
-            <p className="text-sm">{army.heraldry}</p>
-          </div>
-        )}
-
         {/* Background */}
         {army.background && (
           <div className="mt-4 pt-4 border-t">
