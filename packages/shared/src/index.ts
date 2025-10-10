@@ -2,6 +2,9 @@
  * Shared package barrel exports
  */
 
+// Enums
+export * from './enums.js';
+
 // Types
 export * from './types/faction.js';
 export * from './types/models.js';
