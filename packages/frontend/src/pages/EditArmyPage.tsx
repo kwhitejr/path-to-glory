@@ -1,7 +1,9 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
+import { useQuery, useMutation } from '@apollo/client';
 import { getAllFactions } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
+import { GET_ARMY, UPDATE_ARMY, GET_MY_ARMIES } from '../graphql/operations';
 
 export default function EditArmyPage() {
   const navigate = useNavigate();
@@ -9,87 +11,74 @@ export default function EditArmyPage() {
   const { user, loading: authLoading } = useAuth();
   const factions = getAllFactions();
 
-  const [loading, setLoading] = useState(true);
-  const [formData, setFormData] = useState({
-    name: '',
-    factionId: '',
-    realmOfOrigin: '',
-    background: '',
+  const { data, loading: queryLoading, error } = useQuery(GET_ARMY, {
+    variables: { id: armyId! },
+    skip: !armyId,
   });
 
+  const [updateArmy, { loading: updating }] = useMutation(UPDATE_ARMY, {
+    refetchQueries: [
+      { query: GET_ARMY, variables: { id: armyId } },
+      { query: GET_MY_ARMIES },
+    ],
+  });
+
+  const [formData, setFormData] = useState({
+    name: '',
+  });
+
+  const [submitError, setSubmitError] = useState<string | null>(null);
+
+  const army = data?.army;
+
   useEffect(() => {
-    // TODO: Replace with GraphQL query when backend is ready
-    const storedArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const foundArmy = storedArmies.find((a: any) => a.id === armyId);
-
-    if (!foundArmy) {
-      navigate('/armies');
-      return;
-    }
-
     // Check if user owns this army
-    if (!authLoading && user && foundArmy.playerId !== user.id) {
+    if (!authLoading && user && army && army.player?.id !== user.id) {
       alert('You can only edit your own armies');
       navigate('/armies');
       return;
     }
 
-    setFormData({
-      name: foundArmy.name,
-      factionId: foundArmy.factionId,
-      realmOfOrigin: foundArmy.realmOfOrigin || '',
-      background: foundArmy.background || '',
-    });
-    setLoading(false);
-  }, [armyId, navigate, user, authLoading]);
+    if (army) {
+      setFormData({
+        name: army.name,
+      });
+    }
+  }, [army, user, authLoading, navigate]);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setSubmitError(null);
 
-    if (!user) {
+    if (!user || !army) {
       alert('You must be logged in to edit an army');
       return;
     }
 
-    // TODO: Replace with GraphQL mutation when backend is ready
-    const existingArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const armyIndex = existingArmies.findIndex((a: any) => a.id === armyId);
+    try {
+      await updateArmy({
+        variables: {
+          id: armyId!,
+          input: {
+            name: formData.name,
+          },
+        },
+      });
 
-    if (armyIndex === -1) {
-      alert('Army not found');
-      return;
+      console.log('Army updated successfully');
+      navigate(`/armies/${armyId}`);
+    } catch (err) {
+      console.error('Error updating army:', err);
+      setSubmitError(err instanceof Error ? err.message : 'Failed to update army');
     }
-
-    // Update only the editable fields, preserve everything else
-    existingArmies[armyIndex] = {
-      ...existingArmies[armyIndex],
-      name: formData.name,
-      realmOfOrigin: formData.realmOfOrigin,
-      background: formData.background,
-      // Note: factionId is not updated because changing faction would invalidate units
-    };
-
-    localStorage.setItem('armies', JSON.stringify(existingArmies));
-
-    console.log('Updated army:', existingArmies[armyIndex]);
-
-    navigate(`/armies/${armyId}`);
   };
 
   const handleDelete = () => {
-    if (!confirm('Are you sure you want to delete this army? This action cannot be undone.')) {
-      return;
-    }
-
-    // TODO: Replace with GraphQL mutation when backend is ready
-    const existingArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const filteredArmies = existingArmies.filter((a: any) => a.id !== armyId);
-    localStorage.setItem('armies', JSON.stringify(filteredArmies));
-
-    navigate('/armies');
+    // TODO: Implement delete army mutation
+    alert('Delete army functionality not yet implemented');
   };
 
-  if (loading || authLoading) {
+  if (queryLoading || authLoading) {
     return (
       <div className="flex items-center justify-center min-h-[50vh]">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600"></div>
@@ -97,7 +86,31 @@ export default function EditArmyPage() {
     );
   }
 
-  const selectedFaction = factions.find((f) => f.id === formData.factionId);
+  if (error) {
+    return (
+      <div className="max-w-2xl mx-auto">
+        <div className="card bg-red-50 border border-red-200">
+          <p className="text-red-800">Error loading army: {error.message}</p>
+          <Link to="/armies" className="btn-primary mt-4">
+            Back to Armies
+          </Link>
+        </div>
+      </div>
+    );
+  }
+
+  if (!army) {
+    return (
+      <div className="text-center py-12">
+        <h2 className="text-2xl font-bold mb-4">Army not found</h2>
+        <Link to="/armies" className="btn-primary">
+          Back to Armies
+        </Link>
+      </div>
+    );
+  }
+
+  const selectedFaction = factions.find((f) => f.id === army.factionId);
 
   return (
     <div className="max-w-2xl mx-auto">
@@ -110,6 +123,12 @@ export default function EditArmyPage() {
       </Link>
 
       <h2 className="text-2xl font-bold mb-6">Edit Army</h2>
+
+      {submitError && (
+        <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-md">
+          <p className="text-red-800 text-sm">{submitError}</p>
+        </div>
+      )}
 
       <form onSubmit={handleSubmit} className="space-y-6">
         {/* Army Name */}
@@ -125,6 +144,7 @@ export default function EditArmyPage() {
             value={formData.name}
             onChange={(e) => setFormData({ ...formData, name: e.target.value })}
             placeholder="e.g., The Crimson Host"
+            disabled={updating}
           />
         </div>
 
@@ -145,45 +165,28 @@ export default function EditArmyPage() {
           </p>
         </div>
 
-        {/* Realm of Origin */}
-        <div>
-          <label htmlFor="realm" className="label">
-            Realm of Origin
-          </label>
-          <input
-            id="realm"
-            type="text"
-            className="input"
-            value={formData.realmOfOrigin}
-            onChange={(e) => setFormData({ ...formData, realmOfOrigin: e.target.value })}
-            placeholder="e.g., Ghyran, Aqshy, Shyish..."
-          />
-        </div>
-
-        {/* Background */}
-        <div>
-          <label htmlFor="background" className="label">
-            Background
-          </label>
-          <textarea
-            id="background"
-            rows={4}
-            className="input"
-            value={formData.background}
-            onChange={(e) => setFormData({ ...formData, background: e.target.value })}
-            placeholder="Tell the story of your warband..."
-          />
+        {/* Note about missing fields */}
+        <div className="card bg-yellow-50 border border-yellow-200">
+          <p className="text-sm text-yellow-800">
+            <strong>Note:</strong> Realm of Origin and Background fields are not yet implemented in the backend schema.
+            Only the army name can be edited at this time.
+          </p>
         </div>
 
         {/* Actions */}
         <div className="flex gap-3 pt-4">
-          <button type="submit" className="btn-primary flex-1">
-            Save Changes
+          <button
+            type="submit"
+            className="btn-primary flex-1"
+            disabled={updating}
+          >
+            {updating ? 'Saving...' : 'Save Changes'}
           </button>
           <button
             type="button"
             onClick={() => navigate(`/armies/${armyId}`)}
             className="btn-secondary"
+            disabled={updating}
           >
             Cancel
           </button>

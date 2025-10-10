@@ -47,6 +47,9 @@ export interface UnitItem extends BaseItem {
   name: string;
   size: number;
   wounds: number;
+  rank: string;
+  renown: number;
+  reinforced: boolean;
   veteranAbilities: string[];
   injuries: string[];
   enhancements: string[];

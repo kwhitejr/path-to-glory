@@ -1,7 +1,9 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
+import { useQuery, useMutation } from '@apollo/client';
 import { getUnitsByFaction, getFactionById, type UnitWarscroll } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
+import { GET_ARMY, ADD_UNIT } from '../graphql/operations';
 
 const RANKS = ['Regular', 'Veteran', 'Elite'];
 
@@ -10,8 +12,15 @@ export default function AddUnitPage() {
   const { armyId } = useParams();
   const { user, loading: authLoading } = useAuth();
 
-  const [loading, setLoading] = useState(true);
-  const [army, setArmy] = useState<any>(null);
+  const { data, loading: queryLoading, error } = useQuery(GET_ARMY, {
+    variables: { id: armyId! },
+    skip: !armyId,
+  });
+
+  const [addUnit, { loading: adding }] = useMutation(ADD_UNIT, {
+    refetchQueries: [{ query: GET_ARMY, variables: { id: armyId } }],
+  });
+
   const [availableUnits, setAvailableUnits] = useState<Record<string, UnitWarscroll>>({});
 
   const [formData, setFormData] = useState({
@@ -24,30 +33,26 @@ export default function AddUnitPage() {
     pathAbility: '',
   });
 
+  const [submitError, setSubmitError] = useState<string | null>(null);
+
+  const army = data?.army;
+
   useEffect(() => {
-    // TODO: Replace with GraphQL query when backend is ready
-    const storedArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const foundArmy = storedArmies.find((a: any) => a.id === armyId);
-
-    if (!foundArmy) {
-      navigate('/armies');
-      return;
-    }
-
     // Check if user owns this army
-    if (!authLoading && user && foundArmy.playerId !== user.id) {
+    if (!authLoading && user && army && army.player?.id !== user.id) {
       alert('You can only add units to your own armies');
       navigate('/armies');
       return;
     }
 
-    setArmy(foundArmy);
-    setAvailableUnits(getUnitsByFaction(foundArmy.factionId));
-    setLoading(false);
-  }, [armyId, navigate, user, authLoading]);
+    if (army) {
+      setAvailableUnits(getUnitsByFaction(army.factionId));
+    }
+  }, [army, user, authLoading, navigate]);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setSubmitError(null);
 
     if (!user || !army) {
       alert('You must be logged in');
@@ -61,45 +66,59 @@ export default function AddUnitPage() {
 
     const selectedWarscroll = availableUnits[formData.warscrollId];
 
-    // Generate unique unit ID
-    const unitId = `unit-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
+    try {
+      await addUnit({
+        variables: {
+          armyId: armyId!,
+          input: {
+            unitTypeId: formData.warscrollId,
+            name: formData.customName || selectedWarscroll.name,
+            size: 1, // Default to 1 model - can be updated later
+            wounds: selectedWarscroll?.characteristics?.health || 1,
+            rank: formData.rank,
+            renown: formData.renown,
+            reinforced: formData.reinforced,
+          },
+        },
+      });
 
-    const newUnit = {
-      id: unitId,
-      warscroll: selectedWarscroll.name,
-      warscrollId: formData.warscrollId,
-      name: formData.customName || selectedWarscroll.name,
-      rank: formData.rank,
-      renown: formData.renown,
-      reinforced: formData.reinforced,
-      enhancement: formData.enhancement,
-      pathAbility: formData.pathAbility,
-    };
-
-    // TODO: Replace with GraphQL mutation when backend is ready
-    const existingArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const armyIndex = existingArmies.findIndex((a: any) => a.id === armyId);
-
-    if (armyIndex === -1) {
-      alert('Army not found');
-      return;
+      console.log('Unit added successfully');
+      navigate(`/armies/${armyId}`);
+    } catch (err) {
+      console.error('Error adding unit:', err);
+      setSubmitError(err instanceof Error ? err.message : 'Failed to add unit');
     }
-
-    existingArmies[armyIndex].units = existingArmies[armyIndex].units || [];
-    existingArmies[armyIndex].units.push(newUnit);
-
-    localStorage.setItem('armies', JSON.stringify(existingArmies));
-
-    console.log('Added unit:', newUnit);
-
-    navigate(`/armies/${armyId}`);
   };
 
 
-  if (loading || authLoading) {
+  if (queryLoading || authLoading) {
     return (
       <div className="flex items-center justify-center min-h-[50vh]">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600"></div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="max-w-2xl mx-auto">
+        <div className="card bg-red-50 border border-red-200">
+          <p className="text-red-800">Error loading army: {error.message}</p>
+          <Link to={`/armies/${armyId}`} className="btn-primary mt-4">
+            Back to Army
+          </Link>
+        </div>
+      </div>
+    );
+  }
+
+  if (!army) {
+    return (
+      <div className="text-center py-12">
+        <h2 className="text-2xl font-bold mb-4">Army not found</h2>
+        <Link to="/armies" className="btn-primary">
+          Back to Armies
+        </Link>
       </div>
     );
   }
@@ -121,6 +140,12 @@ export default function AddUnitPage() {
       </Link>
 
       <h2 className="text-2xl font-bold mb-6">Add Unit</h2>
+
+      {submitError && (
+        <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-md">
+          <p className="text-red-800 text-sm">{submitError}</p>
+        </div>
+      )}
 
       <form onSubmit={handleSubmit} className="space-y-6">
         {/* Unit Type Selection */}
@@ -314,13 +339,18 @@ export default function AddUnitPage() {
 
         {/* Actions */}
         <div className="flex gap-3 pt-4">
-          <button type="submit" className="btn-primary flex-1">
-            Add Unit
+          <button
+            type="submit"
+            className="btn-primary flex-1"
+            disabled={adding}
+          >
+            {adding ? 'Adding Unit...' : 'Add Unit'}
           </button>
           <button
             type="button"
             onClick={() => navigate(`/armies/${armyId}`)}
             className="btn-secondary"
+            disabled={adding}
           >
             Cancel
           </button>

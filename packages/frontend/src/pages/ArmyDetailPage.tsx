@@ -1,6 +1,8 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
+import { useQuery } from '@apollo/client';
 import { getFactionById } from '@path-to-glory/shared';
+import { GET_ARMY } from '../graphql/operations';
 
 const LOADING_MESSAGES = [
   'Marshalling the forces...',
@@ -17,24 +19,16 @@ const LOADING_MESSAGES = [
 
 export default function ArmyDetailPage() {
   const { armyId } = useParams();
-  const [army, setArmy] = useState<any>(null);
-  const [loading, setLoading] = useState(true);
   const [loadingMessage] = useState(() =>
     LOADING_MESSAGES[Math.floor(Math.random() * LOADING_MESSAGES.length)]
   );
 
-  useEffect(() => {
-    // TODO: Replace with GraphQL query when backend is ready
-    const storedArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const foundArmy = storedArmies.find((a: any) => a.id === armyId);
+  const { data, loading, error } = useQuery(GET_ARMY, {
+    variables: { id: armyId! },
+    skip: !armyId,
+  });
 
-    // Simulate network delay for loading state
-    setTimeout(() => {
-      setArmy(foundArmy || null);
-      setLoading(false);
-    }, 300);
-  }, [armyId]);
-
+  const army = data?.army;
   const faction = army ? getFactionById(army.factionId) : null;
 
   if (loading) {
@@ -42,6 +36,19 @@ export default function ArmyDetailPage() {
       <div className="flex flex-col items-center justify-center min-h-[50vh] space-y-4">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600"></div>
         <p className="text-gray-600 italic">{loadingMessage}</p>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="max-w-2xl mx-auto">
+        <div className="card bg-red-50 border border-red-200">
+          <p className="text-red-800">Error loading army: {error.message}</p>
+          <Link to="/armies" className="btn-primary mt-4">
+            Back to Armies
+          </Link>
+        </div>
       </div>
     );
   }
@@ -130,8 +137,8 @@ export default function ArmyDetailPage() {
                       </span>
                     )}
                   </div>
-                  {unit.name !== unit.warscroll && (
-                    <p className="text-sm text-gray-600">{unit.warscroll}</p>
+                  {unit.name !== unit.unitTypeId && (
+                    <p className="text-sm text-gray-600">{unit.unitTypeId}</p>
                   )}
                 </div>
                 <Link
@@ -174,18 +181,22 @@ export default function ArmyDetailPage() {
               </div>
 
               {/* Enhancements & Abilities */}
-              {(unit.enhancement || unit.pathAbility) && (
+              {(unit.enhancements?.length > 0 || unit.veteranAbilities?.length > 0) && (
                 <div className="grid md:grid-cols-2 gap-3 text-sm">
-                  {unit.enhancement && (
+                  {unit.enhancements?.length > 0 && (
                     <div>
-                      <span className="text-gray-500 block mb-1">Enhancement:</span>
-                      <p className="text-sm">• {unit.enhancement}</p>
+                      <span className="text-gray-500 block mb-1">Enhancements:</span>
+                      {unit.enhancements.map((enh: string, idx: number) => (
+                        <p key={idx} className="text-sm">• {enh}</p>
+                      ))}
                     </div>
                   )}
-                  {unit.pathAbility && (
+                  {unit.veteranAbilities?.length > 0 && (
                     <div>
-                      <span className="text-gray-500 block mb-1">Path Ability:</span>
-                      <p className="text-sm">• {unit.pathAbility}</p>
+                      <span className="text-gray-500 block mb-1">Veteran Abilities:</span>
+                      {unit.veteranAbilities.map((ability: string, idx: number) => (
+                        <p key={idx} className="text-sm">• {ability}</p>
+                      ))}
                     </div>
                   )}
                 </div>

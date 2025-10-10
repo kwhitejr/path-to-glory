@@ -66,6 +66,9 @@ type Unit {
   name: String!
   size: Int!
   wounds: Int!
+  rank: String!
+  renown: Int!
+  reinforced: Boolean!
   veteranAbilities: [String!]!
   injuries: [String!]!
   enhancements: [String!]!
@@ -209,12 +212,18 @@ input AddUnitInput {
   name: String!
   size: Int!
   wounds: Int!
+  rank: String!
+  renown: Int!
+  reinforced: Boolean!
 }
 
 input UpdateUnitInput {
   name: String
   size: Int
   wounds: Int
+  rank: String
+  renown: Int
+  reinforced: Boolean
   veteranAbilities: [String!]
   injuries: [String!]
   enhancements: [String!]

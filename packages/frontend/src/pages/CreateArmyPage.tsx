@@ -106,6 +106,9 @@ export default function CreateArmyPage() {
                 name: unit.name,
                 size: 1, // Default to 1 model - can be updated later
                 wounds: warscroll?.characteristics?.health || 1,
+                rank: 'Regular',
+                renown: 0,
+                reinforced: false,
               },
             },
           });

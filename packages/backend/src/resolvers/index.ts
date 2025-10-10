@@ -235,6 +235,9 @@ export const resolvers = {
           name: string;
           size: number;
           wounds: number;
+          rank: string;
+          renown: number;
+          reinforced: boolean;
         };
       },
       context: GraphQLContext
@@ -258,6 +261,9 @@ export const resolvers = {
         name: input.name,
         size: input.size,
         wounds: input.wounds,
+        rank: input.rank,
+        renown: input.renown,
+        reinforced: input.reinforced,
       });
 
       return {
@@ -268,6 +274,9 @@ export const resolvers = {
         name: unit.name,
         size: unit.size,
         wounds: unit.wounds,
+        rank: unit.rank,
+        renown: unit.renown,
+        reinforced: unit.reinforced,
         veteranAbilities: unit.veteranAbilities,
         injuries: unit.injuries,
         enhancements: unit.enhancements,
@@ -287,6 +296,9 @@ export const resolvers = {
           name?: string;
           size?: number;
           wounds?: number;
+          rank?: string;
+          renown?: number;
+          reinforced?: boolean;
           veteranAbilities?: string[];
           injuries?: string[];
           enhancements?: string[];
@@ -331,6 +343,9 @@ export const resolvers = {
         name: unit.name,
         size: unit.size,
         wounds: unit.wounds,
+        rank: unit.rank,
+        renown: unit.renown,
+        reinforced: unit.reinforced,
         veteranAbilities: unit.veteranAbilities,
         injuries: unit.injuries,
         enhancements: unit.enhancements,
@@ -421,6 +436,9 @@ export const resolvers = {
         name: unit.name,
         size: unit.size,
         wounds: unit.wounds,
+        rank: unit.rank,
+        renown: unit.renown,
+        reinforced: unit.reinforced,
         veteranAbilities: unit.veteranAbilities,
         injuries: unit.injuries,
         enhancements: unit.enhancements,
@@ -536,6 +554,9 @@ export const resolvers = {
         name: u.name,
         size: u.size,
         wounds: u.wounds,
+        rank: u.rank,
+        renown: u.renown,
+        reinforced: u.reinforced,
         veteranAbilities: u.veteranAbilities,
         injuries: u.injuries,
         enhancements: u.enhancements,

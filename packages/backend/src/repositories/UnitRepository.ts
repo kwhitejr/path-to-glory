@@ -11,12 +11,18 @@ export interface CreateUnitParams {
   name: string;
   size: number;
   wounds: number;
+  rank: string;
+  renown: number;
+  reinforced: boolean;
 }
 
 export interface UpdateUnitParams {
   name?: string;
   size?: number;
   wounds?: number;
+  rank?: string;
+  renown?: number;
+  reinforced?: boolean;
   veteranAbilities?: string[];
   injuries?: string[];
   enhancements?: string[];
@@ -37,6 +43,9 @@ export class UnitRepository {
       name: params.name,
       size: params.size,
       wounds: params.wounds,
+      rank: params.rank,
+      renown: params.renown,
+      reinforced: params.reinforced,
       veteranAbilities: [],
       injuries: [],
       enhancements: [],
@@ -96,6 +105,22 @@ export class UnitRepository {
     if (params.wounds !== undefined) {
       updateExpressions.push('wounds = :wounds');
       expressionAttributeValues[':wounds'] = params.wounds;
+    }
+
+    if (params.rank !== undefined) {
+      updateExpressions.push('#rank = :rank');
+      expressionAttributeNames['#rank'] = 'rank';
+      expressionAttributeValues[':rank'] = params.rank;
+    }
+
+    if (params.renown !== undefined) {
+      updateExpressions.push('renown = :renown');
+      expressionAttributeValues[':renown'] = params.renown;
+    }
+
+    if (params.reinforced !== undefined) {
+      updateExpressions.push('reinforced = :reinforced');
+      expressionAttributeValues[':reinforced'] = params.reinforced;
     }
 
     if (params.veteranAbilities !== undefined) {

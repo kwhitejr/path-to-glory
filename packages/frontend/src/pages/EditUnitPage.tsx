@@ -1,7 +1,8 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
-import { getFactionById } from '@path-to-glory/shared';
+import { useQuery, useMutation } from '@apollo/client';
 import { useAuth } from '../contexts/AuthContext';
+import { GET_ARMY, UPDATE_UNIT, REMOVE_UNIT, GET_MY_ARMIES } from '../graphql/operations';
 
 const RANKS = ['Regular', 'Veteran', 'Elite'];
 
@@ -10,9 +11,22 @@ export default function EditUnitPage() {
   const { armyId, unitId } = useParams();
   const { user, loading: authLoading } = useAuth();
 
-  const [loading, setLoading] = useState(true);
-  const [unit, setUnit] = useState<any>(null);
-  const [army, setArmy] = useState<any>(null);
+  // GraphQL operations
+  const { data, loading: queryLoading, error } = useQuery(GET_ARMY, {
+    variables: { id: armyId! },
+    skip: !armyId,
+  });
+
+  const [updateUnit, { loading: updating }] = useMutation(UPDATE_UNIT, {
+    refetchQueries: [{ query: GET_ARMY, variables: { id: armyId } }],
+  });
+
+  const [removeUnit, { loading: deleting }] = useMutation(REMOVE_UNIT, {
+    refetchQueries: [
+      { query: GET_ARMY, variables: { id: armyId } },
+      { query: GET_MY_ARMIES },
+    ],
+  });
 
   const [formData, setFormData] = useState({
     customName: '',
@@ -23,113 +37,97 @@ export default function EditUnitPage() {
     pathAbility: '',
   });
 
+  const [submitError, setSubmitError] = useState<string | null>(null);
+
+  const army = data?.army;
+  const unit = army?.units?.find((u: any) => u.id === unitId);
+
   useEffect(() => {
-    // TODO: Replace with GraphQL query when backend is ready
-    const storedArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const foundArmy = storedArmies.find((a: any) => a.id === armyId);
-
-    if (!foundArmy) {
-      navigate('/armies');
-      return;
-    }
-
     // Check if user owns this army
-    if (!authLoading && user && foundArmy.playerId !== user.id) {
+    if (!authLoading && user && army && army.player?.id !== user.id) {
       alert('You can only edit units in your own armies');
       navigate('/armies');
       return;
     }
 
-    const foundUnit = foundArmy.units?.find((u: any) => u.id === unitId);
-
-    if (!foundUnit) {
-      alert('Unit not found');
-      navigate(`/armies/${armyId}`);
-      return;
+    if (unit) {
+      setFormData({
+        customName: unit.name !== unit.unitTypeId ? unit.name : '',
+        rank: unit.rank || 'Regular',
+        renown: unit.renown || 0,
+        reinforced: unit.reinforced || false,
+        enhancement: unit.enhancements?.[0] || '',
+        pathAbility: '', // TODO: Add pathAbility to schema
+      });
     }
+  }, [unit, army, user, authLoading, navigate]);
 
-    setArmy(foundArmy);
-    setUnit(foundUnit);
-
-    // If unit.name differs from warscroll, it's a custom name
-    const hasCustomName = foundUnit.name !== foundUnit.warscroll;
-
-    setFormData({
-      customName: hasCustomName ? foundUnit.name : '',
-      rank: foundUnit.rank || 'Regular',
-      renown: foundUnit.renown || 0,
-      reinforced: foundUnit.reinforced || false,
-      enhancement: foundUnit.enhancement || '',
-      pathAbility: foundUnit.pathAbility || '',
-    });
-    setLoading(false);
-  }, [armyId, unitId, navigate, user, authLoading]);
-
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    setSubmitError(null);
 
     if (!user || !unit) {
       alert('You must be logged in');
       return;
     }
 
-    // TODO: Replace with GraphQL mutation when backend is ready
-    const existingArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const armyIndex = existingArmies.findIndex((a: any) => a.id === armyId);
+    try {
+      await updateUnit({
+        variables: {
+          id: unitId!,
+          input: {
+            name: formData.customName || unit.unitTypeId,
+            rank: formData.rank,
+            renown: formData.renown,
+            reinforced: formData.reinforced,
+            enhancements: formData.enhancement ? [formData.enhancement] : [],
+          },
+        },
+      });
 
-    if (armyIndex === -1) {
-      alert('Army not found');
-      return;
+      console.log('Unit updated successfully');
+      navigate(`/armies/${armyId}`);
+    } catch (err) {
+      console.error('Error updating unit:', err);
+      setSubmitError(err instanceof Error ? err.message : 'Failed to update unit');
     }
-
-    const unitIndex = existingArmies[armyIndex].units?.findIndex((u: any) => u.id === unitId);
-
-    if (unitIndex === -1 || unitIndex === undefined) {
-      alert('Unit not found');
-      return;
-    }
-
-    // Update the unit
-    existingArmies[armyIndex].units[unitIndex] = {
-      ...existingArmies[armyIndex].units[unitIndex],
-      name: formData.customName || unit.warscroll,
-      rank: formData.rank,
-      renown: formData.renown,
-      reinforced: formData.reinforced,
-      enhancement: formData.enhancement,
-      pathAbility: formData.pathAbility,
-    };
-
-    localStorage.setItem('armies', JSON.stringify(existingArmies));
-
-    console.log('Updated unit:', existingArmies[armyIndex].units[unitIndex]);
-
-    navigate(`/armies/${armyId}`);
   };
 
-  const handleDelete = () => {
+  const handleDelete = async () => {
     if (!confirm('Are you sure you want to delete this unit? This action cannot be undone.')) {
       return;
     }
 
-    // TODO: Replace with GraphQL mutation when backend is ready
-    const existingArmies = JSON.parse(localStorage.getItem('armies') || '[]');
-    const armyIndex = existingArmies.findIndex((a: any) => a.id === armyId);
+    try {
+      await removeUnit({
+        variables: { id: unitId! },
+      });
 
-    if (armyIndex !== -1 && existingArmies[armyIndex].units) {
-      existingArmies[armyIndex].units = existingArmies[armyIndex].units.filter(
-        (u: any) => u.id !== unitId
-      );
-      localStorage.setItem('armies', JSON.stringify(existingArmies));
+      console.log('Unit deleted successfully');
+      navigate(`/armies/${armyId}`);
+    } catch (err) {
+      console.error('Error deleting unit:', err);
+      alert(err instanceof Error ? err.message : 'Failed to delete unit');
     }
-
-    navigate(`/armies/${armyId}`);
   };
 
-  if (loading || authLoading) {
+  if (queryLoading || authLoading) {
     return (
       <div className="flex items-center justify-center min-h-[50vh]">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600"></div>
+      </div>
+    );
+  }
+
+  if (error) {
+    return (
+      <div className="max-w-2xl mx-auto">
+        <div className="card bg-red-50 border border-red-200">
+          <p className="text-red-800">Error loading unit: {error.message}</p>
+          <Link to={`/armies/${armyId}`} className="btn-primary mt-4">
+            Back to Army
+          </Link>
+        </div>
       </div>
     );
   }
@@ -160,6 +158,12 @@ export default function EditUnitPage() {
 
       <h2 className="text-2xl font-bold mb-6">Edit Unit</h2>
 
+      {submitError && (
+        <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-md">
+          <p className="text-red-800 text-sm">{submitError}</p>
+        </div>
+      )}
+
       <form onSubmit={handleSubmit} className="space-y-6">
         {/* Unit Type (Read-only) */}
         <div>
@@ -168,7 +172,7 @@ export default function EditUnitPage() {
             type="text"
             disabled
             className="input bg-gray-100 cursor-not-allowed"
-            value={unit.warscroll}
+            value={unit.unitTypeId}
           />
           <p className="mt-2 text-sm text-gray-500">Unit type cannot be changed after creation</p>
         </div>
@@ -185,23 +189,24 @@ export default function EditUnitPage() {
             value={formData.customName}
             onChange={(e) => setFormData({ ...formData, customName: e.target.value })}
             placeholder="e.g., The Crimson Guard"
+            disabled={updating}
           />
           <p className="mt-1 text-sm text-gray-500">
-            Leave empty to use default unit name: {unit.warscroll}
+            Leave empty to use default unit type ID: {unit.unitTypeId}
           </p>
         </div>
 
         {/* Rank */}
         <div>
           <label htmlFor="rank" className="label">
-            Rank *
+            Rank
           </label>
           <select
             id="rank"
-            required
             className="input"
             value={formData.rank}
             onChange={(e) => setFormData({ ...formData, rank: e.target.value })}
+            disabled={updating}
           >
             {RANKS.map((rank) => (
               <option key={rank} value={rank}>
@@ -220,117 +225,58 @@ export default function EditUnitPage() {
             id="renown"
             type="number"
             min="0"
-            className="input w-32"
+            className="input"
             value={formData.renown}
             onChange={(e) => setFormData({ ...formData, renown: parseInt(e.target.value) || 0 })}
+            disabled={updating}
           />
         </div>
 
         {/* Reinforced */}
-        <div className="flex items-center">
+        <div className="flex items-center gap-2">
           <input
             id="reinforced"
             type="checkbox"
-            className="h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300 rounded"
+            className="w-4 h-4 text-primary-600 bg-gray-100 border-gray-300 rounded focus:ring-primary-500"
             checked={formData.reinforced}
             onChange={(e) => setFormData({ ...formData, reinforced: e.target.checked })}
+            disabled={updating}
           />
-          <label htmlFor="reinforced" className="ml-2 block text-sm text-gray-700">
-            Reinforced Unit
+          <label htmlFor="reinforced" className="text-sm font-medium text-gray-700">
+            Reinforced
           </label>
         </div>
 
         {/* Enhancement */}
         <div>
-          <label className="label">Enhancement (Artefact of Power)</label>
-          <div className="space-y-2">
-            {/* None option */}
-            <label className="flex items-start p-3 border border-gray-200 rounded-lg hover:bg-gray-50 cursor-pointer">
-              <input
-                type="radio"
-                name="enhancement"
-                value=""
-                checked={formData.enhancement === ''}
-                onChange={(e) => setFormData({ ...formData, enhancement: e.target.value })}
-                className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
-              />
-              <span className="ml-3 text-sm font-medium text-gray-700">None</span>
-            </label>
-
-            {/* Enhancement options */}
-            {army && getFactionById(army.factionId)?.enhancements?.map((enh) => (
-              <label
-                key={enh.id}
-                className="flex items-start p-3 border border-gray-200 rounded-lg hover:bg-gray-50 cursor-pointer group"
-                title={enh.description}
-              >
-                <input
-                  type="radio"
-                  name="enhancement"
-                  value={enh.name}
-                  checked={formData.enhancement === enh.name}
-                  onChange={(e) => setFormData({ ...formData, enhancement: e.target.value })}
-                  className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
-                />
-                <div className="ml-3 flex-1">
-                  <span className="text-sm font-medium text-gray-700">{enh.name}</span>
-                  <p className="mt-1 text-xs text-gray-500">{enh.description}</p>
-                </div>
-              </label>
-            ))}
-          </div>
-        </div>
-
-        {/* Path Ability */}
-        <div>
-          <label className="label">Path Ability (Heroic Trait)</label>
-          <div className="space-y-2">
-            {/* None option */}
-            <label className="flex items-start p-3 border border-gray-200 rounded-lg hover:bg-gray-50 cursor-pointer">
-              <input
-                type="radio"
-                name="pathAbility"
-                value=""
-                checked={formData.pathAbility === ''}
-                onChange={(e) => setFormData({ ...formData, pathAbility: e.target.value })}
-                className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
-              />
-              <span className="ml-3 text-sm font-medium text-gray-700">None</span>
-            </label>
-
-            {/* Path Ability options */}
-            {army && getFactionById(army.factionId)?.pathAbilities?.map((ability) => (
-              <label
-                key={ability.id}
-                className="flex items-start p-3 border border-gray-200 rounded-lg hover:bg-gray-50 cursor-pointer group"
-                title={ability.description}
-              >
-                <input
-                  type="radio"
-                  name="pathAbility"
-                  value={ability.name}
-                  checked={formData.pathAbility === ability.name}
-                  onChange={(e) => setFormData({ ...formData, pathAbility: e.target.value })}
-                  className="mt-1 h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300"
-                />
-                <div className="ml-3 flex-1">
-                  <span className="text-sm font-medium text-gray-700">{ability.name}</span>
-                  <p className="mt-1 text-xs text-gray-500">{ability.description}</p>
-                </div>
-              </label>
-            ))}
-          </div>
+          <label htmlFor="enhancement" className="label">
+            Enhancement (optional)
+          </label>
+          <input
+            id="enhancement"
+            type="text"
+            className="input"
+            value={formData.enhancement}
+            onChange={(e) => setFormData({ ...formData, enhancement: e.target.value })}
+            placeholder="e.g., Banner Bearer, Musician"
+            disabled={updating}
+          />
         </div>
 
         {/* Actions */}
         <div className="flex gap-3 pt-4">
-          <button type="submit" className="btn-primary flex-1">
-            Save Changes
+          <button
+            type="submit"
+            className="btn-primary flex-1"
+            disabled={updating}
+          >
+            {updating ? 'Saving...' : 'Save Changes'}
           </button>
           <button
             type="button"
             onClick={() => navigate(`/armies/${armyId}`)}
             className="btn-secondary"
+            disabled={updating}
           >
             Cancel
           </button>
@@ -346,8 +292,9 @@ export default function EditUnitPage() {
             type="button"
             onClick={handleDelete}
             className="btn-secondary bg-red-50 text-red-600 border-red-300 hover:bg-red-100"
+            disabled={deleting || updating}
           >
-            Delete Unit
+            {deleting ? 'Deleting...' : 'Delete Unit'}
           </button>
         </div>
       </form>

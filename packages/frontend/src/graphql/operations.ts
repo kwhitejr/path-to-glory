@@ -45,6 +45,9 @@ export const GET_ARMY = gql`
         name
         size
         wounds
+        rank
+        renown
+        reinforced
         veteranAbilities
         injuries
         enhancements
@@ -147,6 +150,9 @@ export const ADD_UNIT = gql`
       name
       size
       wounds
+      rank
+      renown
+      reinforced
       veteranAbilities
       injuries
       enhancements
@@ -163,6 +169,9 @@ export const UPDATE_UNIT = gql`
       name
       size
       wounds
+      rank
+      renown
+      reinforced
       veteranAbilities
       injuries
       enhancements
@@ -181,6 +190,9 @@ export const ADD_VETERAN_ABILITY = gql`
   mutation AddVeteranAbility($unitId: ID!, $ability: String!) {
     addVeteranAbility(unitId: $unitId, ability: $ability) {
       id
+      rank
+      renown
+      reinforced
       veteranAbilities
       updatedAt
     }
