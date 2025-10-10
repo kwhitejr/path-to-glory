@@ -1,0 +1,91 @@
+--- Page 1 ---
+®
+BATTLE PROFILES
+JANUARY 2025
+IRONJAWZ
+UPDATED
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+This Hero can join an eligible
+Ardboy Big Boss 1 120 Any Infantry 40mm
+regiment as a Headstompa.
+0-1 Headstompa, 0-1 Tusk Wrangler,
+Gordrakk, the Fist of Gork 1 380 160mm
+Any Ironjawz
+✹ K ragnos, the End of Empires 1 580 0-1 Headstompa, 0-1 Tusk Wrangler, 130mm
+Any Ironjawz
+This Hero can join an eligible
+Megaboss 1 190 0-1 Headstompa, Any Ironjawz 60mm
+regiment as a Headstompa.
+0-1 Headstompa, 0-1 Tusk Wrangler,
+Megaboss on Maw-krusha 1 360 160mm
+Any Ironjawz
+Any Maw-grunta Gougers,
+This Hero can join an eligible
+Tuskboss on Maw-grunta 1 260 Any Maw-grunta with Hakkin’ Krew, 120 × 92mm
+regiment as a Tusk Wrangler.
+Any Cavalry
+Warchanter 1 120 Any Ironjawz 40mm
+Weirdnob Shaman 1 130 Any Ironjawz 40mm
+This Hero can join an eligible 50mm [1],
+Z oggrok Anvilsmasha 1 180 Any Ironjawz
+regiment as a Headstompa. 25mm [1]
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+Ardboyz 10 180 Infantry 32mm
+✹ B rute Ragerz 3 120 (-10) Infantry 40mm
+Brutes 5 200 Infantry 40mm
+G ore-gruntas 3 180 Cavalry 90 × 52mm
+Maw-grunta Gougers 1 210 Monster 120 × 92mm
+Maw-grunta with Hakkin’ Krew 1 250 Monster 120 × 92mm
+✹ W eirdbrute Wrekkaz 3 100 (-10) Infantry 40mm
+
+--- Page 2 ---
+®
+BATTLE PROFILES
+JANUARY 2025
+KRULEBOYZ
+UPDATED
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+Breaka-boss on This Hero can join an eligible
+1 220 0-1 Mob Wrangler, Any Kruleboyz 80mm
+Mirebrute Troggoth regiment as a Swamp Beast.
+0-1 Mob Wrangler, 0-1 Swamp Beast,
+Gobsprakk, the Mouth of Mork 1 330 130mm
+Any Kruleboyz
+✹ H obgrot Slittaboss 1 80 0-1 Infantry, 0-1 Monster, This Hero can join an eligible 32mm
+0-1 War Machine, Any Hobgrot Slittaz regiment as a Mob Wrangler.
+This Hero can join an eligible
+Killaboss on Corpse-rippa Vulcha 1 290 0-1 Mob Wrangler, Any Kruleboyz 130mm
+regiment as a Swamp Beast.
+✹ K illaboss on Great Gnashtoof 1 170 (-10) 0-1 Mob Wrangler, Any Kruleboyz This Hero can join an eligible 105 × 70mm
+regiment as a Swamp Beast.
+✹ K illaboss with Stab-grot 1 100 (-10) Any Kruleboyz This Hero can join an eligible 40mm [1],
+regiment as a Mob Wrangler. 25mm [1]
+✹ K ragnos, the End of Empires 1 580 0-1 Mob Wrangler, 0-1 Swamp Beast, 130mm
+Any Kruleboyz
+✹ M urknob with Belcha-banna 1 100 (-20) Any Kruleboyz This Hero can join an eligible 40mm
+regiment as a Mob Wrangler.
+✹ S natchaboss on This Hero can join an eligible
+1 240 (-80) 0-1 Mob Wrangler, Any Kruleboyz 120 × 92mm
+Sludgeraker Beast regiment as a Swamp Beast.
+Swampboss Skumdrekk 1 220 0-1 Mob Wrangler, Any Kruleboyz 120 × 92mm
+40mm [1],
+Swampcalla Shaman with Pot-grot 1 120 Any Infantry
+25mm [1]
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+Beast-skewer Killbow 1 160 War Machine 90 × 52mm
+✹ G utrippaz 10 150 (-20) Infantry 32mm
+Hobgrot Slittaz 10 90 Infantry 25mm
+40mm [1],
+Kruleboyz Monsta-killaz 7 120 Infantry This unit cannot be reinforced. 32mm [6],
+28.5mm [1]
+Man-skewer Boltboyz 3 110 Infantry 32mm
+✹ M arshcrawla Sloggoth 1 150 War Machine 105 × 70mm
+REGIMENTS OF RENOWN NEW
+DESTRUCTION
+UNIT SUMMARY POINTS NOTES
+REGIMENTS
+✹ D a Hurtlin’ Hogz • 1 Tuskboss on Maw-grunta 420 This Regiment of Renown can be included in the following factions:
+• 1 Maw-grunta Gougers unit Bonesplitterz, Gloomspite Gitz, Kruleboyz, Ogor Mawtribes, Sons of Behemat.
+• Swampboss Skumdrekk This Regiment of Renown can be included in the following factions:
+✹ D a Kountin’ Krew • 10 Hobgrot Slittaz 360
+• 10 Hobgrot Slittaz Bonesplitterz, Gloomspite Gitz, Ironjawz, Sons of Behemat.

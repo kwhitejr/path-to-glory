@@ -1,0 +1,1729 @@
+--- Page 1 ---
+FACTION PACK
+SERAPHON
+
+--- Page 2 ---
+BATTLE TRAITS
+Seraphon armies can use the following abilities:
+Once Per Battle, Deployment Phase Passive
+THE GREAT PLAN: The Seraphon look ITZL THE TAMER: Itzl is the most
+to the heavens for guidance, scrying the bestial of all the Old Ones and his asterism
+stars above in the hope that the Great Plan fills the Seraphon with ferocity.
+is revealed to them.
+Effect:Companion weapons used
+Declare: Pick an Asterism ability. by friendly Seraphon units have
+Crit (2 Hits).
+Effect: That Asterism ability can be
+Keywords Asterism
+used for the rest of the battle, but the
+others cannot, unless allowed by the
+Passive
+‘Further the Great Plan’ ability.
+QUETZL THE PRESERVER: Quetzl
+grants protection from the dangers of the
+Once Per Battle, Start of the Third
+physical realms.
+Battle Round
+FURTHER THE GREAT PLAN: As the Effect: Subtract 1 from the Rend
+battle unfolds, so do the machinations of characteristic of melee weapons
+the Old Ones. for attacks that target friendly
+Seraphon units that are wholly within
+Declare: You can use this ability if friendly territory.
+you meet the condition below that
+Keywords Asterism
+corresponds to the Asterism you picked
+in the deployment phase.
+Passive
+Itzl the Tamer: 3 or more enemy units SOTEK THE DELIVERER: The Asterism
+have been destroyed. of Sotek emboldens the Seraphon with a
+war-hungry aggression.
+Quetzl the Preserver:There are no enemy
+units wholly within friendly territory. Effect: Add 2 to the Move characteristic
+of friendly Seraphon units.
+Sotek the Deliverer: The enemy general is
+in combat or has been destroyed. Keywords Asterism
+Tepok the Seer: There are any friendly Passive
+Slann units on the battlefield and no TEPOK THE SEER: The sign of Tepok,
+friendly Slann units are in combat or resplendent in the stars above, enlivens the
+have been destroyed. land with thrumming geomantic energy.
+Effect: Pick a different Asterism ability. Effect: Add 1 to casting rolls for friendly
+It can be used in addition to the one you Seraphon units.
+picked in the deployment phase.
+Keywords Asterism
+December 2024
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Seraphon army. Each battle formation
+ggggggrrrrrraaaaaannnnnnttttttssssss aaaaaa ddddddiiiiiiffffffffffffeeeeeerrrrrreeeeeennnnnntttttt aaaaaabbbbbbiiiiiilllllliiiiiittttttyyyyyy yyyyyyoooooouuuuuu ccccccaaaaaannnnnn uuuuuusssssseeeeee iiiiiinnnnnn tttttthhhhhheeeeee bbbbbbaaaaaattttttttttttlllllleeeeee......
+ETERNAL STARHOST SHADOWSTRIKE STARHOST
+Once Per Turn (Army), Once Per Turn (Army),
+Your Movement Phase Your Shooting Phase
+CELESTIAL TRANSLOCATION: In a NIMBLE AND QUICK: The skink
+flash of starlight, an Eternal Starhost warriors of a Shadowstrike Starhost
+arrives to enact the will of the Old Ones. outmanoeuvre their enemies at every turn.
+Tapping into the celestial power that
+surrounds the slann, they teleport across Declare: Pick up to 3 friendly Skink
+the battlefield to catch the foe off guard. Infantry or Skink Cavalry units that
+are not in combat to be the targets.
+Declare: Pick a friendly Seraphon
+unit wholly within 12" of a friendly Effect: Each target can move D6". Each
+Seraphon Wizard to use this ability. target cannot move into combat during
+any part of that move.
+Effect: Roll a dice. On a 3+, remove that
+unit from the battlefield and set it up
+again on the battlefield more than 9" from
+all enemy units.
+SUNCLAW STARHOST THUNDERQUAKE STARHOST
+Once Per Turn (Army), End of Any Turn Passive
+VENGEANCE OF AZYR: The celestite SCALY MONSTROSITIES: The great
+weapons carried by the warriors of a beasts of the Seraphon are almost
+Sunclaw Starhost are supercharged with invincible when they march forth as
+the power of Azyr. a pack.
+Declare: Pick up to 3 friendly Saurus or Effect: Add 2 to the Health characteristic
+Kroxigor units that are in combat to be of friendly Seraphon Monster units.
+the targets.
+Effect: For each target:
+• Make a pile-in move.
+• Then, pick an enemy unit in combat
+with the target and roll a D3. On a 2+,
+inflict an amount of mortal damage on
+that enemy unit equal to the roll.
+December 2024
+
+--- Page 4 ---
+HEROIC TRAITS
+CELESTIAL DISCIPLINES (Hero only)
+Passive Passive
+BEING OF THE STARS: This hero has BEASTMASTER: This mighty leader
+a particularly strong connection to their has a primal dominance over the beasts of
+astral heritage, causing their corporeality the Seraphon hosts, driving them forward
+to wax and wane. to battle.
+Effect: Ignore modifiers to save rolls for Effect: Add 2" to the Move characteristic
+this unit(positive and negative). of friendly Seraphon Cavalry and
+Seraphon Monster units for the rest of
+Passive the phase if they are wholly within 12" of
+REPTILIAN CUNNING: With cold- this unit at the start of the move.
+blooded calculation, this general looks for
+opportunities to strike.
+Effect: If this unit charged this turn, if
+a friendly unit wholly within 12" of this
+unit uses the ‘All-out Attack’ command
+in the combat phase, no command points
+are spent.
+ARTEFACTS OF POWER
+TREASURES OF THE OLD ONES (Hero only)
+Once Per Battle, Reaction: You declared a Any Hero Phase
+Spell ability for a friendly Seraphon INCANDESCENT RECTRICES: This
+Wizard within this unit’s combat range
+vibrant plumage imbues the bearer with
+COATL FAMILIAR: Though only a the restorative power of the heavens.
+juvenile example of the great feathered
+serpents, this winged creature is still sacred Effect:Heal (D3) this unit.
+to the mage-god Tepok.
+Passive
+Effect: Add D6 to the casting roll for
+BLOODRAGE PENDANT: Carved from
+that spell.
+the bones of savage reptilian megafauna,
+the Bloodrage Pendant spurs a warrior’s
+killing rage – all the more should they
+themselves shed gore.
+Effect: Add 1 to the Attacks characteristic
+of this unit’s melee weapons. Add 2
+instead if the number of damage points
+allocated to this unit is equal to or
+greater than half of this unit’s Health
+characteristic (rounding up).
+December 2024
+
+--- Page 5 ---
+SPELL LORE
+LORE OF CELESTIAL MANIPULATION
+Your Hero Phase 6
+MYSTICAL UNFORGING: The magic of unmaking flies from the wizard’s
+outstretched hands.
+Declare: Pick a friendly Seraphon Wizard to cast this spell, pick a visible enemy unit
+within 12" of them to be the target, then make a casting roll of 2D6.
+Effect: Subtract 1 from the Rend characteristic of the target’s weapons until the start of
+your next turn.
+Keywords Spell, Unlimited
+Your Hero Phase 7 Your Hero Phase 6
+COMET’S CALL: Their SPEED OF HUANCHI: With the
+consciousness soaring up to the heavens, grace and momentum of a prowling beast,
+the wizard summons a celestial comet that the allies of the priestly mage are filled
+plummets down into the enemy ranks. with a celestial haste.
+Declare: Pick a friendly Seraphon Declare: Pick a friendly Seraphon
+Wizard to cast this spell, pick a visible Wizard to cast this spell, pick a visible
+enemy unit within 18" of them to be the friendly Seraphon unit wholly within
+target, then make a casting roll of 2D6. 12" of them to be the target, then make a
+casting roll of 2D6.
+Effect: Roll a dice for each model in the
+target unit. For each 5+, inflict 1 mortal Effect: Until the start of your next turn,
+damage on the target. the target can use a Run ability and still
+Keywords Spell use Shoot and/or Charge abilities later
+in the turn.
+Keywords Spell
+December 2024
+
+--- Page 6 ---
+SPELL LORE
+LORE OF PRIMAL JUNGLES
+Your Hero Phase 6
+LIGHT OF CHOTEC: The wizard calls upon the sun god Chotec to energise an
+injured warrior with rays of invigorating solar magics.
+Declare: Pick a friendly Seraphon Wizard to cast this spell, pick a visible friendly
+Seraphon unit wholly within 12" of them to be the target, then make a casting roll
+of 2D6.
+Effect: Roll a number of dice equal to the number of damage points the target has.
+For each 4+, Heal (1) the target.
+Keywords Spell, Unlimited
+Your Hero Phase 8 Your Hero Phase 7
+THE EARTH TREMBLES: With a EMPOWERED CELESTITE:
+focused pulse of will, the Starmaster sets Tapping into the ancient technologies
+the energy of the ley lines spiking until the within the weapons of the Coalesced, a
+ground is violently torn asunder. light is birthed in each; for a few moments,
+every strike shatters armour in an
+Declare: Pick a friendly Seraphon
+explosion of sparks.
+Wizard to cast this spell, pick a point
+on the battlefield within 18" of them to Declare: Pick a friendly Seraphon
+be the target point, then make a casting Wizard to cast this spell, pick a visible
+roll of 2D6. friendly Saurus unit wholly within 12" of
+them to be the target, then make a casting
+Effect: Draw a straight line between
+roll of 2D6.
+the target point and the closest part on
+the caster’s base. Roll a D3 for each unit Effect: Add 1 to the Rend characteristic
+(friendly and enemy) that has models of the target’s melee weapons for the rest
+passed across by this line. On a 2+, inflict of the turn.
+an amount of mortal damage on that unit Keywords Spell
+equal to the roll.
+Keywords Spell
+December 2024
+
+--- Page 7 ---
+December 2024
+MOVE
+5"
+H • SERAPHON WARSCROLL •
+T S
+A L18 4+A V LORD KROAK
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Gaze of Kroak 12" 1 2+ 3+ 2 D6 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Azyrite Force Barrier 2D6 3+ 3+ 1 1 Crit (Mortal)
+Passive Once Per Turn, Any Hero Phase
+SUPREME MASTER OF ORDER: The ARCANE VASSAL: A Slann Starmaster
+slann are amongst the greatest wizards in can channel the power of a spell through
+existence, but Lord Kroak is mighty even one of their followers.
+in comparison to others of his kind.
+Declare: Pick a friendly Skink Wizard
+Effect: Add 2 to casting rolls, and add 1 wholly within 18" of this unit to be the target.
+to unbinding rolls and banishment rolls
+Effect: Measure the range and visibility of
+for this unit. In addition, this unit can use
+the next Spell ability used by this unit this
+an Unbind ability if an enemy Wizard
+phase from the target instead of from this
+anywhere on the battlefield uses a Spell
+unit. The target is treated as the caster for
+ability instead of an enemy Wizard
+the purpose of other abilities or spell effects,
+within 30" of this unit, and when using the
+such as ‘Unbind’ or ‘The Earth Trembles’.
+‘Banish Manifestation’ ability, this unit
+can pick a manifestation anywhere on the Your Hero Phase 7
+battlefield instead of within 30" of it.
+CELESTIAL DELIVERANCE: Lord
+End of Any Turn Kroak’s palanquin quivers with barely
+contained force before unleashing
+DEAD FOR INNUMERABLE AGES:
+ruination on the enemies of the Seraphon.
+Lord Kroak is no longer truly alive; his
+form is preserved only by his indomitable Declare: This unit can cast this spell more
+spirit. As a result, he is immune to all but than once per phase. Pick up to 3 different
+the most devastating attacks. visible enemy units within 18" of this unit
+to be the targets, then make a casting roll
+Effect: This unit must use this ability each
+of 2D6.
+turn while it is damaged. Roll 3D6 and
+add the number of damage points this Effect: Inflict D3 mortal damage on
+unit has to the roll. On a 20+, this unit is each target.
+destroyed. Otherwise, Heal (18) this unit.
+Keywords Spell
+Warmaster, Unique, Hero, Wizard (3), Fly, Ward (4+)
+KEYWORDS
+Order, Seraphon, Slann
+
+--- Page 8 ---
+December 2024
+MOVE
+5" • SERAPHON WARSCROLL •
+T H S SLANN
+L 9 5+A
+A V
+E E
+H STARMASTER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Azure Lightning 6 3+ 3+ 1 1 Crit (Mortal)
+Passive Once Per Turn, Any Hero Phase
+MASTERS OF ORDER: The slann are ARCANE VASSAL: A Slann Starmaster
+amongst the greatest wizards in existence, can channel the power of a spell through
+and they shape the very stars with one of their followers.
+their magic.
+Declare: Pick a friendly Skink Wizard
+Effect: Add 1 to casting rolls for this unit. wholly within 18" of this unit to be the target.
+In addition, this unit can use an Unbind
+Effect: Measure the range and visibility
+ability if an enemy Wizard anywhere
+of the next Spell ability used by this
+on the battlefield uses a Spell ability
+unit this phase from the target instead of
+instead of an enemy Wizard within 30"
+from this unit. The target is treated as the
+of this unit, and when using the ‘Banish
+caster for the purpose of other abilities
+Manifestation’ ability, this unit can pick a
+or spell effects, such as ‘Unbind’ or ‘The
+manifestation anywhere on the battlefield
+Earth Trembles’.
+instead of within 30" of it.
+Your Hero Phase 6 Once Per Turn (Army), Your Hero Phase
+CELESTIAL EQUILIBRIUM: The CELESTIAL REINFORCEMENTS:
+The slann summons Seraphon warriors to
+slann’s form seems to shimmer and fade as
+the battlefield to bolster their forces and
+it draws links between their allies and the
+ensure the Great Plan is made manifest.
+turnings of the stars.
+Declare: Pick a friendly Seraphon unit
+Declare: Make a casting roll of 2D6.
+that started the battle with 3 or more
+Effect: For the rest of the turn, add 1 models and that has been destroyed to be
+to casting rolls made for other friendly the target.
+Seraphon Wizards while they are
+Effect: Roll a dice. On a 4+, set up a
+wholly within 12" of this unit.
+replacement unit with half the number
+Keywords Spell
+of models from the target unit (rounding
+up) wholly within 12" of this unit and
+more than 9" from all enemy units.
+Warmaster, Hero, Wizard (3), Infantry, Fly, Ward (6+)
+KEYWORDS
+Order, Seraphon, Slann
+
+--- Page 9 ---
+December 2024
+MOVE
+10"
+H • SERAPHON WARSCROLL •
+L T 14 4+ S A SKINK ORACLE
+A V
+E E
+H
+5 ON TROGLODON
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Troglodon’s Noxious Spittle 15" D6 3+ 3+ 1 2 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Divining Rod 2 4+ 4+ 1 D3 -
+Troglodon’s Talons 2 4+ 3+ 1 2 Companion
+Troglodon’s Jaws 3 4+ 3+ 1 3 Crit (Mortal), Companion
+Passive Passive
+BATTLE DAMAGED TERROR: This terrifying monstrosity
+Effect: While this unit has 10 or more strikes fear into the hearts of its foes.
+damage points, the Attacks characteristic
+Effect: Subtract 2 from the control scores
+of its Troglodon’s Jaws is 2.
+of enemy units while they are in combat
+with this unit.
+Once Per Turn (Army),
+Any Combat Phase
+End of Any Turn
+NOXIOUS ROAR: These creatures bring
+the roul stench of their swampland homes TROGLODON REGENERATION:
+Troglodons are able to mend injured flesh
+to battle, their noxious breath reeking all
+almost as soon as they are harmed.
+the worse when they roar in anger.
+Effect:Heal (D3) this unit.
+Declare: Pick up to 3 enemy units in
+combat with this unit to be the targets.
+Effect: Roll a dice for each target. On a 3+,
+subtract 1 from hit rolls for the target’s
+attacks for the rest of the turn.
+Keywords Rampage
+Hero, Monster, Wizard(1)
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 10 ---
+December 2024
+MOVE
+10"
+H • SERAPHON WARSCROLL •
+L T 14 4+ S A SAURUS OLDBLOOD
+A V
+E E
+H
+5 ON CARNOSAUR
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Sunbolt Gauntlet 12" D6 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sunstone Spear 5 3+ 3+ 1 2 Charge (+1 Damage)
+Carnosaur’s Clawed
+4 4+ 2+ 1 3 Companion
+Forelimbs
+Carnosaur’s Massive Jaws 3 4+ 2+ 2 3 Companion
+Passive Passive
+BATTLE DAMAGED TERROR: This terrifying monstrosity
+Effect: While this unit has 10 or more strikes fear into the hearts of its foes.
+damage points, the Attacks characteristic
+Effect: Subtract 2 from the control scores
+of its Carnosaur’s Massive Jaws is 2.
+of enemy units while they are in combat
+with this unit.
+Passive
+SPEARHEAD OF THE CHARGE: Atop
+Once Per Turn (Army),
+their mighty Carnosaur steeds, Oldbloods
+Any Combat Phase
+lead their saurian brethren into battle.
+BLOOD FRENZY: A Carnosaur that
+Effect: If this unit charged this turn, add senses an injured predator will not hesitate
+1 to charge rolls for friendly Saurus to assert its dominance in combat.
+units while they are wholly within 18" of
+this unit for the rest of the turn. Effect: If this unit is in combat with any
+damaged enemy Monsters, roll a dice.
+On a 3+, this unit has Strike-first for
+the rest of the turn.
+Keywords Rampage
+Hero, Monster
+KEYWORDS
+Order, Seraphon, Saurus
+
+--- Page 11 ---
+December 2024
+MOVE
+• SERAPHON WARSCROLL •
+10"
+H SAURUS
+T S
+L 8 4+A
+A E E V SCAR-VETERAN
+H
+2
+ON AGGRADON
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Celestite Spear or Club 4 3+ 3+ 2 2 Charge (+1 Damage)
+Aggradon’s Rending Bites
+3 4+ 3+ 2 2 Companion
+and Striking Talons
+End of Any Turn Once Per Battle (Army),
+PRIMAL RAGE: The mere taste of Any Combat Phase
+enemy blood whips an Aggradon into a ALPHA ROAR: The Aggradons ridden
+battle frenzy and sends the beast on a by Scar-Veterans are the most violent
+violent rampage. examples of a brutal species. When they
+throw back their heads to unleash a ear-
+Effect: This unit must use this ability splitting roar, their kin soon follow suit.
+each turn.
+Declare: Pick this unit and each friendly
+If this unit used any Fight abilities this Aggradon Lancers unit wholly within 12"
+turn, place a rage token next to it, to a of it to be the targets.
+maximum of 3. If this unit did not use
+any Fight abilities this turn, remove all Effect: Add 1 to the Attacks characteristic
+rage tokens it has. of the targets’ Companion weapons for
+the rest of the turn. In addition, place
+Add 1 to the Attacks characteristic of this a rage token next to each target, to a
+unit’s Companion weapons for each rage maximum of 3 per unit.
+token it has until the end of the next turn.
+Hero, Cavalry
+KEYWORDS
+Order, Seraphon, Saurus
+
+--- Page 12 ---
+December 2024
+MOVE
+10" • SERAPHON WARSCROLL •
+T H S AGGRADON
+L 5 4+A
+A V
+E E
+H LANCERS
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Celestite Spear and Club 3 3+ 3+ 1 1
+Anti-Monster (+1 Rend)
+Aggradon’s Rending Bites
+3 44++ 33++ 22 22 CCoommppaanniioonn
+and Striking Talons
+End of Any Turn
+PRIMAL RAGE: The mere taste of
+enemy blood whips an Aggradon into a
+battle frenzy and sends the beast on a
+violent rampage.
+Effect: This unit must use this ability
+each turn.
+If this unit used any Fight abilities this
+turn, place a rage token next to it, to a
+maximum of 3. If this unit did not use
+any Fight abilities this turn, remove all
+rage tokens it has.
+Add 1 to the Attacks characteristic of this
+unit’s Companion weapons for each rage
+token it has until the end of the next turn.
+Cavalry, Champion, Musician (1/3), Standard Bearer (1/3)
+KEYWORDS
+Order, Seraphon, Saurus
+
+--- Page 13 ---
+December 2024
+MOVE
+5"
+T H S • SERAPHON WARSCROLL •
+A L 2 4+A V SAURUS WARRIORS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Celestite Weapon 2 3+ 3+ 1 1 -
+Passive
+ORDERED COHORTS: Devoted servants
+of the Old Ones, Saurus Warriors are as
+intractable in defence as they are relentless
+upon the attack.
+Effect: Add 1 to save rolls for this
+unit while each model in this unit is
+contesting an objective you control.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Seraphon, Saurus
+
+--- Page 14 ---
+December 2024
+MOVE
+5"
+H • SERAPHON WARSCROLL •
+T S
+A L 2 3+A V SAURUS GUARD
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Celestite Polearm 3 3+ 3+ 1 11 -
+Passive
+SELFLESS PROTECTORS: The Saurus
+Guard stand as a living shield between the
+leaders of the Seraphon and their foes.
+Effect: While any friendly Slann units
+are within this unit’s combat range, both
+this unit and those Slann units have
+Ward (5+).
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Order, Seraphon, Saurus
+
+--- Page 15 ---
+December 2024
+MOVE
+5"
+T H S • SERAPHON WARSCROLL •
+A L 6 4+A V SKINK STARSEER
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Astromancer’s Staff 2 4+ 3+ 1 D3 -
+Once Per Battle (Army), Your Hero Phase Your Hero Phase 7
+SCRY THE STARS: By drawing upon the CELESTIAL DOOM: The Starseer
+energies of the heavens, the Starseer peers harnesses their deep connection with Azyr
+along the tangled weave of fate, gleaning to subtly shift the alignment of the stars
+insight that can be used to prepare above, altering the path of fate and spelling
+their servants. doom for those who stand in the way of the
+Great Plan.
+Effect: Roll a number of dice equal to
+the current battle round number. For Declare: Pick a visible enemy unit within
+each 3+, pick a friendly Seraphon unit 18" to be the target, then make a casting
+wholly within 18" of this unit. That unit roll of 2D6.
+has Ward (5+) until the start of your
+Effect: Ward rolls cannot be made for the
+next turn.
+target for the rest of the turn.
+Keywords Spell
+Hero, Wizard (2), Infantry, Fly
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 16 ---
+December 2024
+MOVE
+8"
+T H S • SERAPHON WARSCROLL •
+A L 5 6+A V SKINK STARPRIEST
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Serpent Staff 3 4+ 4+ 1 D3 -
+Your Hero Phase
+SERPENT STAFF: Channelling cosmic
+power through their twin-headed staff, a
+Starpriest causes their allies’ weapons to
+drip with deadly venom.
+Declare: Pick a visible friendly
+Seraphon unit wholly within 18" of this
+unit to be the target.
+Effect: Roll a dice. On a 2+, the target’s
+melee weapons have Crit (Auto-wound)
+until the start of your next turn.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 17 ---
+December 2024
+MOVE
+8"
+T H S • SERAPHON WARSCROLL •
+A L 1 6+A V SKINKS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Javelins and Boltspitters 12" 2 4+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg AAbbiilliittyy
+Celestite Daggers and
+1 4+ 5+ - 11 -
+Moonstone Clubs
+Passive
+SWIFT AND NIMBLE: Though not
+physically powerful, skinks are fleet of foot,
+able to rapidly redeploy and outmanoeuvre
+the enemy at a single chirruped command.
+Effect: When this unit uses the ‘Redeploy’
+command, when determining the
+distance this unit can move, you can roll
+2 dice instead of 1 and pick either result.
+Infantry, Champion
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 18 ---
+December 2024
+MOVE
+5"
+H • SERAPHON WARSCROLL •
+T S
+A L 8 5+A V SPAWN OF CHOTEC
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk HitWndRnd Dmg Ability
+Glob of Flame Acid 16" 1 4+ 2+ 2 D3+3 Companion
+Anti-Infantry (+1 Rend),
+Stream of Fire 10" 5 2+ 3+ 1 1
+Companion
+MELEE WEAPONS Atk HitWndRnd Dmg Ability
+Fiery Maw 3 3+ 3+ 2 3 Companion
+Passive Passive
+SUN ACOLYTES: The Sun Acolytes that ACID-FUELLED FLAME: The fiery
+accompany a Spawn of Chotec carry out secretions belched up by the Spawn of
+complex tasks upon the battlefield safe Chotec melt armour and flesh long after
+in the knowledge that the salamander they have hit their targets.
+serves as a deadly deterrent to would-
+Effect: Each time this unit uses a Shoot
+be attackers.
+ability, you must pick either its Glob
+Effect: This unit has a crew of 3 of Flame Acid or its Stream of Fire
+Sun Acolytes that are tokens. ranged weapon.
+Add 1 to this unit’s control score for each In addition, after resolving shooting
+Sun Acolyte it has. If this unit has no attacks made with this unit’s Glob of
+Sun Acolytes, it has a maximum control Flame Acid, if any damage points were
+score of 1 for the rest of the battle. allocated to an enemy unit by those
+attacks, subtract 1 from save rolls for that
+Each time you make an unmodified save
+enemy unit for the rest of the turn.
+roll of 1 for this unit, remove 1 of its
+Sun Acolytes from the battlefield after
+the Attack ability has been resolved (the
+damage point is still inflicted).
+Beast
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 19 ---
+December 2024
+MOVE
+12" • SERAPHON WARSCROLL •
+T H S RAPTADON
+L 3 5+A
+A V
+E E
+H HUNTERS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Starstone Atlatl 12" 2 4+ 4+ 2 1 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Weighted Moonstone Club 3 4+ 5+ - 1 -
+Raptadon’s Serrated Fangs 3 4+ 3+ 1 1 Companion
+Any Charge Phase
+DEADLY COHESION: Raptadon
+Hunters pepper enemy lines with volleys
+of starstone javelins, exposing weak points
+for Raptadon Chargers to exploit.
+Declare: If this unit is not in combat, pick
+a friendly Raptadon Chargers unit that
+charged this turn and is within 12" of this
+unit to be the target.
+Effect: This unit can use a Shoot ability
+as if it were your shooting phase. It must
+target a visible enemy unit in combat with
+the target.
+Cavalry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 20 ---
+December 2024
+MOVE
+12" • SERAPHON WARSCROLL •
+T H S RAPTADON
+L 3 5+A
+A V
+E E
+H CHARGERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Tepok Lance 3 4+ 4+ 1 1 CChhaarrggee ((++11 DDaammaaggee))
+Raptadon’s Serrated Fangs 3 4+ 3+ 11 1 CCoommppaanniioonn
+Passive
+COLD-BLOODED UNITY: The blasts
+unleashed by Raptadon Chargers’ sacred
+lances are all the more effective when
+targeting enemies suppressed by javelins
+from a Hunter cohort.
+Effect: Add 1 to hit rolls for this unit’s
+combat attacks if they target an enemy
+unit that was targeted by shooting attacks
+made by a friendly Raptadon Hunters
+unit in the same turn.
+Cavalry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 21 ---
+December 2024
+MOVE
+• SERAPHON WARSCROLL •
+8"
+H HUNTERS OF
+T S
+L 1 6+A
+A E E V HUANCHI
+H
+1
+WITH DARTPIPES
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Dartpipe 10" 2 3+ 3+ - 1 Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Feeble Claws 1 4+ 5+ - 1 -
+Deployment Phase Your Movement Phase
+HIDDEN HUNTERS: The Hunters CHAMELEON AMBUSH: The Hunters
+of Huanchi can blend in with their of Huanchi emerge from hiding and pepper
+surroundings and vanish from sight. their enemies with projectiles.
+Declare: Pick this unit if it has not Declare: Pick this unit if it is in ambush.
+been deployed.
+Effect: Set up this unit anywhere on
+Effect: Set up this unit in reserve in the battlefield more than 9" from all
+ambush. It has now been deployed. enemy units.
+Keywords Deploy
+Any Shooting Phase
+STAR-VENOM: The blowdarts used by
+the Hunters of Huanchi are coated in
+deadly toxins.
+Declare: Pick an enemy unit that had any
+damage points allocated to it this turn by
+attacks made with this unit’s Dartpipe to
+be the target.
+Effect: Roll a dice. On a 2+, subtract 1
+from wound rolls for the target’s combat
+attacks for the rest of the turn.
+Infantry, Champion (1/5), Musician (1/5), Ward (5+)
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 22 ---
+December 2024
+MOVE • SERAPHON WARSCROLL •
+8" HUNTERS OF
+H
+T S
+L 1 6+A
+A E E V HUANCHI
+H
+1
+WITH STARSTONE BOLAS
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Starstone Bolas 10" 1 3+ 4+ - 1 -
+Hunter Javelin 10" 1 3+ 3+ 1 2 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Moonstone Club 2 4+ 5+ - 1 -
+Hunter Javelin 3 3+ 4+ 1 2 -
+Each model in this unit is armed with Your Movement Phase
+Starstone Bolas and a Moonstone Club.
+CHAMELEON AMBUSH: The Hunters
+•1/5 models can replace their weapons of Huanchi emerge from hiding and pepper
+with a Hunter Javelin. their enemies with projectiles.
+•The champion cannot replace
+their weapons. Declare: Pick this unit if it is in ambush.
+Deployment Phase Effect: Set up this unit anywhere on
+the battlefield more than 9" from all
+HIDDEN HUNTERS: The Hunters
+enemy units.
+of Huanchi can blend in with their
+surroundings and vanish from sight.
+Any Shooting Phase
+Declare: Pick this unit if it has not STARSTONE BOLAS: A perfectly timed
+been deployed. bola throw can ensnare an enemy.
+Effect: Set up this unit in reserve in Declare: Pick an enemy unit that was
+ambush. It has now been deployed. targeted by this unit’s Starstone Bolas
+Keywords Deploy this turn to be the target.
+Effect: Roll a dice. On a 3+, until the
+start of your next turn, subtract 1
+from the number of dice rolled when
+making charge rolls for the target, to a
+minimum of 1.
+Infantry, Champion (1/5), Musician (1/5), Ward (5+)
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 23 ---
+December 2024
+MOVE
+12"
+T H S • SERAPHON WARSCROLL •
+A L 2 5+A V TERRAWINGS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Snapping Beaks 3 4+ 4+ - 1 Companion
+Your Shooting Phase Passive
+NERVE-SHREDDING SCREECHES: BEAST
+Despite their small stature, the shrill cries Effect: This unit has a maximum control
+of a Terrawing flock can cause disarray score of 1.
+across the enemy line as orders are
+drowned out by the cacophony.
+Declare: Pick an enemy unit within 10" of
+this unit to be the target.
+Effect: Roll a D3. If the roll exceeds the
+target’s Control characteristic, the target
+cannot use commands for the rest of
+the turn.
+Beast, Fly
+KEYWORDS
+Order, Seraphon
+
+--- Page 24 ---
+December 2024
+MOVE
+5"
+H • SERAPHON WARSCROLL •
+L T 12 2+ S A BASTILADON
+A V
+E E
+H
+5 WITH ARK OF SOTEK
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Handlers’ Meteoric Javelins 12" 6 4+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ark of Sotek 20 4+ 5+ - 1 Crit (Mortal), Companion
+Bludgeoning Tail 3 3+ 3+ 1 D3 Companion
+Once Per Turn (Army), Any Combat Phase
+ARK OF SOTEK: So numerous are the
+snakes unleashed by an Ark of Sotek that
+some will find their way past the foe’s
+defences to deliver a lethal venomous bite.
+Declare: Pick up to 3 different enemy
+units within 9" of this unit to be
+the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Keywords Rampage
+Monster
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 25 ---
+December 2024
+MOVE
+5"
+H • SERAPHON WARSCROLL •
+L T 12 2+ S A BASTILADON
+A V
+E E
+H
+5 WITH SOLAR ENGINE
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Solar Engine 18" 3 3+ 3+ 2 3 Crit (2 Hits)
+Handlers’ Meteoric Javelins 12" 6 4+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bludgeoning Tail 3 3+ 3+ 1 D3 Companion
+Once Per Turn (Army), Any Combat Phase
+TAIL SWIPE: The mighty Bastiladon
+swings its clubbed tail into the ranks
+of enemies, knocking them back with
+brutal force.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a dice for each model in the
+target unit, to a maximum of 8. For each
+5+, inflict 1 mortal damage on the target.
+Keywords Rampage
+Monster
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 26 ---
+December 2024
+MOVE
+14"
+T H S • SERAPHON WARSCROLL •
+A L 5 5+A V TERRADON CHIEF
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Skyblade 5 4+ 4+ 1 2 Crit (Auto-wound)
+Terradon’s Razor-sharp Jaws 3 4+ 3+ 1 1 Companion
+Your Movement Phase Passive
+CHIEF’S DEADLY CARGO: Terradons ATTACK FROM ON HIGH: Terradons
+carry heavy boulders hewn from meteoric circle high in the sky, only darting
+rock and carved with sigils of destruction. down for a brief moment to launch a
+When these are dropped upon enemy lines, strafing run.
+those not immediately crushed are sent
+Effect: Subtract 1 from hit rolls for
+flying in all directions.
+shooting attacks that target this unit.
+Declare: Pick an enemy unit that this unit
+passed across this phase to be the target.
+Effect: Roll a dice and add 2 to the roll
+if this unit is within the combat ranges
+of any friendly Terradon Riders units.
+On a 5+:
+• Inflict D3 mortal damage on the target.
+• If any damage points are allocated by
+this ability and the target does not have
+Fly, the target cannot use Run abilities
+until the start of your next turn.
+Hero, Cavalry, Fly
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 27 ---
+December 2024
+MOVE
+14"
+T H S • SERAPHON WARSCROLL •
+A L 3 5+A V TERRADON RIDERS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Javelins and Bolas 10" 3 4+ 5+ - 1 Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Terradon’s Razor-sharp Jaws 3 4+ 3+ 1 1 Companion
+Passive Passive
+DISPERSED FORMATION: These ATTACK FROM ON HIGH: Terradons
+warriors maintain a wide formation, circle high in the sky, only darting
+enabling more precise strikes and greater down for a brief moment to launch a
+battlefield control. strafing run.
+Effect: This unit has a coherency range Effect: Subtract 1 from hit rolls for
+of 2". sshhoooottiinngg aattttaacckkss tthhaatt ttaarrggeett tthhiiss uunniitt..
+Your Movement Phase
+DEADLY CARGO: TTeerrrraaddoonnss ccaarrrryy hheeaavvyy
+bboouullddeerrss hheewwnn ffrroomm mmeetteeoorriicc rroocckk aanndd
+ccaarrvveedd wwiitthh ssiiggiillss ooff ddeessttrruuccttiioonn.. WWhheenn
+tthheessee aarree ddrrooppppeedd uuppoonn eenneemmyy lliinneess,, tthhoossee
+nnoott iimmmmeeddiiaatteellyy ccrruusshheedd aarree sseenntt flflyyiinngg iinn
+all directions.
+Declare: PPiicckk aann eenneemmyy uunniitt tthhaatt tthhiiss uunniitt
+ppaasssseedd aaccrroossss tthhiiss pphhaassee ttoo bbee tthhee ttaarrggeett..
+Effect: RRoollll aa ddiiccee ffoorr eeaacchh mmooddeell iinn tthhiiss
+uunniitt,, aanndd aadddd 22 ttoo eeaacchh rroollll iiff tthhiiss uunniitt iiss
+wwiitthhiinn tthhee ccoommbbaatt rraannggeess ooff aannyy ffrriieennddllyy
+Terradon Chief uunniittss.. FFoorr eeaacchh 55++::
+• IInnflfliicctt 11 mmoorrttaall ddaammaaggee oonn tthhee ttaarrggeett..
+• IIff aannyy ddaammaaggee ppooiinnttss aarree aallllooccaatteedd bbyy
+tthhiiss aabbiilliittyy aanndd tthhee ttaarrggeett ddooeess nnoott hhaavvee
+Fly, the target cannot use Run aabbiilliittiieess
+until the start of your next turn.
+CCaavvaallrryy,, CChhaammppiioonn,, FFllyy
+KEYWORDS
+OOrrddeerr,, SSeerraapphhoonn,, SSkkiinnkk
+
+--- Page 28 ---
+December 2024
+MOVE
+14" • SERAPHON WARSCROLL •
+T H S RIPPERDACTYL
+L 5 5+A
+A V
+E E
+H CHIEF
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Skyblade 5 4+ 4+ 1 2 Crit (Auto-wound)
+Charge (+1 Damage),
+Ripperdactyl’s Tearing Jaws 3 4+ 3+ 1 1
+Companion
+Once Per Battle (Army), Passive
+Deployment Phase TOAD RAGE: The mere scent of a blot
+BLOT TOAD: When a Ripperdactyl toad sends Ripperdactyls into a frenzy.
+flock takes flight, the Seraphon will seed
+creatures known as blot toads across the Effect: Add 1 to the Attacks characteristic
+battlefield. These loathsome amphibians of this unit’s Ripperdactyl’s Tearing Jaws
+emit a pervasive stink that is unpalatable while it is in combat with any units that
+to all cold-blooded creatures, but have a Blot Toad.
+especially the Ripperdactyls.
+Declare: You receive 1 Blot Toad
+token for each Ripperdactyl Chief or
+Ripperdactyl Riders unit in your army,
+to a maximum of 3 tokens. Pick a number
+of enemy units equal to the number of
+Blot Toads you have to be the targets.
+Effect: Place a Blot Toad next to
+each target.
+Once Per Battle, Any Combat Phase
+RIPPERDACTYL ASSAULT: A
+Ripperdactyl Chief is as ferocious as their
+mount, inspiring nearby Ripperdactyl
+Riders to attack with unbridled fury.
+Effect: Add 1 to the Attacks characteristic
+of Moonstone Warspears used by
+friendly Ripperdactyl Riders units
+wholly within 12" of this unit for the rest
+of the turn.
+Hero, Cavalry, Fly
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 29 ---
+December 2024
+MOVE
+14" • SERAPHON WARSCROLL •
+T H S RIPPERDACTYL
+L 3 5+A
+A V
+E E
+H RIDERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Moonstone Warspear 2 4+ 4+ - 1 Anti-Cavalry (+1 Rend)
+Charge (+1 Damage),
+Ripperdactyl’s Tearing Jaws 3 4+ 3+ 1 1
+Companion
+Passive Passive
+DISPERSED FORMATION: These TOAD RAGE: The mere scent of a blot
+warriors maintain a wide formation, toad sends Ripperdactyls into a frenzy.
+enabling more precise strikes and greater
+Effect: Add 1 to the Attacks characteristic
+battlefield control.
+of this unit’s Ripperdactyl’s Tearing Jaws
+Effect: This unit has a coherency range while it is in combat with any units that
+of 2". have a Blot Toad.
+Once Per Battle (Army),
+Deployment Phase
+BLOT TOAD: When a Ripperdactyl
+flock takes flight, the Seraphon will seed
+creatures known as blot toads across the
+battlefield. These loathsome amphibians
+emit a pervasive stink that is unpalatable
+to all cold-blooded creatures, but
+especially the Ripperdactyls.
+Declare: You receive 1 Blot Toad
+token for each Ripperdactyl Chief or
+Ripperdactyl Riders unit in your army,
+to a maximum of 3 tokens. Pick a number
+of enemy units equal to the number of
+Blot Toads you have to be the targets.
+Effect: Place a Blot Toad next to
+each target.
+Cavalry, Champion, Fly
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 30 ---
+December 2024
+MOVE
+8"
+T H S • SERAPHON WARSCROLL •
+A L14 4+A V STEGADON CHIEF
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Skystreak Bow 18" 3 3+ 3+ 1 2 Anti-Monster (+1 Rend)
+Anti-Infantry (+1 Rend),
+Sunfire Throwers 10" 2D6 3+ 3+ - 1
+Crit (2 Hits)
+Handlers’ Meteoric Javelins 12" 6 4+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Meteoric Warspear 3 3+ 3+ 1 1 -
+Stegadon’s Horns Charge (+1 Damage),
+6 4+ 2+ 1 2
+and Jaws Companion
+This unit is armed with a Meteoric
+Passive
+Warspear, Handlers’ Meteoric Javelins,
+Stegadon’s Horns and Jaws, and 1 of the BATTLE DAMAGED
+following options: Effect: While this unit has 10 or more
+damage points, the Attacks characteristic
+•Skystreak Bow
+•Sunfire Throwers of its Stegadon’s Horns and Jaws is 4.
+Once Per Turn (Army), Passive
+Any Combat Phase
+SKINK COORDINATION: A Skink Chief
+CRUSHING STOMPS: At the mounted on a Stegadon is in the perfect
+command of the Stegadon Chief, the position to direct the efforts of nearby
+Stegadon crushes its enemies with its skink warriors and warbeast handlers,
+unstoppable bulk. amplifying their destructive power.
+Declare: Pick an enemy unit in combat Effect: If a friendly non-MonsterSkink
+with this unit to be the target. unit uses the ‘Redeploy’ command while
+it is wholly within 18" of this unit, no
+Effect: Roll a D3. On a 2+, inflict an
+command points are spent.
+amount of mortal damage on the target
+equal to the roll. Add 2 to the amount of
+mortal damage inflicted, if any, if this
+unit charged this turn.
+Keywords Rampage
+Hero, Monster
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 31 ---
+December 2024
+MOVE
+8"
+T H S • SERAPHON WARSCROLL •
+A L14 4+A V STEGADON
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Skystreak Bow 18" 3 3+ 3+ 1 2 Anti-Monster (+1 Rend)
+Anti-Infantry (+1 Rend),
+Sunfire Throwers 10" 2D6 3+ 3+ - 1
+Crit (2 Hits)
+Handlers’ Meteoric Javelins 12" 6 4+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stegadon’s Horns Charge (+1 Damage),
+6 4+ 2+ 1 2
+and Jaws Companion
+This unit is armed with Handlers’ Meteoric Passive
+Javelins and Stegadon’s Horns and Jaws,
+and 1 of the following options: BATTLE DAMAGED
+Effect: While this unit has 10 or more
+•Skystreak Bow
+damage points, the Attacks characteristic
+•Sunfire Throwers
+of its Stegadon’s Horns and Jaws is 4.
+Once Per Turn (Army),
+Any Charge Phase
+UNSTOPPABLE STAMPEDE: Stegadons
+are nigh unstoppable as they crash through
+the midst of battle.
+Declare: If this unit charged this phase,
+pick an enemy Infantry unit in combat
+with it to be the target.
+Effect: Inflict D3 mortal damage on the
+target. Then, this unit can move 2D6".
+This unit can pass through models in
+the target unit but must end that move
+in combat.
+Keywords Rampage
+Monster
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 32 ---
+December 2024
+MOVE
+8" • SERAPHON WARSCROLL •
+T H S ENGINE OF
+L14 4+A
+A V
+E E
+H THE GODS
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Handlers’ Meteoric Javelins 12" 6 4+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Stegadon’s Horns and Jaws 6 4+ 2+ 1 2
+Companion
+Passive Your Hero Phase
+BATTLE DAMAGED COSMIC ENGINE: The Engine of the
+Effect: While this unit has 10 or more Gods is an ancient device capable of
+damage points, the Attacks characteristic disrupting the natural laws of the universe.
+of its Stegadon’s Horns and Jaws is 4.
+Declare: Pick if this unit will harness or
+reserve the power of its cosmic engine.
+Once Per Turn (Army), Any Combat Phase
+CREST OF HORNS: A Stegadon prepares Effect: If it will reserve the power, place a
+to face a charging enemy by turning its cosmic power token next to this unit.
+mighty head and bracing for impact,
+If it will harness the power, roll a dice and
+impaling the enemy and blunting their
+add the number of cosmic power tokens
+attacks with its thickly scaled crest.
+this unit has to the roll. Then, remove all
+Declare: Pick an enemy unit that charged cosmic power tokens this unit has and
+this turn and is in combat with this unit pick 1 of the following effects (if possible).
+to be the target.
+Healing Light:On a 3+, you can Heal
+Effect: Roll a D3. On a 2+: (D3) all friendly Seraphon units wholly
+within 12" of this unit.
+• Inflict an amount of mortal damage on
+the target equal to the roll. Starlight Summons: On a 5+, you can
+• Add 1 to save rolls for attacks made by pick up to 3 friendly Seraphon units
+that enemy unit that target this unit for wholly within 12" of this unit. Return 1
+the rest of the turn. slain model to each unit.
+Keywords Rampage
+Time Slows:On a 6+, you can pick up to 3
+friendly Seraphon units wholly within
+12" of this unit. Those units have Strike-
+first for the rest of the turn.
+Monster
+KEYWORDS
+Order, Seraphon, Skink
+
+--- Page 33 ---
+December 2024
+MOVE
+- • SERAPHON WARSCROLL •
+T H S REALMSHAPER
+L15 4+A
+A V
+E E
+H ENGINE
+-
+CONTROL
+The following universal terrain abilities
+Your Hero Phase
+apply to this terrain feature (Terrain, 1.2):
+POWER UNLEASHED: The waves of
+Cover, Unstable power that spread from an activated
+Realmshaper Engine bring the
+Passive
+surrounding landscape to violent life.
+FIERCE GUARDIANS: The defenders of
+these ancient edifices will stop at nothing Declare: If there are any friendly
+to see any intruders driven back. Seraphon Wizards within 3" of this
+terrain feature, pick another terrain
+Effect: Add 1 to hit rolls for combat feature within 24" of this terrain feature,
+attacks made by friendly Saurus or then pick up to 3 enemy units within 3" of
+Kroxigor units that target an enemy that terrain feature to be the targets.
+unit while that enemy unit is within 9" of
+this terrain feature. Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll. If that terrain
+feature has a Health characteristic, inflict
+D3 mortal damage on it.
+Faction Terrain
+KEYWORDS
+Order, Seraphon
+
+--- Page 34 ---
+December 2024
+MOVE
+5" • SERAPHON WARSCROLL •
+T H S SAURUS ASTROLITH
+L 6 4+A
+A V
+E E
+H BEARER
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Celestite Warclub 4 3+ 3+ 1 2 -
+Reaction: You declared a Spell ability
+for a friendly Seraphon Wizardwholly
+within 12" of this unit
+CELESTIAL CONDUIT: An astrolith
+is empowered by celestial magic in
+the vicinity.
+Effect: If that spell is successfully cast, for
+the rest of the turn, add 3 to the control
+scores of friendly Seraphon units while
+they are wholly within 12" of this unit.
+Passive
+REVIVIFYING ENERGIES: The cosmic
+energies emanating from an astrolith
+protect nearby Seraphon, sealing the
+most grievous wounds in flashes of
+cerulean light.
+Effect: Friendly Seraphon Infantry
+units have Ward (6+) while they
+are wholly within 12" of this unit. If
+a unit already has Ward (6+), it has
+Ward (5+) instead.
+Hero, Infantry
+KEYWORDS
+Order, Seraphon, Saurus
+
+--- Page 35 ---
+December 2024
+MOVE
+5" • SERAPHON WARSCROLL •
+T H S KROXIGOR
+L 6 4+A
+A V
+E E
+H WARSPAWNED
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Drakefang Warpick 4 4+ 2+ 1 2 Anti-Monster (+1 Rend)
+Starfang Warpick 4 3+ 2+ 1 3 Anti-Monster (+1 Rend)
+Each model in this unit is armed with a
+Passive
+Drakefang Warpick.
+HEAVY-SCALED SKIN: The scales of
+•1/3 models can replace their Drakefang the Warspawned are especially thick and
+Warpick with a Starfang Warpick. craggy, easily capable of repelling an arrow
+or musket ball.
+Passive
+SPAWN OF SOTEK: Should any of the Effect: Subtract 1 from the Rend
+Serpent God’s devoted skink acolytes characteristic of ranged weapons used for
+come to harm, Kroxigor Warspawned are shooting attacks that target this unit.
+overcome with a terrifying rage.
+Effect: Add 1 to the Damage
+characteristic of this unit’s melee
+weapons while this unit is wholly within
+12" of any friendly Skink Infantry or
+Skink Cavalry units in combat.
+Infantry
+KEYWORDS
+Order, Seraphon, Kroxigor
+
+--- Page 36 ---
+December 2024
+MOVE
+5"
+T H S • SERAPHON WARSCROLL •
+A L 6 4+A V KROXIGOR
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Drakebite Maul 4 4+ 2+ 1 2 Anti-Infantry (+1 Rend)
+Moonstone Hammer 4 3+ 2+ 1 3 Anti-Infantry (+1 Rend)
+Each model in this unit is armed with a
+Passive
+Drakebite Maul.
+BRUTAL BLOWS: Kroxigor swing their
+•1/3 models can replace their Drakebite weapons in wide arcs, smashing aside a
+Maul with a Moonstone Hammer. multitude of foes with each blow.
+Effect: Add 1 to the Damage
+characteristic of this unit’s melee weapons
+for attacks that target an enemy unit that
+has 10 or more models.
+Infantry
+KEYWORDS
+Order, Seraphon, Kroxigor
+
+--- Page 37 ---
+December 2024
+MOVE
+• SERAPHON WARSCROLL •
+10"
+H SAURUS
+T S
+L14 4+A
+A E E V SCAR-VETERAN
+H
+5
+CONTROL ON CARNOSAUR
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Relic Celestite Weapon 5 3+ 3+ 1 2 -
+Carnosaur’s Clawed
+4 4+ 2+ 1 3 Companion
+Forelimbs
+Carnosaur’s Massive Jaws 3 4+ 2+ 2 3 Companion
+Passive Passive
+BATTLE DAMAGED TERROR: This terrifying monstrosity
+Effect: While this unit has 10 or more strikes fear into the hearts of its foes.
+damage points, the Attacks characteristic
+Effect: Subtract 2 from the control scores
+of its Carnosaur’s Massive Jaws is 2.
+of enemy units while they are in combat
+with this unit.
+Once Per Turn (Army), End of Any Turn
+MAIM AND TEAR: As champions of the
+Seraphon hosts, Scar-Veterans and their
+especially bloodthirsty mounts pursue the
+greatest enemy warriors, falling on them
+with vicious brutality.
+Declare: Pick an enemy Hero in combat
+with this unit to be the target.
+Effect: Roll a number of dice equal to the
+number of damage points the target has.
+For each 5+, inflict 1 mortal damage on
+the target.
+Keywords Rampage
+Hero, Monster
+KEYWORDS
+Order, Seraphon, Saurus
+
+--- Page 38 ---
+December 2024
+MOVE
+5"
+T H S • SERAPHON WARSCROLL •
+A L 7 4+A V SAURUS OLDBLOOD
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Relic Celestite Weapon 5 3+ 3+ 1 2 -
+Once Per Battle, Any Combat Phase Reaction: You declared a Fight ability
+WRATH OF THE SERAPHON: The for this unit
+Oldblood directs nearby saurus to act PREDATORY EXEMPLAR: Oldbloods
+upon their savage instincts. lead through instinctual ferocity, trusting
+their saurus kin to follow in their wake.
+Effect: For the rest of the turn, add 1 to
+wound rolls for combat attacks made by Effect: Pick a friendly non-HeroSaurus
+friendly Saurus Infantry units while Infantry unit that has not used a Fight
+they are wholly within 12" of this unit. ability this turn and is within this unit’s
+combat range to be the target. The target
+can be picked to use a Fight ability
+immediately after the Fight ability used
+by this unit has been resolved.
+Hero, Infantry
+KEYWORDS
+Order, Seraphon, Saurus
+
+--- Page 39 ---
+SERAPHON
+STARSCALE WARHOST
+Cold-blooded and enigmatic, the Seraphon are a merciless race. These
+This Spearhead army consists reptilian warriors are utterly committed to their masters’ Great Plan, and
+of the following units: any who interfere – intentionally or otherwise – with that cosmic design
+are marked for obliteration. Often, it is a Starscale Warhost that will be
+GENERAL dispatched to ensure the Plan’s continuation. Whether tracking down a
+Saurus Oldblood on target marked for death by the esoteric slann or defending the enchanted
+Carnosaur jungles in which the Seraphon dwell, these forces are more than a match for
+their warm-blooded adversaries.
+UNITS
+5 Saurus Warriors Cohorts of Saurus Warriors are the heart of each Starscale Warhost. As
+5 Saurus Warriors savage on the attack as they are formidable on the defence, they can excel
+3 Kroxigor even when outnumbered. At their side lumber the Kroxigor; though these
+towering brutes are primarily labourers, their immense strength makes them
+well suited for battle, making red ruin of more stubborn adversaries. The
+greatest weapon of a Starscale Warhost, however, is its saurus overlord and
+the monstrous Carnosaur upon which they ride. Coaxed from the deepest
+jungles, Carnosaurs are living engines of destruction, capable of swallowing
+warriors whole. Guided by the strategic instincts of the Oldbloods, a
+Starscale Warhost is a brutal weapon in service of the Great Plan.
+‘Warmbloods come. Warmbloods die.’
+– Oldblood Groq
+Contrast paints and drybrushing helped graphic designer Emma get the warhost of Oldblood Kor’loq painted quickly.
+She envisions them as Starborne warriors filled with celestial magic, glowing with the very power of the heavens.
+
+--- Page 40 ---
+BATTLE TRAITS
+Any Combat Phase
+BEAST OF THE DARK JUNGLES: The perilous
+jungles of the Seraphon are the hunting grounds of the
+mighty Carnosaur, a reptilian titan that strikes fear
+and awe into the hearts of its enemies.
+Declare: Pick your general to use this ability if they
+are in combat.
+Effect: Pick 1 of the following:
+Gargantuan Jaws: Pick an enemy unit in combat
+with your general and roll a dice. If the roll exceeds
+that unit’s Health characteristic, 1 model in that unit
+is slain.
+Roar: Pick an enemy unit in combat with your
+general. Subtract D6 from that unit’s control score
+this turn.
+Kroxigor
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Phase, End of Any Turn Passive
+PREDATORY FIGHTERS: These warriors bite TEMPLE-CITY GUARDIANS: Patrolling the
+bloody chunks of flesh from their foes in battle. lands on the outskirts of their domain, these defenders
+will stop at nothing to see intruders driven back.
+Declare: Roll a dice for each enemy unit in combat
+with any friendly units. Effect: Friendly units have Ward (6+) while they are
+wholly within friendly territory.
+Effect: On a 3+, inflict 1 mortal damage on the unit
+being rolled for.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+End of Any Turn Once Per Battle, Enemy Movement Phase
+SOTEK’S GAZE: The eyes of this gilded war-mask ANCIENT STRATEGIST: This Oldblood has
+resonate with the pitiless hunger of the Serpent God. centuries of experience in commanding their cohorts.
+With it, the Oldblood brutally cows lesser foes.
+Declare: Pick a friendly unit wholly within 12" of
+Effect: Roll a dice. Add the roll to your general’s your general. You cannot pick your general.
+control score this turn.
+Effect: That unit can use the ‘Normal Move’ ability as
+if it were your movement phase.
+Passive Passive
+BLADE OF REALITIES: Entrusted only to the THE WRATH OF CHOTEC: An ancient relic
+most formidable Oldbloods, this pan-dimensional removed from the deepest temple vaults, this gauntlet
+weapon exists to bring about the end of tyrants. allows an Oldblood to channel the full might of the
+Seraphon’s solar god.
+Effect: Add 1 to the Rend characteristic of your
+general’s Relic Celestite Weapon. Effect: The Attacks characteristic of your general’s
+Sunbolt Gauntlet is 6 instead of D6.
+
+--- Page 41 ---
+BATTLE TRAITS
+Any Combat Phase
+BEAST OF THE DARK JUNGLES: The perilous
+jungles of the Seraphon are the hunting grounds of the
+mighty Carnosaur, a reptilian titan that strikes fear
+and awe into the hearts of its enemies.
+Declare: Pick your general to use this ability if they
+are in combat.
+Effect: Pick 1 of the following:
+Gargantuan Jaws: Pick an enemy unit in combat
+with your general and roll a dice. If the roll exceeds
+that unit’s Health characteristic, 1 model in that unit
+is slain.
+Roar: Pick an enemy unit in combat with your
+general. Subtract D6 from that unit’s control score
+this turn.
+Kroxigor
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Phase, End of Any Turn Passive
+PREDATORY FIGHTERS: These warriors bite TEMPLE-CITY GUARDIANS: Patrolling the
+bloody chunks of flesh from their foes in battle. lands on the outskirts of their domain, these defenders
+will stop at nothing to see intruders driven back.
+Declare: Roll a dice for each enemy unit in combat
+with any friendly units. Effect: Friendly units have Ward (6+) while they are
+wholly within friendly territory.
+Effect: On a 3+, inflict 1 mortal damage on the unit
+being rolled for.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+End of Any Turn Once Per Battle, Enemy Movement Phase
+SOTEK’S GAZE: The eyes of this gilded war-mask ANCIENT STRATEGIST: This Oldblood has
+resonate with the pitiless hunger of the Serpent God. centuries of experience in commanding their cohorts.
+With it, the Oldblood brutally cows lesser foes.
+Declare: Pick a friendly unit wholly within 12" of
+Effect: Roll a dice. Add the roll to your general’s your general. You cannot pick your general.
+control score this turn.
+Effect: That unit can use the ‘Normal Move’ ability as
+if it were your movement phase.
+Passive Passive
+BLADE OF REALITIES: Entrusted only to the THE WRATH OF CHOTEC: An ancient relic
+most formidable Oldbloods, this pan-dimensional removed from the deepest temple vaults, this gauntlet
+weapon exists to bring about the end of tyrants. allows an Oldblood to channel the full might of the
+Seraphon’s solar god.
+EEffffeecctt:: Add 1 to the Rend characteristic of your
+ggeenneerraall’’ss Relic Celestite Weapon. Effect: The Attacks characteristic of your general’s
+Sunbolt Gauntlet is 6 instead of D6.
+
+--- Page 42 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+10"
+SAURUS OLDBLOOD
+14 4+
+ON CARNOSAUR
+5 RANGED WEAPONS Range AAttttaacckkss HHiitt WWoouunndd RReenndd DDaammaaggee AAbbiilliittyy
+Sunbolt Gauntlet 12" DD66 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS AAttttaacckkss Hit Wound Rend Damage Ability
+As a saurus ages, their body Relic Celestite Weapon 55 3+ 3+ 1 2 -
+become even more finely honed Carnosaur’s Massive Jaws 33 4+ 2+ 2 3 Companion
+for war, and greater degrees
+of tactical skill are unlocked
+within them. They become able Your Hero Phase
+to orchestrate grand flanking
+attacks and sudden feints, ANCIENT WARLORD: An Oldblood commands
+though they still act upon their saurian brethren with relentless focus and drive.
+instinct above all. They also
+grow to possess the will not only Declare: Pick a friendly unit wholly within 12" of this
+to wield the destructive relics unit to be the target. You cannot pick this unit.
+of the Old Ones but to master
+a Carnosaur – a huge bipedal Effect: Until the start of your next turn, add 1 to
+monster of ancient times. The charge rolls for the target.
+battle frenzy of a Carnosaur is,
+if anything, even greater than its
+saurus rider, and together beast Passive
+and master can tear apart even BATTLE DAMAGED
+the most terrible of adversaries.
+Effect: While this unit has 10 or more damage points,
+the Attacks characteristic of its Carnosaur’s Massive
+Jaws is 1.
+KEYWORDS Hero, Monster
+• SPEARHEAD WARSCROLL •
+5"
+SAURUS WARRIORS
+2 4+
+1
+The saurus are the warrior Passive
+caste of the Seraphon race.
+ORDERED COHORTS: Devoted servants of the Old
+From the moment they emerge
+from the spawning pools, they Ones, Saurus Warriors are as intractable in defence as
+are perfectly adapted for their they are relentless upon the attack.
+task: muscular, protected by
+iron-hard scales and possessing Effect: Add 1 to save rolls for this unit while it is
+vicious claws and teeth. Saurus contesting an objective you control.
+are predators by nature, capable
+of fighting with immense
+savagery, yet though their
+minds are focused entirely on
+war, they are not mindless.
+They share a bond with their
+spawn-kin that goes beyond
+words, allowing them to fight
+with uncanny coordination and
+discipline in the prosecution of
+the Great Plan.
+KEYWORDS Infantry
+
+--- Page 43 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+10"
+SAURUS OLDBLOOD
+14 4+
+ON CARNOSAUR
+5
+As a saurus ages, their body
+become even more finely honed
+for war, and greater degrees
+of tactical skill are unlocked
+within them. They become able Your Hero Phase
+to orchestrate grand flanking
+attacks and sudden feints, ANCIENT WARLORD: An Oldblood commands
+though they still act upon their saurian brethren with relentless focus and drive.
+instinct above all. They also
+grow to possess the will not only Declare: Pick a friendly unit wholly within 12" of this
+to wield the destructive relics unit to be the target. You cannot pick this unit.
+of the Old Ones but to master
+a Carnosaur – a huge bipedal Effect: Until the start of your next turn, add 1 to
+monster of ancient times. The charge rolls for the target.
+battle frenzy of a Carnosaur is,
+if anything, even greater than its
+saurus rider, and together beast Passive
+and master can tear apart even BATTLE DAMAGED
+the most terrible of adversaries.
+Effect: While this unit has 10 or more damage points,
+the Attacks characteristic of its Carnosaur’s Massive
+Jaws is 1.
+KEYWORDS Hero, Monster
+• SPEARHEAD WARSCROLL •
+5"
+SAURUS WARRIORS
+2 4+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage AAbbiilliittyy
+Celestite Club 2 3+ 3+ 1 1 -
+The saurus are the warrior Passive
+caste of the Seraphon race.
+ORDERED COHORTS: Devoted servants of the Old
+From the moment they emerge
+from the spawning pools, they Ones, Saurus Warriors are as intractable in defence as
+are perfectly adapted for their they are relentless upon the attack.
+task: muscular, protected by
+iron-hard scales and possessing Effect: Add 1 to save rolls for this unit while it is
+vicious claws and teeth. Saurus contesting an objective you control.
+are predators by nature, capable
+of fighting with immense
+savagery, yet though their
+minds are focused entirely on
+war, they are not mindless.
+They share a bond with their
+spawn-kin that goes beyond
+words, allowing them to fight
+with uncanny coordination and
+discipline in the prosecution of
+the Great Plan.
+KEYWORDS Infantry
+
+--- Page 44 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+KROXIGOR
+6 4+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Drakebite Maul 4 4+ 2+ 1 2 -
+Kroxigor are towering brutes, Passive
+spawned in aeons past to serve
+BRUTAL BLOWS: Kroxigor
+as the physical labourers of the
+Seraphon. Their comparative swing their weapons in wide arcs,
+lack of intellect is offset by their smashing aside a multitude of foes
+primitive determination and, with each blow.
+most of all, their terrifying
+strength – strength that can Effect: This unit’s melee weapons
+see them snatch an armoured have Crit (2 Hits) if the target unit
+knight from the saddle and rip has 5 or more models.
+them apart. When war calls,
+the might of the Kroxigor is
+brought to bear against the
+Seraphon’s enemies. Wielding
+toothed mauls and hammers
+that glow with celestial energies,
+the Kroxigor demolish foes
+with broad and punishing
+swings while shrugging off their
+panicked retaliatory strikes.
+KEYWORDS Infantry

@@ -1,0 +1,117 @@
+--- Page 1 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2024
+SKAVEN
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+Arch-Warlock 1 170 0-1 Clanrats, Any Skryre 32mm
+This Hero can join a
+Verminlord Warbringer’s
+Clawlord 1 100 Any Verminus 32mm
+regiment or an eligible regiment
+as a Skaven Overclaw.
+This Hero can join a
+Verminlord Warbringer’s
+Clawlord on Gnaw-beast 1 160 Any Verminus 90 × 52mm
+regiment or an eligible regiment
+as a Skaven Overclaw.
+This Hero can join a
+Verminlord Deceiver’s
+Deathmaster 1 160 0-1 Clanrats, Any Eshin 32mm
+regiment or an eligible regiment
+as a Skaven Overclaw.
+Grey Seer 1 120 0-1 Skaven Overclaw, Any Skaven 32mm
+Grey Seer on Screaming Bell 1 350 0-1 Skaven Overclaw, Any Skaven 120 × 92mm
+Krittok Foulblade 1 220 Any Verminus 40mm
+Lord Skreech Verminking 1 430 0-1 Skaven Overclaw, Any Skaven 120 × 92mm
+Master Moulder 1 100 0-1 Clanrats, Any Moulder 32mm
+Plague Priest on Plague Furnace 1 340 0-1 Clanrats, Any Pestilens 120 × 92mm
+Thanquol on Boneripper 1 360 0-1 Skaven Overclaw, Any Skaven 90 × 52mm
+Verminlord Corruptor 1 360 0-1 Clanrats, Any Pestilens 120 × 92mm
+0-1 Clanrats, 0-1 Deathmaster, Any
+Verminlord Deceiver 1 410 120 × 92mm
+Eshin
+Verminlord Warbringer 1 350 0-1 Clawlord, Any Verminus 120 × 92mm
+Verminlord Warpseer 1 340 0-1 Skaven Overclaw, Any Skaven 120 × 92mm
+Vizzik Skour, Prophet of the
+1 450 0-1 Skaven Overclaw, Any Skaven 130mm
+Horned Rat
+Warlock Bombardier 1 120 0-1 Clanrats, Any Skryre 32mm
+Warlock Engineer 1 140 0-1 Clanrats, Any Skryre 32mm
+Warlock Galvaneer 1 140 0-1 Clanrats, Any Skryre 32mm
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+You cannot include more than
+1 Skryre Weapon Team
+Acolyte Globadiers 5 130 Skryre, Infantry, Weapon Team 28.5mm
+in a regiment led by a
+non-Skryre Hero.
+Brood Terror 1 300 Moulder, Monster 90 × 52mm
+Clanrats 20 150 Verminus, Infantry 25mm
+You cannot include more than
+1 Skryre War Machine
+Doom-Flayers 2 130 Skryre, War Machine 50mm
+in a regiment led by a
+non-Skryre Hero.
+You cannot include more than
+1 Skryre War Machine
+Doomwheel 1 140 Skryre, War Machine 105 × 70mm
+in a regiment led by a
+non-Skryre Hero.
+Hell Pit Abomination 1 270 Moulder, Monster 120 × 92mm
+Night Runners 10 130 Eshin, Infantry 25mm
+Plague Monks 20 140 Pestilens, Infantry 25mm
+Plagueclaw 1 140 Pestilens, War Machine 120 × 92mm
+32mm [1],
+Plaguepack 5 140 Pestilens, Infantry 28.5mm [1],
+25mm [4]
+
+--- Page 2 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2024
+SKAVEN
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+Rat Ogors 3 160 Moulder, Infantry 50mm
+You cannot include more than
+1 Skryre Weapon Team
+Ratling Guns 3 150 Skryre, Infantry, Weapon Team 60 × 35mm
+in a regiment led by a
+non-Skryre Hero.
+You cannot include more than
+1 Skryre War Machine
+Ratling Warpblaster 1 180 Skryre, War Machine 105 × 70mm
+in a regiment led by a
+non-Skryre Hero.
+Stormfiends 3 260 Skryre, Moulder, Infantry 60mm
+Stormvermin 10 140 Verminus, Infantry 28.5mm
+You cannot include more than
+1 Skryre War Machine
+Warp-Grinder 1 170 Skryre, War Machine 90 × 52mm
+in a regiment led by a
+non-Skryre Hero.
+You cannot include more than
+1 Skryre War Machine
+Warp Lightning Cannon 1 160 Skryre, War Machine 120 × 92mm
+in a regiment led by a
+non-Skryre Hero.
+You cannot include more than
+1 Skryre Weapon Team
+Warpfire Throwers 3 140 Skryre, Infantry, Weapon Team 60 × 35mm
+in a regiment led by a
+non-Skryre Hero.
+Warplock Jezzails 3 150 Skryre, Infantry 60 × 35mm
+You cannot include more than
+1 Skryre Weapon Team
+Warpvolt Scourgers 3 190 Skryre, Infantry, Weapon Team 60 × 35mm
+in a regiment led by a
+non-Skryre Hero.
+CHAOS
+UNIT SUMMARY POINTS NOTES
+REGIMENTS
+• Krittok Foulblade This Regiment of Renown can be included in the following factions:
+Krittok’s Clawpack • 10 Stormvermin 450 Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle, Hedonites of
+• 2 Doom-Flayers Slaanesh, Skaven.
+• 1 Warlock Galvaneer This Regiment of Renown can be included in the following factions:
+Volt-Klaw’s
+Enginecoven • 3 Warpvolt Scourgers 460 Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle, Hedonites of
+• 1 Ratling Warpblaster Slaanesh, Skaven.

@@ -1,0 +1,127 @@
+--- Page 1 ---
+FACTION RULES:
+STORMCAST ETERNALS
+HEROIC TRAITS
+You can pick a heroic trait from this table instead of from other Heroic Traits tables available to this faction.
+STORMFORGED QUALITIES (Hero only)
+Passive Your Hero Phase
+LEGENDARY TENACITY: This hero might well be INTENSE PIETY: This hero’s intense and unwavering
+struck down, but there is little in the Mortal Realms that devotion to the Sigmar’s mission is one of such absolute
+can stop them from rising again, bloodied but unbowed. focus that they can cause the followers of rival gods
+to hesitate and falter with a few well-chosen words or
+Effect: The first time this unit would be destroyed,
+soul-piercing stare.
+before removing it from play, roll a dice. On a 3+, this
+unit is not destroyed and any remaining damage points Declare: Pick a visible enemy Priest or Wizard within
+inflicted on it have no effect. Then, Heal (D3) this unit. 18" of this unit to be the target.
+Effect: Roll a dice. On a 3+, subtract 1 from casting rolls
+Passive and chanting rolls for the target until the start of your
+next turn.
+HOUR OF GLORY: This hero’s hour has come; their
+deeds will shatter the wicked, deliver the weak and protect
+the Mortal Realms themselves from any evil that would see
+them undone.
+Effect: This unit can be picked to use the ‘Their Finest
+Hour’ ability even if it has already used it this battle. In
+addition, when this unit is picked to use the ‘Their Finest
+Hour’ ability, add 5 to its control score for the rest of
+the turn.
+ARTEFACTS OF POWER
+You can pick an artefact from this table instead of from other Artefacts of Power tables available to this faction.
+RELICS OF SIGMARON (Hero only)
+Once Per Battle, Your Hero Phase Once Per Battle, Any Hero Phase
+BANNER OF SIGMAR: The hero unfurls a mighty BEACON OF AZYR: This beacon is brimming with
+banner and plunges its pommel into the earth with the the magic of the Celestial Realm. When unleashed, holy
+force of a falling comet, where it stands upright and lightning surges forth, empowering a nearby Stormcast
+proud, declaring Sigmar’s reckoning to all who bear Eternal who is attuned to the tempest.
+witness to its majesty.
+Declare: Pick a visible friendly Stormcast Eternals
+Declare: Pick an objective within 18" of this unit to be Wizard or Priest wholly within 12" of this unit to be
+the target. the target.
+Effect: Until the start of your next turn, your opponent Effect: The next time this turn that the target uses a
+cannot control the target objective while they have no Prayer or Spell ability, instead of making a casting
+units contesting it. roll or chanting roll for them, you can use a value of 7
+for the roll that cannot be modified. After that ability is
+resolved, if the target has any ritual points, reset their
+Once Per Turn, Reaction: Opponent declared a ritual points total to 0.
+command or a Rampage ability for a unit in combat
+with this unit D esigner’s Note: Ritual points apply modifiers so cannot
+be used with this ability to increase the chanting roll to
+SIGIL OF MORRDA: This sigil is one of the god more than 7.
+Morrda, a death god that escaped Nagash’s purge of
+Shyish. Their power, perhaps not what it once was, is still
+potent and to be rightly feared.
+Effect: Roll a dice. On a 3+, that command or Rampage
+ability has no effect, it still counts as having been used
+and any command points spent to use that ability are
+still lost.
+Permission to download/print for personal use only. © Copyright Games Workshop Limited 2025
+
+--- Page 2 ---
+6+
+MOVE
+• SCOURGE OF GHYRAN WARSCROLL •
+12"
+H
+T S
+L12 3+A IRIDAN THE WITNESS
+A V
+E E
+H
+5
+CONTROL MELEE WEAPONS Atk Hit Wnd Rnd Dmg
+Axe of the Final Threshold
+4 3+ 3+ 2 3
+Crit (Mortal)
+The heart and soul of the Ariax’s Plunging Talons
+Ruination chambers is Iridan 6 4+ 2+ 2 2
+Charge (+1 Damage), Companion
+the Witness, chosen champion
+of the mysterious death god
+Morrda. Dispatched to the Passive Once Per Turn, Reaction: This Your Hero Phase 3
+battlefields of the Everspring
+Swathe, they lead a great THE FLAMES OF HOPE: The unit was picked to be the target of a DEMANDS OF THE
+detachment of silent, storm- billowing flames borne by Iridan non-Core ability WITNESS: Iridan understands
+eyed champions. Iridan rides are instantly recognisable by all of GUARDIAN OF THE FINAL better than any that the most
+the Morrgryph Ariax, a winged Sigmar’s greatest warriors, even THRESHOLD: Iridan does battle assured way to avoid the
+menace whose unearthly those who have lost nearly every where others cannot tread, fighting incremental erosion of the flaw
+presence on the battlefield fills part of themselves in his name. in lands transformed into scenes of in the Reforging process is to
+bo t n h e e - d o en e f e e th p m e t i i e e r r s w r o o i f r l l O a t n r o d d fi e r g r o h w b t i s . t t h h a e m Effect: You can re-roll resistance a m p a o g c i a c l s y fi p n se d . n E o v e p n u t r h ch e a m se o s o t n c o th rr is o sive a ex v h oi o d r t b t e h in ei g r c c u h t a d rg o e w s n to , a v n a d n q so u i t s h h e y
+rolls for friendly Ruination shepherd of lost souls, their faith their foes quickly, mercilessly and
+Chamber units while they are granting them near immunity to without hesitation.
+wholly within 12" of this unit.
+such impurities.
+Declare: Pick a visible friendly
+Effect: Make a resistance roll of D6. Ruination Chamber unit wholly
+On a 3+, that ability has no effect within 12" of this unit to be the
+on this unit. target, then make a chanting roll
+of D6.
+Effect: Until the start of your
+next turn, add 1 to the Rend
+characteristic of the target’s melee
+weapons. If the chanting roll was
+7+, you can pick another eligible
+unit to be a second target.
+Keywords Prayer
+Once Per Turn (Army),
+Any Combat Phase
+ON WINGS OF DEATH: Ariax
+swoops over the heads of the foe,
+wrong-footing charging enemies.
+Declare: Pick an enemy unit
+in combat with this unit to be
+the target.
+Effect: Roll a dice. On a 3+:
+• You can remove this unit from
+the battlefield and set it up again
+on the battlefield within 1" of
+the target.
+• If the target charged this turn,
+subtract 1 from hit rolls for the
+target’s attacks for the rest of
+the turn.
+Keywords Rampage
+Unique, Hero, Monster, Priest (1), Fly, Ward (6+)
+KEYWORDS
+Order, Stormcast Eternals, Ruination Chamber
+Permission to download/print for personal use only. © Copyright Games Workshop Limited 2025

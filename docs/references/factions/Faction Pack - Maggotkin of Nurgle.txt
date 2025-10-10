@@ -1,0 +1,1503 @@
+--- Page 1 ---
+FACTION PACK
+MAGGOTKIN
+NURGLE
+OF
+
+--- Page 2 ---
+BATTLE TRAITS
+Maggotkin of Nurgle armies can use the following abilities:
+Once Per Turn (Army), End of Any Turn Passive
+BLESSED BY THE PLAGUEFATHER: DESPERATE REMEDIES: When
+Each of the Maggotkin is a walking vector fighters are afflicted with the plagues of
+of disease, a willing incubator for maladies Nurgle, all efforts to recuperate must be
+that ravage the body and spirit with focused entirely on stemming the spread of
+horrific virulence. the disease.
+Effect: You cannot pick Effect: If an ability would heal or
+Manifestations or terrain features to return slain models to a Diseased
+be the targets of this ability. Pick 1 of the enemy unit, that ability does not heal
+following effects: any damage points or return any slain
+models to it. Instead, it no longer has the
+Infect: Pick an enemy unit that is in
+Diseased keyword.
+combat with a friendly Maggotkin of
+Nurgle unit to be the target. The target Manifestations and faction terrain
+has the Diseased keyword. features cannot be given the Diseased
+keyword by any friendly abilities.
+Spread: Pick a Diseased enemy unit
+to be the target. Each other enemy unit
+Passive
+within the target’s combat range has the
+Diseased keyword. BURST PUSTULES: As blighted flesh is
+pierced and hewn, quivering boils erupt,
+Mutate: If all enemy units on the showering all with Nurgle’s glistening gifts.
+battlefield have the Diseased keyword,
+inflict 1 mortal damage on each of them. Effect: Each time a Diseased enemy unit
+would be destroyed, before the last model
+in the unit is removed from play, roll a
+Once Per Turn (Army), End of Any Turn
+dice. On a 3+, pick another enemy unit
+WRACKED WITH DISEASE: within 9" of that model to be Diseased.
+The Maggotkin wage war with weeping
+wounds and pustulant boils as well as with
+rusted weapons.
+Effect: Roll a D3 for each Diseased
+enemy unit. On a 2+, inflict an amount
+of mortal damage on that unit equal to
+the roll.
+April 2025
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Maggotkin of Nurgle army. Each
+battle formation grants a different ability you can use in the battle.
+TALLYBAND OF NURGLE NURGLE’S MENAGERIE
+Passive Passive
+DISEASE AND PESTILENCE TENDERS OF THE GARDEN
+PERSONIFIED: The Tallyband is a GROTESQUE: The children of
+trudging, lumbering, squirming mass of Grandfather Nurgle seek any opportunity
+rancid daemonflesh that rolls across the to rot the veil and let the festering delights
+battlefield like the inexorable approach of of his Garden spill into the realms.
+death itself.
+Effect: During army composition, you
+Effect: From the second battle round can include 2 Feculent Gnarlmaws in
+onwards, add 1 to the amount of mortal your army instead of 1.
+damage inflicted, if any, by the ‘Wracked
+with Disease’ ability.
+PLAGUE CYST AFFLICTION CYST
+Passive Once Per Battle (Army),
+VECTORS OF CONTAGION: The Deployment Phase
+bloated forms of these Nurglites are ever at FROM NOXIOUS SKIES: The air fills
+bursting point, ready to shower attackers with the thunderous drone of membranous
+with contagious fluid. wings as the warriors of the Affliction Cyst
+ride their bloated Rot Flies into battle.
+Effect: Each time a model in a friendly
+Rotbringers unit is slain by a combat Declare: Pick up to 2 friendly
+attack and that model was in combat Maggotkin of Nurgle units that
+with the attacking unit, roll a number have Fly.
+of dice equal to the slain model’s Health
+Effect: Remove the targets from the
+characteristic, to a maximum of 4. For
+battlefield and set them up again on
+each 5+, inflict 1 mortal damage on the
+the battlefield more than 9" from all
+attacking unit after the Fight ability has
+enemy units.
+been resolved.
+April 2025
+
+--- Page 4 ---
+HEROIC TRAITS
+AVATARS OF CORRUPTION (Hero only)
+Passive End of Any Turn
+GIFT OF FEBRILE FRENZY: This GRANDFATHER’S BLESSING: This
+general can invigorate their usually mighty Nurglite is so diseased that they are
+sluggish minions by releasing a fever rejuvenated by decay and plague.
+upon them that drives them into a
+Effect: If this unit is in combat with
+wild delirium.
+a Diseased enemy unit, Heal (D6)
+Effect: Add 1" to the Move characteristic this unit.
+of friendly Maggotkin of Nurgle
+units that do not have Fly if they are Reaction: Opponent declared a command
+wholly within 12" of this unit at the start for a unit in combat with this unit
+of the move. OVERPOWERING STENCH: This
+general exudes an odour so wretched that
+even Nurgle’s daemons cannot adequately
+describe it. Enemies recoil, choking on
+their own vomit at the slightest whiff
+and rendered speechless as their senses
+are overwhelmed.
+Effect: Roll a dice. On a 5+, that
+command has no effect. The command
+still counts as having been used and
+the command points spent to use the
+command are still lost.
+April 2025
+
+--- Page 5 ---
+ARTEFACTS OF POWER
+BOONS OF NURGLE (Hero only)
+Any Combat Phase Once Per Battle, Any Hero Phase
+THE WITHERSTAVE: Carved from THE CARRION DIRGE: When blown,
+the heartwood of a tormented Treelord, this filth-encrusted horn shrieks with
+the Witherstave thrums with a soured the tongue of a thousand carrion crows.
+mockery of the Sylvaneth spirit song. Those Those outside Nurgle’s favour who hear it
+that hear it feel a terrible weakness shiver are struck with a deep despondency. Why
+their limbs as a jarring dirge of despair stand defiant? Why seek victory? Why do
+clouds their minds. anything at all?
+Declare: Pick an enemy unit that charged Declare: Pick up to 3 enemy units within
+this turn and is in combat with this unit 12" of this unit to be the targets.
+to be the target.
+Effect: Subtract 3 from each target’s
+Effect: Roll a dice. On a 4+, the target has control score for the rest of the turn.
+Strike-last for the rest of the turn.
+Once Per Battle, Any Combat Phase
+RUSTFANG: Rustfang is a cursed battle-
+axe whose blade crawls with a thick layer
+of sentient corrosion. The slightest touch of
+this blade spreads its ferric blight, chewing
+away the foe’s armour in moments.
+Declare: Pick an enemy Hero in combat
+with this unit to be the target.
+Effect: Subtract 1 from save rolls for the
+target for the rest of the battle.
+April 2025
+
+--- Page 6 ---
+SPELL LORE
+LORE OF MALIGNANCE
+Your Hero Phase 7
+FLESHY ABUNDANCE: The sorcerer generously bestows a growth spurt of the most
+repulsive kind upon their allies, causing their bodies to bloat with great wobbling mounds of
+grey-green fat.
+Declare: Pick a friendly Maggotkin of Nurgle Wizard to cast this spell, pick a
+visible friendly Maggotkin of Nurgle unit wholly within 12" of them to be the target,
+then make a casting roll of 2D6.
+Effect: Pick 1 of the following effects:
+• Heal (D3) the target.
+• Subtract 1 from wound rolls for attacks that target that unit until the start of your
+next turn.
+Keywords Spell, Unlimited
+Your Hero Phase 7 Your Hero Phase 7
+CLOYING QUAGMIRE: The MAGNIFICENT BUBOES: With
+sorcerer thrusts their hands into the a gracious sweep of their hand, the
+soil, causing the ground beneath their sorcerer bestows upon their victim one of
+enemies to putrefy into a sucking, Nurgle’s prettiest afflictions – a clutch of
+grasping quagmire. debilitating pustules and boils.
+Declare: Pick a friendly Maggotkin of Declare: Pick a friendly Maggotkin of
+Nurgle Wizard to cast this spell, pick Nurgle Wizard to cast this spell, pick
+a visible enemy unit within 18" of them a visible enemy Hero within 18" of them
+to be the target, then make a casting roll to be the target, then make a casting roll
+of 2D6. of 2D6.
+Effect: Halve the target’s Move Effect: Until the start of your next turn,
+characteristic until the start of your next subtract 1 from hit rolls for the target’s
+turn. If the target’s Save characteristic is attacks and subtract 1 from casting rolls,
+3+ or better, subtract 1 from run rolls and chanting rolls, banishment rolls and
+charge rolls for that unit until the start of unbinding rolls for the target.
+your next turn. Keywords Spell
+Keywords Spell
+April 2025
+
+--- Page 7 ---
+April 2025
+MOVE
+6"
+H • MAGGOTKIN OF NURGLE WARSCROLL •
+T S
+A L22 4+A V ROTIGUS
+E E
+H
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gnarlrod 5 3+ 2+ 1 3 -
+Fanged Maws 2 3+ 2+ 2 2 -
+Crit (Auto-wound),
+Host of Nurglings 10 5+ 5+ - 1
+Companion
+Passive Once Per Turn (Army), Any Charge Phase
+BATTLE DAMAGED MOUNTAIN OF LOATHSOME FLESH:
+Effect: While this unit has 10 or more Rotigus is a massively corpulent
+damage points, the Attacks characteristic abomination; when he goes on a rampage,
+of its Gnarlrod is 3. enemies caught in his path are often
+swallowed up and crushed between great
+Your Hero Phase 8 rolls of rancid blubber.
+DELUGE OF NURGLE: Rotigus has
+Declare: If this unit charged this phase,
+an affinity with the plagued downpours
+roll a dice. On a 3+, pick an enemy unit
+that spill from Nurgle’s cauldron, and
+within 1" of it to be the target.
+he is able to influence where the blighted
+rains fall. Effect: Roll a number of dice equal to
+the number of models in the target unit.
+Declare: Pick each Diseased enemy
+For each 5+, inflict 1 mortal damage on
+unit on the battlefield and each friendly
+the target.
+Maggotkin of Nurgle unit in combat
+with any Diseased enemy units to be the Keywords Rampage
+targets. Then, make a casting roll of 2D6.
+Passive
+Effect: Roll a D3 for each target. On a 2+: BRINGER OF PLENTY: Rotigus is
+a masterful sorcerer, able to bind the
+• If the target is an enemy unit, inflict an
+energies of decay with a wave of his
+amount of mortal damage on the target
+gnarled wand. His spells inspire grotesque
+equal to the roll.
+fecundity and flesh-growth, stimulated
+• If the target is a friendly unit, Heal (X)
+through the arcane deluge.
+the target, where X is an amount equal
+to the roll. Effect: Add 1 to casting rolls for this unit.
+Keywords Spell
+Warmaster, Unique, Hero, Monster, Wizard (2), Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 8 ---
+April 2025
+MOVE
+6" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S GREAT
+L20 4+A
+A V
+E E
+H UNCLEAN ONE
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Noxious Bile 7" D3+3 3+ 2+ 2 2 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Colossal Blight Weapons 4 3+ 2+ 2 4 -
+Crit (Auto-wound),
+Host of Nurglings 10 5+ 5+ - 1
+Companion
+Passive Once Per Turn (Army), End of Any Turn
+BATTLE DAMAGED BLOATED WITH CORRUPTION:
+Effect: While this unit has 10 or more Should a Great Unclean One be wounded,
+damage points, the Attacks characteristic the noxious effluvia within its swollen
+of its Colossal Blight Weapons is 3. body bursts forth in a flesh-melting spray.
+Declare: If this unit is damaged, pick up
+Once Per Turn (Army),
+Your Movement Phase to 3 enemy units in combat with this unit
+to be the targets.
+LOCUS OF NURGLE: The Great
+Unclean calls upon Grandfather Nurgle Effect: Roll a D3 for each target. On a 2+,
+to tear a rift in reality through which inflict an amount of mortal damage on
+loathsome, foetid daemons can spill. the target equal to the roll.
+Declare: Pick a friendly Maggotkin of Keywords Rampage
+Nurgle Daemon unit that started the
+battle with 3 or more models and that has Your Hero Phase 7
+been destroyed to be the target. PLAGUE WIND: With a satisfied
+belch, the greater daemon unleashes a gust
+Effect: Roll a dice. On a 4+, set up a of putrid air that smothers the battlefield.
+replacement unit with half the number
+of models from the target unit (rounding Declare: Pick a visible enemy unit within
+up) wholly within 12" of this unit and 12" of this unit to be the target, then make
+more than 9" from all enemy units. a casting roll of 2D6.
+Effect: The target has the
+Diseased keyword.
+Keywords Spell
+Hero, Monster, Wizard (2), Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 9 ---
+April 2025
+MOVE
+4"
+H • MAGGOTKIN OF NURGLE WARSCROLL •
+L T 5 5+ S A POXBRINGER
+A V
+E E
+H
+2 HERALD OF NURGLE
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Balesword 3 4+ 3+ 1 2 Crit (Mortal)
+Reaction: You declared a Fight ability
+for this unit
+CAPTAIN OF THE PLAGUE LEGIONS:
+Poxbringers lead their fellow
+Plaguebearers into battle and ensure that
+the orders of the Great Unclean Ones are
+followed to the letter.
+Effect: Pick a friendly Plaguebearers unit
+that has not used a Fight ability this turn
+and is within this unit’s combat range to
+be the target. The target can be picked to
+use a Fight ability immediately after the
+Fight ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+hit rolls for the target’s attacks for the rest
+of the turn.
+Hero, Wizard (1), Infantry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 10 ---
+April 2025
+MOVE
+4" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S HORTICULOUS
+L 8 4+A
+A V
+E E
+H SLIMUX
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Lopping Shears 3 3+ 3+ 1 2 -
+Slime-encrusted Jaws 4 4+ 3+ 1 D3 Companion
+Your Movement Phase Once Per Turn (Army),
+CULTIVATING THE GARDEN Your Movement Phase
+OF NURGLE: Wherever Horticulous BEAST HANDLER: Horticulous is
+slimes around in the Mortal Realms, accompanied by romping packs of Beasts
+daemonic foliage pokes through the cracks of Nurgle, whose foolishness he always
+in reality and swiftly takes root. forgives and who look to him like hounds
+do their master.
+Effect: If there are fewer than 3 friendly
+Feculent Gnarlmaws on the battlefield, Declare: Pick a friendly Beasts of Nurgle
+you can set up a Feculent Gnarlmaw unit that has been destroyed.
+wholly within 12" of this unit, more than
+3" from all enemy units, objectives and Effect: Roll a dice. On a 3+, set up a
+other terrain features. replacement unit wholly within 12"
+of this unit and more than 9" from all
+enemy units.
+Unique, Hero, Cavalry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 11 ---
+April 2025
+MOVE
+4"
+H • MAGGOTKIN OF NURGLE WARSCROLL •
+L T 5 5+ S A SPOILPOX SCRIVENER
+A V
+E E
+H
+2 HERALD OF NURGLE
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Disgusting Sneezes 7" D6 2+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Distended Maw 3 4+ 3+ 1 2 -
+Once Per Turn (Army), Your Hero Phase
+KEEP COUNTING,
+I’M WATCHING YOU: Spoilpox
+Scriveners are responsible for making sure
+that the Plaguebearers of the tallybands do
+not shirk their duties.
+Declare: Pick a friendly Plaguebearers
+unit wholly within 12" of this unit to be
+the target.
+Effect: Roll a D6. On a 2+, pick 1 of the
+following effects to apply until the start of
+your next turn:
+Tally of Blows: Add 1 to the
+Attacks characteristic of the target’s
+melee weapons.
+Recorded Stamina: Add 1 to save rolls for
+the target.
+Hero, Infantry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 12 ---
+April 2025
+MOVE
+4"
+H • MAGGOTKIN OF NURGLE WARSCROLL •
+L T 5 5+ S A SLOPPITY BILEPIPER
+A V
+E E
+H
+2 HERALD OF NURGLE
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Marotter 3 4+ 3+ 1 2 -
+Once Per Turn (Army),
+Any Combat Phase
+JOLLY GUTPIPES: Sloppity Bilepipers
+have a suitably revolting repertoire of
+repulsive refrains to draw upon in battle.
+Declare: Pick a visible friendly
+Maggotkin of Nurgle Daemon
+unit wholly within 12" of this unit to be
+the target.
+Effect: Roll a dice. On a 2+, pick 1 of the
+following effects to apply for the rest of
+the turn:
+A-Stabbing We Will Go!: Add 1 to wound
+rolls for the target’s attacks.
+Early One Evening My Pustule
+Was Seeping: Ward rolls cannot be made
+for damage points inflicted by the target’s
+combat attacks.
+My Love Is Like a Ripe, Ripe Fart:
+Subtract 1 from hit rolls for attacks made
+by enemy units that target the target unit.
+Hero, Infantry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 13 ---
+April 2025
+MOVE
+4"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L 4 6+A V NURGLINGS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Tiny Razor-sharp Teeth 5 5+ 5+ - 1 Crit (Auto-wound)
+End of Any Turn
+ENDLESS SWARM: The presence of
+Nurglings in the realms continuously
+draws more of their number from the
+Grandfather’s Garden, making their
+swarms extremely hard to eradicate.
+Effect: Heal (3) this unit.
+Infantry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 14 ---
+April 2025
+MOVE
+7"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L 8 5+A V BEASTS OF NURGLE
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Filthy Claws and
+5 4+ 3+ 1 D3 Companion
+Slobbering Maw
+Any Charge Phase Passive
+ATTENTION SEEKERS: Beasts of BEAST
+Nurgle seek out playmates with an Effect: This unit has a maximum control
+enthusiasm that is rarely reciprocated by score of 1.
+the horrified source of their fascination.
+Declare: If this unit is not in combat,
+pick the closest enemy unit to it to be the
+target. If 2 or more enemy units are tied
+to be the closest, you can pick which is the
+target. Then, make a charge roll of 2D6.
+Effect: This unit can move a distance up
+to the value of the charge roll. During
+that move, this unit can move into
+combat and can pass through models in
+the target unit, but it must end that move
+within 1" of the target. If it does so, this
+unit has charged. Then, inflict D3 mortal
+damage on the target.
+Keywords Core, Move, Charge
+Beast, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 15 ---
+April 2025
+MOVE
+8"
+H
+T S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L 5 5+A V PLAGUE DRONES
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Noxious Plaguesword 2 4+ 3+ - 1 Crit (Mortal)
+Rot Fly Limbs and Sting 6 4+ 3+ - 1 Companion
+Passive
+DISPERSED FORMATION: These
+warriors maintain a wide formation,
+enabling more precise strikes and greater
+battlefield control.
+Effect: This unit has a coherency range
+of 2".
+Passive
+RIPE PASTURES: Rot Flies buzz across
+the battlefield, consuming their enemies
+before moving on to fresh targets, their
+retreat covered by a repulsive cloud of
+decaying flesh.
+Effect: This unit can use Charge
+abilities even if it used a Retreat
+ability in the same turn. In addition, no
+mortal damage is inflicted on this unit by
+Retreat abilities.
+Cavalry, Champion, Musician (1/3), Standard Bearer (1/3), Fly, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 16 ---
+April 2025
+MOVE
+4"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L 2 6+A V PLAGUEBEARERS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Plaguesword 1 4+ 3+ - 1 Crit (Mortal)
+Passive
+CLOUD OF FLIES: Plaguebearers are
+surrounded by a cloud of swarming flies
+that feast on their rotting bodies.
+Effect: Subtract 1 from hit rolls for
+shooting attacks that target this unit.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10), Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Daemon
+
+--- Page 17 ---
+April 2025
+MOVE
+6"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L24 4+A V THE GLOTTKIN
+E E
+H
+10
+CONTROL
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Ghurk’s Tentacle 4 3+ 2+ 2 D3+3 -
+Ghurk’s Lamprey Maw 3 3+ 2+ 2 3 -
+Otto’s Scythe 4 3+ 3+ 1 2 -
+Passive Passive
+BATTLE DAMAGED HORRIFIC OPPONENT: So terrifying
+Effect: While this unit has 10 or more are the Brothers Glott that enemy lines are
+damage points,the Attacks characteristic sent into disarray at the very sight of them.
+of Ghurk’s Tentacle is 2.
+Effect: Subtract 3 from the control scores
+of enemy units while they are in combat
+Once Per Turn (Army), Reaction: You
+with this unit.
+declared the ‘Counter-charge’ command for
+this unit
+BLIGHTED STAMPEDE: At a signal Your Hero Phase 6
+from his brothers, the usually ponderous OVERGROWTH OF FLESH: For
+Ghurk launches into an earthshaking all his endless grumbling, Ethrac Glott
+counter-charge. Nearby Maggotkin are is not miserly in doling out Nurgle’s
+quick to take advantage of the enemy’s bountiful gifts.
+shock at the abomination’s sudden
+Declare: Pick a visible enemy unit within
+turn of speed.
+12" of this unit to be the target, then make
+Effect: Pick up to 2 friendly Maggotkin a casting roll of 2D6.
+of Nurgle units wholly within 12"
+Effect: Roll a number of dice equal to the
+of this unit to be the targets. After the
+target’s Health characteristic. For each
+‘Counter-charge’ command for this unit
+5+, inflict 1 mortal damage on the target,
+has been resolved, if this unit charged,
+to a maximum of 7 mortal damage.
+each of the targets can immediately
+use the ‘Counter-charge’ command in Keywords Spell
+an order of your choosing without any
+command points being spent.
+Keywords Rampage
+Warmaster, Unique, Hero, Monster, Wizard (1), Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 18 ---
+April 2025
+MOVE
+8" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S MORBIDEX
+L14 4+A
+A V
+E E
+H TWICEBORN
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Tripletongue’s
+7" 3 3+ 3+ 1 1 Shoot in Combat, Companion
+Slabrous Tongues
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Fleshreaper Scythe 5 3+ 3+ 1 2 -
+Tripletongue’s
+5 4+ 2+ 2 3 Companion
+Claws and Maw
+Passive End of Any Turn
+BATTLE DAMAGED GIGANTIC NURGLING-KIN: Twisted
+Effect: While this unit has 10 or more by the cruel attentions of manifold
+damage points, the Attacks characteristic Nurglings, Morbidex has come to resemble
+of Tripletongue’s Claws and Maw is 3. them physically and has gained much of
+their unnatural resilience.
+Passive
+Effect: Heal (X) this unit, where X is half
+LORD OF NURGLINGS: Morbidex the number of damage points this unit
+Twiceborn is the chosen mortal champion
+has (rounding up).
+of the Nurglings, who follow him into
+battle with boundless enthusiasm.
+Once Per Turn (Army), Any Combat Phase
+Effect: While any friendly Nurglings TIDE OF NURGLINGS: Morbidex’s Pox
+units are wholly within 12" of this unit: Maggoth bellows out a gurgling roar that
+drives nearby swarms of Nurglings into
+• Ignore the first damage point that
+a frenzy, drowning enemies in a filthy,
+would be allocated to each of those
+living tide.
+units each phase.
+• Add 3 to those units’ control scores. Declare: Pick a friendly Nurglings unit
+within this unit’s combat range to be
+the target.
+Effect: Roll a dice. On a 2+, the target’s
+melee weapons have Crit (Mortal) for the
+rest of the turn.
+Keywords Rampage
+Unique, Hero, Monster, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 19 ---
+April 2025
+MOVE
+8"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L14 4+A V BLOAB ROTSPAWNED
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Bilespurter’s Vile Bile 7" 7 2+ 4+ 1 D3 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Harvestman’s Scythe 3 3+ 3+ 1 2 -
+Bilespurter’s Claws
+5 4+ 2+ 2 3 Companion
+and Maw
+Passive Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED DAEMON FLIES: The whirling fly-storm
+Effect: While this unit has 10 or more that surrounds Bloab blinds and chokes
+damage points, the Attacks characteristic his victims.
+of Bilespurter’s Claws and Maw is 3.
+Declare: Pick each enemy unit within 7"
+of this unit to be the targets.
+Your Hero Phase 6
+MIASMA OF PESTILENCE: Bloab Effect: Roll a dice for each target. On
+Rotspawned completes a complicated a 4+:
+gesture in the air and a vile mist rises
+• Inflict 1 mortal damage on the target.
+from the ground around his target. While
+• Subtract 1 from hit rolls for the target’s
+it lasts, even the lightest graze seems to
+combat attacks for the rest of the turn.
+turn gangrenous.
+Keywords Rampage
+Declare: Pick a visible enemy unit within
+12" of this unit to be the target, then make
+a casting roll of 2D6.
+Effect: Until the start of your next turn,
+each time a friendly ability is used that
+resulted in any damage points being
+allocated to the target, roll a dice. On a
+4+, allocate 1 additional damage point to
+the target (ward rolls cannot be made for
+that damage point).
+Keywords Spell
+Unique, Hero, Monster, Wizard (1), Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 20 ---
+April 2025
+MOVE
+4"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L 7 4+A V GUTROT SPUME
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Crit (Mortal),
+Rot-pocked Axe 5 3+ 2+ 1 2
+Anti-Hero (+1 Rend)
+Deployment Phase Your Movement Phase
+MASTER OF THE SLIME FLEET: PESTILENTIAL BEACHHEAD: To the
+Gutrot’s Slime Fleet haunts the oceans creak of rotting timbers and the waft of
+of the Mortal Realms, fighting alongside rancid brine, the Slime Fleet makes land.
+and transporting warriors that the Lord of
+Declare: Pick this unit if it is aboard the
+Tentacles judges to share his aims.
+Slime Fleet.
+Declare: Pick a regiment led by this unit
+Effect: Set up this unit on the battlefield,
+to be the target if no units from that
+wholly within 7" of a battlefield edge and
+regiment have been deployed.
+more than 9" from all enemy units. Then
+Effect: Each unit in the target regiment is set up every other friendly unit that is
+set up in reserve aboard the Slime Fleet. aboard the Slime Fleet on the battlefield
+Those units have now been deployed. wholly within 7" of a battlefield edge,
+Keywords Deploy wholly within 7" of this unit and more
+than 9" from all enemy units.
+Any Combat Phase
+FLAILING TENTACLES: Gutrot grabs
+his opponents with his melange of slimy
+tentacles, rendering them helpless as he
+swings his rusted axe.
+Declare: Pick an enemy Infantry Hero
+in combat with this unit to be the target.
+Effect: Roll a dice. On a 3+, the target has
+Strike-last for the rest of the turn.
+Unique, Hero, Infantry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 21 ---
+April 2025
+MOVE
+8" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S LORD OF
+L 8 3+A
+A V
+E E
+H AFFLICTIONS
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Festerspike 4 3+ 3+ 1 2 Charge (+1 Damage)
+Rot Fly’s Mouthparts
+6 4+ 3+ - 1 Companion
+and Sting
+Any Combat Phase
+VECTORS OF FOULEST CONTAGION:
+Through the use of rancid corpse-totems
+and other such gifts from the Grandfather,
+a Lord of Afflictions spreads death
+wherever they travel.
+Declare: Pick up to 3 enemy units in
+combat with this unit to be the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Any Combat Phase
+MASTER OF ROT FLIES: A Lord
+of Afflictions leads a swarm of Rot
+Flies that act as brutal linebreakers,
+using their sheer bulk to smash enemy
+formations asunder.
+Declare: If this unit charged this turn,
+pick this unit and up to 2 friendly
+Pusgoyle Blightlords units wholly within
+12" of this unit to be the targets.
+Effect: Add 1 to the Rend characteristic of
+the targets’ Companion melee weapons
+for the rest of the turn.
+Hero, Cavalry, Fly, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 22 ---
+April 2025
+MOVE
+8" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S ORGHOTTS
+L14 3+A
+A V
+E E
+H DAEMONSPEW
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Whippermaw’s Shoot in Combat,
+7" 1 3+ 3+ - D6
+Grasping Tongue Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+The Rotaxes 7 3+ 3+ 1 2 -
+Whippermaw’s
+5 4+ 2+ 2 3 Companion
+Claws and Maws
+Passive Passive
+BATTLE DAMAGED ACID ICHOR: Whenever Orghotts’s
+Effect: While this unit has 10 or more flesh is cut open, a gout of daemonic ichor
+damage points, the Attacks characteristic spews out with shocking force. Its vitriolic
+of Whippermaw’s Claws and Maws is 3. potency is enough to burn through steel
+and dissolve the flesh beneath.
+Once Per Turn (Army), Any Combat Phase
+Effect: Each time you make an
+GRASPING TONGUE: The massive Pox unmodified save roll of 6 for a combat
+Maggoth Whippermaw lashes its tongue
+attack that targets this unit, inflict 1
+around a hapless victim, preparing to
+mortal damage on the attacking unit after
+devour it.
+the Fight ability has been resolved.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a dice. On a 3+, add 1 to
+wound rolls for combat attacks made by
+friendly Maggotkin of Nurgle units
+that target that enemy unit for the rest of
+the turn.
+Keywords Rampage
+Unique, Hero, Monster, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 23 ---
+April 2025
+MOVE
+4"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L 7 3+A V LORD OF BLIGHTS
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bubotic Hammer 4 3+ 3+ 1 3 Anti-charge (+1 Rend)
+Any Combat Phase Passive
+THRICE-RIPENED DEATH’S HEADS: FESTERING BULWARK: Heavy
+These blessed death’s heads are projectiles shield planted in the mud, a Lord of
+ripe with disease and hurled at incoming Blights orders their warriors brace for the
+foes to spread the plagues festering within. enemy charge.
+Declare: Pick an enemy unit that charged Effect: The Blighted Weapons used by
+this turn and is in combat with this unit friendly Putrid Blightkings units have
+to be the target. Anti-charge (+1 Rend) while those units
+are wholly within 12" of this unit.
+Effect: Roll D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Hero, Infantry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 24 ---
+April 2025
+MOVE
+8" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S HARBINGER
+L 7 3+A
+A V
+E E
+H OF DECAY
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Grim Rotsword or
+3 3+ 3+ 1 3 Crit (Mortal)
+Plague Scythe
+Daemonic Mount’s
+2 5+ 3+ - 1 Companion
+Flyblown Bite
+Once Per Battle (Army),
+Enemy Hero Phase
+KNELL OF DOOM: The ominous toll of
+the Doom Bell is enough to give pause to
+even the bravest warriors.
+Declare: Pick up to 3 enemy units within
+24" of this unit to be the targets.
+Effect: Until the start of your next turn,
+subtract 1" from the Move characteristic
+of each target and subtract 1 from run
+rolls and charge rolls for each target.
+Your Hero Phase 4
+OMENS OF DECAY: Harbingers of
+Decay are diseased prophets, able to divine
+omens through grisly rites and observing
+the spread of sickness.
+Declare: Pick a visible enemy unit within
+12" of this unit to be the target, then make
+a chanting roll of D6.
+Effect: Subtract twice the current battle
+round number from the target’s control
+score for the rest of the turn. If the
+chanting roll was 10+, this ability affects
+all enemy units within 12" of this unit.
+Keywords Prayer
+Hero, Priest (1), Cavalry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 25 ---
+April 2025
+MOVE
+4" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S ROTBRINGER
+L 6 5+A
+A V
+E E
+H SORCERER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Rotwood Staff 3 4+ 3+ 1 D3 -
+Your Hero Phase
+TAINTED SORCERIES: Rotbringer
+Sorcerers hold that there is nothing they
+cannot corrupt.
+Declare: Pick an enemy unit that was
+picked to be the target of a spell that was
+successfully cast by this unit this phase to
+be the target.
+Effect: Roll a dice. On a 2+, subtract 1
+from ward rolls for the target for the rest
+of the turn.
+Hero, Wizard (1), Infantry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 26 ---
+April 2025
+MOVE
+4"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L 7 4+A V LORD OF PLAGUES
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Plague-ridden Great Blade 5 3+ 3+ 1 2 Crit (Mortal)
+Passive Any Combat Phase
+LORD OF THE BLIGHTKINGS: A Lord SEVENFOLD SLAUGHTER: A Lord
+of Plagues leads their chosen warriors to of Plagues drives their warriors to keep
+battle with a febrile energy. hacking at the foe until they are reduced
+to nothing more than twitching, filth-
+Effect: Add 1 to charge rolls for friendly
+streaked offal.
+Putrid Blightkings units while they are
+wholly within 12" of this unit. Declare: Pick a friendly Putrid
+Blightkings unit that charged this turn
+and is wholly within 12" of this unit to be
+the target.
+Effect: Roll a dice. On a 2+, add 1 to the
+Attacks characteristic of the target’s
+Blighted Weapons for the rest of
+the turn.
+Hero, Infantry, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 27 ---
+April 2025
+MOVE
+8" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S PUSGOYLE
+L 8 4+A
+A V
+E E
+H BLIGHTLORDS
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Flyrider’s Arsenal 4 3+ 3+ 1 1 Charge (+1 Damage)
+Rot Fly’s Mouthparts
+6 4+ 3+ - 1 Companion
+and Sting
+Passive
+DISPERSED FORMATION: These
+warriors maintain a wide formation,
+enabling more precise strikes and greater
+battlefield control.
+Effect: This unit has a coherency range
+of 2".
+Passive
+RELENTLESS ATTACKERS: Blightlords
+descend from fume-choked skies to smash
+Nurgle’s most stubborn enemies to ruin.
+Effect: Add 1 to the Rend characteristic of
+this unit’s Flyrider’s Arsenal for attacks
+that target units contesting an objective
+you do not control.
+Cavalry, Fly, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 28 ---
+April 2025
+MOVE
+4" • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S PUTRID
+L 3 3+A
+A V
+E E
+H BLIGHTKINGS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Blighted Weapons 4 3+ 3+ 1 1 -
+Passive
+BLOATED BULK: The plague-swollen
+heft of the Blightkings grants them a
+presence far beyond their limited numbers.
+Effect: Add 3 to this unit’s control
+score while each model in this unit is
+contesting an objective you control.
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5), Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 29 ---
+April 2025
+MOVE
+5"
+T H S • MAGGOTKIN OF NURGLE WARSCROLL •
+A L 1 6+A V ROTMIRE CREED
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Contagion Blowpipes 12" 2 4+ 3+ - 1 Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bilewood Weapons 2 4+ 4+ - 1 -
+Passive
+VIRULENT CONCOCTIONS: The
+hideous diseases formulated by the
+Rotmire Creed rapidly transmit from one
+uninfected body to another.
+Effect: When using the ‘Blessed by the
+Plaguefather’ ability, if you choose to
+infect an enemy unit, you can pick an
+enemy unit that had any damage points
+allocated to it by this unit’s shooting
+attacks this turn to be the target even if
+that unit is not in combat with a friendly
+Maggotkin of Nurgle unit.
+Infantry, Champion (1/10), Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle, Rotbringers
+
+--- Page 30 ---
+April 2025
+MOVE
+- • MAGGOTKIN OF NURGLE WARSCROLL •
+H
+T S FECULENT
+L 7 5+A
+A V
+E E
+H GNARLMAW
+-
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Maggot-infested Mouth 4 4+ 3+ 1 D3 -
+The following universal terrain abilities
+Once Per Turn (Army), End of Any Turn
+apply to this terrain feature (Terrain, 1.2):
+RIDDLED WITH DISEASE: The vapours
+emanating from a Feculent Gnarlmaw are Cover, Unstable
+laden with plagues and disease.
+Declare: Pick an enemy unit within 6" of
+this terrain feature to be the target.
+Effect: Roll a dice. On a 4+, the target has
+the Diseased keyword.
+Faction Terrain, Ward (5+)
+KEYWORDS
+Chaos, Maggotkin of Nurgle
+
+--- Page 31 ---
+MAGGOTKIN OF NURGLE
+BLEAK HOST
+The Plague God’s Bleak Hosts travel the length and breadth of the realms,
+This Spearhead army consists ensuring his servants are spreading his virulent blessings. Under the strict
+of the following units: command of their daemonic leader, known as a Spoilpox Scrivener, they
+shamble into battle to overwhelm their foes, couched in clouds of flies and
+GENERAL the stench of decay. The tang of despair drives the swing of their weapons
+ Spoilpox Scrivener and widens their rictus grins ever further.
+UNITS Though the Spoilpox Scrivener is a harsh taskmaster, the tactics they employ
+ 1 Pusgoyle Blightlord are wickedly effective. Pusgoyle Blightlords are sent ahead to break enemy
+ 1 Pusgoyle Blightlord lines, scything through formations of foot soldiers as their Rot Flies drive
+ 5 Putrid Blightkings diseased stingers and fangs into any that dare approach. By the time these
+ 5 Plaguebearers bloated behemoths are forced back, it is too late to stymie the shuffling
+ 5 Plaguebearers waves of Plaguebearers. Each daemon is nightmare vision of what awaits the
+victims of Nurgle’s Rot, surrounded by swarms of insects and brandishing a
+sword ridden with supernaturally virulent diseases. Alongside them march
+the Blightkings, mortals swollen with the Grandfather’s blessings. Each can
+withstand tremendous punishment to their corpulent forms whilst swinging
+weapons with enough strength to crush their foes utterly. The Spoilpox
+Scrivener hangs back to direct the heaving masses, but woe betide those who
+draw near, for they are struck down by the tallymaster’s distended maw.
+‘Seven strikes for seven foes. Bless them with disease and woes.’
+– Spoilpox Scrivener Bloscus the Bloodless
+Scenery designer Dom’s Maggotkin originate from the infected swamps of the Sog in Verdia. To reflect this, he has used
+sickly colours and created slimy green bases with plenty of Nurgle’s Rot – a paint that dries to look like disgusting ooze.
+
+--- Page 32 ---
+BATTLE TRAITS
+THE INFECTIOUS HOSTS Passive
+The Maggotkin’s advance across the realms is akin to the DISEASED: Each of the Maggotkin is a walking
+creeping spread of a disease across the body of its host. vector of diseases that ravage both body and spirit.
+One of your Pusgoyle Blightlords and one of your Effect: Each time an attack made by a friendly model
+Plaguebearers units are not set up during the scores a critical hit, you receive 1 disease point, to a
+deployment phase. Instead, from the third battle round maximum of 7.
+onwards, they can use the following ability:
+Your Movement Phase End of Any Turn
+DAEMONIC SUMMONING: The scions of Nurgle NURGLE’S EMBRACE: The Grandfather’s
+enter the battlefield through rifts torn in reality. generosity proves overwhelming for many…
+Effect: Set up this unit anywhere on the battlefield Effect: Spend any number of your disease points.
+more than 6" from all enemy units. For each disease point you spend, pick an enemy unit
+that is in combat with any of your units and roll a
+Keywords Core
+dice. On a 4+, inflict 1 mortal damage on that unit
+(you can pick the same enemy unit more than once).
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Phase, Your Hero Phase Passive
+LOCUS OF FECUNDITY: Nurgle bestows a INFESTED WITH WONDERS: These foul
+blessing of bountiful regrowth upon his children. warriors invite the most horrific and repulsive
+diseases into their flesh, and they cannot wait to
+Declare: Pick a friendly unit. share them.
+Effect: Heal (D3) that unit. Effect: Each time a friendly model is slain, before
+it is removed from play, you can pick an enemy
+unit within 1" of it and roll a dice. On a 4+, inflict
+1 mortal damage on that unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+End of Any Turn Your Movement Phase
+SUMMONER OF PLAGUEBEARERS: GARDENER OF NURGLE: This daemon seeks to
+Channelling a link to the Realm of Chaos, the expand the borders of Nurgle’s Garden.
+Spoilpox Scrivener brings forth more minions.
+Declare: If your general is contesting an objective
+Declare: Pick a friendly Plaguebearers unit wholly not contested by any enemy models, roll a dice.
+within 14" of your general.
+Effect: On a 3+, that objective is considered by you to
+Effect: Return 1 slain model to that unit. be desecrated. Friendly units have Ward (4+) while
+they are contesting a desecrated objective. If your
+opponent gains control of a desecrated objective, it is
+no longer desecrated.
+Your Shooting Phase Once Per Battle, Any Combat Phase
+PESTILENT BREATH: This Spoilpox Scrivener GIFT OF FEBRILE FRENZY: A reeking miasma
+has breath so foul that it can stun a full-grown rhinox. rises around the daemon Herald that drives nearby
+followers into a wild delirium.
+Declare: Pick an enemy unit within 7" of your
+general and roll a dice for each model in that unit. Effect: Until the end of the phase, add 1 to the Attacks
+characteristic of melee weapons used by friendly units
+Effect: For each 5+, inflict 1 mortal damage on while they are wholly within 7" of your general.
+that unit.
+
+--- Page 33 ---
+BATTLE TRAITS
+THE INFECTIOUS HOSTS Passive
+The Maggotkin’s advance across the realms is akin to the DISEASED: Each of the Maggotkin is a walking
+creeping spread of a disease across the body of its host. vector of diseases that ravage both body and spirit.
+One of your Pusgoyle Blightlords and one of your Effect: Each time an attack made by a friendly model
+Plaguebearers units are not set up during the scores a critical hit, you receive 1 disease point, to a
+deployment phase. Instead, from the third battle round maximum of 7.
+onwards, they can use the following ability:
+Your Movement Phase End of Any Turn
+DAEMONIC SUMMONING: The scions of Nurgle NURGLE’S EMBRACE: The Grandfather’s
+enter the battlefield through rifts torn in reality. generosity proves overwhelming for many…
+Effect: Set up this unit anywhere on the battlefield Effect: Spend any number of your disease points.
+more than 6" from all enemy units. For each disease point you spend, pick an enemy unit
+that is in combat with any of your units and roll a
+Keywords Core
+dice. On a 4+, inflict 1 mortal damage on that unit
+(you can pick the same enemy unit more than once).
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Phase, Your Hero Phase Passive
+LOCUS OF FECUNDITY: Nurgle bestows a INFESTED WITH WONDERS: These foul
+blessing of bountiful regrowth upon his children. warriors invite the most horrific and repulsive
+diseases into their flesh, and they cannot wait to
+Declare: Pick a friendly unit. share them.
+Effect: Heal (D3) that unit. Effect: Each time a friendly model is slain, before
+it is removed from play, you can pick an enemy
+unit within 1" of it and roll a dice. On a 4+, inflict
+1 mortal damage on that unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+End of Any Turn Your Movement Phase
+SUMMONER OF PLAGUEBEARERS: GARDENER OF NURGLE: This daemon seeks to
+Channelling a link to the Realm of Chaos, the expand the borders of Nurgle’s Garden.
+Spoilpox Scrivener brings forth more minions.
+Declare: If your general is contesting an objective
+Declare: Pick a friendly Plaguebearers unit wholly not contested by any enemy models, roll a dice.
+within 14" of your general.
+Effect: On a 3+, that objective is considered by you to
+Effect: Return 1 slain model to that unit. be desecrated. Friendly units have Ward (4+) while
+they are contesting a desecrated objective. If your
+opponent gains control of a desecrated objective, it is
+no longer desecrated.
+Your Shooting Phase Once Per Battle, Any Combat Phase
+PESTILENT BREATH: This Spoilpox Scrivener GIFT OF FEBRILE FRENZY: A reeking miasma
+has breath so foul that it can stun a full-grown rhinox. rises around the daemon Herald that drives nearby
+followers into a wild delirium.
+Declare: Pick an enemy unit within 7" of your
+general and roll a dice for each model in that unit. Effect: Until the end of the phase, add 1 to the Attacks
+characteristic of melee weapons used by friendly units
+Effect: For each 5+, inflict 1 mortal damage on while they are wholly within 7" of your general.
+that unit.
+
+--- Page 34 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+4"
+SPOILPOX SCRIVENER
+5 5+
+2 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Disgusting Sneezes 7" D6 2+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Spoilpox Scriveners keep a Distended Maw 3 4+ 3+ 1 2 -
+strict watch over the tallying
+of the Plaguebearers. Under
+their shrewd tri-eyed gaze, Your Hero Phase
+no daemon dares neglect KEEP COUNTING, I’M WATCHING YOU:
+their plague-counting duties.
+Spoilpox Scriveners are responsible for making sure
+Though the Scriveners prefer
+to command from a distance, that the Plaguebearers of the tallybands do not shirk
+enemies that stray too close will their duties.
+find their heads and limbs bitten
+off by the Scrivener’s trunk- Declare: Pick a friendly Plaguebearers unit wholly
+like maw. The Scriveners are within 14" of this unit to be the target.
+woefully allergic to the stuff of
+Effect: Pick 1 of the following. The effect lasts until the
+reality, which fouls their mood
+constantly. Fortunately for start of your next turn.
+Nurgle’s followers, however, the
+Tally of Blows: Add 1 to the Attacks characteristic of the
+daemons’ sneezes can blanket
+foes in layers of rancid, highly target unit’s melee weapons.
+corrosive mucus. Recorded Stamina: Add 1 to save rolls for the
+target unit.
+KEYWORDS Hero, Infantry, Ward (5+)
+• SPEARHEAD WARSCROLL •
+8"
+PUSGOYLE BLIGHTLORD
+8 4+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Blighted Scythe 3 3+ 3+ 2 1 -
+Rot Fly’s Mouthparts and Sting 6 4+ 2+ - 1 Companion
+Elite Rotbringers mounted
+atop horrific daemon-beasts, Any Charge Phase
+Pusgoyle Blightlords thrum
+ahead of their kindred to WRACK AND RUIN: Mortal
+sow panic and death as the Maggotkin who ride Rot Flies
+linebreakers of the diseased act as brutal linebreakers, using
+host. Their crushing tocsins their sheer bulk to smash enemy
+and whistling scythes make
+formations asunder.
+short work of any who would
+slow the spread of decay. Should Declare: If this unit charged this
+enemies survive such a diseased phase, pick an enemy unit within 1"
+onslaught, they will find
+of it to be the target and roll a dice.
+themselves impaled upon the
+stingers of horrifying Rot Flies. Effect: On a 2+, inflict D3 mortal
+The pact made between Pusgoyle
+damage on the target.
+and Rot Fly strengthens the
+daemon’s connection to the
+mortal plane, allowing them
+to exist indefinitely beyond the
+boundary of Nurgle’s Garden
+while the accord stands.
+KEYWORDS Cavalry, Fly, Ward (5+)
+
+--- Page 35 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+4"
+SPOILPOX SCRIVENER
+5 5+
+2 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Disgusting Sneezes 7" D6 2+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Spoilpox Scriveners keep a Distended Maw 3 4+ 3+ 1 2 -
+strict watch over the tallying
+of the Plaguebearers. Under
+their shrewd tri-eyed gaze, Your Hero Phase
+no daemon dares neglect KEEP COUNTING, I’M WATCHING YOU:
+their plague-counting duties.
+Spoilpox Scriveners are responsible for making sure
+Though the Scriveners prefer
+to command from a distance, that the Plaguebearers of the tallybands do not shirk
+enemies that stray too close will their duties.
+find their heads and limbs bitten
+off by the Scrivener’s trunk- Declare: Pick a friendly Plaguebearers unit wholly
+like maw. The Scriveners are within 14" of this unit to be the target.
+woefully allergic to the stuff of
+Effect: Pick 1 of the following. The effect lasts until the
+reality, which fouls their mood
+constantly. Fortunately for start of your next turn.
+Nurgle’s followers, however, the
+Tally of Blows: Add 1 to the Attacks characteristic of the
+daemons’ sneezes can blanket
+foes in layers of rancid, highly target unit’s melee weapons.
+corrosive mucus. Recorded Stamina: Add 1 to save rolls for the
+target unit.
+KEYWORDS Hero, Infantry, Ward (5+)
+• SPEARHEAD WARSCROLL •
+8"
+PUSGOYLE BLIGHTLORD
+8 4+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Blighted Scythe 3 3+ 3+ 2 1 -
+Rot Fly’s Mouthparts and Sting 6 4+ 2+ - 1 Companion
+Elite Rotbringers mounted
+atop horrific daemon-beasts, Any Charge Phase
+Pusgoyle Blightlords thrum
+ahead of their kindred to WRACK AND RUIN: Mortal
+sow panic and death as the Maggotkin who ride Rot Flies
+linebreakers of the diseased act as brutal linebreakers, using
+host. Their crushing tocsins their sheer bulk to smash enemy
+and whistling scythes make
+formations asunder.
+short work of any who would
+slow the spread of decay. Should Declare: If this unit charged this
+enemies survive such a diseased phase, pick an enemy unit within 1"
+onslaught, they will find
+of it to be the target and roll a dice.
+themselves impaled upon the
+stingers of horrifying Rot Flies. Effect: On a 2+, inflict D3 mortal
+The pact made between Pusgoyle
+damage on the target.
+and Rot Fly strengthens the
+daemon’s connection to the
+mortal plane, allowing them
+to exist indefinitely beyond the
+boundary of Nurgle’s Garden
+while the accord stands.
+KEYWORDS Cavalry, Fly, Ward (5+)
+
+--- Page 36 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+4"
+PUTRID BLIGHTKINGS
+3 3+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Blighted Weapon 4 3+ 3+ 1 1 -
+Putrid Blightkings carve their End of Any Turn
+way forwards with slime- RELENTLESS ATTACKERS:
+encrusted blades, hammers
+and axes. Their bloated, rotting Blightkings grind through the
+bodies can absorb tremendous battlelines of lesser foes, shattering
+punishment, allowing them their morale and hacking down
+to drive relentlessly through the stunned survivors with
+the foe’s battleline as they sow contemptuous ease.
+lethal disease and crippling
+despair alike. They are paragons Declare: Pick an enemy Infantry
+of despair, having their origins unit in combat with this unit to be
+as not only warriors but also the target and roll a dice for each
+apothecaries and philosophers model in this unit that is within
+who became obsessed with the target unit’s combat range.
+the futility of existence. Their
+all-consuming need to spread Effect: For each roll that exceeds
+disease and despondency has the target’s Health characteristic,
+earned them Nurgle’s favour,
+inflict 1 mortal damage on it.
+and in return, their swollen,
+plague-ridden frames have
+become all but immune to pain.
+KEYWORDS Infantry, Ward (5+)
+• SPEARHEAD WARSCROLL •
+4"
+PLAGUEBEARERS
+2 6+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Plaguesword 1 4+ 3+ - 1 Crit (Mortal)
+Plaguebearers trudge to battle Passive
+amidst the drone of flies’ wings CLOUD OF FLIES: Plaguebearer
+and endless counting. These
+daemons tally the diseases tallybands are surrounded at
+unleashed upon the realms, all all times by blinding swarms
+the while stabbing and hacking of daemon-flies.
+at their enemies with filthy
+plagueswords. Each one is born Effect: Subtract 1 from hit rolls
+of the soul of a mortal killed for shooting attacks that target
+by Nurgle’s Rot, a debilitating this unit.
+disease that decays both the
+spirit and body until the sufferer
+dies an agonisingly slow death.
+After feeding on their despair
+in life, the Plague God accepts
+their souls into his Garden
+in death, remaking them as
+pus-ridden daemons swathed in
+clouds of fat-bodied flies.
+KEYWORDS Infantry, Ward (5+)
+
+--- Page 37 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+4"
+PUTRID BLIGHTKINGS
+3 3+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Blighted Weapon 4 3+ 3+ 1 1 -
+Putrid Blightkings carve their End of Any Turn
+way forwards with slime- RELENTLESS ATTACKERS:
+encrusted blades, hammers
+and axes. Their bloated, rotting Blightkings grind through the
+bodies can absorb tremendous battlelines of lesser foes, shattering
+punishment, allowing them their morale and hacking down
+to drive relentlessly through the stunned survivors with
+the foe’s battleline as they sow contemptuous ease.
+lethal disease and crippling
+despair alike. They are paragons Declare: Pick an enemy Infantry
+of despair, having their origins unit in combat with this unit to be
+as not only warriors but also the target and roll a dice for each
+apothecaries and philosophers model in this unit that is within
+who became obsessed with the target unit’s combat range.
+the futility of existence. Their
+all-consuming need to spread Effect: For each roll that exceeds
+disease and despondency has the target’s Health characteristic,
+earned them Nurgle’s favour,
+inflict 1 mortal damage on it.
+and in return, their swollen,
+plague-ridden frames have
+become all but immune to pain.
+KEYWORDS Infantry, Ward (5+)
+• SPEARHEAD WARSCROLL •
+4"
+PLAGUEBEARERS
+2 6+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Plaguesword 1 4+ 3+ - 1 Crit (Mortal)
+Plaguebearers trudge to battle Passive
+amidst the drone of flies’ wings CLOUD OF FLIES: Plaguebearer
+and endless counting. These
+daemons tally the diseases tallybands are surrounded at
+unleashed upon the realms, all all times by blinding swarms
+the while stabbing and hacking of daemon-flies.
+at their enemies with filthy
+plagueswords. Each one is born Effect: Subtract 1 from hit rolls
+of the soul of a mortal killed for shooting attacks that target
+by Nurgle’s Rot, a debilitating this unit.
+disease that decays both the
+spirit and body until the sufferer
+dies an agonisingly slow death.
+After feeding on their despair
+in life, the Plague God accepts
+their souls into his Garden
+in death, remaking them as
+pus-ridden daemons swathed in
+clouds of fat-bodied flies.
+KEYWORDS Infantry, Ward (5+)

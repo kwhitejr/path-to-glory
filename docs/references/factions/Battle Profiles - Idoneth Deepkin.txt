@@ -1,0 +1,100 @@
+--- Page 1 ---
+®
+BATTLE PROFILES
+JULY 2025
+IDONETH DEEPKIN
+UPDATED NEW
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+0-1 Akhelian Raidmaster or
+Akhelian King 1 160 Isharann Emissary, 60mm
+Any Idoneth Deepkin
+This Hero can join an
+✹ Akhelian Thrallmaster 1 90 (-30) Any Idoneth Deepkin eligible regiment as an 32mm
+Akhelian Raidmaster.
+Eidolon of Mathlann, 0-1 Isharann Emissary,
+1 350 100mm
+Aspect of the Sea Any Idoneth Deepkin
+Eidolon of Mathlann, 0-1 Isharann Emissary,
+1 320 100mm
+Aspect of the Storm Any Idoneth Deepkin
+This Hero can join an
+✹ Ikon of the Storm 1 120 Any Idoneth Deepkin eligible regiment as an 32mm
+Akhelian Raidmaster.
+This Hero can join an
+✹ Ikon of the Sea 1 130 Any Idoneth Deepkin eligible regiment as an 32mm
+Akhelian Raidmaster.
+This Hero can join an
+Isharann Soulrender 1 90 0-1 Isharann Emissary, Any Namarti eligible regiment as an 40mm
+Isharann Emissary.
+This Hero can join an
+Isharann Soulscryer 1 110 0-1 Isharann Emissary, Any Namarti eligible regiment as an 32mm
+Isharann Emissary.
+✹ Isharann Tidecaster 1 120 (-30) 0-1 Isharann Emissary, Any Namarti 32mm
+✹ Lotann, Warden of the This Hero can join an
+1 110 (+10) Any Idoneth Deepkin eligible regiment as an 40mm
+Soul Ledgers
+Isharann Emissary.
+✹ Mathaela, Oracle of the Abyss 1 160 0-1 Isharann Emissary, 40mm
+Any Idoneth Deepkin
+✹ Volturnos, High King of 0-1 Akhelian Raidmaster or
+1 230 (-20) Isharann Emissary, 60mm
+the Deep
+Any Idoneth Deepkin
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+This Hero can join an
+eligible regiment as an
+Akhelian Raidmaster.
+Scourge of Ghyran
+1 100 Any Namarti This unit is legal for Matched 32mm
+Akhelian Thrallmaster
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+Akhelian Allopex 1 160 Aelf, Akhelian, Cavalry 90 × 52mm
+Akhelian Ishlaen Guard 3 180 Aelf, Akhelian, Cavalry 60 × 35mm
+✹ Akhelian Leviadon 1 480 (-10) Aelf, Akhelian, Monster 120 × 92mm
+Akhelian Morrsarr Guard 3 170 Aelf, Akhelian, Cavalry 60 × 35mm
+✹ Namarti Reavers 10 140 (+10) Aelf, Namarti, Infantry 32mm
+Namarti Thralls 10 100 Aelf, Namarti, Infantry 32mm
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+This unit is legal for Matched
+Scourge of Ghyran Play for battles fought using the
+10 100 Aelf, Namarti, Infantry 32mm
+Namarti Thralls General’s Handbook 2025-26
+battlepack.
+
+--- Page 2 ---
+®
+BATTLE PROFILES
+JULY 2025
+IDONETH DEEPKIN
+UPDATED NEW
+TYPE NAME POINTS NOTES
+Battle Formation Namarti Corps 0 Battletome: Idoneth Deepkin
+✹ Battle Formation Akhelian Beastmasters 20 (+20) Battletome: Idoneth Deepkin
+Battle Formation Isharann Council 0 Battletome: Idoneth Deepkin
+Battle Formation Soul-raid Ambushers 0 Battletome: Idoneth Deepkin
+Battle Formation Deep-sea Stalkers 0 Scourge of Ghyran
+Battle Formation Ethersea Predators 0 Scourge of Ghyran
+✹ Heroic Trait Form of the Fangmora 20 Battletome: Idoneth Deepkin
+Heroic Trait Hunter of Souls 0 Battletome: Idoneth Deepkin
+Heroic Trait Nightmare Legacy 0 Battletome: Idoneth Deepkin
+Heroic Trait Merciless Raider 0 Scourge of Ghyran
+Heroic Trait Lord of Storm and Sea 0 Scourge of Ghyran
+Heroic Trait Endless Sea-storm 0 Scourge of Ghyran
+✹ Artefact of Power Armour of the Cythai 0 (-20) Battletome: Idoneth Deepkin
+✹ Artefact of Power Lifekelp Pod 0 Battletome: Idoneth Deepkin
+Artefact of Power Dritchleech 0 Battletome: Idoneth Deepkin
+Spell Lore Lore of the Deeps 0 Battletome: Idoneth Deepkin
+✹ Manifestation Lore Lore of the Abyss 0 Battletome: Idoneth Deepkin
+Faction Terrain Gloomtide Shipwreck 0 Battletome: Idoneth Deepkin
+ORDER
+UNIT SUMMARY POINTS NOTES
+REGIMENTS
+This Regiment of Renown can be included in the following factions:
+✹ Bloodthirsty Shiver • • 1 1 A A k k h h e e l l i i a a n n A A l l l l o o p p e e x x 300 Cities of Sigmar, Daughters of Khaine, Fyreslayers, Kharadron Overlords,
+Lumineth Realm-lords, Seraphon, Stormcast Eternals, Sylvaneth.
+• 1 Akhelian Thrallmaster This Regiment of Renown can be included in the following factions:
+✹ Namarti Shore Raid • 10 Namarti Reavers 300 Cities of Sigmar, Daughters of Khaine, Fyreslayers, Kharadron Overlords,
+• 10 Namarti Thralls Lumineth Realm-lords, Seraphon, Stormcast Eternals, Sylvaneth.

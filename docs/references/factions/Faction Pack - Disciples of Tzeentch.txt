@@ -1,0 +1,1655 @@
+--- Page 1 ---
+FACTION PACK
+DISCIPLES
+OF
+TZEENTCH
+
+--- Page 2 ---
+BATTLE TRAITS
+Disciples of Tzeentch armies can use the following abilities:
+Deployment Phase Once Per Turn (Army),
+MASTERS OF DESTINY: To serve the Any Shooting Phase
+Changer of the Ways is to instinctively CONFLAGRATION OF TZEENTCH:
+understand the ebb and flow of future Many worshippers of Tzeentch desire one
+events and be able to manipulate their thing above all: to engulf the realms in an
+potential to the fullest. inferno of wyrdflame and watch in gleeful
+amusement as the world burns.
+Effect: Roll 9 dice and place them to
+one side. These are your destiny dice. Declare: Pick an enemy unit that had
+Destiny dice can be spent during the any damage points allocated to it this
+battle to change certain dice rolls. You turn by Wyrdflame Spell abilities or
+can never have more than 9 destiny dice shooting attacks made with weapons that
+at once. have the Wyrdflame weapon ability to be
+the target.
+During the battle, instead of making
+a roll from the list below for a friendly Effect: The target has the
+Disciples of Tzeentch unit, you can Burning keyword.
+spend your destiny dice. The roll you
+would have made is replaced with the Once Per Turn (Army), End of Any Turn
+roll on the destiny dice you spend. If you BURNING WYRDFLAME: The profane
+want to replace a 2D6 roll, 3D6 roll, etc. flames that spew from the mouths and
+you must spend a number of destiny dice pointing fingers of the twisted worshippers
+equal to the number before ‘D6’. Any of Tzeentch are nothing natural. Instead of
+rolls that have been replaced count as merely scorching flesh, they cause horrific
+unmodified rolls, and they cannot be re- mutative wounds, causing skin and bones
+rolled, they cannot be modified by other alike to bubble and twist.
+friendly abilities except for those that
+apply negative modifiers (but they can be Effect: Inflict D3 mortal damage on each
+modified by enemy abilities). You cannot Burning enemy unit, Manifestation
+spend destiny dice to replace re-rolls. and faction terrain feature.
+Destiny dice can be spent in place of the Passive
+following dice rolls:
+QUENCHING THE FLAMES: Those
+• Casting rolls
+touched by wyrdflame thrash around
+• Unbinding rolls
+desperately in an attempt to extinguish the
+• Banishment rolls
+mutagenic fires.
+• Run rolls
+• Charge rolls in your turn Effect: If an ability would heal or return
+• Hit rolls slain models to a Burning enemy unit,
+• Wound rolls Manifestation or terrain feature, that
+• Save rolls ability does not heal or return any slain
+models to it. Instead, it no longer has the
+Burning keyword.
+July 2025
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Disciples of Tzeentch army. Each
+bbbbbbaaaaaattttttttttttlllllleeeeee ffffffoooooorrrrrrmmmmmmaaaaaattttttiiiiiioooooonnnnnn ggggggrrrrrraaaaaannnnnnttttttssssss aaaaaa ddddddiiiiiiffffffffffffeeeeeerrrrrreeeeeennnnnntttttt aaaaaabbbbbbiiiiiilllllliiiiiittttttyyyyyy yyyyyyoooooouuuuuu ccccccaaaaaannnnnn uuuuuusssssseeeeee iiiiiinnnnnn tttttthhhhhheeeeee bbbbbbaaaaaattttttttttttlllllleeeeee......
+ARCANITE CABAL CHANGE HOST
+Passive Once Per Battle (Army), End of Your Turn
+SINISTER COUNTER-HEXES: Arcanite TWIST OF FATE: To battle a Change
+cultists delight in unravelling the spellcraft Host is a sanity-warping experience, for
+of other, less blessed mages. the Great Conspirator’s servants make
+mockery of the laws of nature.
+Effect: Add 1 to unbinding rolls for
+friendly Arcanite units. In addition, Declare: Pick a friendly Disciples
+if a friendly Arcanite unit unbinds a of Tzeentch Daemon unit that is in
+spell, no command points are spent for combat to be the target.
+that unit to use the ‘Magical Intervention’
+Effect: Roll a dice. On a 3+, remove the
+command in that phase.
+target from the battlefield and set it up
+again on the battlefield. Each model in the
+target unit must be set up in combat with
+any of the enemy units that the target was
+in combat with before it was removed
+from the battlefield.
+TZAANGOR COVEN WYRDFLAME HOST
+Passive Passive
+SCREECHING WARFLOCK: The MUTAGENIC INFERNO: Those set
+promise of new-found knowledge or arcane ablaze by a Wyrdflame Host find their
+trinkets spurs the bestial Tzaangors into bodies writhing with possibility, stealing
+a frenzy. strength and focus from their sword-arms.
+Effect: Each time a friendly Warflock Effect: Subtract 1 from wound rolls for
+unit uses the ‘Rally’ command, you can attacks made by Burning enemy units.
+make 3 additional rally rolls of D6.
+July 2025
+
+--- Page 4 ---
+HEROIC TRAITS
+CHAMPIONS OF DESTINY (Hero only)
+Passive Passive
+ILLUSIONIST: This warrior uses CULT DEMAGOGUE: This cabalist’s
+misdirection and cunning to render their resounding spells draw the gaze of their
+enemies clueless. master’s minions quicker than most.
+Effect: Subtract 1 from hit rolls for attacks Effect: If each dice in a casting roll for
+that target friendly units while they are this unit has the same value and the spell
+wholly within this unit’s combat range. is not miscast, add 3 to the casting roll.
+Your Hero Phase
+NEXUS OF FATE: Tzeentch’s favoured
+servants manipulate what mortals
+consider ‘destiny’ as if it were a puppet.
+Effect: Roll a dice. You must replace 1 of
+your destiny dice with that roll.
+ARTEFACTS OF POWER
+FATED ARTEFACTS (Hero only)
+Passive Once Per Battle, Any Combat Phase
+NINE-EYED TOME: Some of the most AMBITION’S END: Many a sorcerer’s
+terrible arcane secrets known to the quest to master the magical arts has ended
+Change God are contained within this upon this weapon’s blade, for it spills not
+ancient tome, the surface of which is only blood but knowledge itself.
+dotted with unblinking eyes.
+Declare: Pick an enemy Wizard in
+Effect: Add 1 to casting rolls and combat with this unit to be the target.
+banishment rolls for this unit.
+Effect: Inflict D3 mortal damage on
+the target. In addition, subtract 1 from
+Passive
+casting rolls for the target for the rest of
+WYRDFLAME BLADE: The flames that the battle.
+flicker around the bearer’s blade can ignite
+the soul of its victim.
+Effect: If any damage points are
+allocated to an enemy unit by this unit’s
+combat attacks, that enemy unit has the
+Burning keyword.
+July 2025
+
+--- Page 5 ---
+SPELL LORE
+LORE OF FATE
+Your Hero Phase 7
+GLIMPSE THE FUTURE: By focusing on the skeins of potential fates, the sorcerer
+can glean hints as to future events and manipulate them to their advantage.
+Declare: Pick a friendly Disciples of Tzeentch Wizard to cast this spell, then make
+a casting roll of 2D6.
+Effect: Set aside any destiny dice that have a value of 6, and roll all of your other destiny
+dice again. If you have no destiny dice, roll a dice and add it to your destiny dice.
+Keywords Spell, Unlimited
+Your Hero Phase 6 Your Hero Phase 7
+INFERNAL GATEWAY: The SHIELD OF FATE: There is little
+sorcerer opens a portal to the Realm of better protection than to be guided by
+Chaos, pulling enemies to their doom. destiny itself and to be defended by the
+very hand of fate.
+Declare: Pick a friendly Disciples of
+Tzeentch Wizard to cast this spell, Declare: Pick a friendly Disciples of
+pick a visible enemy unit within 12" of Tzeentch Wizard to cast this spell,
+them to be the target, then make a casting pick a visible friendly Disciples of
+roll of 2D6. Tzeentch unit wholly within 18" of
+them to be the target, then make a casting
+Effect: Roll either 4 dice or a number
+roll of 2D6.
+of dice equal to the number of destiny
+dice you have left, whichever is greater. Effect: The target has Ward (5+) until
+For each 4+, inflict 1 mortal damage on the start of your next turn. In addition,
+the target. if you have 4 or more destiny dice left,
+Keywords Spell subtract 1 from hit rolls for attacks that
+target that unit until the start of your
+next turn.
+Keywords Spell
+July 2025
+
+--- Page 6 ---
+SPELL LORE
+LORE OF CHANGE
+Your Hero Phase 6
+BOLT OF TZEENTCH: This spell manifests as a prismatic beam of raw magic that
+tears its victims apart in a display of multispectral colour.
+Declare: Pick a friendly Disciples of Tzeentch Wizard to cast this spell, pick a
+visible enemy unit within 18" of them to be the target, then make a casting roll of 2D6.
+Effect: Inflict D3 mortal damage on the target.
+Keywords Spell, Unlimited, Wyrdflame
+Your Hero Phase 7 Your Hero Phase 7
+FOLD REALITY: The sorcerer TRANSFORMED TO SPAWN:
+contorts the very fabric of the cosmos, Tzeentch is known as the Changer of the
+allowing their minions to slip from hither Ways; to be in the presence of his minions
+to thither in an eye-blink. risks being mutated into a Chaos Spawn.
+Declare: Pick a friendly Disciples of Declare: Pick a friendly Disciples of
+Tzeentch Wizard to cast this spell, Tzeentch Wizard to cast this spell,
+pick a visible friendly Disciples of pick a visible enemy unit within 12" of
+Tzeentch unit wholly within 12" of them to be the target, then make a casting
+them to be the target, then make a casting roll of 2D6.
+roll of 2D6.
+Effect: Inflict D3 mortal damage on the
+Effect: Remove the target from the target. If any models are slain by this
+battlefield and set it up again on the ability, pick a friendly Chaos Spawn
+battlefield more than 9" from all of Tzeentch unit that is in reserve as a
+enemy units. potential fate or that has been destroyed.
+Keywords Spell
+If you picked a unit in reserve as a
+potential fate, set it up on the battlefield
+in combat with the target. If you picked
+a unit that has been destroyed, set up
+an identical replacement unit on the
+battlefield in combat with the target.
+Keywords Spell
+
+--- Page 7 ---
+MANIFESTATION LORE
+MANIFESTATIONS OF TZEENTCH
+Your Hero Phase 5 Your Hero Phase 5
+SUMMON TOME OF EYES: With a SUMMON BURNING SIGIL OF
+snap of the conjurer’s fingers, the Tome TZEENTCH: Brief incantations in the
+appears at their side from a spark of Dark Tongue see these burning symbols of
+blue wyrdflame. worship spark into reality.
+Declare: If there is not a friendly Tome Declare: If there is not a friendly Burning
+of Eyes on the battlefield, pick a friendly Sigil of Tzeentch on the battlefield, pick
+Disciples of Tzeentch Wizard to a friendly Disciples of Tzeentch
+cast this spell, then make a casting roll Wizard to cast this spell, then make a
+of 2D6. casting roll of 2D6.
+Effect: Set up a Tome of Eyes wholly Effect: Set up a Burning Sigil of
+within 12" of the caster and visible Tzeentch wholly within 12" of the caster
+to them. and visible to them.
+Keywords Spell, Summon Keywords Spell, Summon
+Your Hero Phase 7
+SUMMON DAEMONIC
+SIMULACRUM: The wizard draws upon
+their understanding of change-lore to
+create a temporary portal for this mirage
+to enter the fray.
+Declare: If there is not a friendly
+Daemonic Simulacrum on the battlefield,
+pick a friendly Disciples of Tzeentch
+Wizard to cast this spell, then make a
+casting roll of 2D6.
+Effect: Set up a Daemonic Simulacrum
+wholly within 12" of the caster, visible
+to them and more than 9" from all
+enemy units.
+Keywords Spell, Summon
+July 2025
+
+--- Page 8 ---
+July 2025
+MOVE
+12" • DISCIPLES OF TZEENTCH WARSCROLL •
+H
+T S KAIROS
+L16 5+A
+A V
+E E
+H FATEWEAVER
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Tomorrow 4 3+ 2+ 1 D3 -
+Curved Beaks 5 4+ 3+ 1 2 -
+Passive Passive
+BATTLE DAMAGED BEACON OF SORCERY: Spreading his
+Effect: While this unit has 10 or more arms, Kairos saturates the area with magic.
+damage points, the Attacks characteristic
+Effect: Add 1 to casting rolls and
+of its Curved Beaks is 3.
+unbinding rolls for friendly Disciples
+of Tzeentch Wizards while they are
+Passive
+wholly within 12" of this unit.
+MASTERY OF MAGIC: To master the
+arcane is to embody Tzeentch’s designs. Your Hero Phase 8
+Effect: When you make a casting roll for ARCANE SUGGESTION: The
+this unit, you can change the lowest D6 to sorcerer’s victims are reduced to little more
+match the highest D6. than puppets on a string.
+Declare: Pick a visible enemy unit within
+Once Per Battle, Reaction: You declared
+18" of this unit to be the target, then make
+the ‘Tactical Gambit’ ability
+a casting roll of 2D6.
+ORACLE OF ETERNITY: Kairos’s heads
+have insights into the future and the past. Effect: Pick 1 of the following effects to
+apply to the target until the start of your
+Effect: Pick 1 of the following effects:
+next turn:
+Read the Past:You can pick 1 battle tactic
+It’s Hopeless:The target cannot
+that you have already attempted.
+use commands.
+Read the Future:You can pick 2 battle
+Drop Your Weapons: Subtract 1
+tactics that you have not yet attempted,
+from hit rolls and wound rolls for the
+but you can only complete 1 of them (even
+target’s attacks.
+if you meet the conditions to complete
+both). The other does not count as having Kneel: Subtract 1 from save rolls for
+been attempted. If you do not complete the target.
+either battle tactic, you can pick which
+Keywords Spell
+does not count as having been attempted.
+Warmaster, Unique, Hero, Monster, Wizard (3), Fly, Ward (5+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 9 ---
+July 2025
+MOVE
+12"
+T H S • DISCIPLES OF TZEENTCH WARSCROLL •
+A L14 5+A V LORD OF CHANGE
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Rod of Sorcery 18" 2D6 3+ 3+ 1 1 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Tzeentch 4 3+ 3+ - D3 Anti-Wizard (+1 Rend)
+Baleful Sword 4 4+ 3+ 2 3 -
+Curved Beak 4 4+ 3+ 1 2 -
+This unit is armed with a Staff of Tzeentch,
+Passive
+Curved Beak and 1 of the following options:
+LOCUS OF CHANGE: The aura of
+•Rod of Sorcery
+instability surrounding Tzeentch’s greatest
+•Baleful Sword
+daemons can send even the most focused
+Passive warriors insane.
+BATTLE DAMAGED Effect: Subtract 1 from hit rolls for combat
+Effect: While this unit has 10 or more attacks that target friendly Disciples of
+damage points, the Attacks characteristic Tzeentch Daemon units while they are
+of its Curved Beak is 3. wholly within 12" of this unit.
+Once Per Turn (Army), Your Hero Phase 7
+Your Movement Phase
+TZEENTCH’S FIRESTORM: An
+SUMMON DAEMONS OF TZEENTCH: apocalyptic inferno of raging wyrdflame
+To challenge the fractal plans of the
+surges from the daemon’s hands to engulf
+Architect of Fate is to face strange
+its victims in a fiery maelstrom.
+daemons born from chaotic sorcery itself.
+Declare: Pick a visible enemy unit within
+Declare: Discard 1 destiny dice. Then,
+18" of the caster to be the target, then
+pick a friendly non-Hero non-Unique
+make a casting roll of 2D6.
+Disciples of Tzeentch Daemon unit
+that has been destroyed to be the target. Effect: Roll 9 dice. For each 6, inflict D3
+mortal damage on the target.
+Effect: Set up a replacement unit with half
+Keywords Spell, Wyrdflame
+the number of models from the target unit
+(rounding up) wholly within 9" of this unit
+and more than 9" from all enemy units.
+Hero, Monster, Wizard (2), Fly, Ward (5+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 10 ---
+July 2025
+MOVE
+12"
+H • DISCIPLES OF TZEENTCH WARSCROLL •
+L T 8 5+ S A FATESKIMMER
+A V
+E E
+H
+2 HERALD OF TZEENTCH ON BURNING CHARIOT
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Iridescent Flames 12" 3 4+ 4+ 1 D3 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Change and
+3 4+ 3+ 1 D3 -
+Ritual Dagger
+Anti-Monster (+1 Rend),
+Screamers’ Lamprey Bites 6 4+ 3+ 1 1
+Companion
+Your Movement Phase End of Any Turn
+WAKE OF FIRE: Enemies unfortunate FUELLING THE INFERNO: The
+enough to be passed by a Burning Chariot mere presence of a Fateskimmer causes
+are consumed by waves of unnatural fire. wyrdflame to blaze brightly.
+Declare: Pick an enemy unit that this unit Declare: Pick up to 3 Burning enemy
+passed across this phase to be the target. units within 12" of this unit to be
+the targets.
+Effect: Roll a dice. On a 3+, the target has
+the Burning keyword. Effect: Inflict 1 mortal damage on
+each target.
+Hero, War Machine, Wizard (1), Fly, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 11 ---
+July 2025
+MOVE
+5"
+H • DISCIPLES OF TZEENTCH WARSCROLL •
+L T 5 6+ S A CHANGECASTER
+A V
+E E
+H
+2 HERALD OF TZEENTCH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Iridescent Flames 12" 3 4+ 4+ 1 D3 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Change and
+3 4+ 3+ 1 D3 -
+Ritual Dagger
+Passive Passive
+LURID FLAMES: The Heralds known as DAEMONIC LOCUS: Daemons are
+Changecasters summon the lurid flames drawn to a Changecaster’s arcane aura.
+of Tzeentch to engulf their foes. These
+Effect: Each time a friendly Disciples
+screaming, living torches are thus marked
+of Tzeentch Daemon unit wholly
+as the next targets to be annihilated by the
+within 12" of this unit uses the ‘Rally’
+Change God’s faithful.
+command, you can make 3 additional
+Effect: Add 1 to hit rolls for combat rally rolls of D6.
+attacks made by friendly units that target
+a Burning enemy unit within 12" of
+this unit.
+Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 12 ---
+July 2025
+MOVE
+2D6" • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S CHAOS SPAWN OF
+L 5 5+A
+A V
+E E
+H TZEENTCH
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Freakish Mutations 2D6 5+ 4+ - 1 Crit (2 Hits), Companion
+Deployment Phase Passive
+A TWISTED FATE: For some, BEAST
+their destiny is to become a mewling Effect: This unit has a maximum control
+abomination – they just do not know it yet. score of 1.
+Effect: Set up this unit in reserve as a
+Passive
+potential fate. It has now been deployed.
+WAVES OF MUTATION: There is no
+Designer’s Note:If deployed using this limit to Tzeentch’s appetite for change.
+ability, this unit can only be set up on
+the battlefield using the ‘Transformed to Effect: Each friendly Chaos Spawn
+Spawn’ spell. of Tzeentch unit can be replaced any
+number of times.
+Keywords Deploy
+Beast
+KEYWORDS
+Chaos, Disciples of Tzeentch
+
+--- Page 13 ---
+July 2025
+MOVE
+5"
+H • DISCIPLES OF TZEENTCH WARSCROLL •
+T S
+A L 6 5+A V THE CHANGELING
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+The Trickster’s Staff 3 3+ 3+ 1 D3 -
+Deployment Phase Enemy Hero Phase
+ARCH-DECEIVER: None can detect the PUCKISH MISDIRECTION: The
+veil of the Changeling. Assuming the form Changeling can manipulate the most
+of comrade and ally, it reveals itself only stalwart of warriors while appearing as a
+when its plans have been made a reality. trusted advisor or comrade.
+Effect: Remove this unit from the Declare: Pick an enemy unit within 9" of
+battlefield and set it up again on the this unit to be the target.
+battlefield more than 3" from all
+Effect: Roll a dice. On a 3+, halve the
+enemy units.
+target’s Move characteristic for the rest
+Your Hero Phase 6 of the turn.
+DISCORD AND CONFUSION: The
+Changeling is a master of deception and
+bait-and-switch tactics.
+Declare: Make a casting roll of 2D6.
+Effect: Subtract 1 from hit rolls for
+attacks that target this unit until the start
+of your next turn.
+In addition, until the start of your next
+turn, roll a dice each time this unit is
+targeted by an ability that is not an
+Attack ability. On a 4+, another eligible
+unit must be targeted by that ability
+instead of this unit. If it is not possible
+to target another unit, that ability has
+no effect.
+Keywords Spell
+Unique, Hero, Wizard (2), Infantry, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 14 ---
+July 2025
+MOVE
+6"
+T H S • DISCIPLES OF TZEENTCH WARSCROLL •
+A L 2 6+A V PINK HORRORS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Arcane Flames 12" 2 4+ 4+ - 1 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Taloned Hands 1 4+ 4+ - 1 -
+Passive
+LUNATIC DEMISE: Should a Pink
+Horror be slain, it is capable of bursting
+into two smaller daemons or else
+detonating in a blast of wyrdflame.
+Effect: Each time a model in this unit is
+slain, before removing the model from
+play, pick 1 of the following effects:
+Split: Pick a friendly Blue Horrors and
+Brimstone Horrors unit within 12"
+of this unit. Return up to 2 slain Blue
+Horror models to that unit.
+Petty Vengeance: Pick an enemy unit
+in combat with this unit to be the target
+and roll a dice. On a 4+, inflict 1 mortal
+damage on the target.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10), Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 15 ---
+July 2025
+MOVE
+6" • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S BLUE HORRORS AND
+L 1 6+A
+A V
+E E
+H BRIMSTONE HORRORS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Arcane Flames 12" 2 4+ 4+ - 1 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Spiteful Talons 2 4+ 4+ - 1 -
+Impish Talons 2 4+ 5+ - 1 -
+This unit starts the battle with 10 Blue
+Passive
+Horror models or, if it is a reinforced unit,
+20 Blue Horror models. Each is armed with SPLIT AGAIN: Should a Blue Horror
+Spiteful Talons and Arcane Flames. meet its end at the hands of the enemy,
+it is capable of splitting itself into two
+Brimstone Horrors models can be added
+to this unit using the ‘Split Again’ ability. lesser daemons.
+Each is armed with Impish Talons and
+Effect: Each time a Blue Horror model
+Arcane Flames.
+in this unit is slain, before removing the
+model from play, roll a dice. On a 3+, you
+can add 1 Brimstone Horrors model to
+this unit.
+Designer’s Note:You cannot have
+more than 10 Blue Horror models and
+10 Brimstone Horrors models in a
+non-reinforced unit. You cannot have
+more than 20 Blue Horror models and
+20 Brimstone Horrors models in a
+reinforced unit.
+Infantry, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 16 ---
+July 2025
+MOVE
+12" • DISCIPLES OF TZEENTCH WARSCROLL •
+H
+T S BURNING CHARIOT
+L 6 5+A
+A V
+E E
+H OF TZEENTCH
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Wyrdflame Blast 16" 4 3+ 4+ - D3
+Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Flaming Maws and
+6 4+ 3+ - 1 -
+Blue Horrors’ Jabs
+Anti-Monster (+1 Rend),
+Screamers’ Lamprey Bites 6 4+ 3+ 1 1
+CCoommppaanniioonn
+Your Movement Phase
+WAKE OF FIRE: Enemies unfortunate
+enough to be passed by a Burning Chariot
+are consumed by waves of unnatural fire.
+Declare: Pick an enemy unit that this unit
+passed across this phase to be the target.
+Effect: Roll a dice. On a 3+, the target has
+the Burning keyword.
+War Machine, Fly, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 17 ---
+July 2025
+MOVE
+14" • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S SCREAMERS OF
+L 3 5+A
+A V
+E E
+H TZEENTCH
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Monster (+1 Rend),
+Lamprey Bite 3 4+ 3+ 1 1
+Companion
+Your Movement Phase
+SLASHING FINS: A pack of Screamers
+travelling at great speed can slash and
+eviscerate an enemy formation to ribbons.
+Declare: Pick an enemy unit that this unit
+passed across this phase to be the target.
+Effect: Roll a dice for each model in
+this unit that passed across the target.
+For each 4+, inflict 1 mortal damage on
+the target.
+Passive
+BEAST
+Effect: This unit has a maximum control
+score of 1.
+Beast, Fly, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 18 ---
+July 2025
+MOVE
+9" • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S EXALTED FLAMER
+L 4 5+A
+A V
+E E
+H OF TZEENTCH
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Wyrdflame Blast 16" 4 3+ 4+ - D3
+Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Flaming Maws 3 3+ 4+ - 1 -
+Passive Once Per Turn (Army),
+CAPRICIOUS WYRDFLAME: The Your Shooting Phase
+mutagenic fires expelled by Flamers are TRANSMOGRIFYING BEACON:
+most drawn to those already ablaze with Wyrdflame shimmers and crackles around
+the potential for change. an Exalted Flamer, empowering those
+daemons who draw upon such energies.
+Effect: Add 1 to wound rolls for this unit’s
+shooting attacks that target a Burning Declare: Pick another friendly Exalted
+enemy unit. Flamer of Tzeentch or Flamers of
+Tzeentch unit within this unit’s combat
+range to be the target.
+Effect: Roll a dice. On a 3+, the target’s
+ranged weapons have Crit (2 Hits) for the
+rest of the turn.
+Infantry, Fly, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 19 ---
+July 2025
+MOVE
+9" • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S FLAMERS OF
+L 2 5+A
+A V
+E E
+H TZEENTCH
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Warping Flames 12" 3 3+ 4+ - D3
+Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Flaming Maws 3 3+ 4+ - 1 -
+Passive
+CAPRICIOUS WYRDFLAME: The
+mutagenic fires expelled by Flamers are
+most drawn to those already ablaze with
+the potential for change.
+Effect: Add 1 to wound rolls for this unit’s
+shooting attacks that target a Burning
+enemy unit.
+Infantry, Champion, Fly, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 20 ---
+July 2025
+MOVE
+14" • DISCIPLES OF TZEENTCH WARSCROLL •
+H
+L T 6 4+ S A GAUNT SUMMONER
+A V
+E E
+H 2 ON DISC OF TZEENTCH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Changestaff 12" 3 4+ 3+ 1 D3 Crit (Mortal)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warptongue Blade 3 3+ 3+ 1 2 -
+Disc’s Teeth and Horns 2 4+ 3+ 1 D3 Companion
+Deployment Phase Your Hero Phase 7
+MINIONS OF THE SILVER TOWER: ARCANE IMPRISONMENT:
+The warped fortresses of the Gaunt Gaunt Summoners delight in banishing
+Summoners are infested with their foes to their Silver Towers.
+thrall hosts.
+Declare: Pick an enemy Hero in combat
+Declare: Pick a friendly unit that has not with this unit to be the target, then make
+been deployed to be the target. a casting roll of 2D6.
+Effect: The target is set up in reserve in a Effect: If the unmodified casting roll
+Silver Tower. It has now been deployed. exceeds the target’s Health characteristic,
+Keywords Deploy it is automatically destroyed. For the rest
+of the battle, that unit cannot be picked
+Your Movement Phase to be the target of an ability that allows a
+replacement unit to be set up.
+BOOK OF PROFANE SECRETS: Using
+this arcane tome, the Gaunt Summoner Keywords Spell
+calls forth minions from their Silver Tower.
+Declare: Pick a friendly unit in a
+Silver Tower to be the target.
+Effect: Set up the target on the battlefield
+wholly within 12" of this unit and more
+than 9" from all enemy units.
+Hero, Wizard (2), Cavalry, Fly, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon, Disc of Tzeentch
+
+--- Page 21 ---
+July 2025
+MOVE
+5"
+T H S • DISCIPLES OF TZEENTCH WARSCROLL •
+A L 5 6+A V GAUNT SUMMONER
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Changestaff 12" 3 4+ 3+ 1 D3 Crit (Mortal)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warptongue Blade 3 3+ 3+ 1 2 -
+Deployment Phase Your Hero Phase 7
+MINIONS OF THE SILVER TOWER: DIVERT REALMGATE: WWhhiissppeerriinngg
+The warped fortresses of the Gaunt fell incantations, a Gaunt Summoner can
+Summoners are infested with their temporarily divert the path of a realmgate,
+thrall hosts. allowing malefic Chaos entities to storm
+the battlefield.
+Declare: Pick a friendly unit that has not
+been deployed to be the target. Declare: Make a casting roll of 2D6.
+Effect: The target is set up in reserve in a Effect: Units set up this turn using this
+Silver Tower. It has now been deployed. unit’s ‘Book of Profane Secrets’ ability can
+Keywords Deploy be set up wholly within 18" of this unit
+and more than 7" from all enemy units
+Your Movement Phase instead of the distances in the ability.
+BOOK OF PROFANE SECRETS: Using Keywords Spell
+this arcane tome, the Gaunt Summoner
+calls forth minions from their Silver Tower.
+Declare: Pick a friendly unit in a
+Silver Tower to be the target.
+Effect: Set up the target on the battlefield
+wholly within 12" of this unit and more
+than 9" from all enemy units.
+Hero, Wizard (2), Infantry, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Daemon
+
+--- Page 22 ---
+July 2025
+MOVE
+14"
+H • DISCIPLES OF TZEENTCH WARSCROLL •
+L T 6 4+ S A MAGISTER
+A V
+E E
+H
+2 ON DISC OF TZEENTCH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Tzeentchian Runestaff 18" 1 3+ 4+ - D3 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warpsteel Sword 3 3+ 4+ - D3 -
+Disc’s Teeth and Horns 2 4+ 3+ 1 D3 Companion
+Your Hero Phase Passive
+MAGIC-TOUCHED: Magisters are MASTER OF THE BLAZING SKIES:
+attuned to magical energy and can harness A Magister takes to the air surrounded
+the raw essence of Chaos. There are those by sorcerers and minions riding
+however, that delve too deep into this daemonic Discs.
+source of power.
+Effect: While they are within this
+Effect: If this unit successfully cast a spell unit’s combat range, friendly Disc of
+this phase, for the rest of the turn: Tzeentch units can use Charge
+abilities even if they used a Run ability in
+•Add 1 to this unit’s power level.
+the same turn.
+•If 2 or more dice in a casting roll for this
+unit have the same value, the spell fails,
+its effect is not resolved and D6 mortal
+damage is inflicted on this unit.
+Hero, Wizard (1), Cavalry, Fly
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite, Disc of Tzeentch
+
+--- Page 23 ---
+July 2025
+MOVE
+5"
+H • DISCIPLES OF TZEENTCH WARSCROLL •
+L T 6 3+ S A CURSELING
+A V
+E E
+H
+2 EYE OF TZEENTCH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Hurled Arcane Energy 18" D6 3+ 3+ 1 1 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Tzeentch and
+5 4+ 4+ 1 2 -
+Blazing Sword
+Passive Your Hero Phase 5
+DISRUPTER OF THE ARCANE: A INFUSION ARCANUM: The
+Curseling can reach into a spell and undo sorcerer’s body becomes saturated with
+the magical forces that keep it whole. death-dealing energies, transforming
+even the frailest warlock into a truly
+Effect: Each time this unit unbinds
+formidable adversary.
+a spell, roll a dice. On a 4+, subtract
+1 from the power level of the enemy Declare: Make a casting roll of 2D6.
+Wizard that used that Spell ability, to
+Effect: Until the start of your next
+a minimum of 0, until the start of your
+turn, add 1 to the Rend and Damage
+next turn.
+characteristics of this unit’s Staff of
+Tzeentch and Blazing Sword.
+Keywords Spell
+Hero, Wizard (2), Infantry
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite
+
+--- Page 24 ---
+July 2025
+MOVE
+6"
+T H S • DISCIPLES OF TZEENTCH WARSCROLL •
+A L 5 4+A V MAGISTER
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Tzeentchian Runestaff 18" 1 3+ 4+ - D3 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warpsteel Sword 3 3+ 4+ - D3 -
+Your Hero Phase Your Hero Phase
+MAGIC-TOUCHED: Magisters are WEB OF INTRIGUE: Magisters excel
+attuned to magical energy and can harness in pre-empting the crude schemes of their
+the raw essence of Chaos. There are those enemies, directing their cultic minions to
+however, that delve too deep into this outmanoeuvre them in turn.
+source of power.
+Declare: Pick an enemy unit within 12" of
+Effect: If this unit successfully cast a spell this unit to be the target.
+this phase, for the rest of the turn:
+Effect: Until the start of your next
+•Add 1 to this unit’s power level. turn, each time your opponent declares
+•If 2 or more dice in a casting roll for this a Move ability for the target, before
+unit have the same value, the spell fails, reactions are used, you can pick a friendly
+its effect is not resolved and D6 mortal Arcanite unit that is not in combat and
+damage is inflicted on this unit. is within 12" of the target. That friendly
+unit can move 3", but it cannot move into
+combat during any part of that move.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite
+
+--- Page 25 ---
+July 2025
+MOVE
+6" • DISCIPLES OF TZEENTCH WARSCROLL •
+H
+T S OGROID
+L 8 5+A
+A V
+E E
+H THAUMATURGE
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Thaumaturge Staff 12" 3 3+ 4+ - D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Great Horns and
+3 4+ 2+ 1 2 Charge (+1 Damage)
+Cloven Hooves
+Thaumaturge Staff 2 4+ 3+ - D3 -
+Passive Once Per Turn (Army), End of Any Turn
+THAUMATURGE RAGE: When BURNING FURY: As an Ogroid
+wounded, the ogroid’s rage gives rise to Thaumaturge rages and roars, the multi-
+bursts of renewed energy. hued flames of Tzeentch erupt from their
+totemic stave to ravage the enemy.
+Effect: Add 1 to hit rolls and wound rolls
+for this unit’s combat attacks while it Declare: Pick an enemy unit that had any
+is damaged. damage points allocated to it this turn by
+this unit’s combat attacks to be the target.
+Effect: The target has the
+Burning keyword.
+Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite
+
+--- Page 26 ---
+July 2025
+MOVE
+14"
+T H S • DISCIPLES OF TZEENTCH WARSCROLL •
+A L 6 5+A V TZAANGOR SHAMAN
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Change and
+3 4+ 3+ 1 D3 -
+Ritual Dagger
+Disc’s Teeth and Horns 2 4+ 3+ 1 D3 Companion
+Your Hero Phase End of Any Turn
+RITE OF HASTE: Tzaangor Shamans MUTAGENIC SORCERY: As warriors
+guide their warflocks through fell rites to fall around the Tzaangor, some mutate
+push them beyond their mortal limits. to become the creature that struck
+them down.
+Declare: Pick a friendly Warflock
+unit that does not have Fly and is wholly Declare: Pick an enemy unit within
+within 12" of this unit to be the target. 12" of this unit to be the enemy target.
+Then, pick a friendly Tzaangors unit in
+Effect: Roll a dice. On a 3+, for the rest of
+combat with that enemy unit to be the
+the turn, the target can use a Run ability
+friendly target.
+and still use Shoot and/or Charge
+abilities later in the turn. Effect: Roll a D3. On a 2+:
+•Inflict an amount of mortal damage on
+the enemy target equal to the roll.
+•Return a number of slain models to the
+friendly target equal to the roll.
+Hero, Wizard (1), Cavalry, Fly
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite, Warflock, Disc of Tzeentch
+
+--- Page 27 ---
+July 2025
+MOVE
+14" • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S TZAANGOR
+L 4 4+A
+A V
+E E
+H SKYFIRES
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Arrow of Fate 18" 2 4+ 3+ 1 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bow Stave and Vicious Beak 1 4+ 3+ - 1 -
+Disc’s Teeth and Horns 2 4+ 3+ 1 D3 Companion
+Passive Your Shooting Phase
+GUIDED BY THE FUTURE: The attacks JUDGEMENT FROM AFAR: To be
+of these warriors are directed by glimpses struck by an Arrow of Fate is to be judged
+of the future. by destiny itself.
+Effect: Ignore negative modifiers to Declare: Pick an enemy unit that had
+hit rolls and wound rolls for this unit’s any damage points allocated to it by this
+shooting attacks. unit’s attacks this phase to be the target.
+Effect: Add 1 to hit rolls for combat
+attacks made by friendly Warflock
+units that target that enemy unit for the
+rest of the turn.
+Cavalry, Champion, Fly
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite, Warflock, Disc of Tzeentch
+
+--- Page 28 ---
+July 2025
+MOVE
+6"
+T H S • DISCIPLES OF TZEENTCH WARSCROLL •
+A L 2 5+A V TZAANGORS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Savage Blade and
+2 4+ 3+ 1 1 -
+Vicious Beak
+Savage Greatblade 2 4+ 3+ 1 2 -
+Each model in this unit is armed with a Passive
+Savage Blade and Vicious Beak.
+SCREECHING RAIDERS: Tzaangor
+•2/5 models can replace their Savage
+flocks are ferocious when ransacking
+Blade and Vicious Beak with a
+enemy territory for arcane secrets.
+Savage Greatblade.
+•The champion cannot replace
+Effect: While this unit is wholly within
+their weapons.
+enemy territory, its weapons have
+Crit (2 Hits).
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite, Warflock
+
+--- Page 29 ---
+July 2025
+MOVE
+6" • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S TZAANGOR
+L 3 4+A
+A V
+E E
+H ENLIGHTENED
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Tzeentchian Spear and
+2 4+ 3+ 1 2 -
+Vicious Beak
+Any Charge Phase
+BABBLING STREAM OF SECRETS:
+The dark truths revealed by the Tzaangor
+Enlightened utterly unnerve the foe.
+Declare: If this unit charged this phase,
+pick an enemy unit in combat with it to
+be the target.
+Effect: Roll a dice. On a 3+, the target
+cannot use commands for the rest of
+the turn.
+Infantry, Champion
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite, Warflock
+
+--- Page 30 ---
+July 2025
+MOVE
+• DISCIPLES OF TZEENTCH WARSCROLL •
+14"
+H TZAANGOR
+T S
+L 4 4+A
+A E E V ENLIGHTENED
+H
+1
+CONTROL ON DISCS OF TZEENTCH
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Tzeentchian Spear and
+2 4+ 3+ 1 2 -
+Vicious Beak
+Disc’s Teeth and Horns 2 4+ 3+ 1 D3 Companion
+Passive
+GUIDED BY THE PAST: These warriors
+see at once every moment that led to the
+present and seek retribution against those
+who set the chain of events in motion.
+Effect: This unit’s Tzeentchian
+Spears and Vicious Beaks have
+Charge (+1 Damage) if you are the
+underdog or it was determined at the start
+of the battle round that you would take
+the second turn.
+Cavalry, Champion, Fly
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite, Warflock, Disc of Tzeentch
+
+--- Page 31 ---
+July 2025
+MOVE
+5"
+H
+T S • DISCIPLES OF TZEENTCH WARSCROLL •
+L 1 5+A
+A V KAIRIC ACOLYTES
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Sorcerous Bolt 18" 1 4+ 3+ - 1 Wyrdflame
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cursed Blade 2 4+ 4+ - 1 -
+Cursed Glaive 1 4+ 3+ 1 2 -
+Each model in this unit is armed with a
+Passive
+Cursed Blade and Sorcerous Bolt.
+VULCHARC: Especially talented Kairic
+•3/10 models can replace their Cursed
+Acolytes are gifted with magic-eating
+Blade with a Cursed Glaive.
+Vulcharcs that act as familiars.
+•1/10 models armed with a Cursed Blade
+can be accompanied by a Vulcharc. Effect: While this unit includes any
+•1/10 models armed with a Cursed Blade models accompanied by Vulcharcs,
+can carry a Scroll of Dark Arts. subtract 1 from casting rolls for enemy
+•The champion cannot be accompanied by Wizards within 12" of this unit.
+a Vulcharc or carry a Scroll of Dark Arts.
+Your Shooting Phase
+GESTALT SORCERY: Through combined
+worship, a cult of Acolytes can swell their
+arcane power to new levels of ferocity.
+Effect: If this unit includes any models
+carrying a Scroll of Dark Arts, roll a dice.
+Add 1 to the roll for each other friendly
+Kairic Acolytes unit within this unit’s
+combat range. On a 5+, add 1 to the Rend
+characteristic of this unit’s Sorcerous
+Bolts for the rest of the turn.
+Infantry, Champion
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite
+
+--- Page 32 ---
+July 2025
+MOVE
+5"
+T H S • DISCIPLES OF TZEENTCH WARSCROLL •
+A L 1 4+A V JADE OBELISK
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Antithete Bow 18" 1 4+ 4+ - 1 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Faction Terrain
+Mason’s Tools 2 4+ 3+ 1 1
+(+1 Rend)
+Jade Dagger 1 4+ 4+ - 1 -
+Stone-like Beak 1 3+ 3+ 1 D3 Companion
+Each model in this unit is armed with Passive
+Mason’s Tools.
+CAST DOWN THE IDOL: The Jade
+•4/10 models can replace their Mason’s
+Obelisk turn former tools of construction
+Tools with an Antithete Bow and
+upon blasphemous effigies, rendering them
+Jade Dagger.
+little more than rubble.
+•1/10 models is an Idolarc and is armed
+with a Stone-like Beak instead of any Effect: Add 1 to the Damage
+other weapons. characteristic of this unit’s melee weapons
+•The champion is a Nephrite Priestess and for attacks that target Faction Terrain.
+cannot replace their weapons.
+Passive
+STONE-CURSED RESOLVE: These
+rock-skinned warriors are virtually
+impossible to move against their will.
+Effect: Ignore all modifiers to save rolls
+for this unit (positive and negative).
+Infantry, Champion (1/10)
+KEYWORDS
+Chaos, Disciples of Tzeentch, Arcanite
+
+--- Page 33 ---
+July 2025
+MOVE
+- • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S BURNING SIGIL
+L 6 5+A
+A V
+E E
+H OF TZEENTCH
+7+
+BANISHMENT
+Any Hero Phase
+RADIANT TRANSMOGRIFICATION:
+The Burning Sigil channels the energies of
+the Impossible Fortress; with each pulse
+comes a handful of blessings and curses as
+fickle as the bastion’s master.
+Declare: This Manifestation must use
+this ability in each hero phase. Pick each
+unit (friendly and enemy) within 9" of
+this Manifestation to be the targets.
+Effect: Roll 2 dice, pick either result, then
+apply the corresponding effect for the rest
+of the turn:
+1 No effect.
+2-3 Add 2" to the Move characteristic of
+friendly Disciples of Tzeentch
+targets and subtract 2" from the
+Move characteristic of enemy targets.
+4 Add 1 to hit rolls for friendly
+Disciples of Tzeentch targets
+and subtract 1 from hit rolls for
+enemy targets.
+5 Add 1 to wound rolls for friendly
+Disciples of Tzeentch targets
+and subtract 1 from wound rolls for
+enemy targets.
+6 Add 1 to the Attacks characteristic
+of melee weapons used by friendly
+Disciples of Tzeentch targets,
+and inflict D3 mortal damage on
+each enemy target.
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch
+
+--- Page 34 ---
+July 2025
+MOVE
+9" • DISCIPLES OF TZEENTCH WARSCROLL •
+T H S DAEMONIC
+L 8 6+A
+A V
+E E
+H SIMULACRUM
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Snapping Jaws 4 4+ 3+ 1 D3 Anti-Wizard (+1 Rend)
+Passive
+MANIFESTED JAWS: The Simulacrum
+feeds upon the minds of any beings in its
+path and is especially drawn to sources of
+the arcane.
+Effect: While this Manifestation’s
+attacks target a Wizard, add a number
+equal to that Wizard’s casting power
+level to the Damage characteristic of this
+unit’s Snapping Jaws.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch
+
+--- Page 35 ---
+July 2025
+MOVE
+-
+T H S • DISCIPLES OF TZEENTCH WARSCROLL •
+A L 5 4+A V TOME OF EYES
+E E
+H
+7+
+BANISHMENT
+Reaction: You declared a Spell ability
+for a Wizard within this
+Manifestation’s combat range
+TRANSFIXED BY COUNTLESS
+EYES: As the Tome flicks through its
+endless pages, it peers into the mind of its
+summoner, giving knowledge to the loyal
+and punishing the insatiable as it sees fit.
+Effect: You can add 1 or 2 to the casting
+roll for that spell. Roll a number of dice
+equal to the amount added. For each 1-2,
+allocate 1 damage point to the caster. If
+the caster is destroyed by this ability, the
+spell has no effect.
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Chaos, Disciples of Tzeentch
+
+--- Page 36 ---
+DISCIPLES OF TZEENTCH
+FLUXBLADE COVEN
+A Fluxblade Coven is a weapon of anarchy and subversion, a dagger
+This Spearhead army consists thrust into the spine of those who languish in sterile stasis, fearing the
+of the following units: inevitability of change. These hidden cells propagate for years, sometimes
+centuries under the cruel tutorship of a Magister of Tzeentch, awaiting the
+GENERAL anointed hour when they will rise up and drown the enemies of disorder in
+Magister on Disc liquid warpflame.
+of Tzeentch
+Come that time, the Magister will unleash the full measure of their sorcerous
+UNITS gifts. Stood atop a daemonic Disc of Tzeentch, they soar across the skies,
+3 Flamers of Tzeentch hurling bolts of magic and calling upon their uncanny gifts of precognition
+3 Screamers of Tzeentch to ensure victory in the name of the Change God. The Magister’s infernal
+5 Tzaangors charges add to the mayhem: Flamers of Tzeentch spew torrents of flesh-
+5 Tzaangors mutating fire to corral the foe, while Screamers dart and swoop from on
+10 Kairic Acolytes high, tearing strips out of their prey with their razor-sharp teeth.
+With the battlefield ablaze, the Tzaangors and Kairic Acolytes of a Fluxblade
+Coven run rampant, hoping to earn the favour of their duplicitous deity by
+ritually slaughtering those who would dare defy his will.
+‘Fate consumes souls as hungrily as the fiercest inferno.’
+– Xavistilix Silverstaff, Magister of Tzeentch
+Trade manager Martin’s Fluxblade Coven hail from the Crescent Peaks in the Spiral Crux and display the lurid colours
+so beloved of the Change God. These contrast with the white on their snowy bases to create a striking colour scheme.
+
+--- Page 37 ---
+BATTLE TRAITS
+BATTLE TRAITS
+DDDDDD Oeeeeeenppppppclllllleoooooo yyyyyyPmmmmmmereeeeee Bnnnnnnttttttattle, Start of the First Battle Round
+MD OAenpSclTeo yPEmeRre SBnt aOttlFe ,D StEarStT oIf NthYe :F Tiros ts Beravtetl eth Reo Cunhdanger of The following rolls can be replaced with destiny dice:
+MtheA WSTayEsR isS t oO inFs DtinEcStiTveIlNy Yun: dTeor ssetarvned t thhee C ehbabn agnedr of The following rolls can be replaced with destiny dice:
+tflhoew W oaf yfus tius rteo eivnesntitnsc atinvde lmy uannidpeurlsataten tdh tehme eabt bw ailnl.d • Casting rolls
+flow of future events and manipulate them at will. •• CRuasnt irnogll srolls
+Effect: Roll 9 dice and put them to one side. These are •• RCuhnar rgoel lrsolls
+Eyoffuerc dt:e Rstoilnl y9 ddiiccee. aDnudr pinugt tthheem ba ttot loen, ien ssitdeea.d Th ofe rsoel alirneg •• CHhita rroglel srolls
+ythoeu dr idcees ftoinr y1 doifc teh. eD ruorllisn fgr othme tbhaet tllies,t ionpspteoasdit oe,f yrooull ing •• HWiot uronldls rolls
+tchaen dpiiccek foonr e1 ooff ytohue rr odlelsst firnoym d tichee alinsdt oupspe oits iatse ,t yhoeu r oll. •• WSaoveu nrodl lrso –ll syou must still modify the roll by the
+cOannc pe iac kd eosntein oyf dyiocuer h daess btieneyn duisceed a, nitd i su dseis icta arsd tehde. roll. • SRaevned r cohllasr –a cytoeuri smtiucs ot fs tthilel matotadcikfyin tgh ew reoalpl obny. the
+Once a destiny dice has been used, it is discarded. Rend characteristic of the attacking weapon.
+If you want to replace a roll that uses more than one
+IDf 6y,o yuo wu amnut stot urseep ltahcee saa mroell nthuamt buesre so fm doerset itnhya nd iocnee
+D(e.6g,. yyoouu mwuosutl du snee tehde t soa umsee n2 udmesbteinr yo fd dicees tiinn py ldacicee of
+(ae 2.gD. y6o cua swtionugl dro nlel)e. dR tooll us steh a2t daerset rienpyl adciecde icno upnlatc aes o f
+au n2mD6o dciafisetidn rgo rlolsl la).n Rdo clalsn tnhoatt baer er er-erpollalceedd o cro munotd aifis ed
+uunnmlesosd nifioteedd r.olls and cannot be re-rolled or modified
+unless noted.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Passive Passive
+TPRaAssiNveSIENT FORMS: Some Kairic Acolytes EPTaEssRivNeAL CONFLAGRATION: Some cults of
+TacRtiAveNlyS sIeEekN tTra nFsOfoRrmMaSti:o Sno mineto K Taziariacn Agocorsly, tes ETzTeEenRtcNhA seLe kC tOo sNetF tLhAe vGeRryA coTsImOoNs a: flSaommee wcuiltths tohf e
+awchtoivmel yth seeye kr etvraernes faosr bmeaintigosn c lionsteor Tinza naantguorres t, o their Tevzeere-nbtucrhn sienegk fi troe sse ot ft hchea vnegrey. cosmos aflame with the
+wmheorcmu rtihaely d reeivtye.re as beings closer in nature to their ever-burning fires of change.
+mercurial deity. Effect: Add 1 to the Rend characteristic of ranged
+Effect: Roll a dice each time a friendly Kairic Ewffeaepcot:n As dudse 1d t boy t hfrei eRnednldy Fchlaamraecrtse roisf tTicz eoef nratcnhg eudn its.
+EAffcoelcytt: eRso mll oad deilc ies esalacihn tiinm teh ae fcroimenbdalty pKhaaisrei.c O n a 4+, weapons used by friendly Flamers of Tzeentch units.
+Ayocuo lcyatne sr emtuordne l1 i ss lsalianin m iond tehle t oco am frbiaetn pdhlya sTez. aOann gao 4r+s,
+yuonuit cwanit hreintu 9r"n o 1f tshlaei nsl amino dmelo tdoe la. friendly Tzaangors
+unit within 9" of the slain model.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Your Hero Phase Once Per Battle, Any Combat Phase
+SHYoIuEr LHDer oO PFh aFsAeTE: There is little better protection DOAnEceM POerN BaHttEleA, ARnTy :C Thomrobuatg hP haa dseark ritual, the
+SthHanIE toL bDe OguFid FeAd bTyE d: eThstienrye iitss leiltft.le better protection DheAarEt Mof Oa NdaHemEoAnR dTw:e Thllsr wouitghhin a ydoaurrk g reintuearal,l ’tsh ceh est,
+than to be guided by destiny itself. hwehaerrte o ift sa d draeaemd opnow dewre clalsn w bieth uinnl yeaoushre gde ntoe rgarle’sa tclhye st,
+Declare: Pick a visible friendly unit wholly within wauhgemree intst tdhree astdr epnogwtehr o cfa ints b heo ustn.leashed to greatly
+D18e"c olaf ryeo:u Pri cgken ae vraisli,b tlhee fnr imenadkley au cnaits twinhgo lrloyl lw oift h2iDn 6. augment the strength of its host.
+18" of your general, then make a casting roll of 2D6. Declare: Pick an enemy unit within 1" of
+Effect: On a 6+, until the start of your next turn, that Dyoeucrl agreen: ePriaclk. an enemy unit within 1" of
+Eunffietc hta: sO Wn aa r6+d, (u6n+t)i.l Itfh teh satta urnt oitf ayloreuard nye hxat st uar wn,a trhda t your general.
+usanviet ,h aadsd W 1 ator dw a(6rd+ )r.o Ilfl st hfoart tuhnaitt uanlrieta udnyt hila tsh ae wstaarrdt of Effect: Inflict an amount of mortal damage on that
+syaovuer, nadexdt 1 t utorn w ianrsdt eraodll.s for that unit until the start of Eunffietc etq: uInafll tioct t ahne anmumoubnert ooff mthoe rctuarl rdeanmt baagtet loe nr otuhnatd .
+your next turn instead. unit equal to the number of the current battle round.
+Your Hero Phase Once Per Battle, Any Combat Phase
+GYLoIuMr HPeSrEo PThHasEe FUTURE: By focusing on the TOIMncEe SPLerI BPa tPtEleN, ADnAy CNoTm:b Taitm Phe aiss ea mutable concept
+GskLeiInMs oPf SpEot TenHtiEal FfaUteTs,U thReE so: rBcye rfeorc ucasinn gg loena nt hhei nts of TtoI tMheE bSeLaIrePr PofE tNhiDs aAmNuTle:t T.ime is a mutable concept
+sfukteuinres oevf epnottse ninti tailm faet teos ,m thaen siporuclearteer t chaenm g.lean hints of to the bearer of this amulet.
+future events in time to manipulate them. Declare: Pick an enemy unit within 9" of
+Declare: If you have fewer than 6 destiny dice, make Dyoeucrl agreen: ePriaclk. an enemy unit within 9" of
+Da ceacslatirneg: Irfo yllo ouf h2aDv6e. fewer than 6 destiny dice, make your general.
+a casting roll of 2D6. Effect: That unit has Strike-last this phase.
+Effect: On a 7+, you can roll a dice and add it to your Effect: That unit has Strike-last this phase.
+Edeffsetcint:y O dnic ae .7+, you can roll a dice and add it to your
+destiny dice.
+
+--- Page 38 ---
+BATTLE TRAITS
+D Oenpcleo yPmere Bntattle, Start of the First Battle Round
+MASTERS OF DESTINY: To serve the Changer of The following rolls can be replaced with destiny dice:
+the Ways is to instinctively understand the ebb and
+flow of future events and manipulate them at will. • Casting rolls
+• Run rolls
+Effect: Roll 9 dice and put them to one side. These are • Charge rolls
+your destiny dice. During the battle, instead of rolling • Hit rolls
+the dice for 1 of the rolls from the list opposite, you • Wound rolls
+can pick one of your destiny dice and use it as the roll. • Save rolls – you must still modify the roll by the
+Once a destiny dice has been used, it is discarded. Rend characteristic of the attacking weapon.
+If you want to replace a roll that uses more than one
+D6, you must use the same number of destiny dice
+(e.g. you would need to use 2 destiny dice in place of
+a 2D6 casting roll). Rolls that are replaced count as
+unmodified rolls and cannot be re-rolled or modified
+unless noted.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Passive Passive
+TRANSIENT FORMS: Some Kairic Acolytes ETERNAL CONFLAGRATION: Some cults of
+actively seek transformation into Tzaangors, Tzeentch seek to set the very cosmos aflame with the
+whom they revere as beings closer in nature to their ever-burning fires of change.
+mercurial deity.
+Effect: Add 1 to the Rend characteristic of ranged
+Effect: Roll a dice each time a friendly Kairic weapons used by friendly Flamers of Tzeentch units.
+Acolytes model is slain in the combat phase. On a 4+,
+you can return 1 slain model to a friendly Tzaangors
+unit within 9" of the slain model.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Your Hero Phase Once Per Battle, Any Combat Phase
+SHIELD OF FATE: There is little better protection DAEMONHEART: Through a dark ritual, the
+than to be guided by destiny itself. heart of a daemon dwells within your general’s chest,
+where its dread power can be unleashed to greatly
+Declare: Pick a visible friendly unit wholly within augment the strength of its host.
+18" of your general, then make a casting roll of 2D6.
+Declare: Pick an enemy unit within 1" of
+Effect: On a 6+, until the start of your next turn, that your general.
+unit has Ward (6+). If that unit already has a ward
+save, add 1 to ward rolls for that unit until the start of Effect: Inflict an amount of mortal damage on that
+your next turn instead. unit equal to the number of the current battle round.
+Your Hero Phase Once Per Battle, Any Combat Phase
+GLIMPSE THE FUTURE: By focusing on the TIMESLIP PENDANT: Time is a mutable concept
+skeins of potential fates, the sorcerer can glean hints of to the bearer of this amulet.
+future events in time to manipulate them.
+Declare: Pick an enemy unit within 9" of
+Declare: If you have fewer than 6 destiny dice, make your general.
+a casting roll of 2D6.
+Effect: That unit has Strike-last this phase.
+Effect: On a 7+, you can roll a dice and add it to your
+destiny dice.
+
+--- Page 39 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+14"
+MAGISTER
+6 4+
+ON DISC OF TZEENTCH
+2 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Tzeentchian Runestaff 18" 1 3+ 4+ - D3 -
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Magisters are amongst the most Warpsteel Sword 3 3+ 4+ - D3 -
+powerful of Tzeentch’s mortal Disc’s Teeth and Horns 2 4+ 3+ 1 D3 Companion
+agents, corrupted in body and
+soul by the mind-shattering
+secrets they bear witness to. It is Your Hero Phase
+they who command the Arcanite
+cults, weaving webs of intrigue BOLT OF CHANGE: The Magister hurls a coruscating
+in the name of the Change God. bolt of energy at the foe, causing their flesh to run like wax
+Filled with eldritch energies as and remould into a form more pleasing to Tzeentch.
+they ride their Discs of Tzeentch,
+they can wield fantastical fires to Declare: Pick a visible enemy unit within 18" of this unit to
+scorch the foe or turn men into be the target, then make a casting roll of 2D6.
+bestial Tzaangor allies ready to
+fight for Chaos. Effect: On a 6+, inflict D3 mortal damage on the target. If
+any models are slain by this ability, you can pick a friendly
+Tzaangors unit wholly within 18" of this unit and return 1
+slain model to that Tzaangors unit.
+KEYWORDS Hero, Wizard, Cavalry, Fly
+• SPEARHEAD WARSCROLL •
+5"
+KAIRIC ACOLYTES
+1 5+
+1
+Kairic Acolytes are the chosen
+human cultists of Tzeentch. They
+wear masks and weave illusions Your Shooting Phase
+to conceal their identities, for
+they have infiltrated cities and GESTALT SORCERY: Through combined worship, a
+war-camps across the Mortal cult of Acolytes can swell their arcane power to new levels
+Realms, awaiting the hour when of ferocity.
+Change God calls upon them
+to rise up in open insurrection. Declare: Make a casting roll of 2D6.
+Harnessing their collective
+magical might, Acolytes unleash Effect: On a 6+, add 1 to theRend characteristic of this
+it in the form of searing bolts unit’s Sorcerous Bolts this phase.
+that burn through armour with
+ease. Enemies that do not fall
+before this arcane fusillade
+must face their curved blades,
+which they wield with a strength
+and skill granted them not
+by toil and experience but by
+forfeiting their soul to the
+Architect of Fate.
+KEYWORDS Infantry
+
+--- Page 40 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+14"
+MAGISTER
+6 4+
+ON DISC OF TZEENTCH
+2
+Magisters are amongst the most
+powerful of Tzeentch’s mortal
+agents, corrupted in body and
+soul by the mind-shattering
+secrets they bear witness to. It is Your Hero Phase
+they who command the Arcanite
+cults, weaving webs of intrigue BOLT OF CHANGE: The Magister hurls a coruscating
+in the name of the Change God. bolt of energy at the foe, causing their flesh to run like wax
+Filled with eldritch energies as and remould into a form more pleasing to Tzeentch.
+they ride their Discs of Tzeentch,
+they can wield fantastical fires to Declare: Pick a visible enemy unit within 18" of this unit to
+scorch the foe or turn men into be the target, then make a casting roll of 2D6.
+bestial Tzaangor allies ready to
+fight for Chaos. Effect: On a 6+, inflict D3 mortal damage on the target. If
+any models are slain by this ability, you can pick a friendly
+Tzaangors unit wholly within 18" of this unit and return 1
+slain model to that Tzaangors unit.
+KEYWORDS Hero, Wizard, Cavalry, Fly
+• SPEARHEAD WARSCROLL •
+5"
+KAIRIC ACOLYTES
+1 5+
+1 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Sorcerous Bolts 18" 1 4+ 3+ - 1 -
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Kairic Acolytes are the chosen Cursed Blade 2 4+ 4+ - 1 -
+human cultists of Tzeentch. They
+wear masks and weave illusions Your Shooting Phase
+to conceal their identities, for
+they have infiltrated cities and GESTALT SORCERY: Through combined worship, a
+war-camps across the Mortal cult of Acolytes can swell their arcane power to new levels
+Realms, awaiting the hour when of ferocity.
+Change God calls upon them
+to rise up in open insurrection. Declare: Make a casting roll of 2D6.
+Harnessing their collective
+magical might, Acolytes unleash Effect: On a 6+, add 1 to theRend characteristic of this
+it in the form of searing bolts unit’s Sorcerous Bolts this phase.
+that burn through armour with
+ease. Enemies that do not fall
+before this arcane fusillade
+must face their curved blades,
+which they wield with a strength
+and skill granted them not
+by toil and experience but by
+forfeiting their soul to the
+Architect of Fate.
+KEYWORDS Infantry
+
+--- Page 41 ---
+SAVE
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+14"
+SCREAMERS OF TZEENTCH
+3 5+
+1 MELEE WEAPONS Attacks Hit Wound Rend DDaammaaggee Ability
+Lamprey Bite 3 4+ 3+ 1 1 -
+Speeding daemon-beasts Your Movement Phase
+that leave shimmering trails SLASHING FINS: Screamers swoop from discoloured skies to slash at their foes,
+of change-magic in the air,
+performing fly-by attacks and effortless manoeuvres.
+Screamers streak across the
+skies with wailing cries. They Declare: Pick an enemy unit that any models in this unit passed across this phase to be the
+slash any foes they pass with
+target, then roll a dice for each model in this unit that did so.
+razor-sharp horns and fins
+before darting down to savage Effect: For each 4+, inflict 1 mortal damage on the target.
+their chosen quarry.
+KEYWORDS Beast, Fly, Ward (6+)
+• SPEARHEAD WARSCROLL •
+6"
+TZAANGORS
+2 5+
+1
+Tzaangors are savage, avian Passive
+beastmen dedicated to Tzeentch
+and gifted with his dark LONG-PLANNED STRIKE: Tzaangors are fearsome
+blessings. Eager to impress their agents of change on the attack, pushing their long-
+duplicitous god, the Tzaangors planned assault into enemy territory with impressive skill
+fight with lunatic energies, and strength.
+hoping to earn further gifts
+of change. Effect: While this unit is wholly within enemy territory, its
+melee weapons have Crit (2 Hits).
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+9"
+FLAMERS OF TZEENTCH
+2 5+
+1
+Flamers of Tzeentch are bizarre
+entities created solely to spread
+the Change God’s fires across
+reality and beyond. Bounding Passive
+forward on hot gusts of CAPRICIOUS WYRDFLAME: The lurid fires of change spread as though they were
+discoloured aether, they spew
+possessed of a malign, mischievous sentience.
+streams of sorcerous flame
+from their limbs and multiple Add 1 to hit rolls for attacks made by this unit if the target unit has 5 or more models.
+gnashing mouths. The more
+tightly packed the ranks of the
+foe, the more damage such a
+barrage will do.
+KEYWORDS Infantry, Fly, Ward (6+)
+
+--- Page 42 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+6"
+TTZZAAAANNGGOORRSS
+2 5+
+1 MELEE WEAPONS AAttttaacckkss Hit Wound Rend Damage Ability
+Savage Blade and Vicious Beak 2 4+ 3+ - 1 -
+Tzaangors are savage, avian Passive
+beastmen dedicated to Tzeentch
+and gifted with his dark LONG-PLANNED STRIKE: Tzaangors are fearsome
+blessings. Eager to impress their agents of change on the attack, pushing their long-
+duplicitous god, the Tzaangors planned assault into enemy territory with impressive skill
+fight with lunatic energies, and strength.
+hoping to earn further gifts
+of change. Effect: While this unit is wholly within enemy territory, its
+melee weapons have Crit (2 Hits).
+KEYWORDS Infantry
+
+--- Page 43 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+9"
+FLAMERS OF TZEENTCH
+2 5+
+1 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Wyrdflame 12" 3 3+ 4+ - D3 -
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Flamers of Tzeentch are bizarre Flaming Maws 3 3+ 4+ - 1 -
+entities created solely to spread
+the Change God’s fires across
+reality and beyond. Bounding Passive
+forward on hot gusts of CAPRICIOUS WYRDFLAME: The lurid fires of change spread as though they were
+discoloured aether, they spew
+possessed of a malign, mischievous sentience.
+streams of sorcerous flame
+from their limbs and multiple Add 1 to hit rolls for attacks made by this unit if the target unit has 5 or more models.
+gnashing mouths. The more
+tightly packed the ranks of the
+foe, the more damage such a
+barrage will do.
+KEYWORDS Infantry, Fly, Ward (6+)

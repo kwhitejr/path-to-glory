@@ -1,0 +1,1521 @@
+--- Page 1 ---
+FACTION PACK
+SYLVANETH
+
+--- Page 2 ---
+BATTLE TRAITS
+Sylvaneth armies can use the following abilities:
+Once Per Turn (Army), End of Any Turn Once Per Turn (Army),
+ENDLESS GROWTH: Flourishing groves Your Movement Phase
+underfoot bring a surge of rebirth to the WALK THE HIDDEN PATHS:
+Sylvaneth. Their forms are invigorated Sylvaneth can draw upon the magic of the
+with restorative sapwood. Wyldwoods to open hidden passageways
+across the battlefield.
+Declare: Pick any number of friendly
+Sylvaneth units wholly within 6" of Declare: Pick a friendly Sylvaneth unit
+any friendly Awakened Wyldwoods to be that is not in combat and is wholly within
+the targets. 6" of a friendly Awakened Wyldwood to
+use this ability.
+Effect:Heal (D3) each target.
+Effect: Remove that unit from the
+Once Per Turn (Army), End of Any Turn battlefield and set it up again on the
+battlefield more than 9" from all enemy
+STRIKE AND FADE: These warriors
+units and wholly within 6" of a different
+use the spirit paths to ambush the enemy
+friendly Awakened Wyldwood.
+before retreating back into the shadows.
+Keywords Core
+Declare: Pick a friendly Sylvaneth unit
+that is in combat and is wholly within 6"
+of a friendly Awakened Wyldwood to use
+this ability.
+Effect: Remove that unit from the
+battlefield and set it up again on the
+battlefield more than 9" from all enemy
+units and wholly within 6" of a different
+friendly Awakened Wyldwood.
+Keywords Core
+July 2025
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Sylvaneth army. Each battle formation
+ggggggggrrrrrrrraaaaaaaannnnnnnnttttttttssssssss aaaaaaaa ddddddddiiiiiiiiffffffffffffffffeeeeeeeerrrrrrrreeeeeeeennnnnnnntttttttt aaaaaaaabbbbbbbbiiiiiiiilllllllliiiiiiiittttttttyyyyyyyy yyyyyyyyoooooooouuuuuuuu ccccccccaaaaaaaannnnnnnn uuuuuuuusssssssseeeeeeee iiiiiiiinnnnnnnn tttttttthhhhhhhheeeeeeee bbbbbbbbaaaaaaaattttttttttttttttlllllllleeeeeeee........
+LORDS OF THE CLAN FOREST FOLK
+Passive Passive
+HEALING SONG: The spirit-song surges LACERATING STRIKE: Moving quickly
+through the Lords of the Clan like a raging through the undergrowth, the Forest Folk
+river. As they stride across the battlefield, plunge into battle. Attacking from every
+the Treelords harness that energy to side, multiple bands of infantry lash their
+further rejuvenate their forms. victims to bloody tatters.
+Effect: When using the ‘Endless Growth’ Effect: Add 1 to the Rend characteristic
+ability, friendly Sylvaneth Monsters of melee weapons used by friendly
+can Heal (3) instead of Heal (D3). Sylvaneth non-Kurnothi Infantry
+units that charged in the same turn.
+OUTCASTS FREE SPIRITS
+Passive OOOnnnccceee PPPeeerrr TTTuuurrrnnn (((AAArrrmmmyyy))),,, YYYooouuurrr CCChhhaaarrrgggeee PPPhhhaaassseee
+THE TERROR IN THE EAVES: The FLEET AND SWIFT: The Free Spirits are
+Outcasts are the terrors that lurk in the the instruments of Alarielle’s will, a cadre
+shadows, the creeping things beneath the of elite warriors whose presence hones
+forest eaves. When great masses of them the Sylvaneth into a weapon of singular
+surge into battle, it is all the enemy can do purpose that brings swift retribution.
+to avoid dying of sheer fright.
+Declare: Pick a friendly Sylvaneth
+Effect: Subtract 3 from the control scores Cavalry unit to use this ability.
+of enemy units while they are in combat
+Effect: This unit can use Charge
+with friendly Sylvaneth units.
+abilities even if it used a Run ability
+this turn.
+July 2025
+
+--- Page 4 ---
+HEROIC TRAITS
+ASPECTS OF RENEWAL (Hero only)
+Reaction: Opponent declared a Spell or Your Movement Phase
+Prayer ability WARSINGER: This general spurs on
+RADIANT SPIRIT: Shielding emerald Alarielle’s children with stirring songs.
+energy surrounds this hero like a
+Declare: Pick a friendly Sylvaneth
+leafy sanctuary.
+unit wholly within 12" of this unit to be
+Used By: This unit if it is wholly within the target.
+12" of a friendly Sylvaneth unit picked
+Effect: Add 2" to the Move characteristic
+to be the target of that spell or prayer.
+of the target for the rest of the turn.
+Effect: Roll a dice. On a 3+, ignore the
+effect of that spell or prayer on that unit. Passive
+This unit can use this ability more than
+SPELLSINGER: This hero draws
+once per phase but only once per Spell
+on the magical power of the
+or Prayer ability.
+Awakened Wyldwoods.
+Effect: While this unit is within the
+combat range of an Awakened Wyldwood:
+If this unit is a Wizard, add 1 to casting
+rolls for this unit.
+If this unit is not a Wizard, it has
+Wizard (1) instead.
+July 2025
+
+--- Page 5 ---
+ARTEFACTS OF POWER
+RELICS OF NATURE (Hero only)
+Passive Any Combat Phase
+SEED OF REBIRTH: Should its bearer GREENWOOD GLADIUS: This
+ever fall, the seed’s rejuvenating energies blade strikes with the youthful vigour
+will pour into its host to grant them of springtime.
+new life.
+Declare: Pick an enemy unit in combat
+Effect: If this unit would be destroyed, with this unit to be the target.
+before removing it from play, roll a dice.
+Effect: Roll a D3. On a 2+, inflict an
+On a 3+, this unit is not destroyed and
+amount of mortal damage on the target
+any remaining damage points inflicted on
+equal to the roll.
+it have no effect. Then, Heal (1) this unit.
+This unit cannot use this ability again for
+the rest of the battle. Any Combat Phase
+CROWN OF FELL BOWERS: Rooted in
+this elegant circlet, a canopy of spectral
+branches forms above the foe, rendering
+them strangely vulnerable to the enchanted
+weapons of the Sylvaneth.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a dice. On 3+, add 1 to wound
+rolls for combat attacks made by friendly
+Sylvaneth units that target that enemy
+unit this phase.
+July 2025
+
+--- Page 6 ---
+SPELL LORE
+LORE OF THE DEEPWOOD
+Your Hero Phase 6
+TREESONG: Sylvaneth wizards have a strong spiritual connection to the wyldwoods
+and can call forth these eldritch copses at a whim.
+Declare: Pick a friendly Sylvaneth Wizard to cast this spell, then make a casting roll
+of 2D6.
+Effect: If there are fewer than 3 friendly Awakened Wyldwoods on the battlefield, you
+can set up an Awakened Wyldwood wholly within 24" of the caster, more than 3" from
+all objectives and more than 1" from all enemy units and other terrain features. If there
+are already 3 friendly Awakened Wyldwoods on the battlefield, Heal (3) each friendly
+Awakened Wyldwood.
+Keywords Spell, Unlimited
+Your Hero Phase 6 Your Hero Phase 7
+WRATHFUL SPIRITS: The caster THE DWELLERS BELOW: DDrraawwiinngg
+implores the simple spirits of the upon the darkest and most spiteful aspects
+Wyldwoods to guide the blades of their of nature’s power, the caster summons a
+allies and expose the weaknesses of the foe. seething swarm of tendrils from beneath
+the ground.
+Declare: Pick a friendly Sylvaneth
+Wizard to cast this spell, pick a friendly Declare: Pick a friendly Sylvaneth
+Awakened Wyldwood wholly within 18" Wizard to cast this spell, pick a visible
+of the caster to be the target, then make a enemy unit that is either within 12" of
+casting roll of 2D6. this unit or within 6" of an Awakened
+Wyldwood to be the target, then make a
+Effect: Until the start of your next turn,
+casting roll of 2D6.
+add 1 to the Rend characteristic of melee
+weapons used by friendly Sylvaneth Effect: Roll a number of dice equal to the
+units while they are wholly within 6" of number of models in the target unit. For
+the target. each 5+, inflict 1 mortal damage on the
+Keywords Spell target unit.
+Keywords Spell
+July 2025
+
+--- Page 7 ---
+MANIFESTATION LORE
+MANIFESTATIONS OF THE DEEPWOOD
+Your Hero Phase 7 Your Hero Phase 7
+SUMMON SPITESWARM HIVE: SUMMON GLADEWYRM: The
+The air is filled with the buzzing of a earth splits apart as a sleek, serpentine
+thousand wings as a swarm of iridescent form heaves itself free, eyes blazing with
+insects bursts from its hive. arcane energies.
+Declare: If there is not a friendly Declare: If there is not a friendly
+Spiteswarm Hive on the battlefield, pick a Gladewyrm on the battlefield, pick a
+friendly Sylvaneth Wizard to cast this friendly Sylvaneth Wizard to cast this
+spell, then make a casting roll of 2D6. spell, then make a casting roll of 2D6.
+Effect: Set up a Spiteswarm Hive wholly Effect: Set up a Gladewyrm wholly
+within 9" of the caster, visible to them and within 9" of the caster, visible to them and
+more than 3" from all enemy units. more than 9" from all enemy units.
+Keywords Spell, Summon Keywords Spell, Summon
+Your Hero Phase 7
+SUMMON VENGEFUL
+SKULLROOT: From the shadows comes
+a nightmarish form, a huge, black-limbed
+tree clutching piles of bleached skulls
+within its tangled roots.
+Declare: If there is not a friendly
+Vengeful Skullroot on the battlefield,
+pick a friendly Sylvaneth Wizard to
+cast this spell, then make a casting roll
+of 2D6.
+Effect: Set up a Vengeful Skullroot
+wholly within 9" of the caster, visible
+to them and more than 9" from all
+enemy units.
+Keywords Spell, Summon
+July 2025
+
+--- Page 8 ---
+July 2025
+MOVE
+14" • SYLVANETH WARSCROLL •
+H
+T S ALARIELLE THE
+L16 3+A
+A V
+E E
+H EVERQUEEN
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Spear of Kurnoth 12" 1 2+ 3+ 2 4 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Spear of Kurnoth 5 3+ 3+ 2 2 -
+Wardroth’s Great Antlers 6 4+ 2+ 2 4 Companion
+Passive Once Per Turn (Army),
+BATTLE DAMAGED Your Movement Phase
+Effect: While this unit has 10 or more RITE OF LIFE: Wherever the Everqueen
+damage points, the Attacks characteristic of goes, so too does the power of her great rite.
+its Wardroth’s Great Antlers is 4.
+Declare: Pick a friendly Sylvaneth unit that
+has been destroyed to be the target. This unit
+Any Hero Phase can use this ability if it has been destroyed,
+LIFEBLOOM: The restorative energies of but if it does, this unit must be the target.
+Ghyran heal Alarielle’s wounds.
+Effect: Roll a dice. On a 4+, set up a
+Effect: Pick 1 of the following effects: replacement unit with half the number of
+•Add 1 to casting rolls for this unit for the models from the target unit (rounding up)
+rest of the turn. wholly within 9" of a friendly Awakened
+•Heal (2D3) this unit. Wyldwood and more than 9" from all
+enemy units. If the target was a Monster,
+allocate 6 damage points to the replacement
+Your Hero Phase 7 unit (ward rolls cannot be made for those
+damage points).
+METAMORPHOSIS: With a glare,
+Alarielle’s foes transform into living wood.
+Once Per Turn (Army), Any Charge Phase
+Declare: Pick a visible enemy unit within LIVING BATTERING RAM: A charging
+12" of this unit to be the target, then make a Wardroth Beetle tramples all in its path.
+casting roll of 2D6.
+Declare: If this unit charged this turn, pick
+Effect: Inflict 2D3 mortal damage on the an enemy Infantry unit within 1" of it to be
+target. If the target is destroyed by this spell, the target.
+you can immediately resolve the effect of the
+‘Treesong’ spell as if this unit had successfully Effect: Roll a dice. On a 3+, inflict an amount
+cast it. of mortal damage on the target equal to
+Keywords Spell the roll.
+Keywords Rampage
+Warmaster, Unique, Hero, Monster, Wizard (3), Fly, Ward (6+)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 9 ---
+July 2025
+MOVE
+8"
+H
+T S • SYLVANETH WARSCROLL •
+L 8 3+A
+A V THE LADY OF VINES
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Kurnotheal’s Wrath 12" 1 2+ 2+ 1 D6 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Kurnotheal’s Wrath and
+6 3+ 3+ 2 2 Crit (Mortal)
+Lashing Vines
+Passive Once Per Turn (Army), Any Combat Phase
+VERDIAN CROWN: The power of the WRITHING VINES: The whipping
+Everqueen herself pulses through the Lady tendrils that sprout from the Lady’s back
+of Vines and radiates from the ornate can ensnare foes or confound their attacks.
+crown she bears.
+Declare: Pick an enemy unit in combat
+Effect: This unit counts as an Awakened with this unit to be the target.
+Wyldwood for the purposes of the
+Effect: Roll a dice. On a 2+, pick 1 of the
+‘Endless Growth’, ‘Walk the Hidden
+following effects to apply for the rest of
+Paths’ and ‘Strike and Fade’ abilities.
+the turn:
+Your Hero Phase 7 Barrier: Subtract 1 from hit rolls for the
+ASPECT OF THE EVERQUEEN: target’s attacks.
+The Lady of Vines channels the power
+Ensnare: Add 1 to hit rolls for attacks
+of her goddess mother, shielding fellow
+made by friendly units that target that
+Sylvaneth with the harnessed energies
+enemy unit.
+of nature.
+Keywords Rampage
+Declare: Make a casting roll of 2D6.
+Effect: Until the start of your next
+turn, friendly Sylvaneth units have
+Ward (5+) while they are wholly within
+12" of this unit.
+Keywords Spell
+Warmaster, Unique, Hero, Monster, Wizard (2)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 10 ---
+July 2025
+MOVE
+9" • SYLVANETH WARSCROLL •
+T H S DRYCHA
+L10 3+A
+A V
+E E
+H HAMADRETH
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Flitterfuries 12" 10 4+ 4+ 1 1 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Slashing Talons 5 3+ 2+ 1 2 Anti-Infantry (+1 Rend)
+Anti-Infantry (+1 Rend),
+Swarm of Squirmlings 10 4+ 4+ 1 1
+Companion
+Once Per Turn, Any Hero Phase Your Hero Phase 6
+MERCURIAL ASPECT: The Flitterfuries SONG OF SPITE: Drycha shares a
+that dwell in Drycha’s body bask in the special kinship with the Outcasts, who
+heat of her rage, while the Squirmlings she seem to echo her fury.
+hosts suckle at her sorrow.
+Declare: Pick an enemy Infantry unit
+Effect: Pick 1 of the following effects to within 12" of the caster to be the target,
+apply to this unit for the rest of the turn: then make a casting roll of 2D6.
+Enraged: Add 10 to the Attacks Effect: The following effects apply for the
+characteristic of this unit’s Flitterfuries. rest of the turn:
+Embittered: Add 10 to the Attacks Add 1 to hit rolls for combat attacks made
+characteristic of this unit’s Swarm by friendly Sylvaneth units that target
+of Squirmlings. that enemy unit.
+In addition, add 1 to wound rolls for
+Once Per Turn (Army), Any Combat Phase
+combat attacks made by friendly Spite-
+PRIMAL TERROR: Throwing back her Revenants or The Twistwealdunits that
+head, Drycha gives voice to a soul-rending target that enemy unit.
+scream of anguish and pain.
+Keywords Spell
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a dice. On a 2+, halve the
+target’s control score (rounding up) for
+the rest of the turn.
+Keywords Rampage
+Unique, Hero, Monster, Wizard (1)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 11 ---
+July 2025
+MOVE
+12"
+H • SYLVANETH WARSCROLL •
+L T 14 3+ S A BELTHANOS
+A V
+E E
+H FIRST THORN OF KURNOTH
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Kurnoth Glaive 5 3+ 3+ 2 2 Charge (+1 Damage)
+Carnelian Greatspite’s
+4 4+ 2+ 2 3 Companion
+Razor-like Mandibles
+Passive Once Per Battle, Start of Any Turn
+BATTLE DAMAGED NATURE AETHERIC: The Carnelian
+Effect: While this unit has 10 or more Greatspite is Ghyranite magic made
+damage points, the Attacks characteristic manifest and where it roams, the land is
+of its Carnelian Greatspite’s Razor-like imbued with life-giving energy.
+Mandibles is 3.
+Declare: Pick a terrain feature within 6"
+of this unit to be the target.
+Once Per Turn (Army), Any Combat Phase
+RHYTHM OF THE CHASE: Belthanos is Effect: For the rest of the battle, the target
+a relentless hunter who harasses his quarry gains the ‘Place of Power’ terrain ability
+before fatally cutting them down. (Terrain 1.2) and counts as a friendly
+Awakened Wyldwood for the purposes of
+Declare: Pick an enemy unit in combat
+the ‘Endless Growth’, ‘Walk the Hidden
+with this unit to be the target.
+Paths’ and ‘Strike and Fade’ abilities.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target Your Charge Phase
+equal to the roll, then you can remove this KURNOTHI WAR-HORN: The sounding
+unit from the battlefield and set it up again of Belthanos’s war-horn brings forth a
+on the battlefield within 1" of the target. surging response from the hunt.
+Keywords Rampage
+Declare: Pick up to 3 friendly
+Sylvaneth units to be the target.
+Effect: For the rest of the turn, each target
+can use Charge abilities even if they
+used a Run ability in the same turn.
+Unique, Hero, Monster, Fly
+KEYWORDS
+Order, Sylvaneth, Kurnothi
+
+--- Page 12 ---
+July 2025
+MOVE
+6" • SYLVANETH WARSCROLL •
+T H S WARSONG
+L 7 5+A
+A V
+E E
+H REVENANT
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Spearing Vines and
+5 3+ 3+ 1 D3 -
+Spirit Falchion
+Passive Passive
+ALARIELLE’S SONG: To the Sylvaneth, WYLDWOOD REVENANTS: Warsong
+the sound that emanates from a Warsong Revenants are bound to nature and draw
+Revenant’s flute is sweet and uplifting. strength from the forests.
+To their foes, it is a sonic assault of
+Effect: Add 1 to unbinding rolls
+devastating potency.
+and banishment rolls for this unit
+Effect: Friendly Sylvaneth units have while it is wholly within 6" of any
+Ward (6+) while they are wholly within Awakened Wyldwoods.
+12" of this unit. Subtract 1 from ward rolls
+for enemy units while they are within 12"
+of this unit.
+Your Hero Phase 7
+UNLEASH SWARM OF SPITES:
+The Warsong Revenant summons a large
+swarm of malicious spites that spiral
+outwards to attack those who have drawn
+their ire.
+Declare: Pick a friendly Awakened
+Wyldwood wholly within 18" of this unit,
+pick up to 3 visible enemy units within 9"
+of that terrain feature to be the targets,
+then make a casting roll of 2D6.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Keywords Spell
+Hero, Wizard (2), Infantry, Fly, Ward (6+)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 13 ---
+July 2025
+MOVE
+12"
+H
+T S • SYLVANETH WARSCROLL •
+L 6 4+A
+A V ARCH-REVENANT
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Revenant’s Glaive and
+5 3+ 4+ 1 2 -
+Tail Pincers
+Any Combat Phase Passive
+CRESCENT SHIELD: This shield can be CHAMPION OF KURNOTH: An
+used both to deflect the enemy’s blows and Arch-Revenant commands instant
+to steady the shaft of the bearer’s weapon. obedience and commitment from Kurnoth
+Hunters who are nearby.
+Effect: Pick 1 of the following effects to
+apply to this unit for the rest of the turn: Effect: Add 1 to wound rolls for combat
+attacks made by friendly Kurnothi
+Defensive Stance: This unit has
+units while they are wholly within 12" of
+Ward (4+).
+this unit.
+Aggressive Stance: Add 1 to the Attacks
+characteristic of this unit’s melee
+weapons, and add 1 to wound rolls for
+this unit’s combat attacks.
+Hero, Infantry, Fly
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 14 ---
+July 2025
+MOVE
+5"
+H
+T S • SYLVANETH WARSCROLL •
+L14 3+A
+A V SPIRIT OF DURTHU
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Verdant Blast 12" 5 4+ 3+ 1 2 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Guardian Sword 4 3+ 2+ 2 5 Anti-Monster (+1 Rend)
+Massive Impaling Talons 2 4+ 2+ 2 3 Crit (Mortal)
+Passive Passive
+BATTLE DAMAGED WRATHFUL GUARDIAN: When
+Effect: While this unit has 10 or more the sacred groves of the Sylvaneth are
+damage points, the Attacks characteristic threatened, Spirits of Durthu fight with all
+of its Guardian Sword is 3. the wrath of their legendary ancestor.
+Effect: Add 1 to hit rolls for this unit’s
+Once Per Turn (Army),
+combat attacks while the target is within
+Any Combat Phase
+3" of an Awakened Wyldwood.
+TITANIC DUEL: These ancient
+protectors of the forest parry and hold
+back the mightiest of beasts with their
+guardian sword.
+Declare: Pick an enemy Monster in
+combat with this unit to be the target.
+Effect: Roll a dice. On a 3+, subtract 1
+from the Attacks characteristic of the
+target’s melee weapons for the rest of
+the turn.
+Keywords Rampage
+Hero, Monster
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 15 ---
+July 2025
+MOVE
+5"
+T H S • SYLVANETH WARSCROLL •
+L14 3+A
+A V TREELORD
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Strangleroots 10" 3 3+ 2+ 1 2 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sweeping Blows 5 4+ 2+ 1 2 Anti-charge (+1 Rend)
+Massive Impaling Talons 2 4+ 2+ 2 3 Crit (Mortal)
+Passive Any Shooting Phase
+BATTLE DAMAGED ENTANGLING GRASP: Lashing
+Effect: While this unit has 10 or more strangleroots wrap around the foe, leaving
+damage points, the Attacks characteristic them ensnared and at the mercy of the
+of its Sweeping Blows is 3. vengeful Sylvaneth.
+Declare: Pick an enemy unit that had
+Once Per Turn (Army), Any Combat Phase
+any damage points allocated to it this
+LASH AND TANGLE: As a Treelord lays turn by attacks made with this unit’s
+about themselves in combat, the whipping Strangleroots to be the target.
+tendrils that shoot from their barkflesh
+ensnare enemies and keep them at bay Effect: Roll a dice. On a 3+, the target
+with their frantic thrashing. cannot use Run or Retreat abilities
+until the start of your next turn.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a dice. On a 3+, subtract 1
+from wound rolls for the target’s attacks
+for the rest of the turn.
+Keywords Rampage
+Hero, Monster
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 16 ---
+July 2025
+MOVE
+5" • SYLVANETH WARSCROLL •
+T H S TREELORD
+L14 3+A
+A V
+E H E ANCIENT
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Doom Tendril Staff 18" 4 4+ 3+ 1 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sweeping Blows 5 4+ 2+ 1 2 Anti-charge (+1 Rend)
+Massive Impaling Talons 2 4+ 2+ 2 3 Crit (Mortal)
+Passive Once Per Turn (Army), Your Hero Phase
+BATTLE DAMAGED AWAKENING THE WOOD: At a
+Effect: While this unit has 10 or more Treelord Ancient’s command, wyldwood
+damage points, the Attacks characteristic trees come to life and attack with twisted
+of its Sweeping Blows is 3. branches and thorny boughs.
+Declare: Pick a visible friendly Awakened
+Once Per Turn (Army), Any Combat Phase
+Wyldwood wholly within 18" of this unit
+GROUNDSHAKER: The earth quakes to be the target.
+as this mighty tree spirit stamps its limbs,
+shaking the enemy’s wits. Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage equal to
+Declare: Pick an enemy unit in combat the roll on each enemy unit within the
+with this unit to be the target. target’s combat range.
+Effect: Roll a dice. On a 4+, the target has
+Strike-last for the rest of the turn.
+Keywords Rampage
+Hero, Monster, Wizard (1)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 17 ---
+July 2025
+MOVE
+6"
+H
+T S • SYLVANETH WARSCROLL •
+L 5 5+A
+A V BRANCHWYCH
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Crit (Auto-wound),
+Swarm of Spites 12" 6 4+ 4+ 1 1
+Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Greenwood Scythe
+3 3+ 4+ 1 D3 -
+and Bittergrub
+Once Per Turn (Army),
+Enemy Combat Phase
+FURY OF THE FOREST: Fiercely
+protective of the forests, Branchwyches
+provoke fury in their kin should their
+sacred domains and soulpod groves
+be threatened.
+Declare: If this unit is wholly within 6" of
+any friendly Awakened Wyldwoods, pick
+a friendly Sylvaneth unit wholly within
+12" of this unit to be the target.
+Effect: Roll a dice. On a 3+, the target has
+Strike-first for the rest of the turn.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 18 ---
+July 2025
+MOVE
+12"
+H
+T S • SYLVANETH WARSCROLL •
+L 2 5+A
+A V GOSSAMID ARCHERS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Crit (Auto-wound),
+Gossamid Bow 12" 2 3+ 3+ 1 1
+Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cruel Talons 1 3+ 4+ - 1 -
+Passive Once Per Turn, Any Shooting Phase
+FOREST FIGHTERS: These warriors ZEPHYRSPITES: These buzzing insectile
+fight in loosely scattered formations, the symbiotes can be released to confound the
+better to take advantage of the terrain in attacks of the foe for a short time as their
+their arboreal domains. masters sprint off to find safety anew.
+Effect: This unit has a coherency range Effect: If this unit used a Shoot ability
+of 2". this phase, this unit can move D6". It
+cannot end that move in combat.
+Infantry, Champion, Fly
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 19 ---
+July 2025
+MOVE
+5"
+H
+T S • SYLVANETH WARSCROLL •
+L 2 5+A
+A V THE TWISTWEALD
+E E
+H
+1
+CONTROL
+RANGED WEAPONS RRnngg Atk Hit WndRndDDmmgg Ability
+Voracious Swarm 10" 6 3+ 4+ 1 1 Shoot in Combat
+Warden’s Bow 18" 2 3+ 4+ 1 1 -
+MELEE WEAPONS Atk Hit WndRndDDmmgg Ability
+Twistroot Talons 3 3+ 4+ - 1 -
+Warden’s Blade 2 3+ 4+ 1 22 --
+Each model in this unit is armed with
+Twistroot Talons.
+• The champion is a Swarmsage and is also
+armed with a Voracious Swarm.
+• 2/8 models are Twistroot Wardens and
+must replace their Twistroot Talons with a
+Warden’s Blade.
+• 1/2 Twistroot Wardens can replace their
+Warden’s Blade with a Warden’s Bow and
+Twistroot Talons.
+Once Per Turn (Army),
+Any Movement Phase
+ERUPTION OF THORNED VINES:
+Barbed vines burst from the ground and
+infected Sylvaneth flesh to ensnare foes,
+slowing their movement and forcing them
+to confront the Twistweald head on.
+Declare: If this unit is more than 6" from
+all other friendly Sylvaneth units, pick
+an enemy unit within 12" of this unit to
+be the target.
+Effect: Subtract D3 from charge rolls for
+the target for the rest of the turn.
+Infantry, Champion (1/8)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 20 ---
+July 2025
+MOVE
+12" • SYLVANETH WARSCROLL •
+T H S SPITERIDER
+L 5 4+A
+A V
+E E
+H LANCERS
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Spiterider Lance 3 3+ 4+ 1 1
+Anti-Cavalry (+1 Rend)
+Charge (+1 Damage),
+Sharp Mandibles 3 4+ 3+ 1 1
+Companion
+Passive Any Combat Phase
+FOREST FIGHTERS: These warriors DESCENT OF THE SPITERIDERS:
+fight in loosely scattered formations, the Should the buzzing chorus of the Spiterider
+better to take advantage of the terrain in Lancers be heard, it is already too late to
+their arboreal domains. evade their devastating charge.
+Effect: This unit has a coherency range Effect: If this unit charged this turn, roll a
+of 2". dice. On a 3+, this unit has Strike-first
+for the rest of the turn.
+End of Any Turn
+THRUMMING WITH LIFE:
+Ancient creatures who endured the death
+of a world, dragonspites possess a deep
+connection to the energies of life, and are
+almost impossible to slay.
+Effect:Heal (3) this unit.
+Cavalry, Champion, Musician (1/3), Standard Bearer (1/3), Fly
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 21 ---
+July 2025
+MOVE
+12"
+H
+T S • SYLVANETH WARSCROLL •
+L 5 4+A
+A V REVENANT SEEKERS
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Seeker’s Sickle 3 3+ 4+ 1 1 Crit (Mortal)
+Charge (+1 Damage),
+Sharp Mandibles 3 4+ 3+ 1 1
+Companion
+Passive End of Any Turn
+FOREST FIGHTERS: These warriors THRUMMING WITH LIFE:
+fight in loosely scattered formations, the Ancient creatures who endured the death
+better to take advantage of the terrain in of a world, dragonspites possess a deep
+their arboreal domains. connection to the energies of life, and are
+almost impossible to slay.
+Effect: This unit has a coherency range
+of 2". Effect:Heal (3) this unit.
+Passive
+HARVESTERS OF THE LAMENTIRI:
+The lamentiri collected by Revenant
+Seekers are potent stores of life energy that
+can be harnessed in desperate situations to
+heal and empower fellow Sylvaneth.
+Effect: Each time a friendly unit wholly
+within 12" of any friendly Revenant
+Seekers units uses the ‘Rally’ command,
+you can make 3 additional rally rolls
+of D6.
+Cavalry, Champion, Musician (1/3), Standard Bearer (1/3), Fly
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 22 ---
+July 2025
+MOVE
+• SYLVANETH WARSCROLL •
+5"
+H KURNOTH
+T S
+L 5 4+A
+A V
+E H E HUNTERS
+2
+CONTROL WITH KURNOTH GREATSWORDS
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Kurnoth Greatsword 4 3+ 3+ 1 2 Crit (Mortal)
+Passive Any Combat Phase
+ENVOYS OF THE EVERQUEEN: TRAMPLE UNDERFOOT: Kurnoth
+Kurnoth Hunters heed the will of Alarielle Hunters use their size and strength against
+through arcane vibrations in nexuses of their foes, stamping on and crushing them.
+the realmroots.
+Declare: If this unit charged this turn,
+Effect: While this unit is contesting pick an enemy unit that is in combat with
+an objective, friendly Sylvaneth this unit to be the target.
+units contesting that objective have
+Effect: Roll a dice for each model in this
+Ward (6+).
+unit. For each 3+, inflict 1 mortal damage
+on the target.
+Infantry, Champion
+KEYWORDS
+Order, Sylvaneth, Kurnothi
+
+--- Page 23 ---
+July 2025
+MOVE
+• SYLVANETH WARSCROLL •
+5"
+H KURNOTH
+T S
+L 5 4+A
+A E E V HUNTERS
+H
+2
+CONTROL WITH KURNOTH SCYTHES
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Kurnoth Scythe 3 3+ 3+ 1 3 Anti-charge(+1 Rend)
+Passive Any Combat Phase
+ENVOYS OF THE EVERQUEEN: TANGLETHORN THICKET: Kurnoth
+Kurnoth Hunters heed the will of Alarielle Hunters sprout thick weaves of thorned
+through arcane vibrations in nexuses of branches that pin their foe in place and
+the realmroots. tear them to shreds if they try to move.
+Effect: While this unit is contesting Declare: Pick an enemy unit that charged
+an objective, friendly Sylvaneth this turn and is in combat with this unit
+units contesting that objective have to be the target.
+Ward (6+).
+Effect: Roll a dice for each model in this
+unit. For each 3+, inflict 1 mortal damage
+on the target.
+Infantry, Champion
+KEYWORDS
+Order, Sylvaneth, Kurnothi
+
+--- Page 24 ---
+July 2025
+MOVE
+• SYLVANETH WARSCROLL •
+5"
+H KURNOTH
+T S
+L 5 4+A
+A E E V HUNTERS
+H
+2
+CONTROL WITH KURNOTH GREATBOWS
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Kurnoth Greatbow 18" 2 3+ 3+ 1 2 Anti-Hero (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Vicious Claws 3 3+ 3+ - 1 -
+Your Shooting Phase Passive
+STEADY AIM: Kurnoth Hunters take ENVOYS OF THE EVERQUEEN:
+the time to steady their aim and line up Kurnoth Hunters heed the will of Alarielle
+a priority target before unleashing their through arcane vibrations in nexuses of
+arrows with deadly precision. the realmroots.
+Effect: For the rest of the turn, this unit Effect: While this unit is contesting an
+can ignore the effects of the ‘Guarded objective, friendly Sylvaneth units
+Hero’ ability (Core Rules, 25.0) when contesting that objective have Ward(6+).
+picking targets for its shooting attacks.
+Infantry, Champion
+KEYWORDS
+Order, Sylvaneth, Kurnothi
+
+--- Page 25 ---
+July 2025
+MOVE
+6"
+T H S • SYLVANETH WARSCROLL •
+L 1 5+A
+A V DRYADS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Wracking Talons 2 4+ 4+ - 1 -
+Passive
+BLESSINGS OF THE FOREST:
+The forest folk draw upon currents of life
+magic running through their surroundings
+like freshwater streams, harnessing the
+energies to shield themselves from harm.
+Effect: Subtract 1 from hit rolls and
+wound rolls for attacks that target this
+unit while it is wholly within 6" of any
+friendly Awakened Wyldwoods.
+Infantry, Champion
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 26 ---
+July 2025
+MOVE
+6"
+T H S • SYLVANETH WARSCROLL •
+A L 2 5+A V TREE-REVENANTS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Protector Glaive and Blade 2 3+ 4+ 1 1 -
+Once Per Turn (Army),
+Your Movement Phase
+WAYPIPER’S DANCE: The Tree-
+Revenants move with flowing grace,
+following their waypiper’s lead along the
+spirit paths to strike the enemy where it is
+most needed.
+Effect: If this unit is not in combat,
+remove it from the battlefield, and set it
+up again on the battlefield more than 9"
+from all enemy units.
+Keywords Core
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 27 ---
+July 2025
+MOVE
+5"
+T H S • SYLVANETH WARSCROLL •
+A L 2 5+A V SPITE-REVENANTS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cruel Talons and Fangs 3 3+ 4+ - 1 Crit (Mortal)
+Any Combat Phase
+UNBRIDLED MALICE: Spite-
+Revenants fill the air with blood-chilling
+curses and wailed disharmonies in
+unknowable tongues.
+Declare: Pick an enemy Infantry unit
+in combat with this unit to be the target.
+Effect: Roll a dice. On a 3+, the target
+cannot use commands for the rest of
+the turn.
+Infantry, Champion
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 28 ---
+July 2025
+MOVE
+8"
+T H S • SYLVANETH WARSCROLL •
+L 7 4+A
+A V GLADEWYRM
+E E
+H
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Fearsome Mandibles and
+6 4+ 2+ 1 D3 Anti-Wizard (+1 Rend)
+Bladed Carapace
+Your Movement Phase End of Any Turn
+BURROW BELOW: Navigating the FEED ON ELDRITCH ENERGY: The
+realmroots and ley lines in search of prey, Gladewyrm emerges from below to protect
+Gladewyrms are able to burrow deep into the realmroots from hostile magic.
+the earth before reappearing elsewhere.
+Declare: Pick an enemy Wizard in
+Effect: If this Manifestation is not in combat with this Manifestation to be
+combat, remove it from the battlefield the target.
+and set it up again on the battlefield more
+Effect: Subtract 1 from casting rolls,
+than 9" from all enemy non-Wizard
+unbinding rolls and banishment rolls for
+units and more than 3" from all
+the target until the end of your next turn.
+enemy Wizards.
+Keywords Core
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 29 ---
+July 2025
+MOVE
+8" • SYLVANETH WARSCROLL •
+T H S VENGEFUL
+L 8 4+A
+A V
+E E
+H SKULLROOT
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Lumbering Bulk 3 4+ 2+ 1 D3 -
+Passive
+CREEPING WILLOW
+Effect: This Manifestation counts
+as an Awakened Wyldwood for the
+purposes of the ‘Endless Growth’, ‘Walk
+the Hidden Paths’ and ‘Strike and
+Fade’ abilities.
+End of Any Turn
+VENGEFUL TERRORS: Wherever
+this rogue spirit creeps, its roots open the
+shallow graves of battles past, dragging
+grotesque remains to the surface which
+chill the hearts of the forest’s foes.
+Declare: Pick an enemy unit within 3" of
+this Manifestation to be the target.
+Effect: For the rest of the turn, subtract
+an amount from the target’s control
+score equal to the number of friendly
+units that have been destroyed this battle
+(not including Manifestations or
+Faction Terrain).
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 30 ---
+July 2025
+MOVE
+-
+H
+T S • SYLVANETH WARSCROLL •
+L 7 6+A
+A V SPITESWARM HIVE
+E E
+H
+7+
+BANISHMENT
+Your Hero Phase
+THE HIVE NOURISHES:Blessed are
+the Spiteswarms with Ghyranite magic,
+which suffuses their hives and drips
+from their mandibles. When these
+creatures are summoned forth by their
+Sylvaneth masters, they burst from the
+hive in obscuring clouds to bestow their
+healing bite.
+Declare: Pick a visible friendly
+Sylvaneth unit within 3" of this
+Manifestation to be the target.
+Effect: Roll a dice. On a 2+, pick 1 of the
+following effects to apply to the target for
+the rest of the turn:
+Vital Venoms: Add 1 to run rolls and
+charge rolls for the target.
+Shielding Swarm: The target has
+Ward (6+).
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 31 ---
+July 2025
+MOVE
+- • SYLVANETH WARSCROLL •
+T H S AWAKENED
+L 8 4+A
+A V
+E E
+H WYLDWOOD
+-
+CONTROL
+The following universal terrain abilities Passive
+apply to this terrain feature (Terrain, 1.2):
+GROWING WOODS: An Awakened
+Cover, Unstable, Obscuring Wyldwood varies greatly in size and scale
+but often grows rapidly once summoned by
+Deployment Phase
+the Sylvaneth.
+DEPLOY WYLDWOOD: The wyldwoods
+within which the Sylvaneth dwell are Effect: Each time you set up an
+possessed of a bitter animus. They stir for Awakened Wyldwood, you can place 1-3
+the sole purpose of excising intruders to scenery pieces (Terrain, 1.7). If you place
+their tree-kin’s territories. Their reaching more than 1 scenery piece, the tips at the
+branches and choking roots will crush, end of each base must touch, forming
+slash and stab through any that dare come a circle. The area inside this circle is
+near, watering the soil with their blood. considered to be part of this terrain
+feature. For each additional scenery piece
+Effect: Set up this terrain feature wholly
+in this terrain feature that is placed after
+within friendly territory, more than 3"
+the first:
+from all objectives and other terrain
+• Add 2 to the Health characteristic of
+features. This terrain feature has now
+this terrain feature.
+been deployed.
+• Increase the range of friendly abilities
+Keywords Deploy Terrain that require friendly models to be
+wholly within 6" of this terrain
+Passive feature by 3".
+OVERGROWN WILDERNESS: Only the
+Sylvaneth can see more than a few yards Once Per Turn (Army),
+into these foreboding thickets. Any Combat Phase
+VENGEFUL FOREST SPIRITS:
+Effect: Enemy units can be targeted
+The spirits within a Sylvaneth wyldwood
+by shooting attacks made by friendly
+are easily angered by trespassers into
+Sylvaneth units even if every model
+their domain.
+in that enemy unit is within 1" of this
+terrain feature. In addition, the Range Declare: Pick each enemy unit within
+characteristic of friendly Sylvaneth this terrain feature’s combat range to be
+units’ ranged weapons is not halved while the targets.
+every model in that friendly unit is within
+1" of this terrain feature. Effect: Roll a dice for each target. On a 4+,
+inflict D3 mortal damage on the target.
+Faction Terrain, Ward (5+)
+KEYWORDS
+Order, Sylvaneth
+
+--- Page 32 ---
+SYLVANETH
+BITTERBARK COPSE
+A Bitterbark Copse is a gathering of Sylvaneth that channels the spirit-song
+This Spearhead army consists of Alarielle’s warlike Summer Aspect to purge the enemies of natural law.
+of the following units: They are led by a Branchwych, a vengeful creature of bark and briar that
+cleaves through foes with their scythe. Fiercely protective of both their forest
+GENERAL and their kin, each Branchwych wields verdant magic that allows them to
+Branchwych weave sundered Sylvaneth barkflesh back together or add a thorned edge to
+their enchanted weapons.
+UNITS
+1 Treelord Alongside them stride the wood-sinewed warriors of the Copse. Kurnoth
+3 Kurnoth Hunters Hunters fire with devastating accuracy from the back lines. They are
+5 Tree-Revenants uniquely in tune with the vibrations of the realmroots, allowing them to
+draw upon Alarielle’s might wherever they might be. Defending them are
+the Tree-Revenants, fey beings imbued with the memories of their fallen
+ancestors, who have ever sought to protect natural places of power. With
+centuries of experience to draw on, they are martial experts, able to switch
+between attacking and defending with natural fluidity. Each Copse is also
+accompanied by a Treelord, an ancient arboreal giant. Each one has lived for
+untold years, growing ever taller, wiser and more fearsome in battle.
+‘Our enemies’ corpses shall nourish the lands that they
+sought to destroy.’
+– Branchwych Saoirsa
+Studio editor Kelly’s copse of Sylvaneth hail from the Summerglade in Ghyran. To reflect their lush habitat, she has
+used bright greens and oranges to represent the height of summer, with lots of foliage and flowers.
+
+--- Page 33 ---
+BATTLE TRAITS
+Once Per Turn, End of Any Turn Once Per Turn, End of Any Turn
+LEY LINES: The Sylvaneth STRIKE AND FADE: These
+draw strength from natural sites warriors use the spirit paths to
+of mystical power. ambush the enemy before retreating
+back into the shadows.
+Effect:Heal (1) each friendly
+unit that is within 3" of any Declare: Pick a friendly unit that
+terrain features. used a Fight ability this turn and is
+within 3" of any terrain features, then
+roll a dice.
+Effect: On a 2+, remove that unit
+from the battlefield and set it up
+again so that each model in the unit is
+within 3" of any terrain features and
+more than 6" from all enemy units.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Turn, End of Any Turn Once Per Turn, Your Movement Phase
+VENGEFUL SPIRITS OF THE LAND: The WALKERS OF THE HIDDEN PATHS: These
+realm-spirits lingering around the ancient sites mysterious warriors walk the realmroots.
+are roused to wrath and unleashed upon the
+Sylvaneth’s enemies. Declare: Pick a friendly unit that is within 3" of any
+terrain features and not in combat.
+Declare: Pick an enemy unit that is contesting an
+objective and roll a dice. Effect: Remove that unit from the battlefield and
+set it up again more than 6" from all enemy units.
+Effect: On a 4+, inflict D3 mortal damage on that That unit cannot use Move abilities for the rest of
+enemy unit. the phase.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Your Hero Phase Passive
+REGROWTH: Your general channels an GNARLED WARRIOR: This Sylvaneth’s battle-
+invigorating bloom of magic. scarred hide has turned aside countless blades.
+Declare: Pick a visible friendly unit wholly within Effect: Ignore negative modifiers to save rolls for
+18" of your general to be the target, then make a your general.
+casting roll of 2D6.
+Effect: On a 5+, Heal (D6) the target.
+Your Hero Phase Passive
+TREESONG: Your general implores the spirits of the SEED OF REBIRTH: Should its bearer ever fall,
+wyldwoods to guide the blades of their allies. the seed will grant them new life.
+Declare: Pick a visible friendly unit wholly within Effect: If your general would be destroyed, before
+12" of your general to be the target, then make a removing them from play, roll a dice. On a 3+, your
+casting roll of 2D6. general is not destroyed and any remaining damage
+points inflicted on them have no effect. Then,
+Effect: On a 7+, add 1 to the Rend characteristic of Heal (1) your general.
+the target unit’s melee weapons until the start of your
+next turn.
+
+--- Page 34 ---
+BATT LE TRA ITS
+Once Per Turn, End of Any Turn Once Per Turn, End of Any Turn
+LEY LINES: Th e Sylvaneth STRIKE AND FADE: Th ese
+draw strength from natural sites warriors use the spirit paths to
+of mystical power. ambush the enemy before retreating
+back into the shadows.
+Eff ect:Heal (1) each friendly
+unit that is within 3" of any Declare: Pick a friendly unit that
+terrain features. used a Fight ability this turn and is
+within 3" of any terrain features, then
+roll a dice.
+Eff ect: On a 2+, remove that unit
+from the battlefi eld and set it up
+again so that each model in the unit is
+within 3" of any terrain features and
+more than 6" from all enemy units.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Turn, End of Any Turn Once Per Turn, Your Movement Phase
+VENGEFUL SPIRITS OF THE LAND: WALKERS OF THE HIDDEN PATHS: Th ese
+Th e realm-spirits lingering around the ancient mysterious warriors walk the realmroots.
+sites are roused to wrath and unleashed upon the
+Sylvaneth’s enemies. Declare: Pick a friendly unit that is within 3" of any
+terrain features and not in combat.
+Declare: Pick an enemy unit that is contesting an
+objective and roll a dice. Eff ect: Remove that unit from the battlefi eld and
+set it up again more than 6" from all enemy units.
+Eff ect: On a 4+, infl ict D3 mortal damage on that Th at unit cannot use Move abilities for the rest of
+enemy unit. the phase.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Your Hero Phase Passive
+REGROWTH: Your general channels an GNARLED WARRIOR: Th is Sylvaneth’s battle-
+invigorating bloom of magic. scarred hide has turned aside countless blades.
+Declare: Pick a visible friendly unit wholly within Eff ect: Ignore negative modifi ers to save rolls for
+18" of your general to be the target, then make a your general.
+casting roll of 2D6.
+Eff ect: On a 5+, Heal (D6) the target.
+Your Hero Phase Passive
+TREESONG: Your general implores the spirits of SEED OF REBIRTH: Should its bearer ever fall,
+the wyldwoods to guide the blades of their allies. the seed will grant them new life.
+Declare: Pick a visible friendly unit wholly within Eff ect: If your general would be destroyed, before
+12" of your general to be the target, then make a removing them from play, roll a dice. On a 3+, your
+casting roll of 2D6. general is not destroyed and any remaining damage
+points infl icted on them have no eff ect. Th en,
+Eff ect: On a 7+, add 1 to the Rend characteristic of Heal (1) your general. Th is unit cannot use this
+the target unit’s melee weapons until the start of your ability again for the rest of the battle.
+next turn.
+45
+SPEARHEAD
+
+--- Page 35 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+6"
+BRANCHWYCH
+5 5+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Greenwood Scythe and Bittergrub 3 3+ 4+ 1 D3 -
+Warrior matriarchs and Your Hero Phase
+guardians of the Sylvaneth’s VERDUROUS HARMONY: The wizard plucks
+legacy, Branchwyches lead
+their kin to battle with blasts reviving motes of magic from the air and uses them to
+of sorcery and hissing swings renew the broken forms of fallen warriors.
+of their scythes, even as their
+bittergrub familiars lash and Declare: Pick a visible friendly unit wholly within 18"
+bite their adversaries. These of this unit to be the target, then make a casting roll
+same weapons are used when of 2D6.
+the fighting is done to harvest
+the life essence and memories Effect: On a 7+, you can return 1 slain model to the
+from the Sylvaneth’s fallen. It is target unit. If you picked a Tree-Revenants unit, you
+the duty of the Branchwyches can return D3 slain models instead of 1.
+to revive their kin with the
+verdurous harmonies of Ghyran
+and, if they fall, to plant their
+lamentiri amidst the soulpod
+groves to allow Alarielle’s future
+children to inherit the feelings
+and experiences within them.
+KEYWORDS Hero, Wizard, Infantry
+• SPEARHEAD WARSCROLL •
+5"
+TREELORD
+14 3+
+5
+Treelords stomp towards the
+enemy with earth-shaking
+strides. Their roots burrow
+through the soil as fast as arrows
+through the air, exploding Any Combat Phase
+from the ground to rend and
+throttle, while every swing of GROUNDSHAKER: The earth quakes as the Treelord
+their vast talons slaughters stamps down hard, shaking the enemy’s wits.
+another swathe of foes. Each
+one draws upon the experience Declare: Pick an enemy unit in combat with this unit to
+of several mortal lifespans in be the target, then roll a dice.
+battle. Their sheer power and
+dominance of the battlefield Effect: On a 4+, the target has Strike-last this phase.
+allows smaller Sylvaneth kin to
+dart around them and pick apart
+floundering enemy formations. Passive
+The great strength and wisdom
+BATTLE DAMAGED
+of Treelords often sees them act
+as the captains and champions Effect: While this unit has 10 or
+of each wargrove. more damage points, the Attacks
+characteristic of its Massive
+Impaling Talons is 1.
+KEYWORDS Monster
+
+--- Page 36 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+6"
+BRANCHWYCH
+5 5+
+2
+Warrior matriarchs and Your Hero Phase
+guardians of the Sylvaneth’s VERDUROUS HARMONY: The wizard plucks
+legacy, Branchwyches lead
+their kin to battle with blasts reviving motes of magic from the air and uses them to
+of sorcery and hissing swings renew the broken forms of fallen warriors.
+of their scythes, even as their
+bittergrub familiars lash and Declare: Pick a visible friendly unit wholly within 18"
+bite their adversaries. These of this unit to be the target, then make a casting roll
+same weapons are used when of 2D6.
+the fighting is done to harvest
+the life essence and memories Effect: On a 7+, you can return 1 slain model to the
+from the Sylvaneth’s fallen. It is target unit. If you picked a Tree-Revenants unit, you
+the duty of the Branchwyches can return D3 slain models instead of 1.
+to revive their kin with the
+verdurous harmonies of Ghyran
+and, if they fall, to plant their
+lamentiri amidst the soulpod
+groves to allow Alarielle’s future
+children to inherit the feelings
+and experiences within them.
+KEYWORDS Hero, Wizard, Infantry
+• SPEARHEAD WARSCROLL •
+5"
+TREELORD
+14 3+
+5 RANGED WEAPONS Range AAttttaacckkss Hit Wound Rend Damage Ability
+Strangleroots 10" 3 3+ 2+ 1 2 Shoot in Combat
+MELEE WEAPONS AAttttaacckkss Hit Wound Rend Damage Ability
+Treelords stomp towards the Sweeping Blows 5 4+ 2+ 1 2 -
+enemy with earth-shaking
+Massive Impaling Talons 2 4+ 2+ 2 3 -
+strides. Their roots burrow
+through the soil as fast as arrows
+through the air, exploding Any Combat Phase
+from the ground to rend and
+throttle, while every swing of GROUNDSHAKER: The earth quakes as the Treelord
+their vast talons slaughters stamps down hard, shaking the enemy’s wits.
+another swathe of foes. Each
+one draws upon the experience Declare: Pick an enemy unit in combat with this unit to
+of several mortal lifespans in be the target, then roll a dice.
+battle. Their sheer power and
+dominance of the battlefield Effect: On a 4+, the target has Strike-last this phase.
+allows smaller Sylvaneth kin to
+dart around them and pick apart
+floundering enemy formations. Passive
+The great strength and wisdom
+BATTLE DAMAGED
+of Treelords often sees them act
+as the captains and champions Effect: While this unit has 10 or
+of each wargrove. more damage points, the Attacks
+characteristic of its Massive
+Impaling Talons is 1.
+KEYWORDS Monster
+
+--- Page 37 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+KURNOTH HUNTERS
+5 4+
+2 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Kurnoth Greatbow 18" 2 3+ 3+ 1 2 -
+MMEELLEEEE WWEEAAPPOONNSS Attacks Hit WWoouunndd Rend Damage Ability
+Champions amongst the forest Vicious Claws 3 3+ 3+ - 1 -
+kindred, each Kurnoth Hunter
+is skilled in the use of a variety
+of enchanted weapons, among Passive
+them a greatbow the size of an ENVOYS OF THE
+artillery piece. The first of these EVERQUEEN: Kurnoth Hunters
+ferocious warriors was planted
+after Alarielle came into her can channel a fraction of their
+summer aspect, imbuing her goddess’s divine power through
+chosen envoys with the tenacity those sites that resonate with
+and strength required for war. the realmroots.
+They are particularly in tune
+with the realmroots, allowing Effect: While this unit is
+them to sense the Everqueen’s contesting an objective, friendly
+will and convey orders to their units contesting that objective have
+kin. During battle, Kurnoth Ward (6+).
+Hunters armed with bows will
+dig their roots into the ground
+and fire into the enemy’s lines
+tirelessly, weathering any
+oncoming storm.
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+6"
+TREE-REVENANTS
+2 5+
+1
+The Tree-Revenants move with Any Combat Phase
+flowing grace, flickering along MARTIAL MEMORIES: Tree-
+the spirit paths to carve their
+way through the enemy’s ranks. Revenants can draw on centuries of
+Their highly ritualised way of experience when they go to war.
+war lends them a lethal speed
+Effect: Pick 1 of the following
+and skill that few enemies can
+stand against. Each one has a effects to apply to this unit
+lamentiri at their core, a seed this phase:
+imbued with the memories
+and experiences of those who Memories of War: Add 1 to hit
+came before. This allows the rolls for attacks made by this unit.
+Tree-Revenants to accumulate
+multiple mortal lifetimes’ Memories of Peace: Add 1 to save
+worth of martial memories, rolls for this unit.
+strengthened by their eternal
+desire to protect their homes
+and kin.
+KEYWORDS Infantry, Reinforcements
+
+--- Page 38 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+5"
+KURNOTH HUNTERS
+5 4+
+2
+Champions amongst the forest
+kindred, each Kurnoth Hunter
+is skilled in the use of a variety
+of enchanted weapons, among Passive
+them a greatbow the size of an ENVOYS OF THE
+artillery piece. The first of these EVERQUEEN: Kurnoth Hunters
+ferocious warriors was planted
+after Alarielle came into her can channel a fraction of their
+summer aspect, imbuing her goddess’s divine power through
+chosen envoys with the tenacity those sites that resonate with
+and strength required for war. the realmroots.
+They are particularly in tune
+with the realmroots, allowing Effect: While this unit is
+them to sense the Everqueen’s contesting an objective, friendly
+will and convey orders to their units contesting that objective have
+kin. During battle, Kurnoth Ward (6+).
+Hunters armed with bows will
+dig their roots into the ground
+and fire into the enemy’s lines
+tirelessly, weathering any
+oncoming storm.
+KEYWORDS Infantry
+• SPEARHEAD WARSCROLL •
+6"
+TREE-REVENANTS
+2 5+
+1 MELEE WEAPONS AAttttaacckkss Hit WWoouunndd RReenndd DDaammaaggee Ability
+Enchanted Blade 2 3+ 4+ 1 1 -
+The Tree-Revenants move with Any Combat Phase
+flowing grace, flickering along MARTIAL MEMORIES: Tree-
+the spirit paths to carve their
+way through the enemy’s ranks. Revenants can draw on centuries of
+Their highly ritualised way of experience when they go to war.
+war lends them a lethal speed
+Effect: Pick 1 of the following
+and skill that few enemies can
+stand against. Each one has a effects to apply to this unit
+lamentiri at their core, a seed this phase:
+imbued with the memories
+and experiences of those who Memories of War: Add 1 to hit
+came before. This allows the rolls for attacks made by this unit.
+Tree-Revenants to accumulate
+multiple mortal lifetimes’ Memories of Peace: Add 1 to save
+worth of martial memories, rolls for this unit.
+strengthened by their eternal
+desire to protect their homes
+and kin.
+KEYWORDS Infantry, Reinforcements

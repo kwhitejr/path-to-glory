@@ -1,0 +1,2414 @@
+--- Page 1 ---
+FACTION PACK
+CITIES SIGMAR
+OF
+
+--- Page 2 ---
+BATTLE TRAITS
+Cities of Sigmar armies can use the following abilities:
+Your Movement Phase Any Charge Phase
+ADVANCE IN FORMATION: The sound STRIKE THEM DOWN: The soldiers are
+of boots marching in unison grows louder. ordered to cut down the enemy post-haste.
+Declare: Pick a friendly Cities of Declare: Pick a friendly Cities of
+Sigmar Hero that has not used an Sigmar Hero that has not used an
+Officar’s Order ability this turn to use Officar’s Order ability this turn to use
+this ability, then pick a friendly Cities this ability, then pick a friendly Cities
+of Sigmarunit wholly within 12" of that of Sigmar unit that charged this turn
+Hero and not in combat to be the target. that is wholly within 12" of that Hero to
+If the target is Human, you can pick be the target.
+an additional Cities of Sigmarunit
+Effect: Add 1 to the Attacks characteristic
+wholly within 12" of that Hero and not
+of the target’s melee weapons for the rest
+in combat to be a target. You cannot pick
+of the turn.
+the same unit to be a target of this ability
+more than once per turn. In addition, if the target is an Aelf unit,
+add 1 to hit rolls for the target’s combat
+Effect: Each target can move 3". Each
+attacks for the rest of the turn.
+target cannot move into combat during
+any part of that move. Keywords Officar’s Order
+Keywords Officar’s Order
+Any Combat Phase
+Any Shooting Phase HOLD THE LINE: A close-formation
+battleline held by the resolute faithful of
+SUPPRESSING FIRE: A barrage of shots
+Sigmar is nigh impossible to penetrate.
+rains down upon the foe, disrupting their
+cohesion and leaving them vulnerable. Declare: Pick a friendly Cities of
+Sigmar Hero that has not used an
+Declare: Pick a friendly Cities of
+Officar’s Order ability this turn to use
+Sigmar Hero that has not used an
+this ability, then pick a friendly Cities
+Officar’s Order ability this turn to use
+of Sigmar unit wholly within 12" of that
+this ability, then pick a friendly Cities
+Hero and that did not charge this turn to
+of Sigmar unit wholly within 12" of that
+be the target.
+Hero to be the target.
+Effect: The target has Strike-last and
+Effect: Each time the target uses a Shoot
+Ward (5+) for the rest of the turn.
+ability this phase, if all of its attacks
+targeted the same enemy unit, after that In addition, if the target is Duardin,
+ability has been resolved, roll a dice. subtract 1 from hit rolls for combat
+If the result is equal to or less than the attacks that target that unit for the rest of
+number of models in that enemy unit that the turn.
+were slain by shooting attacks this phase,
+Keywords Officar’s Order
+that enemy unit has Strike-last for the
+rest of the turn.
+Keywords Officar’s Order
+July 2025
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Cities of Sigmar army. Each battle
+fffffffffooooooooorrrrrrrrrmmmmmmmmmaaaaaaaaatttttttttiiiiiiiiiooooooooonnnnnnnnn gggggggggrrrrrrrrraaaaaaaaannnnnnnnntttttttttsssssssss aaaaaaaaa dddddddddiiiiiiiiiffffffffffffffffffeeeeeeeeerrrrrrrrreeeeeeeeennnnnnnnnttttttttt aaaaaaaaabbbbbbbbbiiiiiiiiillllllllliiiiiiiiitttttttttyyyyyyyyy yyyyyyyyyooooooooouuuuuuuuu cccccccccaaaaaaaaannnnnnnnn uuuuuuuuussssssssseeeeeeeee iiiiiiiiinnnnnnnnn ttttttttthhhhhhhhheeeeeeeee bbbbbbbbbaaaaaaaaattttttttttttttttttllllllllleeeeeeeee.........
+DAWNBRINGER CRUSADE IRONWELD GUILD ARMY
+Passive Passive
+‘FORWARD, DAWNERS!’: Though FAITH AND FIREPOWER: The
+the odds of their success have sunk to powerful guilds thrive in industrial cities
+desperate lows, new Dawnbringer columns such as Greywater Fastness, leveraging the
+plunge into the nightmarish wilds; armed skill of Ironweld engineers to supply their
+with potent weaponry, ready to drive great forces with expertly crafted weapons.
+spear-like assaults into enemy territory.
+Effect: Add 3" to the Range characteristic
+Effect: Add 2" to the Move characteristic of ranged weapons used by friendly
+of friendly Cities of Sigmar units in Cities of Sigmar units.
+the first battle round.
+COLLEGIATE ARCANE
+FORTRESS-CITY DEFENDERS
+EXPEDITION
+Passive Passive
+BULWARK ZONE: Each great fortress- ELDRITCH EXPERTISE: Whether from
+city is able to hold back the enemies at the the famed colleges of Hallowheart or the
+gates through the discipline and vigilance populace of Settler’s Gain, the Collegiate
+of their standing armies. Arcane often assembles forces to escort
+mages on their quests to acquire powerful
+Effect: Friendly Cities of Sigmar
+artefacts or drive back the forces of Chaos.
+units that have the ‘Fortify Position’
+ability start the first battle round in a Effect: Add 1 to casting rolls for friendly
+fortified position. Cities of Sigmar Wizards.
+In addition, in the first battle round,
+subtract 1 from wound rolls for attacks
+that target friendly Cities of Sigmar
+units while they are wholly within
+friendly territory.
+July 2025
+
+--- Page 4 ---
+HEROIC TRAITS
+SENTINELS OF ORDER (Hero only)
+Passive Passive
+MASTER OF BALLISTICS: This hero GRIZZLED VETERAN: This hero has
+takes great pride in the quality of the seen countless battles in their time and is
+firearms forged in their city. Thus, they able to withstand even the mightiest blows.
+demand the most from the weapons’
+Effect: If the unmodified wound roll for
+wielders in battle.
+an attack that targets this unit is a 1-3, the
+Effect: If a friendly Cities of Sigmar attack fails and the attack sequence ends.
+unit uses the ‘All-out Attack’ command
+in the shooting phase while it is within Passive
+this unit’scombat range, add 1 to wound
+FIERY TEMPER: While rash and
+rolls for that unit’s shooting attacks in
+impulsive, this general shows unwavering
+that phase. This effect is in addition to the
+bravery in the face of the enemy and is
+effect of ‘All-out Attack’.
+often the first to charge into the fray.
+Effect: If this unit charged this turn,
+you can re-roll charge rolls for friendly
+Cities of Sigmar units while they are
+wholly within 18" of this unit.
+ARTEFACTS OF POWER
+TREASURES OF THE CITIES (Hero only)
+Passive Passive
+SACRED TOME: Upon this ancient GLIMMERING: The glinting facets of
+parchment of this hallowed tome are the this tiny fragment of Mallus offer fleeting
+litanies of the Cults Unberogen. glimpses of the future.
+Effect: If this unit is not a Priest, it Effect: Each phase, you can re-roll 1 hit
+has Priest (1). If this unit is already roll, or 1 wound roll, or 1 save roll for
+a Priest, add 1 to chanting rolls for this unit.
+this unit.
+If this unit is a Wizard, it cannot use End of Any Turn
+Spell abilities and Prayer abilities in BRAZIER OF HOLY FLAME: This torch
+the same phase. symbolises the light of civilisation being
+carried into the darkness, a sacred act that
+emboldens those who march alongside it.
+Declare: Pick a friendly non-Hero Cities
+of SigmarInfantry unit that is not in
+combat and wholly within 12" of this unit.
+Effect: You can return up to D3 slain
+models to that unit.
+July 2025
+
+--- Page 5 ---
+SPELL LORE
+SPELLS OF THE COLLEGIATE ARCANE
+Your Hero Phase 7
+ELEMENTAL LIGHTNING: Lightning bursts from the wizard’s fingertips and arcs
+towards the enemy with crackling fury.
+Declare: Pick a friendly Cities of Sigmar Wizard to cast this spell, pick a visible
+enemy unit within 18" of them that has not been picked to be the target of this ability this
+turn to be the target, then make a casting roll of 2D6.
+Effect: Inflict D3 mortal damage on the target. Then, roll a dice for each other enemy unit
+within the target’s combat range. On a 4+, inflict D3 mortal damage on that unit.
+Keywords Spell, Unlimited
+Your Hero Phase 7 Your Hero Phase 7
+SPEED OF THE TWIN-TAILED CINDERCLOUD: Blinding sparks
+COMET: The wizard grants their allies and thick plumes of smoke mask the
+swift-moving bestial forms. battlefield and fall upon the enemy ranks,
+sowing confusion and stifling their assault.
+Declare: Pick a friendly Cities of
+Sigmar Wizard to cast this spell, pick Declare: Pick a friendly Cities of
+a visible friendly Cities of Sigmar unit Sigmar Wizard to cast this spell, pick
+wholly within 12" to be the target, then a visible enemy unit within 18" of them
+make a casting roll of 2D6. to be the target, then make a casting roll
+of 2D6.
+Effect: Until the start of your next turn,
+add 1 to the number of dice rolled when Effect: Until the start of your next turn,
+making charge rolls for the target, to a subtract 1 from the Attacks characteristic
+maximum of 3. of the target’s melee weapons.
+Keywords Spell Keywords Spell
+July 2025
+
+--- Page 6 ---
+PRAYER LORE
+SCRIPTURES OF SIGMAR
+Your Hero Phase 4
+WRATH AND RUIN: The very earth cracks before the priest, venting fire and
+sulphurous fumes that engulf the enemy.
+Declare: Pick a friendly Cities of Sigmar Priest to chant this prayer, pick a visible
+enemy unit within 18" of them to be the target, then make a chanting roll of D6.
+Effect: Roll 6 dice. If the chanting roll was 8+, roll 9 dice instead. For each 5+, inflict 1
+mortal damage on the target. If 3 or more damage points are allocated to the target as a
+result of those dice rolls, ignore positive modifiers to save rolls for the target until the start
+of your next turn.
+Keywords Prayer, Unlimited
+Your Hero Phase 4 Your Hero Phase 5
+UNFALTERING AIM: ThThee mmoommeenntt OATH AND STEEL: ThThee bblleessssiinngg ooff
+this prayer is answered, the wind dies the maker-gods hardens steel as each suit
+down to naught and weapons hold steady of armour remembers the hammer blows
+as if frozen in time, allowing shots to hit that forged it.
+their mark with ease.
+Declare: Pick a friendly Cities of
+Declare: Pick a friendly Cities of Sigmar Priest to chant this prayer, pick
+Sigmar Priest to chant this prayer, pick a visible friendly Cities of Sigmar unit
+a visible friendly Cities of Sigmar unit wholly within 12" of them to be the target,
+wholly within 12" of them to be the target, then make a chanting roll of D6. Add 1 to
+then make a chanting roll of D6. the roll if the chanter is Duardin.
+Effect: Add 1 to hit rolls for the target’s Effect: Subtract 1 from wound rolls for
+shooting attacks for the rest of the turn. attacks that target that unit until the
+In addition, if the chanting roll was 10+, start of your next turn. In addition, if
+add 1 to wound rolls for the target’s the chanting roll was 10+, add 1 to save
+shooting attacks for the rest of the turn. rolls for the target until the start of your
+Keywords Prayer next turn.
+Keywords Prayer
+July 2025
+
+--- Page 7 ---
+July 2025
+MOVE
+12" • CITIES OF SIGMAR WARSCROLL •
+H
+L T 15 4+ S A TAHLIA VEDRA
+A V
+E E
+H 5 LIONESS OF THE PARCH
+CONTROL
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Weapon of Office 6 3+ 4+ 1 2 -
+Infernadine’s Anti-Monster (+1 Rend),
+3 3+ 2+ 2 3
+Leonine Jaws Companion
+Infernadine’s Scorpid Stinger 2 4+ 2+ 3 D3+3 Companion
+Passive Passive
+BATTLE DAMAGED UNPARALLELED TACTICIAN: Not
+Effect: While this unit has 10 or more only does Vedra possess the ability to
+damage points, the Attacks characteristic formulate decisive plans in the very heat of
+of Infernadine’s Leonine Jaws is 2. battle, but she also has the guts to see her
+orders carried through to the very end.
+Once Per Battle (Army),
+Effect: When this unit uses an Officar’s
+Any Combat Phase
+Order ability, you can pick an additional
+LEAD FROM THE FRONT: The loyalty
+friendly Cities of Sigmar unit wholly
+Vedra commands from her soldiers is
+within 12" of this unit to be a target of
+unwavering, and the sight of her at the
+that ability.
+forefront of the assault inspires them to
+keep fighting till the bitter end.
+Once Per Turn (Army), Any Combat Phase
+Declare: If this unit is in combat, pick up
+PARALYSING VENOM: When an enemy
+to 3 other friendly Cities of Sigmar
+beast closes in on Infernadine, his scorpid
+units wholly within 12" of this unit to be
+tail darts forth, injecting a paralysing
+the targets.
+venom that quickly takes hold.
+Effect: For each target:
+Declare: Pick an enemy Monster that
+• Add 1 to wound rolls for combat attacks
+charged this turn and is in combat with
+made by that unit for the rest of the turn.
+this unit to be the target.
+• That unit has Ward (5+) for the rest of
+the turn. Effect: Roll a dice. On a 3+, the target has
+Strike-last for the rest of the turn.
+Keywords Rampage
+Warmaster, Unique, Hero, Monster, Fly, Ward (6+)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 8 ---
+July 2025
+MOVE
+5"
+H • CITIES OF SIGMAR WARSCROLL •
+L T 9 5+ S A PONTIFEX ZENESTRA
+A V
+E E
+H
+2 MATRIARCH OF THE GREAT WHEEL
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sceptre of the Wheel 3 4+ 4+ - D3 -
+Acolytes’ Club and Axe 4 4+ 4+ - 1 -
+Passive Your Hero Phase 5
+VOICE OF THE GOD-KING: Zenestra VESSEL OF SIGMAR: CChhaannnneelllliinngg
+is the mouthpiece of Sigmar himself upon the divine might of the God-King, Pontifex
+the battlefield; with a simple utterance, she Zenestra has the power to bless the very
+can banish the sorceries of the enemy. earth around her.
+Effect: This unit can use the ‘Unbind’ Declare: Make a chanting roll of D6.
+ability as if it had Wizard (1).
+Effect: Pick 1 of the following effects to
+apply until the start of your next turn.
+Pick up to 2 different effects instead if the
+chanting roll was 10+.
+The Great Wheel Turns:Add 2" to
+the Move characteristic of friendly
+Cities of Sigmar Human units if they
+are wholly within 12" of this unit at the
+start of the move.
+Hallowed Ground:Friendly Cities of
+Sigmar Human units have Ward (5+)
+while they are wholly within 12" of
+this unit.
+Cast Out Evil:Roll a D3 for each enemy
+Wizard and Priest on the battlefield.
+On a 2+, inflict an amount of mortal
+damage on that unit equal to the roll.
+Keywords Prayer
+Unique, Hero, Priest (2), Infantry, Ward (4+)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 9 ---
+July 2025
+MOVE
+6"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 1 6+A V FLAGELLANTS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRRnnddDDmmgg Ability
+Castigating Flails and Clubs 2 4+ 44++ - 1 -
+Passive
+GLORIOUS MARTYRS: When all hope
+is lost, a Flagellant will fling themselves at
+the enemy with reckless abandon, heedless
+of their own survival.
+Effect: Each time a model in this unit is
+slain by a combat attack and that model
+was in combat with the attacking unit,
+roll a dice. Add 1 to the roll if this unit is
+wholly within 12" of a friendly Pontifex
+Zenestra. On a 5+, inflict 1 mortal
+damage on the attacking unit after the
+Fight ability has been resolved.
+Infantry, Champion
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 10 ---
+July 2025
+MOVE
+• CITIES OF SIGMAR WARSCROLL •
+12"
+H FREEGUILD
+T S
+L15 4+A
+A E E V MARSHAL
+H
+5
+ON GRIFFON
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Marshal’s Armaments 5 3+ 4+ 1 2 Charge (+1 Damage)
+Griffon’s Razor Claws
+6 4+ 2+ 2 3 Companion
+and Deadly Beak
+Passive Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED PIERCING BLOODROAR: The shrill
+Effect: While this unit has 10 or more war cry of a mighty griffon can shatter the
+damage points, the Attacks characteristic enemy’s resolve.
+of its Griffon’s Razor Claws and Deadly
+Beak is 4. Declare: Pick up to 3 enemy units in
+combat with this unit to be the targets.
+Reaction: You declared the ‘Redeploy’ Effect: Roll a dice for each target. On a
+command for a friendly Cities of Sigmar 4+, the target cannot use commands for
+Human unit wholly within 12" of this unit
+the rest of the turn.
+TACTICAL ACUMEN: Those Freeguild Keywords Rampage
+Marshals who have earned the right to
+ride a griffon into battle not only are
+skilled warriors but also possess shrewd
+tactical minds.
+Effect: If you roll a 1-3 when determining
+the distance that unit can move, you can
+use a value of 4 instead.
+Hero, Monster, Fly
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 11 ---
+July 2025
+MOVE
+• CITIES OF SIGMAR WARSCROLL •
+5"
+H FREEGUILD
+T S
+L 5 3+A
+A E E V MARSHAL
+H
+2
+AND RELIC ENVOY
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Duelling Pistols 10" 4 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Heirloom Warhammer 3 4+ 2+ 2 3 -
+Master-forged Longsword 4 3+ 3+ 1 2 -
+Silvered Shortsword 4 3+ 3+ 1 1 -
+This unit is armed with 1 of the
+Start of Battle Round
+following options:
+ATTENDANT RELIC ENVOY: It is a
+• Duelling Pistols and Silvered Shortsword great honour for a Relic Envoy to serve
+• Master-forged Longsword beneath a Freeguild Marshal. Their duties
+• Heirloom Warhammer include hand-delivering messages to the
+This unit’s Relic Envoy is a token. soldiers of the line.
+Declare: Pick a friendly Cities of
+Passive
+Sigmar Human wholly within 18" of
+ROUSING ORATOR: In the face of
+this unit to be the target.
+the oncoming enemy, those Freeguild
+Marshals who stand shoulder to shoulder Effect: Place this unit’s Relic Envoy next
+with their soldiers employ rousing oratory to the target (if this unit’s Relic Envoy is
+to inspire them to stand strong. currently next to a different friendly unit,
+move it next to the target).
+Effect: Add 3 to the control scores
+of other friendly Cities of Sigmar While the target has a Relic Envoy next
+Human units while they are wholly to it, it can be picked to be the target of an
+within 12" of this unit. Officar’s Order ability even if it is not
+wholly within 12" of the friendly Hero
+using that ability.
+If this unit is destroyed, remove its
+Relic Envoy from the battlefield.
+Hero, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 12 ---
+July 2025
+MOVE
+10" • CITIES OF SIGMAR WARSCROLL •
+T H S FREEGUILD
+L 7 3+A
+A V
+E E
+H CAVALIER-MARSHAL
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Dragoon Pistol 10" 2 3+ 4+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Master-forged Cavalier Sword 5 3+ 4+ 1 2 -
+Warhorse’s Steel-shod Hooves 2 5+ 3+ - 1 Companion
+Passive Once Per Battle (Army),
+‘FOR SIGMAR, CHARGE!’: With their Any Combat Phase
+blade raised high, the Marshal signals the RUN DOWN THE FOE: With a Cavalier-
+charge of the Cavaliers. Marshal at the helm, a well-timed charge
+of Freeguild riders can shatter the enemy’s
+Effect: Add 1 to charge rolls for this unit
+formation before they can strike back.
+and for friendly Freeguild Cavaliers
+units while they are wholly within 12" of Declare: If this unit charged this turn,
+this unit. pick a friendly Cities of Sigmar
+Human Cavalry unit that charged this
+turn and is wholly within 12" of this unit
+to be the target.
+Effect: This unit and the target have
+Strike-first for the rest of the turn.
+Hero, Cavalry
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 13 ---
+July 2025
+MOVE
+5" • CITIES OF SIGMAR WARSCROLL •
+T H S FREEGUILD
+L 3 4+A
+A V
+E E
+H COMMAND CORPS
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sigmarite Great Weapon 4 3+ 3+ 1 D3 -
+Enchanted Rapier 1 2+ 4+ 2 D6 Crit (Mortal)
+Assortment of Weapons 2 3+ 4+ - 1 -
+Gargoylian’s Bite 3 4+ 3+ 1 D3 Companion
+The Great Herald, War Surgeon and
+Passive
+Soul Shepherd are each armed with an
+Assortment of Weapons. The Arch-Knight THE MARSHAL’S RETINUE: As well
+is armed with a Sigmarite Great Weapon. as bringing their diverse range of skills to
+The Whisperblade is armed with an the battlefield, the warriors and wisemen
+Enchanted Rapier. The Mascot Gargoylian of the Command Corps have each sworn to
+is armed with a Gargoylian’s Bite. guard the life of a Marshal with their own.
+Once Per Battle Round (Army), Effect: While any friendly Freeguild
+Any Hero Phase Marshal and Relic Envoy units are
+FREEGUILD ADJUTANTS: Each wholly within this unit’s combat range,
+member of the Command Corps has their both this unit and those friendly units
+own special skills to be employed. have Ward (5+).
+Declare: Pick a friendly Cities of
+Once Per Battle (Army), Reaction:
+Sigmar Human unit wholly within 12" Opponent declared a command for a unit
+of this unit to be the target. within 12" of this unit
+Effect: For the rest of the turn, the first DISPATCH SPIES: The Whisperblades
+time the target uses the ‘Redeploy’, have networks of informants and
+‘Rally’, ‘Covering Fire’ or ‘Counter- operatives at their disposal that they use to
+charge’ command, you can pick another unravel the best-laid plans of the enemy.
+friendly Cities of Sigmar Human
+Effect: Unless your opponent spends 1
+unit wholly within 12" of this unit and
+additional command point to use that
+that has not used a command this phase
+command, the command has no effect,
+to use the same command immediately
+it still counts as having been used and
+after the first has been resolved (this is an
+the command points spent to use the
+exception to Commands, 1.2). You must
+command are still lost.
+still spend command points as normal to
+use the command a second time.
+Infantry, Standard Bearer (1/6)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 14 ---
+July 2025
+MOVE
+5" • CITIES OF SIGMAR WARSCROLL •
+H
+L T 8 3+ S A FUSIL-MAJOR
+A V
+E E
+H 2 ON OGOR WARHULK
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Crit (Auto-wound),
+Long Fusil 24" 3 3+ 3+ 1 2
+Anti-Hero (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warhulk’s Mace 4 4+ 2+ 2 2 -
+Your Shooting Phase
+MARK TARGETS: Experts in ballistics,
+Fusil-Majors can direct the fire of
+nearby Castelite formations to eliminate
+priority targets.
+Declare: Pick an enemy unit that was
+targeted by this unit’s shooting attacks
+this turn to be the target.
+Effect: Add 1 to hit rolls for attacks made
+by friendly Cities of Sigmar Human
+units that target that unit for the rest of
+the turn.
+Your Movement Phase
+FORTIFY POSITION: The massive shield
+carried by a Warhulk is strong enough to
+deflect a blow from a gargant’s club.
+Effect: This unit establishes a fortified
+position and remains in a fortified
+position until it either uses a Move ability
+or is removed from the battlefield. While
+this unit is in a fortified position, subtract
+1 from the Rend characteristic of weapons
+used for attacks that target this unit.
+Keywords Core
+Hero, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 15 ---
+July 2025
+MOVE
+5"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 5 6+A V BATTLEMAGE
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk HHiitt WndRndDmg Ability
+Wizard’s Staff 3 44++ 4+ 1 D3 -
+Deployment Phase
+MAGIC OF THE REALMS: As varied
+as the Mortal Realms themselves, each
+Battlemage knows how to harness the
+arcane might of the land they call home.
+Effect: Pick a Spell ability that this unit
+can use. For the rest of the battle, add 1 to
+casting rolls for this unit when it uses that
+Spell ability.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 16 ---
+July 2025
+MOVE
+12" • CITIES OF SIGMAR WARSCROLL •
+H
+L T 15 4+ S A BATTLEMAGE
+A V
+E E
+H 5 ON GRIFFON
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Amber Spear 12" 3 4+ 3+ 1 D3 Anti-Monster (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Beaststaff 3 4+ 3+ 1 D3 -
+Griffon’s Razor Claws
+6 4+ 2+ 2 3 Companion
+and Twin Beaks
+Passive Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED GHURISH FEROCITY: The twin-
+Effect: While this unit has 10 or more headed griffons of Ghur ridden by Amber
+damage points, the Attacks characteristic Battlemages are alpha predators that prey
+of its Griffon’s Razor Claws and Twin upon other megafauna.
+Beaks is 4.
+Effect: Roll a dice. On a 2+, add 1 to
+the Damage characteristic of this unit’s
+Griffon’s Razor Claws and Twin Beaks
+for attacks that target enemy Monsters
+for the rest of the turn.
+Keywords Rampage
+Hero, Monster, Wizard (1), Fly
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 17 ---
+July 2025
+MOVE
+8" • CITIES OF SIGMAR WARSCROLL •
+H
+L T 12 4+ S A BATTLEMAGE
+A V
+E E
+H 5 ON CELESTIAL HURRICANUM
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Wizard’s Staff 3 4+ 4+ 1 D3 -
+Warhorses’
+4 5+ 3+ - 1 Companion
+Steel-shod Hooves
+Once Per Turn (Army), Your Hero Phase Once Per Turn (Army),
+PORTENTS OF BATTLE: Celestial Your Shooting Phase
+Hurricanums leak magical energy, STORM OF SHEMTEK: A Celestial
+granting nearby soldiers visions of the Hurricanum can summon a magical
+imminent future that allow them to land storm to batter the foe with the fury of the
+their blows with uncanny accuracy. heavens. As the battle rages, the tempest
+grows ever stronger.
+Declare: Pick up to D3 visible friendly
+Cities of Sigmar Human units wholly Declare: Pick a visible enemy unit within
+within 12" of this unit to be the targets. 12" of this unit to be the target.
+Effect: Add 1 to hit rolls for the targets’ Effect: Make a number of D3 rolls equal
+combat attacks until the start of your to the current battle round number. For
+next turn. each 2+, inflict an amount of mortal
+damage on the target equal to the roll.
+Hero, War Machine, Wizard (1)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 18 ---
+July 2025
+MOVE
+8" • CITIES OF SIGMAR WARSCROLL •
+H
+L T 12 4+ S A BATTLEMAGE
+A V
+E E
+H 5 ON LUMINARK OF HYSH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Searing Beam of Light 24" 1 2+ See below -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Wizard’s Staff 3 4+ 4+ 1 D3 -
+Warhorses’
+4 5+ 3+ - 1 Companion
+Steel-shod Hooves
+Passive Passive
+AURA OF PROTECTION: Luminarks SEARING BEAM OF LIGHT: As
+of Hysh are surrounded by a protective interlocking lenses of aetherquartz click
+magical aura. into place, a beam of blinding white light
+shoots forth to incinerate all before it.
+Effect: Friendly Cities of Sigmar units
+have Ward (6+) while they are wholly Effect: Each time this unit attacks with
+within 12" of this unit. its Searing Beam of Light, pick a point
+on the battlefield within range to be the
+target. If the attack scores a hit, draw
+a straight line between that point and
+the closest point on this unit’s base.
+Inflict D3 mortal damage on each visible
+unit (friendly and enemy) that the line
+passes across.
+Hero, War Machine, Wizard (1)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 19 ---
+July 2025
+MOVE
+5" • CITIES OF SIGMAR WARSCROLL •
+T H S FREEGUILD
+L 1 4+A
+A V
+E E
+H STEELHELMS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Freeguild Weapons 2 4+ 4+ - 1 -
+This unit’s musician and standard bearer
+are the same model.
+Once Per Turn (Army),
+Your Movement Phase
+CONSECRATE THE LAND: Bellowing
+Sigmarite hymns, the Battle Priest who
+accompanies the Steelhelms purges
+the taint of Chaos from the land and
+consecrates it in the name of the God-King.
+Declare: If this unit is contesting an
+objective you control that is not contested
+by any enemy models, roll a dice.
+Effect: On a 3+, that objective is
+considered by you to be consecrated.
+While each model in a friendly Cities
+of Sigmar Human unit is contesting
+a consecrated objective, that unit has
+Ward (5+). If your opponent gains
+control of a consecrated objective, it is no
+longer consecrated.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 20 ---
+July 2025
+MOVE
+5" • CITIES OF SIGMAR WARSCROLL •
+T H S FREEGUILD
+L 1 4+A
+A V
+E E
+H FUSILIERS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Fusil-cannon:
+18" 2 4+ 4+ 1 1 -
+Fortified Position
+Fusil-cannon: Mobile 12" 1 4+ 4+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bayonet 1 4+ 4+ - 1 -
+Passive Your Movement Phase
+FUSILIERS, FIRE!: When in position, FORTIFY POSITION: Heavy pavises are
+Fusiliers unleash devastating volleys of fire slammed into the dirt, forming a wall of
+into the enemy lines. oak and iron as strong as a fortification.
+Effect: Each time this unit uses a Shoot Effect: This unit establishes a fortified
+ability, if it is in a fortified position, it can position and remains in a fortified
+pick either of the ranged weapon profiles position until it either uses a Move ability
+for all the attacks it makes with its Fusil- or is removed from the battlefield. While
+cannons. If it is not in a fortified position, this unit is in a fortified position, subtract
+use the Mobile weapon characteristics. 1 from the Rend characteristic of weapons
+used for attacks that target this unit.
+Keywords Core
+Passive
+BLACKPOWDER SQUIRE: When
+ammunition runs low, Blackpowder
+Squires bring fresh supplies to the line.
+Effect: This unit has a Blackpowder
+Squire token. Each time this unit uses a
+Shoot ability, if this unit’s Blackpowder
+Squire is on the battlefield, you can
+re-roll 1 hit roll. If a hit roll re-rolled
+in this manner is 1, remove this unit’s
+Blackpowder Squire from the battlefield.
+Infantry, Champion, Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 21 ---
+July 2025
+MOVE
+8" • CITIES OF SIGMAR WARSCROLL •
+T H S CELESTIAL
+L10 4+A
+A V
+E E
+H HURRICANUM
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warhorses’
+4 5+ 3+ - 1 Companion
+Steel-shod Hooves
+Once Per Turn (Army), Your Hero Phase Once Per Turn (Army),
+PORTENTS OF BATTLE: Celestial Your Shooting Phase
+Hurricanums leak magical energy, STORM OF SHEMTEK: A Celestial
+granting nearby soldiers visions of the Hurricanum can summon a magical
+imminent future that allow them to land storm to batter the foe with the fury of the
+their blows with uncanny accuracy. heavens. As the battle rages, the tempest
+grows ever stronger.
+Declare: Pick up to D3 visible friendly
+Cities of Sigmar Human units wholly Declare: Pick a visible enemy unit within
+within 12" of this unit to be the targets. 12" of this unit to be the target.
+Effect: Add 1 to hit rolls for the targets’ Effect: Make a number of D3 rolls equal
+combat attacks until the start of your to the current battle round number. For
+next turn. each 2+, inflict an amount of mortal
+damage on the target equal to the roll.
+War Machine
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 22 ---
+July 2025
+MOVE
+8"
+H • CITIES OF SIGMAR WARSCROLL •
+T S
+A L10 4+A V LUMINARK OF HYSH
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Searing Beam of Light 24" 1 2+ See below -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Warhorses’
+4 5+ 3+ - 1 Companion
+Steel-shod Hooves
+Passive Passive
+AURA OF PROTECTION: Luminarks SEARING BEAM OF LIGHT: As
+of Hysh are surrounded by a protective interlocking lenses of aetherquartz click
+magical aura. into place, a beam of blinding white light
+shoots forth to incinerate all before it.
+Effect: Friendly Cities of Sigmar units
+have Ward (6+) while they are wholly Effect: Each time this unit attacks with
+within 12" of this unit. its Searing Beam of Light, pick a point
+on the battlefield within range to be the
+target. If the attack scores a hit, draw
+a straight line between that point and
+the closest point on this unit’s base.
+Inflict D3 mortal damage on each visible
+unit (friendly and enemy) that the line
+passes across.
+War Machine
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 23 ---
+July 2025
+MOVE
+10" • CITIES OF SIGMAR WARSCROLL •
+T H S FREEGUILD
+L 3 3+A
+A V
+E E
+H CAVALIERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cavalier Weapon 3 4+ 4+ 1 1 Charge (+1 Damage)
+Warhorse’s
+2 5+ 3+ - 1 Companion
+Steel-shod Hooves
+Any Charge Phase
+DEVASTATING CHARGE: Thundering
+across the battlefield, the Cavaliers build
+up momentum before smashing deep into
+the enemy’s ranks, laying about themselves
+with blade, axe, hammer and flail.
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a dice for each model in this
+unit that is in combat. For each 4+, inflict
+1 mortal damage on the target.
+Cavalry, Champion, Standard Bearer (1/5)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 24 ---
+July 2025
+MOVE
+3" • CITIES OF SIGMAR WARSCROLL •
+T H S IRONWELD
+L 8 4+A
+A V
+E H E GREAT CANNON
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRnd Dmg Ability
+Great Cannon: Cannonball 24" 2 4+ 2+ 2 D3+2 -
+Great Cannon: Grapeshot 12" 5 3+ 3+ 1 2 -
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Crew’s Tools and Sidearms 2 4+ 4+ - 1 -
+Passive Your Movement Phase
+SHOT AND SHELL: The engineers of the FORTIFY POSITION: This cumbersome
+Ironweld Arsenal have developed different war machine is wheeled into position
+ammunition for the Great Cannon to fire. with its heavy oaken shield facing the foe,
+protecting the crew from enemy fire.
+Effect: Each time this unit uses a Shoot
+ability, if it is in a fortified position, pick Effect: This unit establishes a fortified
+either the Cannonball or Grapeshot position and remains in a fortified
+weapon characteristics for all the attacks position until it either uses a Move ability
+it makes with its Great Cannon. If it or is removed from the battlefield. While
+is not in a fortified position, use the this unit is in a fortified position, subtract
+Grapeshot weapon characteristics. 1 from the Rend characteristic of weapons
+used for attacks that target this unit.
+Keywords Core
+War Machine
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 25 ---
+July 2025
+MOVE
+5" • CITIES OF SIGMAR WARSCROLL •
+T H S WILDERCORPS
+L 1 5+A
+A V
+E E
+H HUNTERS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Hunting Crossbow 15" 2 4+ 4+ 1 1 -
+Hunting Arbalest 15" 2 4+ 3+ 2 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Hunting Weapons 2 4+ 4+ - 1 -
+Trailhound’s Ferocious Bite 2 4+ 3+ - 1 Companion
+Each model in this unit is armed with a Deployment Phase
+Hunting Crossbow and Hunting Weapons.
+EXPERT TRACKERS: These soldiers
+• The champion is armed with a are tasked with scouting ahead of the
+Trailhound’s Ferocious Bite in addition to
+main advance.
+their other weapons.
+• 1/11 models is an Arbalester and is armed Effect: This unit can use the ‘Normal
+with a Hunting Arbalest instead of a
+Move’ ability as if it were your
+Hunting Crossbow.
+movement phase.
+• 4/11 models are Trailhounds and are
+armed with a Trailhound’s Ferocious Bite
+instead of any other weapons.
+• The champion cannot replace
+their weapons.
+Passive
+HIDDEN AND DANGEROUS: Lurking
+unseen by the enemy, Wildercorps Hunters
+stalk their quarry sometimes for days on
+end before they launch surprise volleys of
+crossbow bolts from hidden positions.
+Effect: This unit is not visible to enemy
+units more than 12" from it while it is
+affected by the ‘Cover’ terrain ability.
+In addition, add 1 to hit rolls for this
+unit’s shooting attacks while it is wholly
+within 3" of a terrain feature.
+Infantry, Champion (1/11)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 26 ---
+July 2025
+MOVE
+8" • CITIES OF SIGMAR WARSCROLL •
+T H S STEAM TANK
+L12 2+A
+A V
+E E
+H COMMANDER
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRnd Dmg Ability
+Steam Cannon 18" 1 4+ 2+ 2 D3+2 -
+Steam Gun 12" 2D6 2+ 4+ - 1 -
+Commander’s Rifle 18" 3 3+ 3+ 1 2 -
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Commander’s Sword 3 3+ 4+ 1 2 -
+Crushing Wheels 6 4+ 2+ 1 2 Companion
+Your Hero Phase Once Per Battle, Your Shooting Phase
+MORE PRESSURE!: Pumping pressure DIVISION COMMANDER: From
+into the valves and pistons of a Steam atop the turret, the commander directs
+Tank can improve its performance – but the other tanks in their division upon
+risks a catastrophic backfire. the battlefield.
+Effect: Roll 2D6. If the roll is less than the Declare: Pick up to 2 friendly Steam
+number of damage points this unit has, Tank units to be the targets.
+inflict D3 mortal damage on this unit.
+Effect: For the rest of the turn, add 1 to
+Otherwise, pick 1 of the following effects
+hit rolls for shooting attacks made by this
+to apply to this unit until the start of your
+unit and by each target.
+next turn:
+Power the Wheels: This unit can use a
+Run ability and still use Shoot and/or
+Charge abilities later in the turn.
+Power the Guns:Add 3 to the Attacks
+characteristic of this unit’s Steam Gun.
+Hero, War Machine
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 27 ---
+July 2025
+MOVE
+8"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L12 2+A V STEAM TANK
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRnd Dmg Ability
+Steam Cannon 18" 1 4+ 2+ 2 D3+2 -
+Steam Gun 12" 2D6 2+ 4+ - 1 -
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Crushing Wheels 6 4+ 2+ 1 2 Companion
+Your Hero Phase
+MORE PRESSURE!: Pumping pressure
+into the valves and pistons of a Steam
+Tank can improve its performance – but
+risks a catastrophic backfire.
+Effect: Roll 2D6. If the roll is less than the
+number of damage points this unit has,
+inflict D3 mortal damage on this unit.
+Otherwise, pick 1 of the following effects
+to apply to this unit until the start of your
+next turn:
+Power the Wheels: This unit can use a
+Run ability and still use Shoot and/or
+Charge abilities later in the turn.
+Power the Guns:Add 3 to the Attacks
+characteristic of this unit’s Steam Gun.
+War Machine
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 28 ---
+July 2025
+MOVE
+5"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 5 4+A V GALEN VEN DENST
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Spell-banishing Pistol 10" 3 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Runic Broadsword 4 3+ 4+ 1 2 Anti-Wizard (+1 Rend)
+Passive Passive
+WEAPONS OF BANISHMENT: GUARDIAN AND MENTOR: When
+Inscribed with the holy writ of Sigmar faced with an imminent threat, Galen will
+and inlaid with nullstone and silver, the protect his daughter at all costs.
+weapons of the Ven Densts are anathema
+Effect: While a friendly Doralia ven
+to spellcasters and their works, banishing
+Denst is wholly within this unit’s combat
+all forms of arcane energy in a flash.
+range, this unit has Strike-first and
+Effect: Double the Damage characteristic both this unit and that Doralia ven Denst
+of this unit’s weapons for attacks have Ward (5+).
+that target Wizards, Priests
+and Manifestations.
+Unique, Hero, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 29 ---
+July 2025
+MOVE
+5"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 5 4+A V DORALIA VEN DENST
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-thaumic Crossbow 18" 2 3+ 3+ 1 2 Anti-Wizard (+1 Rend)
+MELEE WEAPONS Atk Hit WWnnddRRnnddDDmmgg AAbbiilliittyy
+Consecrated Blade 3 3+ 4+ 1 2 -
+Passive
+WEAPONS OF BANISHMENT:
+Inscribed with the holy writ of Sigmar
+and inlaid with nullstone and silver, the
+weapons of the Ven Densts are anathema
+to spellcasters and their works, banishing
+all forms of arcane energy in a flash.
+Effect: Double the Damage characteristic
+of this unit’s weapons for attacks
+that target Wizards, Priests
+and Manifestations.
+Unique, Hero, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 30 ---
+July 2025
+MOVE
+4"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 5 3+A V WARDEN KING
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Runic Hammer 5 3+ 3+ 2 2 -
+Reaction: You declared a Fight ability Once Per Battle (Army),
+for this unit Deployment Phase
+FEARLESS LEADER: Warden Kings ANCESTRAL GRUDGEBEARER: Every
+are often first into the fray, with their Warden King knows the names of those
+oathsworn kin following closely in their who wronged their forebears. As they
+wake swinging gromril hammers and march out to defend or reclaim their holds,
+settling grudges. they seek to settle those grudges.
+Effect: Pick a friendly non-Hero Declare: Pick an enemy unit in your
+Cities of Sigmar Duardin unit that opponent’s army to bear a grudge against.
+has not used a Fight ability this turn You can pick an enemy unit that is
+and is within this unit’s combat range to in reserve.
+be the target. The target can be picked
+Effect: For the rest of the battle, add 1 to
+to use a Fight ability immediately after
+wound rolls for combat attacks made by
+the Fight ability used by this unit has
+friendly Cities of Sigmar Duardin
+been resolved.
+units that target that unit.
+Hero, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 31 ---
+July 2025
+MOVE
+4"
+H • CITIES OF SIGMAR WARSCROLL •
+T S
+A L 5 3+A V RUNELORD
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Rune Staff and
+3 4+ 3+ 1 D3 -
+Forgehammer
+Passive Your Hero Phase 5
+RUNES OF SPELLBREAKING: FORGEFIRE: CCCaaalllllliiinnnggg uuupppooonnn ttthhheee lllaaattteeennnttt
+Runelords dampen the magic of their power of runic engravings, Runelords
+enemies with ancient sigils of unbinding. imbue the weapons of their kin with
+ancient might.
+Effect: This unit can use the ‘Unbind’
+ability as if it had Wizard (1). Declare: Pick a friendly Cities of
+Sigmar Duardin unit wholly within 12"
+of this unit to be the target, then make a
+chanting roll of D6.
+Effect: Until the start of your next turn,
+add 1 to the Rend characteristic of the
+target’s melee weapons. In addition, if
+the chanting roll was 10+, pick another
+friendly Cities of Sigmar Duardin
+unit wholly within 12" of this unit. Add
+1 to the Rend characteristic of that unit’s
+melee weapons until the start of your next
+turn as well.
+Keywords Prayer
+Hero, Priest (1), Infantry
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 32 ---
+July 2025
+MOVE
+4"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 1 3+A V LONGBEARDS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Hallowed Weapons 2 3+ 4+ 1 1 -
+Passive
+‘I THOUGHT DUARDIN WERE MADE
+OF STERNER STUFF!’: A disgruntled
+look from a grumbling Longbeard is often
+enough to galvanise the spirits of younger
+duardin and keep them in the fight.
+Effect: Add 2 to the control scores of
+friendly Cities of Sigmar Duardin
+units, excluding Longbeards units, while
+they are wholly within 12" of this unit.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 33 ---
+July 2025
+MOVE
+4"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 1 3+A V HAMMERERS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gromril Great Hammer 2 4+ 3+ 1 22 -
+Passive
+OATHSWORN: These warriors are
+oathsworn to protect their liege.
+Effect: While any friendly Cities of
+Sigmar Duardin Infantry Heroes
+are wholly within this unit’s combat
+range, both this unit and those friendly
+units have Ward (5+).
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 34 ---
+July 2025
+MOVE
+4"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 1 3+A V IRONBREAKERS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Drakefire Pistols 10" 1 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ironbreaker Weapon 2 3+ 4+ - 1 -
+Each model in this unit is armed with
+Passive
+Ironbreaker Weapons.
+GROMRIL SHIELDWALL: Once formed
+• The champion is armed with Drakefire
+up into a shieldwall, a line of gromril-clad
+Pistols in addition to their other weapons.
+Ironbreakers is nigh impenetrable.
+Effect: While this unit is affected by the
+‘Hold the Line’ Officar’s Order ability,
+it has Ward (4+) instead of Ward (5+).
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 35 ---
+July 2025
+MOVE
+4"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 1 3+A V IRONDRAKES
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Drakegun 15" 1 3+ 3+ 1 1 Anti-Infantry (+1 Rend)
+Grudgehammer Torpedo 15" 1 3+ 3+ 1 D3 Anti-Monster (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Plated Fists 1 4+ 4+ - 1 -
+Each model in this unit is armed with a
+Once Per Turn (Army),
+Drakegun and Plated Fists.
+Your Shooting Phase
+• The champion can replace their Drakegun
+CINDERBLAST BOMB: This weapon
+with a Grudgehammer Torpedo.
+explodes in a burst of shrapnel and flame.
+Declare: If this unit is not in combat, pick
+a visible enemy unit within 6" of it to be
+the target.
+Effect: Roll a dice. On a 3+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 36 ---
+July 2025
+MOVE
+4"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 5 3+A V COGSMITH
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Cogsmith’s Firearms 15" 4 3+ 3+ 1 1 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Gun Butt and Cog Axe 3 4+ 4+ 1 2 -
+Once Per Turn (Army), Your Hero Phase
+DIRECT THE GYROCORPS: With
+phosphorescent munitions, Cogsmiths
+can direct bombing runs and counter-
+attacks by the gyro-machines of the
+Ironweld Arsenal.
+Declare: Pick up to 3 visible friendly
+Gyrocopter or Gyrobomber units wholly
+within 18" of this unit to be the targets.
+Effect: Roll a dice for each target. On a 3+,
+add 1 to hit rolls for the target’s attacks
+until the start of your next turn.
+Hero, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 37 ---
+July 2025
+MOVE
+12"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 5 3+A V GYROCOPTER
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Gyrocopter Guns 12" 5 4+ 3+ 1 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Rotor Blades 3 4+ 4+ 1 D3 -
+Once Per Battle, Your Movement Phase
+GUILD BOMBS: Every Gyrocopter goes
+to battle with a single payload of these
+volatile blackpowder explosives.
+Declare: If this unit used a Move ability
+this phase, pick an enemy unit that does
+not have Fly and that this unit passed
+across this turn to be the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+War Machine, Fly
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 38 ---
+July 2025
+MOVE
+12"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 6 3+A V GYROBOMBER
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Clattergun 12" 3 4+ 3+ 1 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Rotor Blades 3 4+ 4+ 1 D3 -
+Your Movement Phase
+GRUDGEBUSTER BOMBS:
+Gyrobombers swoop over the enemy lines,
+dropping a lethal payload onto the hapless
+warriors below.
+Declare: If this unit used a Move ability
+this phase, pick an enemy unit that does
+not have Fly and that this unit passed
+across this turn to be the target.
+Effect: Pick 1 of the following effects:
+Tactical Bombing:Roll a D3. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll.
+Drop It All!:Make 2 rolls of D3. For each
+2+, inflict an amount of mortal damage
+on the target equal to the roll. Then, roll
+a D3 for each unit (friendly and enemy)
+within the target’s combat range that does
+not have Fly. On a 2+, inflict an amount
+of mortal damage on that unit equal to
+the roll. Once the ‘Drop It All!’ effect of
+this ability has been resolved, this unit
+cannot use this ability again for the rest
+of the battle.
+War Machine, Fly
+KEYWORDS
+Order, Cities of Sigmar, Duardin
+
+--- Page 39 ---
+July 2025
+MOVE
+6"
+H
+T S • CITIES OF SIGMAR WARSCROLL •
+L 5 6+A
+A V SORCERESS
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Witchstaff 1 3+ 4+ 1 D3 -
+Once Per Turn (Army), Your Hero Phase Once Per Turn (Army), Any Combat Phase
+CRUEL SACRIFICE: The Sorceress shows WORD OF PAIN: The Sorceress utters a
+no mercy as she slits the throat of a nearby forbidden name, wracking her foes with
+thrall and draws power from the blood unbearable pain.
+that gushes forth.
+Declare: Pick an enemy unit in combat
+Declare: Pick a friendly Cities of with this unit to be the target.
+Sigmar Aelf unit wholly within 6" of
+Effect: Roll a dice. On a 3+, subtract 1
+this unit to be the target.
+from hit rolls and wound rolls for the
+Effect: Add 1 to casting rolls for this target’s attacks until the start of your
+unit for the rest of the turn. Then, roll a next turn.
+dice. On a 4+, 1 model in the target unit
+is slain.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 40 ---
+July 2025
+MOVE
+12"
+H • CITIES OF SIGMAR WARSCROLL •
+L T 14 4+ S A SORCERESS
+A V
+E E
+H
+5 ON BLACK DRAGON
+CONTROL
+RANGED WEAPONS Rng Atk HitWndRndDmg Ability
+Black Dragon’s Shoot in Combat,
+10" D3+3 2+ 4+ 1 1
+Noxious Breath Companion
+MELEE WEAPONS Atk HitWndRndDmg Ability
+Cruel Weapons 3 3+ 4+ 1 D3 -
+Black Dragon’s Fearsome
+6 4+ 2+ 2 2 Companion
+Jaws and Claws
+Passive Once Per Turn (Army), End of Any Turn
+BATTLE DAMAGED FEED ON LIFE FORCE: The Black
+Effect: While this unit has 10 or more Dragon tears into the enemy, spilling
+damage points, the Attacks characteristic copious blood as the Sorceress completes
+of its Black Dragon’s Fearsome Jaws and her dark ritual.
+Claws is 4.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Your Hero Phase
+COMMAND UNDERLINGS: The Effect: Roll a D3. On a 2+, inflict an
+cold-hearted rulers of the Darkling amount of mortal damage on the target
+Covens wield absolute control over their equal to the roll. If any enemy models are
+ensorcelled underlings, commanding them slain by this ability, place a dark sorcery
+to do their bidding unquestioningly. token next to this unit for the rest of the
+battle, to a maximum of 3 tokens.
+Declare: Pick up to 3 friendly Cities of
+Sigmar Aelf Infantry units wholly Keywords Rampage
+within 12" of this unit to be targets.
+Passive
+Effect: Add 3" to the Move characteristic DARK SORCERY: The Sorceress draws
+of each target for the rest of the turn. power from the blood spilled by her
+Black Dragon.
+Effect: Add 1 to casting rolls for this unit
+for each dark sorcery token it has.
+Hero, Monster, Wizard (1), Fly
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 41 ---
+July 2025
+MOVE
+6"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 1 4+A V DREADSPEARS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Darkling Spear 2 3+ 4+ - 1 Anti-charge (+1 Rend)
+Any Combat Phase
+COVEN GUARD: These warriors are
+trained to wait for the perfect moment
+before thrusting their spears into the
+hearts of their foes.
+Effect: If this unit did not charge this
+turn, add 1 to wound rolls for this unit’s
+attacks for the rest of the turn.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 42 ---
+July 2025
+MOVE
+6"
+H • CITIES OF SIGMAR WARSCROLL •
+T S
+A L 1 4+A V BLACK GUARD
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ebon Halberd 2 3+ 4+ 1 1 -
+Passive
+STEEL AND SORCERY: Black Guard are
+often charged with protecting heroes on the
+field of battle.
+Effect: While any friendly Cities of
+Sigmar Aelf Infantry Heroes are
+wholly within this unit’s combat range,
+both this unit and those friendly units
+have Ward (5+).
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 43 ---
+July 2025
+MOVE
+8"
+H • CITIES OF SIGMAR WARSCROLL •
+T S
+A L12 5+A V WAR HYDRA
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Fiery Breath 10" 6 4+ 3+ - D3 Shoot in Combat, Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Razor-sharp Fangs 6 4+ 2+ 1 2
+Companion
+Crew’s Goads and Whips 2 3+ 4+ - 1 -
+Once Per Turn, End of Any Turn Once Per Turn (Army), Any Combat Phase
+SEVER ONE HEAD, ANOTHER TAKES SIX-HEADED STRIKE: Stoked into a
+ITS PLACE: It is almost impossible to kill killing rage by their handlers’ goads and
+a Hydra, for they regenerate wounds and whips, War Hydras lumber forward into
+regrow severed heads with alarming speed. battle, each of their six heads lashing out
+to strike the enemy.
+Effect:Heal (6) this unit.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Make 6 rolls of D3. For each
+roll that exceeds the target’s Health
+characteristic, inflict 1 mortal damage on
+the target.
+Keywords Rampage
+Monster
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 44 ---
+July 2025
+MOVE
+6"
+H • CITIES OF SIGMAR WARSCROLL •
+T S
+A L 1 4+A V BLEAKSWORDS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Darkling Sword 2 3+ 4+ - 1 Crit (2 Hits)
+Passive
+MERCILESS CONQUERORS: When
+dispatched to take the enemy’s holdings,
+these warriors race forwards in the blink
+of an eye.
+Effect: Add 1 to the Attacks characteristic
+of this unit’s melee weapons while
+it is contesting an objective you do
+not control.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 45 ---
+July 2025
+MOVE
+6"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 1 4+A V EXECUTIONERS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Executioner’s Draich 2 3+ 4+ 11 11 CCrriitt ((MMoorrttaall))
+Passive
+SEVERING STRIKE: Heads roll and
+crimson arcs of hot blood spurt into
+the air as these warriors swing their
+deadly blades.
+Effect: If this unit charged this turn,
+this unit’s attacks score critical hits on
+unmodified hit rolls of 5+.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 46 ---
+July 2025
+MOVE
+6"
+H
+T S • CITIES OF SIGMAR WARSCROLL •
+L 1 5+A
+A V DARKSHARDS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Master-crafted
+15" 2 3+ 4+ - 11 AAnnttii-IInnffaannttrryy (+1 Rend)
+Repeater Crossbow
+MELEE WEAPONS Atk Hit WWnnddRRnnddDmg Ability
+Cruel Dagger 1 3+ 44++ - 1 -
+Your Shooting Phase
+STORM OF IRON-TIPPED BOLTS: The
+skies darken moments before the enemy is
+shredded by a volley of iron bolts.
+Effect: If this unit has not used a Move
+ability this turn and was not set up this
+turn, add 1 to the Attacks characteristic
+of this unit’s Master-crafted Repeater
+Crossbows for the rest of the turn.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 47 ---
+July 2025
+MOVE
+10" • CITIES OF SIGMAR WARSCROLL •
+T H S DRAKESPAWN
+L 8 4+A
+A V
+E E
+H CHARIOT
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Barbed Spear 2 3+ 4+ 1 1 Charge (+1 Damage)
+Drakespawn’s
+6 4+ 3+ 1 1 Companion
+Ferocious Jaws
+Any Charge Phase
+SCYTHED RUNNERS: Vicious blades
+are fitted to this chariot, carving apart
+anything that gets in its way.
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+War Machine
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 48 ---
+July 2025
+MOVE
+12"
+H • CITIES OF SIGMAR WARSCROLL •
+L T 14 4+ S A DREADLORD
+A V
+E E
+H
+5 ON BLACK DRAGON
+CONTROL
+RANGED WEAPONS Rng Atk HitWndRndDmg Ability
+Repeater Crossbow 12" 2 4+ 4+ - 1 Crit (2 Hits)
+Black Dragon’s Shoot in Combat,
+10" D3+3 2+ 4+ 1 1
+Noxious Breath Companion
+MELEE WEAPONS Atk HitWndRndDmg Ability
+Dreadlord’s Weapons 5 3+ 4+ 1 2 Charge (+1 Damage)
+Black Dragon’s Fearsome
+6 4+ 2+ 2 2 Companion
+Jaws and Claws
+Passive Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED INDISCRIMINATE SLAUGHTER:
+Effect: While this unit has 10 or more The cruel rituals involved in raising Black
+damage points, the Attacks characteristic Dragons curse them with sadistic urges,
+of its Black Dragon’s Fearsome Jaws and causing them to revel in slaughter just as
+Claws is 4. much as their Dreadlord riders.
+Declare: Pick all units (friendly and
+Passive
+enemy) within this unit’s combat range,
+UNDER THE SHADOW OF BLACK
+excluding this unit, to be the targets.
+WINGS: Dreadlords send in the cavalry to
+weaken the enemy before swooping down Effect: Roll a D3 for each target. On a 2+,
+to deliver the killing blow. inflict an amount of mortal damage on
+the target equal to the roll.
+Effect: Add 1 to charge rolls for friendly
+Cities of Sigmar Aelf Cavalry Keywords Rampage
+units while they are wholly within 12" of
+this unit.
+Hero, Monster, Fly
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 49 ---
+July 2025
+MOVE
+12"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 3 4+A V DARK RIDERS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Repeater Crossbow 12" 2 4+ 4+ - 1 Crit (2 Hits)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Barbed Spear 2 3+ 4+ 1 1 Charge (+1 Damage)
+Dark Steed’s Vicious Bite 2 5+ 3+ - 1 Companion
+End of Any Turn
+SOW HAVOC: The speed and discipline
+of the Dark Riders is unmatched, allowing
+them to charge the enemy’s weak points
+and retreat before the foe can react.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a dice. On a 3+:
+•Inflict D3 mortal damage on the target.
+•This unit can immediately use the
+‘Retreat’ ability as if it were your
+movement phase without any mortal
+damage being inflicted on it.
+Cavalry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 50 ---
+July 2025
+MOVE
+10" • CITIES OF SIGMAR WARSCROLL •
+T H S DRAKESPAWN
+L 3 3+A
+A V
+E E
+H KNIGHTS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Barbed Lance 2 3+ 4+ 1 1 Charge (+1 Damage)
+Drakespawn’s Ferocious Jaws 3 4+ 3+ 1 1 Companion
+Any Combat Phase
+BESTIAL INSTINCTS: As the
+Drakespawn tear apart their prey, the
+scent of fresh gore sends them into a frenzy.
+Effect: For the rest of the turn, add 1 to
+the Attacks characteristic of this unit’s
+Drakespawn’s Ferocious Jaws while it is
+in combat with any damaged enemy units
+or while it is in combat with any enemy
+units that have had any models slain.
+Cavalry, Champion, Musician (1/5), Standard Bearer (1/5)
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 51 ---
+July 2025
+MOVE
+6"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 5 5+A V ASSASSIN
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Hero (+1 Rend),
+Poison-coated Blades 6 3+ 4+ 1 2
+Crit (Mortal)
+Passive Passive
+HIDDEN MURDERER: Stalking the IN FOR THE KILL: With their target in
+shadows, the Assassin only reveals their sight, the Assassin bursts from the shadows
+position when they launch a killing strike. and unleashes a flurry of attacks upon the
+unsuspecting victim.
+Effect: While this unit is within the
+combat range of a friendly Infantry Effect: This unit has Strike-first if it
+unit that has 5 or more models and there charged in the same turn.
+are no enemy units within this unit’s
+combat range, this unit is not visible to
+enemy units.
+Hero, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 52 ---
+July 2025
+MOVE
+6" • CITIES OF SIGMAR WARSCROLL •
+T H S BLACK ARK
+L 5 4+A
+A V
+E E
+H FLEETMASTER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Wicked Cutlass and
+5 3+ 4+ 1 2 Crit (Mortal)
+Murder Hook
+Reaction: You declared a Fight ability
+for this unit
+‘AT THEM, YOU CURS!’: Under the
+gaze of their Fleetmaster, Scourge Corsairs
+slaughter the enemy without mercy.
+Effect: Pick a friendly Black Ark Corsairs
+unit that has not used a Fight ability
+this turn and is within this unit’s combat
+range to be the target.
+The target can be picked to use a Fight
+ability immediately after the Fight
+ability used by this unit has been
+resolved. If it is picked to do so, add 1 to
+the Attacks characteristic of the target’s
+melee weapons for the rest of the turn.
+Hero, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 53 ---
+July 2025
+MOVE
+6" • CITIES OF SIGMAR WARSCROLL •
+T H S BLACK ARK
+L 1 5+A
+A V
+E E
+H CORSAIRS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Repeater Handbow 10" 2 4+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Vicious Blades 2 3+ 4+ - 11 -
+Passive
+SKILLED SWASHBUCKLERS: With a
+flash of steel, each ill-timed strike directed
+at a Corsair is paid for in blood as the aelf
+delivers a perfect riposte.
+Effect: Each time you make an
+unmodified save roll of 6 for a combat
+attack that targets this unit, inflict 1
+mortal damage on the attacking unit after
+the Fight ability has been resolved.
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10)
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 54 ---
+July 2025
+MOVE
+10" • CITIES OF SIGMAR WARSCROLL •
+T H S SCOURGERUNNER
+L 8 5+A
+A V
+E E
+H CHARIOT
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Ravager Harpoon 16" 2 3+ 3+ 1 D3 Anti-Monster (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Hook Spear 2 3+ 4+ 1 1 Anti-Monster (+1 Rend)
+Dark Steeds’ Vicious Bites 4 5+ 3+ - 1 Companion
+Passive
+LAY THE BEAST LOW: Loosed by a
+keen-eyed aelf, a harpoon sails through
+the air and sinks deep into its target’s
+vital organs.
+Effect: Add 1 to hit rolls and wound rolls
+for this unit’s shooting attacks that target
+enemy Monsters.
+War Machine
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 55 ---
+July 2025
+MOVE
+8"
+H • CITIES OF SIGMAR WARSCROLL •
+T S
+A L12 5+A V KHARIBDYSS
+E E
+H
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Fanged Tentacles
+6 4+ 2+ 1 D3 Companion
+and Spiked Tail
+Crew’s Goads and Whips 2 3+ 4+ - 1 -
+Once Per Turn (Army), End of Any Turn
+ABYSSAL HOWL: These creatures let
+loose spine-chilling roars when they scent
+the blood of their prey.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a dice. On a 3+, subtract 5
+from the target’s control score for the rest
+of the turn.
+Keywords Rampage
+Monster
+KEYWORDS
+Order, Cities of Sigmar, Aelf
+
+--- Page 56 ---
+July 2025
+MOVE
+5" • CITIES OF SIGMAR WARSCROLL •
+T H S ALCHEMITE
+L 5 5+A
+A V
+E E
+H WARFORGER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Tongstaff 3 4+ 4+ 1 DD33 -
+Your Hero Phase
+RUNIC CRUCIBLE: The hefty crucibles
+carried by these arcane metallurgists
+harness the elemental magics of Chamon
+and can be used to strengthen the armour
+of their allies.
+Effect: Pick a friendly Cities of Sigmar
+Human unit wholly within 12" of this
+unit and roll a dice. On a 3+, add 1 to save
+rolls for that unit until the start of your
+next turn.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 57 ---
+July 2025
+MOVE
+5"
+T H S • CITIES OF SIGMAR WARSCROLL •
+A L 5 4+A V CALLIS AND TOLL
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Wizard (+1 Rend),
+Flintlock Pistols 10" 3 3+ 3+ 1 1
+Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Azyrite Blades 4 3+ 4+ 1 2 Anti-Wizard (+1 Rend)
+Passive Reaction: You declared a Fight ability
+RIGHT TOOLS FOR THE JOB: Callis for this unit
+and Toll have sacred bullets and blade oils GET IT DONE: Callis, Toll and their
+prepared for particularly deadly foes. companions are renowned for their dogged
+commitment to the mission.
+Effect: Double the Damage characteristic
+of this unit’s weapons for attacks Effect: Pick a friendly Toll’s Companions
+that target Wizards, Priests unit that has not used a Fight ability
+and Manifestations. this turn and is within this unit’s combat
+range to be the target. The target can be
+Passive picked to use a Fight ability immediately
+after the Fight ability used by this unit
+WILY TO THE LAST: Laying low one of
+has been resolved.
+these heroes is hard, but laying low both is
+next to impossible.
+Effect: If this unit has 2 models and
+would be automatically destroyed, it is
+not automatically destroyed. Instead, 1
+model in this unit is slain.
+Unique, Hero, Infantry, Ward (5+)
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 58 ---
+July 2025
+MOVE
+5"
+H
+T S • CITIES OF SIGMAR WARSCROLL •
+L 3 4+A
+A V TOLL’S COMPANIONS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Exotic Assortment
+4 3+ 4+ 1 1 Anti-Wizard (+1 Rend)
+of Weapons
+Deployment Phase Your Movement Phase
+HIDDEN AGENTS: A locked door is to be EMERGE FROM THE SHADOWS: Their
+picked, a high wall is to be scaled and the mission imperative, these agents only
+shadows are to be embraced. reveal themselves when they are poised
+to bring down Sigmar’s judgement upon
+Declare: Pick this unit and a friendly
+their quarry.
+Callis and Toll unit in the same regiment
+as this unit if those units have not Declare: Pick this unit if it is
+been deployed. in the shadows.
+Effect: Set up those units in reserve Effect: Set up this unit anywhere on the
+in the shadows. Those units have now battlefield more than 9" from all enemy
+been deployed. units. Then, set up the Callis and Toll
+Keywords Deploy unit that was set up in the shadows with
+this unit wholly within 6" of it and more
+Passive than 9" from all enemy units.
+SAVIOURS OF CINDERFALL: These
+companions have endured through thick
+and thin, watching each other’s backs and
+holding back the tides of darkness.
+Effect: While a friendly Callis and
+Toll unit is wholly within this unit’s
+combat range, both this unit and that
+Callis and Toll unit have Ward (5+).
+Unique, Infantry
+KEYWORDS
+Order, Cities of Sigmar, Human
+
+--- Page 59 ---
+CITIES OF SIGMAR
+CASTELITE COMPANY
+Although, at its core, the tactical doctrine of Sigmar’s mortal armies
+Th is Spearhead army consists relies upon massed fi repower and defence in depth, there are times when
+of the following units: Freeguild commanders must be more fl exible. On occasions where the
+deployment of a full army corps is not viable, smaller formations such as
+GENERA L the Castelite Company will be dispatched to seize vital ground and defend it
+Freeguild Cavalier-Marshal against threats.
+UNITS Commanded by an experienced Cavalier-Marshal who has displayed
+5 Freeguild Steelhelms particular adaptability and initiative in the face of the enemy, a Castelite
+5 Freeguild Steelhelms Company specialises in absorbing the fury of an enemy attack before
+5 Freeguild Cavaliers unleashing a devastating riposte in return. Freeguild Steelhelms form a
+1 Ironweld Great Cannon sturdy core, advancing into battle with shields locked together, relying on
+discipline and faith to hold the line against whatever horror comes at them.
+With this anvil in place, the process of breaking the enemy upon it can
+begin. An Ironweld Great Cannon sends bone-shattering ordnance blasting
+through the enemy ranks, while the Cavalier-Marshal leads a thunderous
+counter-charge to sweep them from the fi eld. Freeguild Cavaliers sing
+Sigmarite battle-hymns as they crush the opposition beneath the grinding
+hooves of their destriers or bash in their skulls with hammers and fl ails.
+‘Steady yourselves, lads. Raise your shields and stir your spirits.
+I’ve never lost a battle, and I don’t intend to start today.’
+– Cavalier-Marshal Guillam Marcanrothe of Settler’s Gain
+Studio photographer Adam painted his Castelite Company in the proud livery of Settler’s Gain in Hysh. We suspect that
+there may be more than a trace of aetherquartz in their ration packs, thanks to their aelven benefactors.
+24
+SPEARHEAD
+
+--- Page 60 ---
+BATT LE TRA ITS
+Once Per Battle Round, Start of Battle Round
+THE OFFICAR’S ORDER: Reading the fl ow of normal battle tactic card, with the exception that you
+battle, a ranking Freeguilder dispatches an order that cannot use the command on it in the same phase it
+could well turn the tide in the Sigmarites’ favour. went back into your hand.
+Declare: Pick a battle tactic card in your hand and If you did not use the command on the card you
+place it face-down separately next to your other battle separated, you can still score the battle tactic on
+tactic cards. Th e information on it is still hidden it at the end of your turn as normal if you met its
+from your opponent but make it clear which card conditions. If you do so, discard it as normal. If you
+is separate. Th e card stays separate until you use neither used the command nor scored the battle
+the command on it or score the battle tactic on it as tactic on the card, it automatically returns to your
+described below. hand at the end of your turn.
+Eff ect: When you use the command on that card, Designer’s Note:Th is ability essentially lets you
+it is not discarded but returns to your hand. Your use a command ‘for free’, but you have to choose
+opponent can check the information on it before it the command at the start of the battle round, so it
+returns to your hand. Th e card goes back to being a requires some planning ahead!
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Your Charge Phase Once Per Battle, Enemy Shooting Phase
+FOR SIGMAR, CHARGE!: With their blade IRONWELD DISCIPLINE: With nerves of steel,
+raised high, the Marshal signals the charge of the crew of the Great Cannon prepare to fi re even as
+the Cavaliers. enemies close in on all sides.
+Declare: Use this ability before any Charge abilities Declare: Pick your Ironweld Great Cannon to use
+are used this phase. this ability.
+Eff ect: Friendly Cavalry units that charge this Eff ect: It can use the ‘Shoot’ ability as if it were your
+phase have Strike-first this turn. shooting phase.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Once Per Battle, Start of Any Turn Passive
+FLASK OF LETHISIAN DARKWATER: HEIRLOOM BLADE: Wielded in countless
+Sourced from the lakewaters of the city of Lethis, battles, the edge of this blade is as keen as the day it
+when this potion is carefully sipped, its black liquid was forged.
+soothes the body and soul.
+Eff ect: Add 1 to the Rend characteristic of your
+Eff ect:Heal (D6) your general. general’s Master-forged Longsword.
+End of Any Turn Passive
+BRA ZIER OF HOLY FLAME: Th e torch borne by GLIMMERING: Th e glinting facets of this
+this champion symbolises the light of civilisation being tiny fragment of Mallus off er fl eeting glimpses of
+carried forth into the darkness of the wilds, a sacred the future.
+act that emboldens those who march alongside them.
+Eff ect: Each phase, you can re-roll 1 hit roll, or
+Declare: Pick a friendly Freeguild Steelhelms unit 1 wound roll, or 1 save roll made for your general.
+within your general’s combat range.
+Eff ect: You can return up to D3 slain models to
+that unit.
+25
+
+--- Page 61 ---
+BATTLE TRAITS
+BA OTnTceL PEer BTaRttlAe, SItTarSt of Battle Round
+THE OFFICAR’S ORDER: Reading the flow of normal battle tactic card, with the exception that you
+Once Per Battle, Start of Battle Round
+battle, a ranking Freeguilder dispatches an order that cannot use the command on it in the same phase it
+TcoHulEd wOeFllF tIuCrnA tRhe’S t iOdeR inD tEhRe S: iRgmeaadriintge st’h fea vfloouwr. of wnoernmt baal cbka titnleto t aycotuicr chaarndd, .with the exception that you
+battle, a ranking Freeguilder dispatches an order that cannot use the command on it in the same phase it
+Dcoeucllda rwee:l Pl tiuckrn a tbhaet ttlied eta icnt itch ec aSridg mina yriotuesr’ hfaavnodu ar.nd Iwf eynotu b dacidk ninotto u ysoe uthr eh acnomd.mand on the card you
+place it face-down separately next to your other battle separated, you can still score the battle tactic on
+tDaecctilca rcea:r dPsic. kTh ae b iantftoler mtacattiioc nc aornd iitn i sy ostuilrl hhaidndde ann d iItf ayto tuh de iedn ndo otf u ysoeu trh teu cronm ams naonrdm oanl itfh yeo cua rmde yto iuts
+fprloamce yito fuarc eo-pdpoownne nste pbaurt amtealyk en eitx ctl teoa ry owuhri cohth cearr db attle cseopnadriatitoedn,s .y Iofu y coaun d sot islol ,s cdoisrcea trhde ibt aatst lneo tramctaicl. oInf y ou
+itsa csteipca craartde.s .Th Thee c ianrfdo srtmayast isoenp aorna tite ius nsttiill ly hoiud duesne nite aitt hthere uesnedd o tfh yeo cuorm tumrann ads nnoorr mscaolr iefd y tohue mbaettt iltes
+tfrhoem co ymoumra onpdp oonn eint to br usct omrea kthe ei tb caltetaler twahcticich o cna ridt as tcaocntdici toionn tsh. eI fc yaordu, dito a suot,o dmisactaicradl liyt ares tnuorrnms taol. yIof uyor u
+dise ssecpriabreadte b. eThloew c.ard stays separate until you use hnaeintdh eart uthseed e nthde o cfo ymoumra tnudr nn.or scored the battle
+the command on it or score the battle tactic on it as tactic on the card, it automatically returns to your
+Edeffseccrtib: Wed hbeenlo ywo.u use the command on that card, Dhaensdig ante trh’se Nenodte o:fTh yoisu ar btuilritny. essentially lets you
+it is not discarded but returns to your hand. Your use a command ‘for free’, but you have to choose
+oEpffpeocnt:e Wnt hceann ycohue cuks eth teh ein cfoomrmmaatinodn oonn tiht abte cfoarred ,i t Dthees ciogmnemr’as nNdo atet :thThe isst aarbti olift yth ees sbeantttilael rlyo ulentds ,y soou it
+rite itsu nrnost tdoi sycoaurdr ehda nbdu.t Threteu crnarsd t og oyeosu br ahcakn tdo. bYeoiunrg a ruesqeu ai rceosm sommaen pdl a‘fnonr ifnrge ea’,h beuatd y!ou have to choose
+opponent can check the information on it before it the command at the start of the battle round, so it
+returns to your hand. The card goes back to being a requires some planning ahead!
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+REOGncIeM PerE BNatTtle ,A YoBuIr LChIaTrgIeE PSh:a sPeick 1 of the following regimOennct ea Pbeilri tBieastt.le, Enemy Shooting Phase
+FOR SIGMAR, CHARGE!: With their blade IRONWELD DISCIPLINE: With nerves of steel,
+Once Per Battle, Your Charge Phase Once Per Battle, Enemy Shooting Phase
+raised high, the Marshal signals the charge of the crew of the Great Cannon prepare to fire even as
+tFhOe RCa SvIaGlieMrsA. R, CHARGE!: With their blade eInReOmNieWs clEosLeD in D oInS aCllI sPidLeIsN.E: With nerves of steel,
+raised high, the Marshal signals the charge of the crew of the Great Cannon prepare to fire even as
+Dtheec Claarvea: lUiesres. this ability before any Charge abilities Deneecmlairees :c Ploiscek iyno ounr aIrllo sniwdeesl.d Great Cannon to use
+are used this phase. this ability.
+Declare: Use this ability before any Charge abilities Declare: Pick your Ironweld Great Cannon to use
+Earffee ucste: dF rtiheinsd plhy aCsea.valry units that charge this Ethffise catb: iIltit cya.n use the ‘Shoot’ ability as if it were your
+phase have Strike-first this turn. shooting phase.
+Effect: Friendly Cavalry units that charge this Effect: It can use the ‘Shoot’ ability as if it were your
+phase have Strike-first this turn. shooting phase.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+ENOHnceA PNer CBaEttMle, SEtaNrtT ofS A: nGyi Tveu rynour general 1 of the followingP aesnshivaencements.
+FLASK OF LETHISIAN DARKWATER: HEIRLOOM BLADE: Wielded in countless
+Once Per Battle, Start of Any Turn Passive
+Sourced from the lakewaters of the city of Lethis, battles, the edge of this blade is as keen as the day it
+wFLheAnS tKhi sO pFo tLioEnT isH cIaSreIfAulNly DsipApRedK, Wits AblTaEckR l:iquid wHaEs IfRorLgeOdO. M BLADE: Wielded in countless
+sSoooutrhceesd t fhreo mbo dthye a lnadk eswouatl.ers of the city of Lethis, battles, the edge of this blade is as keen as the day it
+when this potion is carefully sipped, its black liquid Ewffase cfot:r gAeddd. 1 to the Rend characteristic of your
+Esoffoethcte:s Htheea bl o(Ddy6 a) nyodu sro ugel.neral. general’s Master-forged Longsword.
+Effect: Add 1 to the Rend characteristic of your
+Effect:Heal (D6) your general. general’s Master-forged Longsword.
+End of Any Turn Passive
+BRAZIER OF HOLY FLAME: The torch borne by GLIMMERING: The glinting facets of this
+End of Any Turn Passive
+this champion symbolises the light of civilisation being tiny fragment of Mallus offer fleeting glimpses of
+cBaRrrAieZd IfEorRth O inFt oH thOe LdYar FknLeAssM ofE t:h The wei tlodrsc, ha bsaocrnreed b y tGhLe IfuMtuMreE.RING: The glinting facets of this
+athcits t chhaat mempiboonl dsyenmsb tohloissees w thheo lmigahrt cohf acilvoinligssaidtieo nth beemin.g tiny fragment of Mallus offer fleeting glimpses of
+carried forth into the darkness of the wilds, a sacred Ethffee fcutt:u Erae.ch phase, you can re-roll 1 hit roll, or
+Dacetc tlhaarte :e mPibckol ad efnrise nthdolsye F wrheeog muialrdc hS taeleolnhgeslimdes tuhneimt . 1 wound roll, or 1 save roll made for your general.
+within your general’s combat range. Effect: Each phase, you can re-roll 1 hit roll, or
+Declare: Pick a friendly Freeguild Steelhelms unit 1 wound roll, or 1 save roll made for your general.
+Ewffitehcitn: yYoouur c gaenn reertaul’rsn c oump tboa tD r3a nslgaei.n models to
+that unit.
+Effect: You can return up to D3 slain models to
+that unit.
+
+--- Page 62 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+10"
+FREEGUILD CAVALIER-MARSHAL
+7 3+
+2 RANGED WEAPONS Range AAttttaacckkss Hit Wound Rend Damage Ability
+Dragoon Pistol 10" 2 3+ 4+ 1 1 Shoot in Combat
+MELEE WEAPONS AAttttaacckkss Hit Wound Rend Damage Ability
+Every Cavalier-Marshal Master-forged Longsword 5 3+ 4+ 1 2 -
+is trained to be bold and
+Warhorse’s Steel-shod Hooves 2 5+ 3+ - 1 Companion
+aggressive, taking the fight to
+the foe when they are at their
+weakest. Nigh unstoppable on Your Hero Phase
+the charge, they gallop hard
+into the enemy ahead of their DECISIVE COMMANDER: In the face of the
+soldiers, collapsing battlelines oncoming enemy, Freeguild Marshals employ rousing
+in a single decisive attack even as oratory to inspire their soldiers to stand strong in the
+they spur their fellow Sigmarites name of Sigmar.
+into battle with rousing calls to
+action. Though they often carry Declare: Pick a friendly Freeguild Steelhelms unit
+the weight of a Dawnbringer wholly within 12" of this unit to be the target and roll
+Crusade upon their shoulders, a dice.
+they are inspiring champions
+well used to leading by example. Effect: On a 2+, pick 1:
+On Your Feet!: If the target unit is not in combat, you
+can return D3 slain models to it.
+Yield No Quarter!: Add 3 to the target unit’s control
+score until the start of your next turn.
+KEYWORDS Hero, Cavalry
+• SPEARHEAD WARSCROLL •
+3"
+IRONWELD GREAT CANNON
+8 4+
+2
+The massive artillery pieces
+known as Ironweld Great
+Cannons act as the bastions
+of the Castelite formations.
+Protected by thick oaken gun- Passive
+shields affixed to the weapon’s
+fore, the crew tirelessly load and SHOT AND SHELL: The
+reload their weapon to ensure engineers of the Ironweld
+the barrage upon the enemy is Arsenal have developed different
+relentless. Should foes draw too ammunition for the Great Cannon
+close, a muzzle full of grapeshot to fire.
+will bring their charge to an
+abrupt and gory halt. Effect: Each time this unit uses a
+Shoot ability, choose either the
+Cannonball or Grapeshot weapon
+characteristics for all the attacks it
+makes with its Great Cannon. The
+Cannonball can only be chosen
+if this unit has not used a Move
+ability that turn.
+KEYWORDS War Machine
+
+--- Page 63 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+10"
+FREEGUILD CAVALIERS
+3 3+
+1
+The battlefield shakes as the
+heavy cavalry of the Sigmarite Any Charge Phase
+cities make their charge. No
+idle jousters are the Freeguild DEVASTATING CHARGE: Thundering across the
+Cavaliers but men and women battlefield, the Cavaliers build up momentum before
+hardened by bitter experience smashing deep into the enemy’s ranks, laying about
+and keen to take out their wrath themselves with blade, axe, hammer and flail.
+on the enemies of the God-King.
+These knights are at their most Declare: If this unit chargedthis phase, pick an enemy
+fearsome when they crash into unit in combat with it to be the target and roll a dice.
+the foe at full speed, but they are
+certainly no strangers to brutal Effect: On a 2+, inflict D3 mortal damage on the target.
+attritional melees in which rider
+and steed are expected to fight
+for hours at a time without rest.
+KEYWORDS Cavalry
+• SPEARHEAD WARSCROLL •
+5"
+FREEGUILD STEELHELMS
+1 4+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Freeguild Weapon 2 4+ 4+ - 1 -
+While the hard-slogging Your Movement Phase
+Freeguild Steelhelms are often CONSECRATE THE LAND: Bellowing Sigmarite
+individually outmatched by
+the myriad threats they face hymns, the Battle Priest who accompanies the Steelhelms
+in their mission to retake the purges the taint of Chaos from the land and consecrates it
+realms, they have three things in the name of the God-King.
+on their side: discipline, gutsy
+determination and their faith Declare: If this unit is contesting an objective you
+in Sigmar. With shields locked control that is not contested by any enemy models,
+together and voices joined in roll a dice.
+song, they can prove a difficult
+prospect for even the most Effect: On a 3+, that objective is considered by you to
+hardened killers. The Battle be consecrated. Friendly units have Ward (6+) while
+Priests who accompany them are they are contesting a consecrated objective. If your
+experts in reconsecrating those opponent gains control of a consecrated objective, it is
+lands tainted by Chaos, and no longer consecrated.
+turning the innate power of the
+land to their advantage – even
+if it takes the sacrifice of their
+comrades-in-arms to do so.
+KEYWORDS Infantry, Reinforcements
+
+--- Page 64 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+10"
+FREEGUILD CAVALIERS
+3 3+
+1 MELEE WEAPONS Att acks Hit Wound Rend Damage Ability
+Cavalier Weapon 3 4+ 4+ 1 1 Charge (+1 Damage)
+Warhorse’s Steel-shod Hooves 2 5+ 3+ - 1 Companion
+Th e battlefi eld shakes as the
+heavy cavalry of the Sigmarite Any Charge Phase
+cities make their charge. No
+idle jousters are the Freeguild DEVASTATING CHARGE: Th undering across the
+Cavaliers but men and women battlefi eld, the Cavaliers build up momentum before
+hardened by bitter experience smashing deep into the enemy’s ranks, laying about
+and keen to take out their wrath themselves with blade, axe, hammer and fl ail.
+on the enemies of the God-King.
+Th ese knights are at their most Declare: If this unit chargedthis phase, pick an enemy
+fearsome when they crash into unit in combat with it to be the target and roll a dice.
+the foe at full speed, but they are
+certainly no strangers to brutal Eff ect: On a 2+, infl ict D3 mortal damage on the target.
+attritional melees in which rider
+and steed are expected to fi ght
+for hours at a time without rest.
+KEYWORDS Cavalry, Reinforcements
+• SPEARHEAD WARSCROLL •
+5"
+FREEGUILD STEELHELMS
+1 4+
+1
+While the hard-slogging Your Movement Phase
+Freeguild Steelhelms are oft en CONSECRA TE THE LAND: Bellowing Sigmarite
+individually outmatched by
+hymns, the Battle Priest who accompanies the Steelhelms
+the myriad threats they face
+in their mission to retake the purges the taint of Chaos from the land and consecrates it
+realms, they have three things in the name of the God-King.
+on their side: discipline, gutsy
+determination and their faith Declare: If this unit is contesting an objective you
+in Sigmar. With shields locked control that is not contested by any enemy models,
+together and voices joined in roll a dice.
+song, they can prove a diffi cult
+prospect for even the most Eff ect: On a 3+, that objective is considered by you to
+hardened killers. Th e Battle be consecrated. Friendly units have Ward (6+) while
+Priests who accompany them are they are contesting a consecrated objective. If your
+experts in reconsecrating those opponent gains control of a consecrated objective, it is
+lands tainted by Chaos, and no longer consecrated.
+turning the innate power of the
+land to their advantage – even
+if it takes the sacrifi ce of their
+comrades-in-arms to do so.
+KEYWORDS Infantry, Reinforcements
+27
+
+--- Page 65 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+10"
+FREEGUILD CAVALIER-MARSHAL
+7 3+
+2
+Every Cavalier-Marshal
+is trained to be bold and
+aggressive, taking the fight to
+the foe when they are at their
+weakest. Nigh unstoppable on Your Hero Phase
+the charge, they gallop hard
+into the enemy ahead of their DECISIVE COMMANDER: In the face of the
+soldiers, collapsing battlelines oncoming enemy, Freeguild Marshals employ rousing
+in a single decisive attack even as oratory to inspire their soldiers to stand strong in the
+they spur their fellow Sigmarites name of Sigmar.
+into battle with rousing calls to
+action. Though they often carry Declare: Pick a friendly Freeguild Steelhelms unit
+the weight of a Dawnbringer wholly within 12" of this unit to be the target and roll
+Crusade upon their shoulders, a dice.
+they are inspiring champions
+well used to leading by example. Effect: On a 2+, pick 1:
+On Your Feet!: If the target unit is not in combat, you
+can return D3 slain models to it.
+Yield No Quarter!: Add 3 to the target unit’s control
+score until the start of your next turn.
+KEYWORDS Hero, Cavalry
+• SPEARHEAD WARSCROLL •
+3"
+IRONWELD GREAT CANNON
+8 4+
+2 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Great Cannon: Cannonball 24" 2 4+ 2+ 2 D3+2 -
+Great Cannon: Grapeshot 12" 5 3+ 3+ 1 2 -
+The massive artillery pieces MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+known as Ironweld Great
+Crew’s Tools and Sidearms 2 4+ 4+ - 1 -
+Cannons act as the bastions
+of the Castelite formations.
+Protected by thick oaken gun- Passive
+shields affixed to the weapon’s
+fore, the crew tirelessly load and SHOT AND SHELL: The
+reload their weapon to ensure engineers of the Ironweld
+the barrage upon the enemy is Arsenal have developed different
+relentless. Should foes draw too ammunition for the Great Cannon
+close, a muzzle full of grapeshot to fire.
+will bring their charge to an
+abrupt and gory halt. Effect: Each time this unit uses a
+Shoot ability, choose either the
+Cannonball or Grapeshot weapon
+characteristics for all the attacks it
+makes with its Great Cannon. The
+Cannonball can only be chosen
+if this unit has not used a Move
+ability that turn.
+KEYWORDS War Machine

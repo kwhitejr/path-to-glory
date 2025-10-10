@@ -1,0 +1,117 @@
+--- Page 1 ---
+FACTION RULES: SKAVEN
+BATTLE FORMATIONS
+Add the following battle formations to those in the Skaven faction rules.
+ENVOYS OF THE DEEPENGNAW GATHERING OF THE CLANS
+Passive Once Per Turn (Army), Reaction: You declared the
+WILL OF THE HORNED RAT: Although ‘Redeploy’ command for a friendly Skaven unit
+they tower over the rest of the swarm, Verminlords BACKSTABBING ALLIES: The Skaven
+are as craven and cunning as any Skaven – in truth often form uneasy alliances between clans, but
+even more so – and will readily use their underlings none of them want to suffer the brunt of the
+as fodder to protect their own hides. fighting when the enemy draws near.
+Effect: While a friendly Skaven Daemon is Effect: Pick up to 2 other friendly Skaven units
+within the combat range of a friendly non-Hero that are not in combat and are wholly within 13"
+Skaven Infantry unit: of the unit using the ‘Redeploy’ command to be
+• That Skaven Daemon has Ward (4+). the targets. Each target must have at least one of
+• Each time you make a successful ward roll for the following keywords: Verminus, Skryre,
+that Skaven Daemon, inflict 1 mortal damage Moulder, Pestilens, Eshin. After that
+on a friendly non-Hero Skaven Infantry ‘Redeploy’ command has been resolved, each of
+unit within that unit’s combat range after the the targets can immediately use the ‘Redeploy’
+damage sequence for that unit has been resolved. command in an order of your choice without any
+command points being spent.
+HEROIC TRAITS
+You can pick a heroic trait from this table instead of from other Heroic Traits tables available to this faction.
+RUINOUS REALM-GNAWERS (Hero only)
+Deployment Phase Your Hero Phase
+DEVIOUS UNDERLING: Sly in the extreme, FLESHMEDDLER: This Skaven carries syringe
+this ratman has mastered the art of biding his time, darts filled with warpstone serum that can be
+content to wait until his superiors’ demise before fired into the patchwork hides of nearby Moulder
+violently seizing control for himself. creations to give them a ‘bit of extra bite’.
+Declare: Pick a friendly Skaven Hero on the Declare: Pick a friendly Moulder unit wholly
+battlefield with a Health characteristic that equals within 13" of this unit to be the target.
+or exceeds this unit’s Health characteristic to be
+the target. Effect: Pick 1 of the target’s melee weapons. Add
+1 to the Rend characteristic of that weapon for the
+Effect: For the rest of the battle: rest of the turn.
+• While the target has not been slain, friendly
+Skaven Infantry units have Ward (6+) while Passive
+they are wholly within 13" of this unit. PIT TINKERER: This mechanically minded
+• Once the target has been slain, add 2 to charge Skaven has a compulsion to make ‘improvements’
+rolls for friendly Skaven Infantry units while to the Skryre devices under his command.
+they are wholly within 13" of this unit.
+Effect: You can re-roll the random characteristic
+rolls for the Move characteristic of friendly
+Skryre War Machines while they are wholly
+within 13" of this unit. In addition, each time a
+friendly Skryre War Machine wholly within
+18" of this unit uses the ‘Rolling Doom’ or
+‘Whirling Doom’ ability, add 1 to the amount of
+mortal damage inflicted, if any.
+Permission to download/print for personal use only. © Copyright Games Workshop Limited 2025
+
+--- Page 2 ---
+• SCOURGE OF GHYRAN WARSCROLL • • SCOURGE OF GHYRAN WARSCROLL •
+GREY SEER
+BROOD TERROR
+ON SCREAMING BELL
+5+ 5+
+MOVE MOVE
+Ghyran has suffered terribly from the ravages of
+Rattling through the Ghyranite jungle on ironbound
+6" 6" Brood Terrors, horrors created when a Master
+H wheels comes the hellish contraption known as H Moulder stitches himself into a hulking war-form
+T S a Screaming Bell, a Grey Seer riding atop it and T S
+A L E 15 4+ E A V s b h o r n ie e k - i ja n r g r p in r g a i t s o e l s l t o o f t t h h e e G be r l e l a i t n H vi o g r o n r e a d te R s a n t e . a E r a b c y h A L E 12 5+ E A V w fa it s h h i i n o n th ed is f t r w o o m - h b e r a a d ss e d a n ti d t a a n lc t h h e e m M is a e s d te m r d ea ir t e . c F t r s o h m is
+H H minions’ attacks with frantic, jabbing motions of its
+5 Skaven, healing their wounds and hastening their 5 weapon-limbs, before plunging headfirst into the
+scurrying advance.
+CONTROL CONTROL fray to test his latest flesh-grafts upon the enemy.
+MELEE WEAPONS Atk Hit Wnd Rnd Dmg RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg
+Warpflame Scourger
+Warpstone Staff 3 4+ 4+ 1 D3 Anti-Infantry (+1 Rend), 15" 2D6 4+ 2+ 1 D3
+Crit (Auto-wound)
+Rat Ogor’s Tearing Claws 5 4+ 3+ 1 2 MELEE WEAPONS Atk Hit Wnd Rnd Dmg
+Chain-flail
+Crushing Bulk Crit (Mortal) 5 4+ 2+ 2 3
+Charge (+1 Damage), 6 4+ 2+ 1 2
+Companion Loosely Attached 5 4+ 4+ 1 2
+Bladed Limbs
+Passive
+Once Per Turn (Army), Any Combat Phase
+BATTLE DAMAGED
+Effect: While this unit has 10 or more damage points, the Attacks LEND A CLAW: In a horrifying bout of lucidity and multiple flailing
+characteristic of its Crushing Bulk is 4. appendages, the remains of the Master Moulder who was stitched into
+this abomination exert a degree of control over the other creatures in its
+menagerie before swiftly falling back into a pit of insanity.
+Passive
+THE BELL TOLLS: With a swing and a clang, the bell doth peal; Declare: Pick up to 4 other friendly non-Skryre Moulder units
+Skaven march and man-things squeal! wholly within 12" of this unit to be the targets.
+Effect: If the current battle round number is odd, add 2" to the Move Effect: Subtract 1 from the Attacks characteristic of this unit’s
+characteristic of friendly Skaven units while they are wholly within Loosely Attached Bladed Limbs for the rest of the phase for each
+13" of this unit. If the current battle round number is even, subtract target picked. Add 1 to hit rolls for the targets’ attacks for the rest of
+1 from hit rolls for attacks made by enemy units that target a friendly the phase.
+Skaven unit while it is wholly within 13" of this unit.
+Keywords Rampage
+Your Hero Phase 6
+End of Any Turn
+GNAW THROUGH REALITY: The Grey Seer focuses their energy
+REGENERATING TERROR: Brood Terrors are a nightmare of
+to keep open a tear in reality from which fellow Skaven can pour.
+mutation and overwhelming strength.
+Declare: Make a casting roll of 2D6.
+Effect: Heal (D6) this unit.
+Effect: Until the start of your next turn, this unit counts as a friendly
+Gnawhole for the purposes of the ‘Gnawhole Ambush’, ‘Tunnels
+Through Reality’ and ‘The Endless Vermintide’ abilities.
+Keywords Spell
+Once Per Turn (Army), End of Any Turn
+ECHOES OF THE VERMINDOOM: As the bell rings in time
+with one of its counterparts in sacred Blight City, it releases a pulse of
+ruinous energies that invigorate the swarm.
+Declare: Pick each friendly Skaven unit wholly within 13" of this
+unit to be the targets.
+Effect: Heal (D3) each target.
+Hero, War Machine, Wizard (2), Ward (5+) Monster, Ward (5+)
+KEYWORDS KEYWORDS
+Chaos, Skaven, Masterclan Chaos, Skaven, Moulder
+Permission to download/print for personal use only. © Copyright Games Workshop Limited 2025

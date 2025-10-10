@@ -1,0 +1,1696 @@
+--- Page 1 ---
+FACTION PACK
+LUMINETH
+REALM-LORDS
+
+--- Page 2 ---
+BATTLE TRAITS
+Lumineth Realm-lords armies can use the following abilities:
+Passive Start of Battle Round
+LIGHTNING REACTIONS: Lumineth POWER OF HYSH: Vanari can use their
+can think faster, act more decisively and fight innate arcane abilities to empower the
+more proficiently than any other. sunmetal in their weapons, making it burn
+with a greater intensity.
+Effect: When players are alternating
+picking units to use a Fight ability, when Declare: You can only use this ability if you
+it is your turn to pick a unit, you can pick have not used any Facet of War abilities
+2 Lumineth Realm-lords units instead this battle round. Pick a friendly Vanari
+of 1. Resolve the second Fight ability unit to be the target.
+immediately after the first.
+Effect: The target’s attacks score critical hits
+on unmodified hit rolls of 5+ for the rest of
+Start of Battle Round
+the battle round.
+SHINING COMPANY: Vanari warriors
+Keywords Facet of War
+often fight in a grouping that combines the
+bright light of each soul into a dazzling
+brilliance that befuddles foes. Start of Battle Round
+DEEP THINKERS: The Scinari are
+Effect: You can only use this ability if you renowned for their profound knowledge and
+have not used any Facet of War abilities
+thoughtful deliberation.
+this battle round.
+Effect: You can only use this ability if you
+For the rest of the battle round, subtract 1 have not used any Facet of War abilities
+from hit rolls for attacks that target friendly
+this battle round.
+Vanari units that have not charged this
+turn and that have not been picked as the Add 1 to casting rolls for friendly Scinari
+target of ‘Power of Hysh’ this battle round. units for the rest of the battle round.
+Keywords Facet of War Keywords Facet of War
+Your Shooting Phase Start of Battle Round
+MOVE LIKE THE WIND: Hurakan ENDURING AS ROCK: When in a battle
+warriors perform gravity-defying leaps to trance inspired by the mountain, the Alarith
+take them away from their enemies. take on the aspect of stone, blades rebounding
+off their rock-hard skin.
+Declare: You can only use this ability if you
+have not used any Facet of War abilities Effect: You can only use this ability if you
+this battle round. Pick up to 3 friendly have not used any Facet of War abilities
+Hurakan units that are not in combat to be this battle round.
+the targets.
+Subtract 1 from the Rend characteristic
+Effect: Each target can move 2D6". It cannot of weapons used for attacks that target
+move into combat during any part of that friendly Alarith units for the rest of the
+move, and it cannot use Shoot abilities for battle round.
+the rest of the turn.
+Keywords Facet of War
+Keywords Facet of War, Move
+July 2025
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Lumineth Realm-lords army. Each
+bbbbbbbbbaaaaaaaaattttttttttttttttttllllllllleeeeeeeee fffffffffooooooooorrrrrrrrrmmmmmmmmmaaaaaaaaatttttttttiiiiiiiiiooooooooonnnnnnnnn gggggggggrrrrrrrrraaaaaaaaannnnnnnnntttttttttsssssssss aaaaaaaaa dddddddddiiiiiiiiiffffffffffffffffffeeeeeeeeerrrrrrrrreeeeeeeeennnnnnnnnttttttttt aaaaaaaaabbbbbbbbbiiiiiiiiillllllllliiiiiiiiitttttttttyyyyyyyyy yyyyyyyyyooooooooouuuuuuuuu cccccccccaaaaaaaaannnnnnnnn uuuuuuuuussssssssseeeeeeeee iiiiiiiiinnnnnnnnn ttttttttthhhhhhhhheeeeeeeee bbbbbbbbbaaaaaaaaattttttttttttttttttllllllllleeeeeeeee.........
+VANARI BATTLEHOST SCINARI COUNCIL
+Passive Passive
+VANARI BRILLIANCE: When the LORE OF THE SCINARI: In towering
+warriors in a Vanari Battlehost stand crystal spires, the mages of the Scinari
+together, they radiate a dazzling light that caste seek enlightenment by contemplating
+protects them from their foes. the nature of magic itself. When they bring
+their hard-won learnings to the battlefield,
+Effect: You can use the ‘Power of Hysh’
+their power is terrifying to behold.
+ability in addition to the other Facet of
+War ability used during the battle round. Effect: You can use the ‘Deep Thinkers’
+ability in addition to the other Facet of
+War ability used during the battle round.
+ALARITH TEMPLE HURAKAN TEMPLE
+Passive Passive
+ALARITH FORTITUDE: The Lumineth GRACE OF THE HURAKAN: Swift and
+of an Alarith temple can turn aside enemy deadly are the warriors of the Hurakan
+blows by making their skin become as hard temples, supplicants of Hysh’s glorious
+and unyielding as stone. winds. They move with the speed of a
+howling gale, long hair whipping in the
+Effect: You can use the ‘Enduring as
+rushing air currents.
+Rock’ ability in addition to the other
+Facet of War ability used during the Effect: You can use the ‘Move Like the
+battle round. Wind’ ability in addition to the other
+Facet of War ability used during the
+battle round.
+July 2025
+
+--- Page 4 ---
+HEROIC TRAITS
+LORDS OF BRILLIANCE (Hero only)
+Reaction: You declared the ‘Redeploy’ Once Per Battle, Any Combat Phase
+command for a friendly Lumineth PERFECT STRIKE: This hero can
+Realm-lords unit wholly within 12" of
+unleash their might in one deadly attack.
+this unit
+MASTERFUL TACTICIAN: This hero Declare: Pick an enemy unit in combat
+quickly redirects the warriors under with this unit to be the target.
+their command to plug a gap or exploit a
+weakness in the enemy line. Effect: Inflict D3+3 mortal damage on
+the target.
+Effect: If you roll a 1-3 when determining
+Keywords Core, Attack, Fight
+the distance that unit can move, you can
+use a value of 4 instead.
+Once Per Battle, Reaction: You declared
+the ‘Charge’ ability or a Spell ability for
+this unit
+PARAGON OF HYSH: This hero has
+travelled throughout Hysh and is a scholar
+of each aspect of Lumineth society.
+Effect: You can re-roll the charge roll or
+casting roll for that ability.
+ARTEFACTS OF POWER
+HEIRLOOMS OF HYSH (Hero only)
+Passive Passive
+PHOENIX STONE: This ancient crystal SILVER WAND: This slender wand is
+shatters when the bearer is slain, surging covered with winding Lumineth runes.
+with healing energy and giving them a
+Effect: If this unit is not a Wizard, it
+second chance.
+has Wizard (1). Otherwise, add 1 to this
+Effect: If this unit would be destroyed, unit’s power level.
+before removing it from play, roll a dice.
+On a 3+, this unit is not destroyed and Once Per Battle, Your Movement Phase
+any remaining damage points inflicted on WAYSTONE: This small sliver of dark
+it have no effect. Then, Heal (1) this unit. rock hovers above the bearer’s outstretched
+This unit cannot use this ability again for palm, leading them along hidden paths
+the rest of the battle. towards that which they desire.
+Effect: Remove this unit from the
+battlefield and set it up again on the
+battlefield more than 9" from all
+enemy units.
+Keywords Core
+July 2025
+
+--- Page 5 ---
+SPELL LORE
+LORE OF HYSH
+Your Hero Phase 5
+SPEED OF HYSH: The caster gestures at a nearby Lumineth regiment, enchanting
+them so they can move blurringly fast.
+Declare: Pick a friendly Lumineth Realm-lords Wizard to cast this spell, pick a
+visible friendly Lumineth Realm-lords unit wholly within 18" of them to be the target,
+then make a casting roll of 2D6.
+Effect: Add 4" to the target’s Move characteristic until the start of your next turn.
+Keywords Spell, Unlimited
+Your Hero Phase 7 Your Hero Phase 8
+OVERWHELMING HEAT: The PROTECTION OF HYSH: The
+caster summons oppressive heat to sap caster opens their arms wide, creating a
+their foe’s strength. field of glowing energy that protects all of
+the caster’s allies that are nearby.
+Declare: Pick a friendly Lumineth
+Realm-lords Wizard to cast this Declare: Pick a friendly Lumineth
+spell, pick a visible enemy unit within Realm-lords Wizard to cast this
+18" of them to be the target, then make a spell, then make a casting roll of 2D6.
+casting roll of 2D6.
+Effect: Until the start of your next turn,
+Effect: Halve the target’s Move friendly units have Ward (5+) while they
+characteristic until the start of your next are wholly within 12" of the caster.
+turn, then roll a dice. If the roll equals or Keywords Spell
+exceeds the target’s Save characteristic,
+inflict D3 mortal damage on it.
+Keywords Spell
+July 2025
+
+--- Page 6 ---
+MANIFESTATION LORE
+MANIFESTATIONS OF HYSH
+Your Hero Phase 4 Your Hero Phase 7
+SUMMON SANCTUM OF SUMMON RUNE OF
+AMYNTOK: The ground splits around PETRIFICATION: The caster calls forth
+the mage, and the life force of the realm a hovering sigil ripped from the crust of the
+springs forth as a crackling shield. realm underfoot.
+Declare: If there is not a friendly Declare: If there is not a friendly Rune
+Sanctum of Amyntok on the battlefield, of Petrification on the battlefield, pick
+pick a friendly Lumineth Realm-lords a friendly Lumineth Realm-lords
+Wizard to cast this spell, pick a visible Wizard to cast this spell, then make a
+friendly Lumineth Realm-lords casting roll of 2D6.
+Infantry Hero wholly within 12" of
+Effect: Set up a Rune of Petrification
+them and more than 3" from all other
+wholly within 18" of the caster and visible
+units and terrain features to be the target,
+to them.
+then make a casting roll of 2D6.
+Keywords Spell, Summon
+Effect: Set up a Sanctum of Amyntok
+within the target’s combat range, visible
+to the caster and more than 3" from all
+enemy units. A Sanctum of Amyntok has
+3 parts that must be set up touching each
+other so that they form a ring with the
+target inside.
+Keywords Spell, Summon
+Your Hero Phase 5
+SUMMON HYSHIAN
+TWINSTONES: The caster calls forth two
+giant crystal teardrops that orbit around
+each other.
+Declare: If there is not a friendly
+Hyshian Twinstones endless spell on the
+battlefield, pick a friendly Lumineth
+Realm-lords Wizard to cast this
+spell, then make a casting roll of 2D6.
+Effect: Set up a Hyshian Twinstones
+endless spell wholly within 6" of
+the caster.
+Keywords Spell, Summon
+July 2025
+
+--- Page 7 ---
+July 2025
+MOVE
+10"
+H • LUMINETH REALM-LORDS WARSCROLL •
+L T 16 5+ S A ARCHMAGE TECLIS
+A V
+E E
+H
+10 AND CELENNAR, SPIRIT OF HYSH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Lunar Staff 12" 1 2+ 2+ 2 D6 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sword of Teclis 2 3+ 3+ 2 D3 -
+Celennar’s
+5 3+ 3+ 2 2 Companion
+Moonbright Talons
+Passive Passive
+BATTLE DAMAGED ARCHMAGE: Teclis’s powerful magic
+Effect: While this unit has 10 or more pours from him in cascades, calling forth
+damage points, the Attacks characteristic or nullifying the most potent of spells.
+of Celennar’s Moonbright Talons is 3.
+Effect: Instead of making a casting roll
+for this unit, you can use a value of 10
+Passive
+for the roll that cannot be modified.
+AURA OF CELENNAR: Celennar grants In addition, instead of making an
+arcane knowledge to nearby allies.
+unbinding roll or banishment roll for this
+Effect: Add 1 to casting rolls for other unit, you can use a value of 8 for the roll
+friendly Lumineth Realm-lords that cannot be modified.
+Wizards while they are wholly within
+12" of this unit. Your Hero Phase 10
+STORM OF SEARING WHITE
+Once Per Turn (Army), Any Combat Phase LIGHT: Beams of light shoot out from
+Teclis’s forehead to bisect nearby foes.
+SPIRIT OF THE MOON: Celennar has
+a disquieting presence that can leave the Declare: Pick any number of different
+boldest of warriors quivering in their boots. visible enemy units within 18" of this unit
+to be the targets, then make a casting roll
+Declare: Pick an enemy unit in combat
+of 2D6 (see the ‘Archmage’ ability).
+with this unit to be the target.
+Effect: Roll a D3 for each target. On a 2+,
+Effect: Roll a dice. On a 3+, the target
+inflict an amount of mortal damage on
+cannot use commands for the rest of
+the target equal to the roll.
+the turn.
+Keywords Spell
+Keywords Rampage
+Warmaster, Unique, Hero, Monster, Wizard (4), Fly, Ward (5+)
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf
+
+--- Page 8 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S THE LIGHT OF
+L 6 3+A
+A V
+E E
+H ELTHARION
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Searing Darts of Light 12" 3 2+ 3+ 2 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Fangsword of Eltharion 4 2+ 3+ 3 3 Crit (2 Hits)
+Anti-Hero (+1 Rend),
+Celennari Blade 2 2+ 3+ 1 3
+Anti-Monster (+1 Rend)
+Passive Passive
+SPIRIT ARMOUR: Instead of protecting SUPREME SWORDMASTER: The Light
+a body of flesh and blood, this armour of Eltharion is a consummate warrior
+houses the undying spirit of the mighty and one of the greatest swordmasters of
+warrior Eltharion. Though animated by all time.
+the Light of Eltharion, it is essentially
+Effect: Ignore negative modifiers to
+hollow – even a penetrating thrust
+hit rolls and wound rolls for this unit’s
+may simply pass through the glowing
+attacks. In addition, ignore negative
+form within.
+modifiers to the characteristics of this
+Effect: Ignore all modifiers to save rolls unit’s melee weapons.
+for this unit (positive and negative).
+Unique, Hero, Infantry, Ward (5+)
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf
+
+--- Page 9 ---
+July 2025
+MOVE
+14"
+H • LUMINETH REALM-LORDS WARSCROLL •
+L T 7 3+ S A LYRIOR UTHRALLE
+A V
+E E
+H
+2 WARDEN OF YMETRICA
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Daemonbane 12" 1 2+ 2+ 2 D3 Anti-Daemon (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Charge (+1 Damage),
+Daemonbane 2 2+ 3+ 1 2
+Anti-Daemon (+1 Rend)
+Lyrior’s Sword 4 2+ 3+ 1 2 Crit (Mortal)
+Farael’s Horns and Claws 4 5+ 3+ - 1 Companion
+Passive Your Hero Phase 7
+VOICE OF TYRION: Lyrior is part SOLAR FLARE: Channelling his
+of Tyrion’s inner circle, and he speaks anger, Lyrior causes one of the solar bodies
+with the authority of the god himself in above the battlefield to belch forth a
+matters military. searing flare of energy.
+Effect: Each time a friendly Lumineth Declare: Pick a visible enemy unit or
+Realm-lords unit wholly within 12" Manifestation wholly within 18" of
+of this unit uses the ‘All-out Attack’ this unit to be the target, then make a
+command, no command points are spent. casting roll of 2D6.
+Effect: If the target is a Manifestation,
+inflict 3D6 mortal damage on it.
+Otherwise, roll a dice for each model
+in the target unit. For each 5+, inflict 1
+mortal damage on the target.
+Keywords Spell
+Unique, Hero, Wizard (1), Cavalry
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Vanari
+
+--- Page 10 ---
+July 2025
+MOVE
+14" • LUMINETH REALM-LORDS WARSCROLL •
+T H S VANARI
+L 7 3+A
+A V
+E H E LORD REGENT
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Regent’s Sword 5 3+ 4+ 1 2 Crit (Mortal)
+Lightcourser’s Horns
+3 5+ 3+ - 1 Companion
+and Claws
+Once Per Battle, Your Hero Phase Once Per Battle, Your Charge Phase
+PUREST AETHERQUARTZ: Lord CHARGE OF THE LUMINETH: The
+Regents carry a reserve of fine aetherquartz Lord Regent leads a united cavalry charge
+that burns with the brilliance of Hysh. crashing into the enemy ranks.
+Effect: For the rest of the turn, add 1 to Declare: Pick this unit and up to 2
+casting rolls for this unit and subtract friendly Vanari Dawnriders units within
+1 from hit rolls for attacks that target this unit’s combat range to be the targets.
+this unit.
+Effect: You can re-roll charge rolls for
+the targets for the rest of the turn. In
+addition, if a target charges this phase,
+add 1 to the Attacks characteristic of that
+target’s weapons for the rest of the turn.
+Hero, Wizard (1), Cavalry
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Vanari
+
+--- Page 11 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S VANARI AURALAN
+L 1 5+A
+A V
+E E
+H SENTINELS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Auralan Bow 18" 2 3+ 4+ 1 1 Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sentinel Blades 1 3+ 4+ - 1 -
+Your Shooting Phase
+LOFTED SHOTS: To strike a distant
+target, these warriors point their bows to
+the sky before launching a volley up high.
+Effect: For the rest of the turn, add 6"
+to the Range characteristic of this unit’s
+Auralan Bows but subtract 1 from hit
+rolls for this unit’s shooting attacks.
+Infantry, Champion
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Vanari
+
+--- Page 12 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+T H S VANARI
+L 5 3+A
+A V
+E E
+H BANNERBLADE
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bannerblade’s Sword 4 3+ 4+ 1 2 Crit (Mortal)
+Passive
+WORLD BANNER: This mighty
+standard is adorned with symbols of great
+importance to the Lumineth.
+Effect: Add 3 to the control scores of
+other friendly Lumineth Realm-lords
+units while they are wholly within 18" of
+this unit.
+Hero, Infantry
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Vanari
+
+--- Page 13 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S VANARI AURALAN
+L 1 4+A
+A V
+E E
+H WARDENS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Crit (Mortal),
+Warden Pikes and Blades 2 3+ 4+ - 1
+Anti-charge (+1 Rend)
+Any Combat Phase
+WALL OF BLADES: When Auralan
+Wardens stand shoulder to shoulder, they
+present a bristling wall of pikes to the foe.
+Effect: If this unit did not charge this
+turn and is in combat with an enemy unit
+that charged this turn, roll a dice. Add 1
+to the roll if that enemy unit is Cavalry.
+On a 4+, this unit has Strike-first for
+the rest of the turn.
+Infantry, Champion
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Vanari
+
+--- Page 14 ---
+July 2025
+MOVE
+14" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S VANARI
+L 3 3+A
+A V
+E E
+H DAWNRIDERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Dawnrider Lances Crit (Mortal),
+2 3+ 4+ 1 1
+and Blades Charge (+1 Damage)
+Stallions’ Dashing Hooves 2 5+ 3+ - 1 Companion
+Any Charge Phase
+DEATHLY FURROWS: Vanari
+Dawnriders scythe through enemy
+infantry, trampling over lesser foes and
+carving through the enemy ranks.
+Declare: If this unit charged this phase,
+pick an enemy Infantry unit within 1"
+of it to be the target.
+Effect: Roll a dice for each model in this
+unit. For each 3+, inflict 1 mortal damage
+on the target.
+Cavalry, Champion, Standard Bearer (1/5)
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Vanari
+
+--- Page 15 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S SCINARI
+L 5 6+A
+A V
+E E
+H CATHALLAR
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Despairing Touch 3 3+ 4+ - D3 -
+Your Hero Phase Passive
+DARKNESS OF THE SOUL: Scinari ABSORB DESPAIR: Scinari Cathallars
+Cathallars wield the negative energy can assuage the dark despair that can
+locked in aetherquartz as a weapon. afflict a Lumineth Realm-lord.
+Declare: Pick an enemy unit within 12" of Effect: Ignore negative modifiers to the
+this unit to be the target. control scores of friendly Lumineth
+Realm-lords units while they are
+Effect: Roll a dice. On a 3+, subtract D6
+wholly within 12" of this unit.
+from the target’s control score for the rest
+of the turn.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Scinari
+
+--- Page 16 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S VANARI STARSHARD
+L 5 5+A
+A V
+E E
+H BALLISTA
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Crit (2 Hits),
+Starshard Bolts 24" 3 2+ 3+ 1 D3
+Anti-Monster (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Crew’s Arming Swords 2 3+ 44++ - 11 CCoommppaanniioonn
+Your Shooting Phase
+SCRYHAWKS: Scryhawks circle high
+above, working in unison with their
+Lumineth allies to coordinate firepower
+against distant targets.
+Effect: For the rest of the turn, add 6"
+to the Range characteristic of this unit’s
+Starshard Bolts while it is wholly within
+12" of any friendly Vanari Auralan
+Sentinels units.
+Once Per Battle, Your Shooting Phase
+BLINDING BOLTS: A Starshard Ballista
+can be loaded with specialised bolts that
+explode with blinding light when they
+strike a target.
+Effect: If all of this unit’s shooting attacks
+this turn target the same enemy unit,
+subtract 1 from hit rolls for the target’s
+attacks for the rest of the turn.
+War Machine
+KEYWORDS
+Order, Lumineth Realm-lords, Vanari
+
+--- Page 17 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S SCINARI
+L 5 5+A
+A V
+E E
+H ENLIGHTENER
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Crescent Staff 12" 3 3+ 3+ 1 D3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Enlightener Blade 3 3+ 4+ 1 2 -
+Once Per Turn, Reaction: You declared Your Hero Phase 6
+the ‘Speed of Hysh’, ‘Overwhelming Heat’ or ETHEREAL BLESSINGS: By
+‘Ethereal Blessings’ spell for this unit focusing their will and concentrating
+RUNE OF ENTHLAI: The Enlightener deeply, the caster makes an ally as
+draws on the duality of this rune’s power to insubstantial as the light of the moon.
+conjure sorceries with doubled potency.
+Declare: Pick a visible friendly
+Effect: If that spell is successfully cast, Lumineth Realm-lords Infantry
+roll a dice. On a 3+, after resolving unit wholly within 18" of this unit to
+the effect of that spell, this unit can be the target, then make a casting roll
+immediately cast that spell a second time of 2D6.
+using the same casting roll. Do not count
+the second spell towards the number of Effect: Ignore all modifiers to save rolls
+Spell abilities this unit can use this turn. for the target (positive and negative) until
+the start of your next turn.
+Keywords Spell
+Hero, Wizard (2), Infantry
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Scinari
+
+--- Page 18 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S SCINARI
+L 5 5+A
+A V
+E E
+H CALLIGRAVE
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Calligrave Blade 3 3+ 4+ 1 2 -
+Once Per Turn (Army), Reaction: You
+declared a Summon Spell ability for
+this unit
+REALMSCRIBE: The Calligrave traces
+a rune whose vast, blazing parallel
+simultaneously appears on the battlefield,
+unleashing the spell bound to it.
+Effect: Change the casting roll for
+that spell to a value of 8 that cannot
+be modified.
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Scinari
+
+--- Page 19 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S SCINARI
+L 5 4+A
+A V
+E E
+H LORESEEKER
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Eclipsian Staff 12" 3 3+ 3+ 1 D3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Loreseeker Blade 5 3+ 4+ 1 2 Crit (Mortal)
+Deployment Phase Passive
+INDEPENDENT OPERATIVE: LONE AGENT: Scinari Loreseekers
+Loreseekers venture deep into unknown employ their skills as independent
+lands, searching for esoteric knowledge operatives to great effect on the battlefield.
+and artefacts that only the Lumineth can
+Effect: Add 5 to this unit’s control score
+be entrusted with.
+while it is more than 9" from all other
+Effect: If this unit has not been deployed, friendly units.
+set it up anywhere on the battlefield not in
+combat with any enemy units. This unit
+has now been deployed.
+Designer’s Note:Enemy units that deploy
+after this unit can deploy in combat with it.
+Keywords Deploy
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Scinari
+
+--- Page 20 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S VANARI
+L 2 4+A
+A V
+E E
+H BLADELORDS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sunmetal Blade:
+1 See below -
+Perfect Strike
+Sunmetal Blade: Crit (Mortal),
+3 3+ 4+ 1 1
+Flurry of Blows Anti-Infantry (+1 Rend)
+Passive Passive
+SWORDMASTERS: Vanari Bladelords GUARDIANS: Bladelords are tasked with
+adopt different fighting styles depending protecting the Scinari from harm.
+upon the nature of their opponents.
+Effect: While any friendly Scinari
+Effect: Each time this unit uses a Fight Heroes are wholly within this unit’s
+ability, you must pick either the Perfect combat range, both this unit and those
+Strike or Flurry of Blows weapon friendly units have Ward (5+).
+characteristics for all the attacks it makes
+with its Sunmetal Blades.
+In addition, do not use the attack
+sequence for an attack made with Perfect
+Strike. Instead, roll a dice. On a 2+, inflict
+1 mortal damage on the target.
+Infantry, Champion
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Vanari
+
+--- Page 21 ---
+July 2025
+MOVE
+• LUMINETH REALM-LORDS WARSCROLL •
+6"
+H ELLANIA AND
+T S
+L 8 4+A
+A E E V ELLATHOR
+H
+4
+ECLIPSIAN WARSAGES
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Blazing Sunbolt 12" 3 2+ 3+ 2 D3 Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Altairi 5 2+ 3+ 1 2 -
+Dianaer 2 3+ 4+ 1 D3 -
+Your Hero Phase End of Any Turn
+EQUAL PRODIGIES: On the battlefield, SUDDEN TRANSLOCATION: Should
+one twin will take the lead to aid their Ellathor use Altairi for too long, he will
+allies while the other stands guard. start to be overwhelmed by its arcane
+power and Ellania will be forced to
+Declare: Pick whether Ellania will take
+transport him away from the battle,
+the lead or Ellathor will take the lead.
+lest he be transformed into a creature of
+Effect: If Ellania takes the lead, until the blazing fury.
+start of your next turn, add 1 to this unit’s
+Effect: This unit can use this ability if any
+power level and it has Ward (4+).
+enemy models were slain by it this turn.
+If Ellathor takes the lead, until the
+Heal (D6) this unit. Then, remove it from
+start of your next turn, add the current
+the battlefield and set it up again on the
+battle round number to the Damage
+battlefield more than 9" from all enemy
+characteristic of Altairi.
+units. When using the ‘Equal Prodigies’
+ability in your next turn, you must pick
+Your Hero Phase 8 Ellania to take the lead.
+TOTAL ECLIPSE: Ellania gestures
+towards a lunar body and causes a shadow
+to draw across it, distracting the foe.
+Declare: Make a casting roll of 2D6.
+Effect: Until the start of your next turn,
+the first time an enemy unit uses a
+command within 18" of this unit, your
+opponent must spend an additional
+command point to use that command.
+Keywords Spell
+Unique, Hero, Wizard (1), Infantry, Ward (5+)
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Scinari, Vanari
+
+--- Page 22 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+T H S ALARITH
+L 5 4+A
+A V
+E E
+H STONEMAGE
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of the High Peaks 3 3+ 4+ 1 D3 -
+Any Combat Phase Your Hero Phase 7
+STONEMAGE STANCE: A Stonemage LIVING FISSURE: The caster
+can adopt a stance that can be emulated touches a rocky outcrop, causing it to split
+by nearby Stoneguard, allowing them to apart along its entire length.
+deliver blows with shattering force.
+Declare: Pick a point on the battlefield
+Declare: Pick a friendly Alarith Aelf within 18" of this unit to be the target,
+unit wholly within 12" of this unit to be then make a casting roll of 2D6.
+the target.
+Effect: Draw a straight line between the
+Effect: Roll a dice. On a 3+, add 1 to the target and the closest part of this unit’s
+Rend characteristic of the target’s melee base. Roll a D3 for each unit (friendly and
+weapons for the rest of the turn. enemy) that the line passes across. On a
+2+, inflict an amount of mortal damage
+on that unit equal to the roll.
+Keywords Spell
+Hero, Wizard (1), Infantry
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Alarith
+
+--- Page 23 ---
+July 2025
+MOVE
+4" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S ALARITH
+L 2 4+A
+A V
+E E
+H STONEGUARD
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stoneguard Hammers 2 3+ 3+ 1 222 -
+Passive
+FORTITUDE OF THE EARTH: When
+the Stoneguard adopt an unyielding
+martial stance around a site of power,
+even the most ferocious assaults cannot
+break them.
+Effect: This unit has Ward (5+) while all
+of its models are contesting an objective
+you control.
+Infantry, Champion, Standard Bearer (1/5)
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Alarith
+
+--- Page 24 ---
+July 2025
+MOVE
+6"
+H • LUMINETH REALM-LORDS WARSCROLL •
+L T 16 3+ S A AVALENOR
+A V
+E E
+H
+5 THE STONEHEART KING
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Geomantic Blast 12" 1 3+ 2+ 2 D6 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Firestealer Hammers 6 3+ 2+ 2 4 -
+Cloven Hooves 2 4+ 2+ 1 2 -
+Passive Once Per Turn (Army),
+BATTLE DAMAGED Any Combat Phase
+Effect: While this unit has 10 or more UNBREAKABLE BULWARK: Avalenor
+damage points, the Attacks characteristic shelters his allies as he holds off waves
+of its Firestealer Hammers is 4. of enemies, allowing the Lumineth to
+attack uninhibited.
+Passive Declare: If this unit did not charge this
+STONEMAGE SYMBIOSIS: Stonemages turn, pick an enemy unit in combat with
+are able to sustain a Spirit of the Mountain. it to be the target.
+Effect: The ‘Battle Damaged’ ability Effect: Roll a dice. On a 2+, subtract
+has no effect on this unit while it 1 from the Rend characteristic of the
+is wholly within 12" of a friendly target’s melee weapons for the rest
+Alarith Stonemage. of the turn and add 1 to the Attacks
+characteristic of this unit’s melee weapons
+Your Combat Phase 1 for the rest of the turn.
+UNSHAKEABLE FAITH OF THE Keywords Rampage
+MOUNTAINS: A Spirit of the Mountain
+can inspire its aelven supplicants to fight
+all the harder in the name of Hysh.
+Declare: Pick up to 3 different friendly
+Alarith Aelf units wholly within 12"
+of this unit to be the targets.
+Effect: Add 1 to the Attacks characteristic
+of the targets’ melee weapons for the rest
+of the turn.
+Warmaster, Unique, Hero, Monster, Ward (6+)
+KEYWORDS
+Order, Lumineth Realm-lords, Alarith
+
+--- Page 25 ---
+July 2025
+MOVE
+6" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S ALARITH SPIRIT
+L14 3+A
+A V
+E E
+H OF THE MOUNTAIN
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Geomantic Blast 12" 1 3+ 2+ 2 D6 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Stoneheart Worldhammer 4 3+ 2+ 2 5 -
+Cloven Hooves 2 4+ 2+ 1 2 -
+Passive Once Per Turn (Army),
+BATTLE DAMAGED Any Combat Phase
+Effect: While this unit has 10 or more STONEHEART SHOCKWAVE: When
+damage points, the Attacks characteristic a Spirit of the Mountain smashes its
+of its Stoneheart Worldhammer is 3. worldhammer into the ground, it can
+direct the resulting shock wave at a nearby
+Passive foe, hurling the enemy to its knees.
+STONEMAGE SYMBIOSIS: Stonemages Declare: If this unit did not charge this
+are able to sustain a Spirit of the Mountain. turn, pick an enemy unit in combat with
+it to be the target.
+Effect: The ‘Battle Damaged’ ability
+has no effect on this unit while it Effect: Roll a dice. On a 4+, the target has
+is wholly within 12" of a friendly Strike-last for the rest of the turn.
+Alarith Stonemage.
+Keywords Rampage
+Monster, Ward (6+)
+KEYWORDS
+Order, Lumineth Realm-lords, Alarith
+
+--- Page 26 ---
+July 2025
+MOVE
+12" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S HURAKAN
+L 5 5+A
+A V
+E E
+H WINDMAGE
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Windblast Vortex 10" 1 2+ 3+ 2 D3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Aspiragillum 2 3+ 4+ 1 2 -
+Your Hero Phase 7 Your Movement Phase
+TRANSPORTING VORTEX: The WINDLEAP: Windmages often
+caster calls upon a magnanimous accompany Windchargers into battle,
+whirlwind to sweep up their allies and allowing the cavalry archers to perform
+carry them to safety. soaring leaps right over the heads of
+their enemies.
+Declare: Pick a visible friendly
+Lumineth Realm-lords unit wholly Declare: Pick a friendly Hurakan
+within 12" of this unit and not in combat Windchargers unit wholly within 12" of
+to be the target, then make a casting roll this unit to be the target.
+of 2D6.
+Effect: Roll a dice. On a 3+, add 3" to the
+Effect: Remove the target from the target’s Move characteristic for the rest
+battlefield and set it up again on the of the turn and the target has Fly for the
+battlefield more than 9" from all rest of the turn.
+enemy units.
+Keywords Spell
+Hero, Wizard (1), Infantry, Fly
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Hurakan
+
+--- Page 27 ---
+July 2025
+MOVE
+18"
+H • LUMINETH REALM-LORDS WARSCROLL •
+L T 10 4+ S A SEVIRETH
+A V
+E E
+H
+5 LORD OF THE SEVENTH WIND
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRnd Dmg Ability
+Enathrai, the Howling Death 12" 4 2+ 3+ 3 D3+1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRnd Dmg Ability
+Swirling Shards 6 2+ 4+ 1 1 -
+Passive Passive
+THE LIVING GALE: The cyclonic SPIRIT OF THE WIND: A Spirit of the
+currents surrounding Sevireth make it Wind and its disciples never remain in one
+near impossible to target him from afar. place for long.
+Effect: This unit cannot be targeted by Effect: While friendly Hurakan
+shooting attacks made by enemy units units are wholly within 12" of this unit,
+that are more than 9" from this unit. they can use Shoot and/or Charge
+abilities even if they used a Run or
+Once Per Turn (Army), Any Combat Phase Retreat ability in the same turn and
+SEARING DESERT WINDS: Sevireth no mortal damage is inflicted on them by
+is the lord of burning-hot and parching Retreat abilities.
+desert winds. If Sevireth whirls around
+a foe for long enough, only desiccated
+corpses are left in his wake.
+Declare: Pick up to 3 different enemy
+units in combat with this unit to be
+the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll and subtract 1
+from wound rolls for the target’s attacks
+for the rest of the turn.
+Keywords Rampage
+Warmaster, Unique, Hero, Monster, Fly, Ward (5+)
+KEYWORDS
+Order, Lumineth Realm-lords, Hurakan
+
+--- Page 28 ---
+July 2025
+MOVE
+14" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S HURAKAN
+L 3 4+A
+A V
+E E
+H WINDCHARGERS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Windcharger Bow 12" 3 3+ 4+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Windcharger Bow 1 3+ 4+ - 1 -
+Treerunner’s Claws 2 5+ 3+ - 1 Companion
+Passive
+WINDCHARGER ARROWS:
+Windcharger arrows are guided to their
+target by aelementor winds.
+Effect: Ward rolls cannot be made for
+damage points inflicted by this unit’s
+shooting attacks.
+Cavalry, Champion, Standard Bearer (1/5)
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Hurakan
+
+--- Page 29 ---
+July 2025
+MOVE
+18" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S HURAKAN SPIRIT
+L 8 4+A
+A V
+E E
+H OF THE WIND
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Bow of the Shoot in Combat,
+12" 4 2+ 3+ 2 D3
+Wind’s Vengeance Anti-Monster (+1 Rend)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Swirling Shards 6 2+ 4+ 1 1 -
+Passive Once Per Turn (Army), Any Combat Phase
+HUNTERS OF MAJESTIC BEASTS: LIVING CYCLONE: As a Spirit of the
+With vindictive glee, wind spirits race Wind moves across the battlefield, enemies
+across the battlefield in pursuit of mighty are picked up and tossed about, buffeted
+behemoths, seeking to lay them low with a into each other with crushing force.
+well-placed shot.
+Declare: Pick an enemy unit in combat
+Effect: The Damage characteristic of this with this unit to be the target.
+unit’s Bow of the Wind’s Vengeance is 3
+Effect: Roll a D3. On a 2+, inflict an
+for attacks that target Monsters.
+amount of mortal damage on the target
+equal to the roll, then this unit can move
+Passive
+6", but it must end that move in combat.
+SPIRIT OF THE WIND: A Spirit of the
+Keywords Rampage
+Wind never remains in one place for long.
+Effect: While friendly Hurakan
+units are wholly within 12" of this unit,
+they can use Shoot and/or Charge
+abilities even if they used a Run or
+Retreat ability in the same turn and
+no mortal damage is inflicted on them by
+Retreat abilities.
+Monster, Fly, Ward (5+)
+KEYWORDS
+Order, Lumineth Realm-lords, Hurakan
+
+--- Page 30 ---
+July 2025
+MOVE
+7" • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S YDRILAN
+L 1 5+A
+A V
+E E
+H RIVERBLADES
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Ythara Darts 10" 2 3+ 4+ - 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ydrilan Blades 3 3+ 4+ 1 1 Anti-Hero (+1 Rend)
+Any Combat Phase Your Movement Phase
+RELENTLESS AS THE DRIVING TRAVEL THE WATERWAYS: The
+CURRENT: An Ydrilan warrior keeps Ydrilan are able to navigate the realms’
+surging forwards, their movements fluid waterways in order to travel as fast as the
+and almost impossibly fast as they embody flow of the rapids.
+the momentum of rushing water.
+Effect: Remove this unit from the
+Effect: If this unit is in combat, it can battlefield and set it up again on
+move 2D6". It can pass through models the battlefield wholly within 6" of a
+in enemy units but must end that move battlefield edge and more than 9" from all
+in combat. enemy units.
+Keywords Core
+Infantry, Champion (1/10)
+KEYWORDS
+Order, Lumineth Realm-lords, Aelf, Ydrilan
+
+--- Page 31 ---
+July 2025
+MOVE
+- • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S HYSHIAN
+L 5 4+A
+A V
+E E
+H TWINSTONES
+7+
+BANISHMENT
+Passive
+RESERVOIR OF POWER: The
+Twinstones glow brighter with each spell
+cast, forming a reservoir from which the
+Lumineth can draw greater power.
+Effect: Add 1 to casting rolls for friendly
+Lumineth Realm-lords units
+while they are wholly within 6" of this
+Manifestation or are garrisoning
+a faction terrain feature within 3" of
+this Manifestation.
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Order, Lumineth Realm-lords
+
+--- Page 32 ---
+July 2025
+MOVE
+- • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S RUNE OF
+L 6 4+A
+A V
+E E
+H PETRIFICATION
+7+
+BANISHMENT
+Any Hero Phase
+TURN TO STONE: Any foes who remain
+too close to this hovering sigil will find
+their flesh hardening and turning into
+stone until they are nothing more than
+lifelike statues.
+Declare: Pick each enemy unit within 6"
+of this Manifestation to be the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll. If a target has
+3 mortal damage inflicted on it by this
+ability, it has Strike-last for the rest of
+the turn.
+Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Order, Lumineth Realm-lords
+
+--- Page 33 ---
+July 2025
+MOVE
+- • LUMINETH REALM-LORDS WARSCROLL •
+H
+T S SANCTUM OF
+L - - A
+A V
+E E
+H AMYNTOK
+7+
+BANISHMENT
+Passive
+SIGIL OF YNGRA: The sanctum turns
+baleful spells and attacks into flashes of
+blinding light.
+Effect: While the unit that was picked to
+be the target of the ‘Summon Sanctum
+of Amyntok’ ability is inside the ring
+formed by this Manifestation:
+•That unit has Ward (4+).
+•If that unit is a Wizard, add 1 to that
+unit’s power level.
+•Instead of measuring range or
+visibility to that unit, measure to this
+Manifestation instead.
+•This Manifestation cannot be picked
+to be the target of abilities other than
+Banish abilities.
+•If that unit uses a Move ability, makes
+a pile-in move or is removed from the
+battlefield, this Manifestation is
+removed from play.
+Manifestation, Endless Spell
+KEYWORDS
+Order, Lumineth Realm-lords
+
+--- Page 34 ---
+July 2025
+MOVE
+-
+T H S • LUMINETH REALM-LORDS WARSCROLL •
+A
+L12 3+A
+V SHRINE LUMINOR
+E E
+H
+-
+CONTROL
+The following universal terrain abilities Your Hero Phase
+apply to this terrain feature (Terrain, 1.2):
+ENTER THE SHRINE: Worthy Lumineth
+Cover, Impassable take up position within a Shrine Luminor to
+help to cleanse the realms.
+Passive
+Declare: If this terrain feature does not
+SHRINE GUARDIAN: Protected from have a Shrine Guardian, pick a friendly
+attacks, the Shrine Guardian can move the Lumineth Realm-lords Infantry
+metalith with but a fleeting thought. Hero within 3" of it and not in combat to
+be the target.
+Effect: While this terrain feature has a
+Shrine Guardian: Effect: Place the target on this terrain
+feature. The target is now a Shrine Guardian
+•This terrain feature has a Move
+(see ‘Shrine Guardian’).
+characteristic of 6" and can use
+non-command non-ChargeMove
+abilities as if it were a unit. Your Movement Phase
+•The Shrine Guardian cannot use Move EXIT THE SHRINE: The Guardian floats
+abilities and remains on this terrain down to the battlefield to rejoin the fray.
+feature each time it moves.
+•Instead of measuring range or visibility Effect: If this terrain feature has a Shrine
+to the Shrine Guardian, measure to this Guardian that was not placed on it this turn,
+terrain feature instead. set up the Shrine Guardian on the battlefield
+•All attacks that would target the wholly within 6" of this terrain feature
+Shrine Guardian target this terrain and not in combat. That unit is no longer a
+feature instead. Shrine Guardian.
+•If this terrain feature is destroyed, before
+removing it from the battlefield, inflict D3 Once Per Turn, Reaction: You declared a
+mortal damage on the Shrine Guardian. Spell ability for a unit wholly within 12" of
+Then, set up the Shrine Guardian on the this terrain feature
+battlefield wholly within 3" of this terrain
+CLEANSING RITUALS: These shrines
+feature and not in combat. That unit is
+no longer a Shrine Guardian. If it is not are instrumental to the Lumineth’s efforts
+possible to set up the Shrine Guardian, it in purging Chaos from the Mortal Realms.
+is slain.
+Effect: While this terrain feature has
+a Shrine Guardian, you can re-roll the
+casting roll for that spell.
+Faction Terrain, Fly
+KEYWORDS
+Order, Lumineth Realm-lords
+
+--- Page 35 ---
+LUMINETH REALM-LORDS
+GLITTERING PHALANX
+The culture of the Lumineth enshrines subtlety and precision over
+This Spearhead army consists overwhelming force. While the aelves of Hysh can muster truly vast warhosts
+of the following units: when necessity demands, this is seen as a needless and crass expenditure of
+lives. Far better, they believe, to send small phalanxes of warriors to those
+GENERAL places where their skills can have the greatest impact – be that eradicating
+Scinari Cathallar some troublesome warband or burning a great white-flame rune of arcane
+purification into the earth at a key nexus.
+UNITS
+5 Vanari Auralan Sentinels Auralan Wardens, armed with pikes of burning sunmetal, are the rock
+5 Vanari Auralan Sentinels against which enemies break; they do not fulfil this duty through crude
+10 Vanari Auralan and bloody-minded endurance but rather by drawing upon the energies of
+Wardens aetherquartz to speed pre-emptive strikes. Auralan Sentinels loose swift
+5 Vanari Bladelords arrows, bleeding the foe by precise degrees. Incautious usage of aetherquartz
+has led to disaster in the past, and so each of these shining formations will
+be accompanied by a single mote of darkness – a Scinari Cathallar, skilled in
+turning the negative emotions stored within aetherquartz against the enemy.
+Cathallars are protected at all times by the war-sages of the Bladelords, each
+willing to give their life for the good of the realms.
+‘We have already peered into the darkness of the soul. Our duty
+spurs no fear in us – only resolve.’
+– Asa’nai, the Veiled Sage
+The proud pinks, purples and greens of studio scheduler and resident chronomage Stef’s Lumineth were inspired by the
+cherry blossom trees of Syar’s enchanted vales. Pink also happens to be her favourite colour!
+
+--- Page 36 ---
+BATT LE TRA ITS
+Once Per Battle Round, Start of Battle Round Once Per Turn (Army), Your Hero Phase
+FACETS OF WAR: Th e arts of war practised by the POWER OF HYSH: Vanari can use their innate
+Lumineth are subtle, precise and devastating. arcane abilities to empower their sunmetal weapons.
+Eff ect: You must use this ability at the start of the Declare: Pick a friendly unit.
+battle round. Pick 1 Facet of War ability. Th at
+Facet of War ability can be used this battle round Eff ect: Roll a dice. On a 2+, until the start of your
+but the other cannot. next turn, attacks made by that unit score critical hits
+on unmodifi ed hit rolls of 5+.
+Once Per Phase (Army), Reaction: Opponent declared an Keywords Facet of War
+Attack ability
+SHINING COMPANY: Numinous light shines Passive
+from this aelven formation, bedazzling the foe. LIGHTNING REACTIONS: Lumineth possess a
+natural alacrity beyond that of most rivals.
+Used By: A friendly unit targeted by that Attack
+ability and that has not made a pile-in move this turn. Eff ect: When players are alternating picking units
+to use a Fight ability, when it is your turn to pick a
+Eff ect: Subtract 1 from hit rolls for the attacks that unit, you can pick 2 units instead of 1. Resolve the
+target that friendly unit. second Fight ability immediately aft er the fi rst.
+Keywords Facet of War
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Passive Passive
+ARCANE PROWESS: Th e Cathallar of this HEIGHTENED REFLEXES: Th e keen senses of
+Glittering Phalanx keeps a hidden reserve of these warriors are second to none.
+aetherquartz to bolster their sorcery in battle.
+Eff ect: Add 1 to save rolls for friendly units that use a
+Eff ect: Add 1 to casting rolls for your general. Fight ability immediately aft er another friendly unit
+because of the ‘Lightning Reactions’ ability, until the
+end of the phase.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Your Hero Phase Your Hero Phase
+OVERWHELMING HEAT: Th e Cathallar PROTECTION OF HYSH: Th e caster opens their
+summons oppressive heat to sap their foes’ strength. arms wide, creating a fi eld of glowing energy that
+protects all of the caster’s allies that are nearby.
+Declare: Pick a visible enemy unit within 24" of your
+general, then make a casting roll of 2D6. Declare: Pick a visible friendly unit wholly within
+12" of your general to be the target, then make a
+Eff ect: On a 7+, halve the Move characteristic of casting roll of 2D6.
+that unit until the start of your next turn and roll
+a dice. If the roll equals or exceeds that unit’s Save Eff ect: On a 7+, the target has Ward (5+) until the
+characteristic, infl ict D3 mortal damage on it. start of your next turn.
+Your Movement Phase Your Hero Phase
+WAYSTONE: Th is sliver of dark rock illuminates SPEED OF HYSH: Th e Cathallar magically
+hidden paths around the bearer in stark relief. empowers their allies to move with light’s swift ness.
+Eff ect: Remove your general from the battlefi eld and Declare: Pick a visible friendly unit wholly within
+set them up again anywhere on the battlefi eld more 18" of your general, then make a casting roll of 2D6.
+than 6" from all enemy units.
+Eff ect: On a 5+, double the Move characteristic of
+that unit until the start of your next turn.
+Keywords Core
+33
+SPEARHEAD
+
+--- Page 37 ---
+BATTLE TRAITS
+Once Per Battle Round, Start of Battle Round Once Per Turn (Army), Your Hero Phase
+FACETS OF WAR: The arts of war practised by the POWER OF HYSH: Vanari can use their innate
+Lumineth are subtle, precise and devastating. arcane abilities to empower their sunmetal weapons.
+Effect: You must use this ability at the start of the Declare: Pick a friendly unit.
+battle round. Pick 1 Facet of War ability. That
+Facet of War ability can be used this battle round Effect: Roll a dice. On a 2+, until the start of your
+but the other two cannot. next turn, attacks made by that unit score critical hits
+on unmodified hit rolls of 5+.
+Once Per Phase (Army), Reaction: Opponent declared an Keywords Facet of War
+Attack ability
+SHINING COMPANY: Numinous light shines Passive
+from this aelven formation, bedazzling the foe. LIGHTNING REACTIONS: Lumineth possess a
+natural alacrity beyond that of most rivals.
+Used By: A friendly unit targeted by that Attack
+ability and that has not made a pile-in move this turn. Effect: When players are alternating picking units
+to use a Fight ability, when it is your turn to pick a
+Effect: Subtract 1 from hit rolls for the attacks that unit, you can pick 2 units instead of 1. Resolve the
+target that friendly unit. second Fight ability immediately after the first.
+Keywords Facet of War Keywords Facet of War
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Passive Passive
+ARCANE PROWESS: The Cathallar of this HEIGHTENED REFLEXES: The keen senses of
+Glittering Phalanx keeps a hidden reserve of these warriors are second to none.
+aetherquartz to bolster their sorcery in battle.
+Effect: Add 1 to save rolls for friendly units that use a
+Effect: Add 1 to casting rolls for your general. Fight ability immediately after another friendly unit
+because of the ‘Lightning Reactions’ ability, until the
+end of the phase.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Your Hero Phase Your Hero Phase
+OVERWHELMING HEAT: The Cathallar PROTECTION OF HYSH: The caster opens their
+summons oppressive heat to sap their foes’ strength. arms wide, creating a field of glowing energy that
+protects all of the caster’s allies that are nearby.
+Declare: Pick a visible enemy unit within 24" of your
+general, then make a casting roll of 2D6. Declare: Pick a visible friendly unit wholly within
+12" of your general to be the target, then make a
+Effect: On a 7+, halve the Move characteristic of casting roll of 2D6.
+that unit until the start of your next turn and roll
+a dice. If the roll equals or exceeds that unit’s Save Effect: On a 7+, the target has Ward (5+) until the
+characteristic, inflict D3 mortal damage on it. start of your next turn.
+Your Movement Phase Your Hero Phase
+WAYSTONE: This sliver of dark rock illuminates SPEED OF HYSH: The Cathallar magically
+hidden paths around the bearer in stark relief. empowers their allies to move with light’s swiftness.
+Effect: Remove your general from the battlefield and Declare: Pick a visible friendly unit wholly within
+set them up again anywhere on the battlefield more 18" of your general, then make a casting roll of 2D6.
+than 6" from all enemy units.
+Effect: On a 5+, double the Move characteristic of
+that unit until the start of your next turn.
+Keywords Core
+
+--- Page 38 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+6"
+SCINARI CATHALLAR
+5 6+
+2 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Despairing Touch 3 3+ 4+ - D3 -
+It is the noble duty of a Scinari
+Cathallar to take the spiritual
+anguish locked within spent
+aetherquartz and redirect it
+against their enemies. They are
+the lone point of darkness in the
+brilliance of a Lumineth line,
+capable of wielding despair itself
+as a weapon. The burdens of a
+Cathallar forever mark them
+out from their fellows, for the
+Lumineth are a people who shun
+emotion where possible. It is a
+task that the Cathallars accept
+without complaint; few know
+better than they the dangers of
+using aetherquartz unchecked.
+Hero, Wizard, Infantry
+• SPEARHEAD WARSCROLL •
+VANARI BLADELORDS
+Bladelords are amongst the most
+elite Lumineth warriors. Each
+has formed a deep connection
+with the essence of their weapon
+and views combat as a series of
+elegant and artful equations.
+To kill with the perfectly
+calculated cut or degree of
+force is seen as the greatest of
+virtues – not out of a sense of
+ego or self-aggrandisement, they
+say, but because it brings them
+closer to true enlightenment.
+Bladelords serve as guardians
+to the mages of the Scinari,
+souls who share their quest for
+mental perfection and will give
+their lives in service of their
+honoured charges.
+Infantry
+SAVE
+MOVE
+CONTROL
+HTLAEH
+Your Hero Phase
+DARKNESS OF THE SOUL: Cathallars wield the
+negative energy locked in aetherquartz as a weapon.
+Declare: Pick an enemy unit within 12" of this unit to be
+the target, then roll a dice.
+Effect: On a 3+, subtract D6 from the control score of the
+target unit this turn.
+KEYWORDS
+6"
+2 4+
+1
+Passive
+SWORDMASTERS: Vanari Bladelords adopt different fighting styles
+depending upon the nature of their opponents.
+Effect: Each time this unit uses a Fight ability, you must pick either the Perfect
+Strike or Flurry of Blows weapon characteristics for all the attacks it makes
+with its Sunmetal Greatblade. In addition:
+Do not use the attack sequence for an attack made with Perfect Strike. Instead,
+roll a dice. On a 2+, inflict 1 mortal damage on the target unit.
+Passive
+GUARDIANS: Bladelords are tasked with protecting the Scinari from harm.
+Effect: While your general is wholly within this unit’s combat range, both this
+unit and your general have Ward (5+).
+KEYWORDS
+
+--- Page 39 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+6"
+SCINARI CATHALLAR
+5 6+
+2
+It is the noble duty of a Scinari
+Cathallar to take the spiritual
+anguish locked within spent
+aetherquartz and redirect it
+against their enemies. They are
+the lone point of darkness in the
+brilliance of a Lumineth line,
+capable of wielding despair itself
+as a weapon. The burdens of a
+Cathallar forever mark them
+out from their fellows, for the
+Lumineth are a people who shun
+emotion where possible. It is a
+task that the Cathallars accept
+without complaint; few know
+better than they the dangers of
+using aetherquartz unchecked.
+Hero, Wizard, Infantry
+• SPEARHEAD WARSCROLL •
+VANARI BLADELORDS
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Sunmetal Greatblade: Perfect Strike 1 See below -
+Crit (Mortal),
+Bladelords are amongst the most Sunmetal Greatblade: Flurry of Blows 3 3+ 44++ 11 11 AAnnttii--IInnffaannttrryy
+elite Lumineth warriors. Each (+1 Rend)
+has formed a deep connection
+with the essence of their weapon
+and views combat as a series of
+elegant and artful equations.
+To kill with the perfectly
+calculated cut or degree of
+force is seen as the greatest of
+virtues – not out of a sense of
+ego or self-aggrandisement, they
+say, but because it brings them
+closer to true enlightenment.
+Bladelords serve as guardians
+to the mages of the Scinari,
+souls who share their quest for
+mental perfection and will give
+their lives in service of their
+honoured charges.
+Infantry
+SAVE
+MOVE
+CONTROL
+HTLAEH
+Your Hero Phase
+DARKNESS OF THE SOUL: Cathallars wield the
+negative energy locked in aetherquartz as a weapon.
+Declare: Pick an enemy unit within 12" of this unit to be
+the target, then roll a dice.
+Effect: On a 3+, subtract D6 from the control score of the
+target unit this turn.
+KEYWORDS
+6"
+2 4+
+1
+Passive
+SWORDMASTERS: Vanari Bladelords adopt different fighting styles
+depending upon the nature of their opponents.
+Effect: Each time this unit uses a Fight ability, you must pick either the Perfect
+Strike or Flurry of Blows weapon characteristics for all the attacks it makes
+with its Sunmetal Greatblade. In addition:
+Do not use the attack sequence for an attack made with Perfect Strike. Instead,
+roll a dice. On a 2+, inflict 1 mortal damage on the target unit.
+Passive
+GUARDIANS: Bladelords are tasked with protecting the Scinari from harm.
+Effect: While your general is wholly within this unit’s combat range, both this
+unit and your general have Ward (5+).
+KEYWORDS
+
+--- Page 40 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+VANARI AURALAN SENTINELS
+RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Auralan Bow 18" 2 3+ 4+ 1 1 Crit (Auto-wound)
+MELEE WEAPONS Attacks Hit Wound Rend DDaammaaggee Ability
+The bow is considered a noble Vanari Dagger 1 3+ 4+ - 1 -
+weapon in Lumineth society,
+for the ability to send an arrow
+soaring through the radiant
+skies appeals greatly to aelven
+sensibilities – as does avoiding
+the need to close with their
+base adversaries. Sentinels are
+the archers of the Vanari, each
+having trained until they can
+shoot a foe through the eye
+from great distance. Their bows
+use a complex series of strings
+that allow them to moderate
+range and power, and their
+armour shines with the power
+of Hysh, capable of temporarily
+blinding any foes who weather
+their storm of sunmetal-
+tipped arrows.
+Infantry, Reinforcements
+• SPEARHEAD WARSCROLL •
+6"
+VANARI AURALAN WARDENS
+1 4+
+1
+The Auralan Wardens are
+the lynchpins of the Vanari
+military. These phalanxes of
+skilled aelven warriors embody
+the Tyrionic traditions of their
+people; they do not flinch in
+the face of danger, nor do they
+hesitate to wield their pikes to
+impale oncoming enemies. The
+Wardens’ strength is built upon
+unity of purpose and a discipline
+that only those as long-lived as
+the aelves can hope to master.
+Empowered by the energies of
+aetherquartz and the arcane
+moonfire entrusted to their
+High Warden, they are the proud
+fortress wall upon which the
+forces of disorder break.
+Infantry, Reinforcements
+SAVE
+MOVE
+CONTROL
+HTLAEH
+6"
+1 5+
+1
+Your Shooting Phase
+LOFTED SHOTS: To strike a distant target, these
+warriors point their bows to the sky before launching a
+volley up high.
+Effect: Until the end of the phase, add 6" to the Range
+characteristic of this unit’s Auralan Bows but subtract 1
+from hit rolls for this unit’s shooting attacks.
+KEYWORDS
+Once Per Battle, Any Combat Phase
+MOONFIRE FLASK: The High
+Warden carries a flask filled with a
+burning silvery liquid that can be
+hurled at the incoming enemy.
+Declare: Pick an enemy unit
+in combat with this unit and that
+charged this turn to be the target,
+then roll a dice.
+Effect: On a 2+, inflict D3 mortal
+damage on the target.
+KEYWORDS
+
+--- Page 41 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+VANARI AURALAN SENTINELS
+The bow is considered a noble
+weapon in Lumineth society,
+for the ability to send an arrow
+soaring through the radiant
+skies appeals greatly to aelven
+sensibilities – as does avoiding
+the need to close with their
+base adversaries. Sentinels are
+the archers of the Vanari, each
+having trained until they can
+shoot a foe through the eye
+from great distance. Their bows
+use a complex series of strings
+that allow them to moderate
+range and power, and their
+armour shines with the power
+of Hysh, capable of temporarily
+blinding any foes who weather
+their storm of sunmetal-
+tipped arrows.
+Infantry, Reinforcements
+• SPEARHEAD WARSCROLL •
+6"
+VANARI AURALAN WARDENS
+1 4+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Crit (Mortal),
+Warden’s Pike 2 3+ 4+ - 1 Anti-charge
+The Auralan Wardens are (+1 Rend)
+the lynchpins of the Vanari
+military. These phalanxes of
+skilled aelven warriors embody
+the Tyrionic traditions of their
+people; they do not flinch in
+the face of danger, nor do they
+hesitate to wield their pikes to
+impale oncoming enemies. The
+Wardens’ strength is built upon
+unity of purpose and a discipline
+that only those as long-lived as
+the aelves can hope to master.
+Empowered by the energies of
+aetherquartz and the arcane
+moonfire entrusted to their
+High Warden, they are the proud
+fortress wall upon which the
+forces of disorder break.
+Infantry, Reinforcements
+SAVE
+MOVE
+CONTROL
+HTLAEH
+6"
+1 5+
+1
+Your Shooting Phase
+LOFTED SHOTS: To strike a distant target, these
+warriors point their bows to the sky before launching a
+volley up high.
+Effect: Until the end of the phase, add 6" to the Range
+characteristic of this unit’s Auralan Bows but subtract 1
+from hit rolls for this unit’s shooting attacks.
+KEYWORDS
+Once Per Battle, Any Combat Phase
+MOONFIRE FLASK: The High
+Warden carries a flask filled with a
+burning silvery liquid that can be
+hurled at the incoming enemy.
+Declare: Pick an enemy unit
+in combat with this unit and that
+charged this turn to be the target,
+then roll a dice.
+Effect: On a 2+, inflict D3 mortal
+damage on the target.
+KEYWORDS

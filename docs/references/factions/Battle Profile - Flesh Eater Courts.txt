@@ -1,0 +1,111 @@
+--- Page 1 ---
+®
+BATTLE PROFILES
+AUGUST 2025
+FLESH-EATER COURTS
+NEW UPDATED
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+✹ Abhorrant Archregent 1 160 (-20) 0-1 Royal Attendant, 40mm
+Any Flesh-eater Courts
+✹ Abhorrant Cardinal 1 130 0-1 Royal Attendant, 0-1 Beast, 32mm
+0-1 Knights, Any Serfs
+0-1 Royal Attendant,
+Abhorrant Ghoul King 1 120 32mm
+Any Flesh-eater Courts
+✹ Abhorrant Ghoul King on 0-1 Royal Attendant,
+1 350 (+30) 130mm
+Royal Terrorgheist Any Flesh-eater Courts
+✹ Abhorrant Ghoul King on 0-1 Royal Attendant,
+1 360 (+40) 130mm
+Royal Zombie Dragon Any Flesh-eater Courts
+✹ Abhorrant Gorewarden 1 170 (+40) 0-1 Royal Attendant, 0-1 Beast, 40mm
+0-1 Serfs, Any Knights
+✹ Crypt Haunter Courtier 1 120 0-1 Beast, 0-1 Serfs, This Hero can join an eligible 50mm
+Any Crypt Horrors regiment as a Royal Attendant.
+✹ Crypt Infernal Courtier 1 140 (+20) 0-1 Beast, 0-1 Serfs, This Hero can join an eligible 50mm
+Any Crypt Flayers regiment as a Royal Attendant.
+✹ Grand Justice Gormayne 1 110 0-1 Beast, 0-1 Knights, Any Serfs This Hero can join an eligible 32mm
+regiment as a Royal Attendant.
+NEW This Hero can join an eligible 32mm [1],
+✹ High Falconer Felgryn 1 120 0-1 Monster, Any Beast, Any Serfs regiment as a Royal Attendant. 28.5mm [1]
+✹ Marrowscroll Herald 1 110 (-20) 0-1 Beast, Any Serfs This Hero can join an eligible 32mm
+regiment as a Royal Attendant.
+✹ Nagash, Supreme Lord 0-1 Royal Attendant,
+1 830 (-10) 130mm
+of the Undead Any Flesh-eater Courts
+✹ Royal Decapitator 1 100 (+20) 0-1 Beast, Any Serfs This Hero can join an eligible 32mm
+regiment as a Royal Attendant.
+✹ Ushoran, Mortarch of Delusion 1 450 (-10) Any Royal Attendant, 130mm
+Any Flesh-eater Courts
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+This unit is legal for Matched
+Scourge of Ghyran 0-1 Royal Attendant, Play for battles fought using the
+1 120 32mm
+Abhorrant Ghoul King Any Flesh-eater Courts General’s Handbook 2025-26
+battlepack.
+This unit is legal for Matched
+✹ Scourge of Ghyran 0-1 Royal Attendant, 0-1 Beast, Play for battles fought using the
+1 140 40mm
+Abhorrant Gorewarden 0-1 Serfs, Any Knights General’s Handbook 2025-26
+battlepack.
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+✹ Crypt Flayers 3 150 (+10) Knights, Infantry 50mm
+You can include 1 unit of this
+type for each Crypt Infernal
+Crypt Flayers (2 models) 2 80 Knights, Infantry 50mm
+Courtier in your army.
+This unit cannot be reinforced.
+Crypt Ghouls 20 160 Serfs, Infantry 25mm
+✹ Crypt Horrors 3 160 (+20) Knights, Infantry 50mm
+You can include 1 unit of this
+✹ Crypt Horrors (2 models) 2 100 (+10) Knights, Infantry type for each Crypt Haunter 50mm
+Courtier in your army.
+This unit cannot be reinforced.
+Cryptguard 10 100 Serfs, Infantry 25mm
+Morbheg Knights 3 180 Knights, Cavalry 75 × 42mm
+40mm [2],
+32mm [2],
+Royal Beastflayers 10 100 Serfs, Infantry This unit cannot be reinforced.
+28.5mm [3],
+25mm [3]
+✹ Royal Terrorgheist 1 230 (+10) Monster 130mm
+✹ Royal Zombie Dragon 1 240 (+10) Monster 130mm
+✹ Varghulf Courtier 1 130 (-10) Beast 90 × 52mm
+
+--- Page 2 ---
+®
+BATTLE PROFILES
+AUGUST 2025
+FLESH-EATER COURTS
+NEW UPDATED
+TYPE NAME POINTS NOTES
+✹ Battle Formation Knightly Echelon 0 Battletome: Flesh-eater Courts
+Battle Formation Lords of the Manor 0 Battletome: Flesh-eater Courts
+✹ Battle Formation The Royal Hunt 0 Battletome: Flesh-eater Courts
+Battle Formation Royal Menagerie 0 Battletome: Flesh-eater Courts
+Battle Formation Impassioned Serfs 0 Scourge of Ghyran
+Battle Formation Questing Courtiers 0 Scourge of Ghyran
+✹ Heroic Trait Cruel Taskmaster 0 (-20) Battletome: Flesh-eater Courts
+Heroic Trait Savage Beyond Reason 0 Battletome: Flesh-eater Courts
+Heroic Trait Stronger in Madness 0 Battletome: Flesh-eater Courts
+Artefact of Power Charnel Vestments 20 Battletome: Flesh-eater Courts
+✹ Artefact of Power The Grisly Pennant 0 Battletome: Flesh-eater Courts
+✹ Artefact of Power The Splintered Femur 0 Battletome: Flesh-eater Courts
+Monstrous Trait Revered Monstrosity 0 Scourge of Ghyran
+Monstrous Trait Savage Abomination 0 Scourge of Ghyran
+Monstrous Trait Horribly Resilient 0 Scourge of Ghyran
+Spell Lore Lore of Madness 0 Battletome: Flesh-eater Courts
+Prayer Lore Rites of Delusion 0 Battletome: Flesh-eater Courts
+Manifestation Lore Manifested Insanity 0 Battletome: Flesh-eater Courts
+Faction Terrain Charnel Throne 0 Battletome: Flesh-eater Courts
+DEATH
+UNIT SUMMARY POINTS NOTES
+REGIMENTS
+✹ The Horror of This Regiment of Renown can be included in the following factions:
+• 1 Royal Terrorgheist 230
+Hallow’s Watch Nighthaunt, Ossiarch Bonereapers, Soulblight Gravelords.
+This Regiment of Renown can be included in the following factions:
+• Grand Justice Gormayne
+✹ The Scarlet Jury • 1 Royal Decapitator 300 Cities of Sigmar, Ironjawz, Kharadron Overlords, Kruleboyz, Nighthaunt,
+• 10 Cryptguard Ogor Mawtribes, Ossiarch Bonereapers, Slaves to Darkness, Sons of Behemat,
+Soulblight Gravelords.

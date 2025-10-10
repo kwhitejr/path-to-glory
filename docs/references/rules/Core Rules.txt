@@ -1,0 +1,2310 @@
+--- Page 1 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+CONTENTS
+CORE BOOK ......................................... 2 KEY
+Core Rules .................................................. 2 Rules are updated regularly, with the type of change made indicated
+Advanced Rules.............................................. 7 by one of the following ‘badges’:
+Path to Glory: Ascension..................................... 11
+Glossary...................................................12 NEW This shows that a rules update is new since the last
+Matched Play: First Blood....................................12 time this document was published.
+UPDATED This shows that an existing rules update has
+SPEARHEAD BOOKS. ............................... 13 changed since the last time this document
+Spearhead: Fire and Jade.....................................13 was published.
+Spearhead: Sand and Bone ...................................15 DELETED This shows that the rules update no longer applies
+(the text will also be scored out likethis).
+GENERAL’S HANDBOOKS .......................... 16
+General’s Handbook 2024-25................................. 16 More recent rules updates always take precedence over
+General’s Handbook 2025-26................................. 17 earlier versions.
+FACTION PACKS. ................................... 20
+OTHER DIGITAL DOWNLOADS .................... 30
+BATTLETOMES. .................................... 35
+Battletome: Blades of Khorne.................................35
+Battletome: Flesh-eater Courts................................36
+Battletome: Gloomspite Gitz..................................37
+Battletome: Idoneth Deepkin.................................39
+Battletome: Kharadron Overlords.............................40
+Battletome: Nighthaunt......................................41
+Battletome: Orruk Warclans..................................42
+Battletome: Skaven..........................................44
+Battletome: Slaves to Darkness................................45
+Battletome: Soulblight Gravelords.............................47
+Battletome: Stormcast Eternals ...............................48
+PATH TO GLORY BOOKS. ........................... 50
+Path to Glory: Ravaged Coast.................................50
+PRODUCED BY THE WARHAMMER DESIGN STUDIO
+With thanks to The Faithful and The Loretesters for their invaluable services.
+© Copyright Games Workshop Limited 2025. GW, Games Workshop, Warhammer, Citadel, Warhammer Age of Sigmar, Battletome, Stormcast Eternals, the ‘winged-
+hammer’ Warhammer logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likenesses
+thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world. All Rights Reserved.
+Permission to download/print for personal use only.
+This is a work of fiction. All the characters and events portrayed in this book are fictional, and any resemblance to real people or incidents is purely coincidental.
+Pictures used for illustrative purposes only.
+Certain Citadel products may be dangerous if used incorrectly and Games Workshop does not recommend them for use by children under the age of 16 without adult
+supervision. Whatever your age, be careful when using glues, bladed equipment and sprays and make sure that you read and follow the instructions on the packaging.
+Games Workshop Ltd., Willow Road, Lenton, Games Workshop Limited – Irish branch
+Nottingham, NG7 2WS, United Kingdom Unit 3, Lower Liffey Street, Dublin 1, D01 K199, Ireland
+1
+
+--- Page 2 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+CORE RULES
+ADDENDA
+The following rules updates add text in order to clarify ambiguities and/or avoid unintended interactions.
+2.2 DICE 18.3 SLAIN MODELS 30.0 ORDER OF EFFECTS
+Add the following: Add the following: Add the following:
+‘• Some rules allow you to re-roll a dice ‘You must remove the fewest models ‘Some abilities have a delayed effect
+roll, which means you get to roll some or possible to make the unit a single (e.g. ‘each time a friendly unit uses a Fight
+all of the dice again. You cannot re-roll a coherent group.’ ability, after that ability has been resolved,
+dice more than once, and re-rolls happen Heal (D3) that unit’). If more than one of
+before modifiers to the roll (if any) 27.0 MODIFIER ORDER these effects would be resolved at the same
+are applied.’ Add the following: time, the active player resolves the delayed
+‘The effects of some abilities (e.g. ‘An effects of their abilities first, in an order of
+7.0 COMBAT RANGE Excess of Depravity’) allow you to replace a their choosing, then their opponent does
+Add the following: roll with a fixed value. When doing so, you the same.’
+‘A model is considered to be in combat with must replace the roll before rolling the dice
+an enemy unit if that unit is within the for it.’
+model’s combat range and visible to it.’
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+5.2 USING ABILITIES 20.0 WEAPON ABILITIES
+Change point 2 (Use Reactions) to: Change the Companion weapon ability to:
+‘Starting with the player using the ability, the players alternate ‘Unless otherwise specified, attacks made by this weapon are not
+using any abilities with an appropriate Reaction timing. Players affected by friendly abilities that modify hit rolls, wound rolls
+can choose to pass instead of using a reaction, but once both or weapon characteristics, except for those that apply negative
+players consecutively pass, no further reactions to that ability can modifiers (e.g. ‘Covering Fire’).’
+be used.’
+22.0 RETURNING AND ADDING MODELS
+6.0 VISIBILITY Replace:
+Add the following: ‘In either case, set up those models, one at a time, in coherency (see
+‘If a rule or ability requires a target to be both within a given 15.1) with the model(s) in that unit that were not returned or added
+range of and visible to the unit using that ability, or to a model in this phase.’
+that unit, both conditions must be met by the same model in the with:
+target. You could not, for instance, target a unit where one model is ‘In either case, set up those models, one at a time within coherency
+within range but not visible and another model is not in range but range (see 15.1) of the model(s) in that unit that were not returned
+is visible.’ or added this phase. If that unit has 7 or more models (including
+the model being set up), it must be set up within coherency range
+14.4 COMBAT PHASE of at least 2 other models in that unit that were not returned or
+In the declare step of the ‘Fight’ ability, change ‘pile-in move (see added this phase.’
+15.4)’ to ‘pile-in move (see 15.3)’.
+19.0 STRIKE-FIRST AND STRIKE-LAST
+In the first sentence, replace ‘at the start of the phase’ with ‘after
+any non-Fight combat phase abilities have been used’.
+2
+
+--- Page 3 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+CORE RULES
+25.0 GUARDED HERO 32.3 TERRAIN CONTROL
+In the effect of ‘Guarded Hero’, replace: Change the text to:
+‘If this Hero is Infantry, they cannot be picked as the target of ‘Some battleplans require you to gain control of terrain features.
+shooting attacks made by units more than 12" from them.’ Terrain features are contested and controlled in the same way as
+with: objectives, but terrain features do not remain in your control
+‘If this Hero is Infantry, they cannot be picked as the target of if your units are no longer contesting them. For the purposes of
+shooting attacks made by models more than 12" from them.’ determining objective control and terrain feature control, each
+unit can contest 1 objective and 1 terrain feature at the same time.
+32.1 CONTESTING OBJECTIVES
+Change the second paragraph to: Designer’s Note: For purposes other than determining terrain
+‘Each unit can only count as contesting a single objective for feature control, a unit can contest more than one terrain feature.’
+the purposes of determining objective control (see 32.2). Before
+determining objective control, for each of their units contesting
+two or more objectives, the active player must pick one of those
+objectives for it to contest. Then, their opponent does the same.
+Designer’s Note: For purposes other than determining objective
+control, a unit can contest more than one objective.’
+3
+
+--- Page 4 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+CORE RULES
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+2.2 DICE 5.2 USING ABILITIES
+Q: If an ability allows me to re-roll one dice from an XD6 roll (e.g. Q: When resolving the effect of an ability that refers to a Save
+the Blades of the Hollow King ‘Aurelias’ ability), could I then use a characteristic of 3+ or better (e.g. the ‘Cloying Quagmire’ spell),
+different ability to re-roll the entire XD6 roll? what does ‘or better’ mean?
+A: No. A: It means any Save characteristic with a lower value than 3+,
+such as 2+, that better protects against incoming damage.
+4.0 WARSCROLLS
+Q: How should I resolve an ability that refers to an enemy’s Control 5.3 THE RULES OF ONE
+characteristic (e.g. Ushoran’s ‘Shroudcage Fragment’) if the target Q: Are reaction abilities subject to the Rules of One? For example, if
+does not have a Control characteristic (e.g. a manifestation)? a unit has a reaction ability on their warscroll, could they only use it
+A: The target is treated as having a Control characteristic of 0. once per phase?
+A: Yes.
+5.0 ABILITIES
+Q: Some abilities (e.g. ‘All-out Attack’) have a red timing bar. Can 9.1.1 SETTING UP OBJECTIVES AND
+these abilities only be used in the combat phase? TERRAIN FEATURES
+A: No. The words in the timing bar or, in the case of reactions Q: If a battleplan instructs you to set up an objective on a corner of
+and passive abilities, the specific wording of the ability will let the battlefield, should you place the entire 40mm objective marker
+you know exactly when you can use it; the colour is just there on the battlefield, or should the centre of the objective marker be on
+as a play aid. If a phase is not specified, the colour indicates the the corner?
+most common phase it is used in or, if it is used in multiple phases A: The centre of the objective marker should be on the corner.
+equally, the timing bar is black.
+9.1.2 TERRITORIES
+Q: Some abilities have a green timing bar. What does this mean? Q: If a rule requires that a unit be ‘outside of friendly territory’ or
+A: The green timing bar is used to indicate defensive abilities, ‘wholly outside of friendly territory’, would a unit that is not on the
+many of which can be used in multiple phases. battlefield (for example a destroyed unit or a unit in reserve) count?
+A: No.
+Q: Are non-passive abilities such as ‘Burning Wyrdflame’ optional
+to use? 10.1 UNIVERSAL DEPLOYMENT PHASE ABILITIES
+A: Yes. You must apply the effects of passive abilities and abilities Q: Can you choose to deploy units that are in a regiment using the
+that state that they must be used if it is possible to do so, but all ‘Deploy Unit’ ability instead of ‘Deploy Regiment’?
+other abilities are optional to use. A: Yes. However, once a unit in a regiment has been deployed in
+this manner, you can no longer use ‘Deploy Regiment’ to deploy
+5.1 KEYWORDS the remaining units in that regiment, since the declare step of that
+Q: In ‘Pick a friendly non-HeroLegion of the First Prince ability specifies that ‘No units in that regiment can have already
+Daemon Infantry or Cavalry unit that has been destroyed to been deployed.’
+be the target’ (and similar wordings with multiple keywords), does
+‘Cavalry unit’ mean just that (i.e. with no other keywords) or Q: Is it mandatory for players to set up a faction terrain feature (if
+does it mean ‘friendly non-Hero Legion of the First Prince one is included on their roster) during the deployment phase?
+Daemon Cavalry unit’? A: No. A player can choose not to use the ‘Deploy Faction Terrain’
+A: It means ‘friendly non-Hero Legion of the First Prince ability. However, if both players choose to set up a faction terrain
+Daemon Cavalry unit’. feature, the player who begins deployment must set up their faction
+terrain features first (as specified in Step 1 of 10.0).
+4
+
+--- Page 5 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+CORE RULES
+12.0 START OF BATTLE ROUND Q: When a unit uses a Shoot ability, does it have to shoot with all
+Q: When determining the active player, how do you determine when of the ranged weapons that it is armed with?
+a player has ‘finished setting up their army’? A: Yes.
+A: A player has finished setting up their army when all units in
+their army have been deployed. This means that non-Deploy 17.0 THE ATTACK SEQUENCE
+Deployment Phase abilities (e.g. The Masque’s ‘The Endless Dance’ Q: If an ability allows a unit to score critical hits on unmodified rolls
+ability) happen after your army has ‘finished setting up’. of 5+, but that unit needs a 6 to hit (e.g. as a result of subtracting 1
+from hit rolls), would unmodified hit rolls of 5 hit the target? If so,
+14.3 CHARGE PHASE would they still trigger any critical hit effects?
+Q: When using the ‘Charge’ ability, does my unit need to end the A: Although the hits would count as critical hits, the attacks would
+charge move within ½" of an enemy unit that was visible to the not score a successful hit. As the attack sequence ends if an attack
+charging unit at the start of that charge move? fails, effects such as Crit (2 Hits) or Crit (Auto-wound) would
+A: No. It must end the charge move within ½" of an enemy have no effect. However, effects that are resolved immediately, such
+unit that is visible to the charging unit when it finishes that as Crit (Mortal),would still be triggered by those critical hits.
+charge move.
+18.3 SLAIN MODELS
+Q: If an ability adds or subtracts to the number of dice that make up Q: Do models removed as a result of a unit being out of coherency
+a charge roll, is that a modifier to the charge roll? count as having been slain?
+A: No. A: Yes.
+15.2 MOVING ACROSS TERRAIN 19.0 STRIKE-FIRST AND STRIKE-LAST
+Q: The rules for moving across terrain state that a model cannot Q: Can I use an ability that allows a friendly unit that does not
+end a move mid-climb. How can you tell if a model is mid-climb? have Strike-first to fight immediately after a friendly unit
+A: A model is mid-climb if it is not possible to rest it on its base in that has Strike-first if there are one or more enemy units with
+that location without additional support. As there is a wide variety Strike-first that have not yet been picked to fight?
+of terrain and models, it is acceptable for a model to end a move A: No. As mentioned in the sidebar next to 19.0, abilities that allow
+with its base at a slight angle because of uneven terrain beneath it, a unit to use a Fight ability immediately after another unit do not
+but at least half of its base must be within 1" of the terrain feature override the Strike-first constraints, so you cannot pick a unit
+that the model is on or it will be considered mid-climb. that does not have Strike-first to fight until all other units that
+have Strike-first have fought.
+15.4 FLYING
+Q: If an ability that allows a unit to move states that the unit cannot Q: If a friendly unit is the only unit that has Strike-first on the
+move into combat (e.g. Normal Move), does Fly allow that unit to battlefield and it has an ability that allows a friendly unit to fight
+move across an enemy unit’s combat range? immediately after it, in what order would units be picked to fight?
+A: Yes. A: If you are the active player, the unit that has Strike-first
+would fight first, then you could use the ability to allow another
+16.0 PICKING TARGETS friendly unit to fight immediately after it, and then you would pick
+Q: When making shooting attacks, can all models in the the next unit to fight (i.e. three friendly units would fight back
+attacking unit shoot even if the target unit is not visible to some of to back). If your opponent is the active player, the unit that has
+those models? Strike-first would fight first, you could still use the ability to
+A: No, the only models in the attacking unit that can make allow another friendly unit to fight, and then your opponent would
+shooting attacks are those that the target unit is visible to. pick the next unit to fight.
+5
+
+--- Page 6 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+CORE RULES
+20.0 WEAPON ABILITIES Q: If an ability allows a replacement unit to be set up with half the
+Q: Can I combine multiple instances of the same weapon ability? models from the original unit, could I then use an ability such as
+For example, if a weapon already has Anti-Infantry (+1 Rend) ‘Rally’ to return models to that unit until it reached the unit size of
+and it can also gain that ability from another source, would it now the original unit?
+have +2 Rend against Infantry units? A: No. A replacement unit is treated as a new unit with a new
+A: No. unit size.
+Q: If a weapon has the Companion weaponability, would it be 25.0 GUARDED HEROES
+affected by friendly abilities that grant new weapon abilities or that Q: If an ability allows me to ignore the effects of the ‘Guarded Hero’
+modify weapon abilities that the weapon already has? ability when picking targets (e.g. the Warlock Engineer’s ‘Sniper-
+A: No, unless the ability specifically names the weapon or states master’ ability), would the attacking unit still be affected by the -1 to
+that it affects Companion weapons. hit penalty from ‘Guarded Hero’?
+A: Yes.
+21.0 HEALING
+Q: If an ability (e.g. ‘Seed of Rebirth’) would allow a unit that would 28.0 ADVANCED ABILITY RULES
+be destroyed to negate all remaining damage points then heal to Q: If a rule says to pick a number of units with one keyword or
+prevent that unit from being destroyed, and another ability (e.g. another (e.g. ‘Pick up to 3 friendly Skink Infantry or Cavalry
+‘Quenching the Flames’) prevents that unit from healing, would that units’), could you pick a combination of units with either keyword,
+unit still be destroyed? or do all the units you pick need to have the same keyword?
+A: Yes. A: You can mix and match. In the example given, you could pick 1
+Skink Infantry unit and 2 Skink Cavalry units.
+24.0 SETTING UP UNITS
+Q: Can a unit use a Move ability and then be affected by an Q: If a persisting effect applies to a unit that is destroyed, and
+ability which removes them from the battlefield and sets them up another ability allows that unit to return to the battlefield (e.g. the
+again in the same movement phase? For example, could a friendly ‘Resurrection’ prayer from the Path to Glory: Ascension battlepack),
+non-MonsterStormcast Eternals unit move to be wholly does the persisting effect apply to the returned unit?
+within 6" of a Stormreach Portal, and then in the same movement A: No.
+phase use the ‘Step Into the Storm’ ability?
+A: Yes. Units cannot use Move abilities in the movement phase Q: If a part of an ability’s effect does not state that you ‘can’ or
+after being set up on the battlefield that turn, but are able to use ‘must’ do it, is it mandatory to resolve that part of the effect?
+Move abilities before doing so. A: Yes. Any part of an effect that is not optional is mandatory. If
+you cannot resolve one part of an effect, none of it applies. For
+24.2 REPLACEMENT UNITS instance, if a player picked the Wizard casting ‘The Hand of
+Q: If a destroyed unit had an enhancement, and an ability allows Gork’ to also be the target of the spell, the effect could not be fully
+me to set up a replacement of that unit, would the replacement unit resolved – it would be impossible for the target to be removed from
+also have that enhancement? the battlefield and set up again wholly within 24" of the caster –
+A: No. and so the spell would have no effect.
+Q: If an ability allows a replacement unit to be set up with half the 28.2 ‘ONCE PER’ TIMINGS
+models from the original unit, and the original unit has to have a Q: If an ability that is not on a unit’s warscroll has the ‘Once Per
+certain proportion of models equipped with specific weapons, does Turn’, ‘Once Per Battle’ or ‘Once Per Battle Round’ timing (without
+the new unit also need to adhere to the same restrictions? ‘(Army)’ afterwards), can multiple friendly units use that ability in
+A: No. As stated in 24.2, you can pick any models from the original that time period?
+unit to be set up in the replacement unit. A: It depends on who is using the ability (see the sidebar next to
+28.2). If a unit is using the ability (i.e. the declare step specifically
+says to pick a unit to use it), then each unit could use that ability
+in that time period. If the player is using the ability (i.e. nothing in
+the ability specifically says that it is used by a unit), it can only be
+used once in that time period. Note that picking the target of an
+ability is not the same as picking a unit to use that ability.
+6
+
+--- Page 7 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+ADVANCED RULES
+ADDENDA
+The following rules updates add text in order to clarify ambiguities and/or avoid unintended interactions.
+MAGIC, 7.0 MANIFESTATIONS Add the following:
+Replace: ‘Some faction terrain features allow you to place a unit on them
+‘No more than 1 friendly Wizard or Priest can attempt to (this will be clearly specified in that terrain feature’s rules). When
+summon the same manifestation per turn.’ doing so, instead of measuring range or visibility to and from the
+with: unit that is on that terrain feature, measure to and from the terrain
+‘No more than 1 friendly Wizard or Priest can attempt to feature instead. Unless otherwise specified, units on a faction
+summon the same manifestation per turn, and a friendly Wizard terrain feature cannot use Fight abilities.
+or Priest cannot attempt to summon a friendly manifestation
+that was removed from play in the same turn.’ If a unit placed on a terrain feature is removed from it (e.g. if an
+ability removes them from the battlefield), that unit counts as
+MAGIC, 7.2 BANISHING MANIFESTATIONS having left that terrain feature and loses any special role or benefits
+Add the following to the declare step of ‘Banish Manifestation’: it had as a result of being placed on it.’
+‘Add 1 to the banishment roll for each additional enemy
+manifestation on the battlefield after the first.’ ARMY COMPOSITION, 3.5 REGIMENTS OF RENOWN
+Add the following:
+TERRAIN, 1.5 FACTION TERRAIN ‘• You cannot include more than 1 Regiment of Renown in your
+Add the following to the bulleted list: army unless otherwise specified in the notes column of that
+‘• If a terrain feature has any melee or ranged weapons, it can use regiment’s battle profile.
+the ‘Fight’ and ‘Shoot’ Core abilities as if it were a unit. • Units in a Regiment of Renown cannot use (but can be picked
+• Terrain features that have a Move characteristic of 0" (‘-’) cannot as the target of, if otherwise eligible) any faction rules from the
+move (note that pile-in moves are a type of move). faction they are allied into, including enhancements and lores,
+• Faction terrain features with a Move characteristic greater than unless they have a keyword that matches that faction’s name.
+‘-’ are treated as if they were units in all phases for the purposes of • If an ability allows you to set up a replacement unit (Core Rules,
+movement, combat range, being in combat and setting up terrain 24.2) for a unit in a Regiment of Renown, that unit also counts as
+features, other manifestations and other units.’ being part of that Regiment of Renown.’
+7
+
+--- Page 8 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+ADVANCED RULES
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+COMMANDS, 4.0 SHOOTING PHASE COMMANDS MAGIC, 2.0 SPELLS
+Change the ‘Covering Fire’ declare and effect to: Change the third paragraph to:
+‘Enemy reactions can only be used if the casting roll equals
+‘Declare: Pick a friendly unit that did not use a Run ability or exceeds the spell’s casting value. So long as the spell is not
+this turn and that is not in combat to use this ability, then unbound (see 4.0), then it is successfully cast: resolve its effect.’
+pick the closest enemy unit (to that unit) that can be picked as
+the target of shooting attacks to be the target. You cannot pick MAGIC, 3.0 PRAYERS
+Manifestations or faction terrain features as the target of In the second paragraph, change ‘On a chanting roll of 2 or more’
+this ability. to ‘On an unmodified chanting roll of 2 or more’.
+Effect: Resolve shooting attacks for the unit using this ability MAGIC, 7.0 MANIFESTATIONS
+against the target. You must subtract 1 from the hit rolls for Change the sixth bullet point to:
+those attacks.’ ‘Manifestations that have a Move characteristic of 0" (‘-’) cannot
+move. For the purposes of movement, combat range, being in
+TERRAIN, 1.2 UNIVERSAL TERRAIN ABILITIES combat and setting up other units, they are only treated as if they
+In the ‘Cover’ ability, change ‘charged’ to ‘charged this turn’. were units in the combat phase. Units can finish a charge move
+within ½" of an enemy manifestation that has a Move characteristic
+Change ‘Obscuring’ to: of 0" (‘-’) instead of within ½" of an enemy unit.’
+‘Obscuring: A unit cannot be targeted by shooting attacks made by
+enemy units that are not within its combat range if it is behind or ARMY COMPOSITION, 1.3 BATTLE PROFILES
+wholly on this terrain feature, unless it has the Fly keyword.’ Change the final sentence to:
+‘Battle profiles for each unit are available
+TERRAIN, 1.5 FACTION TERRAIN at warhammer-community.com.’
+In the first bullet point, change ‘In the charge phase and the
+combat phase’ to ‘In the combat phase’. ARMY COMPOSITION, 3.2 THE GENERAL
+Change the first sentence to:
+‘You must pick 1 Hero in your army that is leading a regiment to
+be your general.’
+8
+
+--- Page 9 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+ADVANCED RULES
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+COMMANDS, 3.0 MOVEMENT PHASE COMMANDS Q: If an ability requires you to set up a unit more than 9" from
+Q: If an ability modifies a run roll, does that ability modify all enemy units, could you set up a unit within 9" of a faction
+the roll made in the ‘Redeploy’ ability, since ‘Redeploy’ has the terrain feature?
+Run keyword? A: Yes. However, some faction terrain features (such as the Shrine
+A: No, named rolls such as run roll are only modified by abilities Luminor) allow a unit to be placed on them. Since, in these cases,
+that specifically call out that type of roll. you measure range and visibility to and from the terrain feature
+instead of the unit, you would not be able to set up a unit within 9"
+COMMANDS, 4.0 SHOOTING PHASE COMMANDS of a faction terrain feature that has a unit on it.
+Q: If a friendly unit is in combat and is armed with a weapon that
+has Shoot in Combat, can it use the ‘Covering Fire’ command? Q: Are faction terrain features affected by friendly abilities (e.g.
+A: No, you can only pick units that are not in combat to use those that give units the Ward keyword)?
+that ability. A: No.
+Q: If a unit cannot be picked to be the target of shooting attacks Q: Can faction terrain features use command abilities?
+(e.g. an Infantry Hero affected by the ‘Guarded Hero’ ability) A: No, unless that command is on the faction terrain
+but is the closest unit to a friendly unit using the ‘Covering Fire’ feature’s warscroll.
+command, do I still have to target that unit?
+A: No, you must pick the nearest eligible unit that can be picked to Q: If an ability or battle tactic requires a unit to be destroyed (e.g.
+be the target of shooting attacks. ‘The Blood Tithe’), does destroying a faction terrain feature count?
+A: No.
+Q: If a faction terrain feature is closer to a friendly unit using the
+‘Covering Fire’ command than any other units, do I have to target Q: Can a unit placed on a faction terrain feature be picked as the
+that faction terrain feature? Can I choose to? target of enemy abilities (as opposed to the target of attacks)? For
+A: No to both. However, some faction terrain features (such as the example, if I were to pick a Shrine Luminor as the target of the
+Shrine Luminor) allow a unit to be placed on them. Since, in these Realmshaper Engine’s ‘Power Unleashed’ ability, could I pick the
+cases, you measure range and visibility to and from the terrain hero placed on the Shrine Luminor as a target of that ability?
+feature instead of the unit, you would have to target that terrain A: Yes.
+feature if it was closest.
+Q: Do I need to use a Retreat ability to move away from a faction
+Q: If a manifestation is closer to a friendly unit using the ‘Covering terrain feature that has a Move characteristic of 0"?
+Fire’ command than any other units, do I have to target that A: No, you can use any Move ability. However, some faction
+manifestation? Can I choose to? terrain features (such as the Shrine Luminor) allow a unit to be
+A: No to both. placed on them. Since, in these cases, you measure range and
+visibility to and from the terrain feature instead of the unit, you
+COMMANDS, 8.0 END OF TURN COMMANDS would have to use a Retreat ability to move away from a terrain
+Q: When using the ‘Power Through’ command, can my models pass feature that has a unit on it.
+through enemy models in the target unit or only through the target
+unit’s combat range? MAGIC
+A: Your models can only pass through the target unit’s combat Q: Can units in my army use the example spell and example prayer
+range, unless your unit has Fly or is otherwise allowed to pass from the sidebar?
+through models. A: No.
+Q: Can faction terrain or manifestations be picked as the target for MAGIC, 1.1 POWER LEVEL
+‘Power Through’? Q: If a unit has multiple power levels (e.g. a Hero that is both a
+A: Yes, if it has a Move characteristic greater than ‘-’. Wizard and a Priest), and another ability modifies that unit’s
+power level (e.g. the ‘Witchbane Curse’ prayer), which power level
+TERRAIN, 1.5 FACTION TERRAIN does it modify?
+Q: Are faction terrain features still subject to the restrictions in Core A: If that ability only targets Wizards or only targets Priests, it
+Rules, 5.3 The Rules of One? modifies the corresponding power level. If it could target either or
+A: Yes. does not specify the target, it modifies both.
+9
+
+--- Page 10 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+ADVANCED RULES
+MAGIC, 2.0 SPELLS ARMY COMPOSITION, 2.2 ARMIES OF RENOWN
+Q: Is mortal damage inflicted by a miscast considered to be ‘mortal Q: When using an Army of Renown, can I pick a faction terrain
+damage inflicted by a Spell ability’ for the purposes of abilities like feature to include on my roster?
+the Tzeentch effect of the ‘Marks of Chaos’ ability? A: Yes, unless that Army of Renown’s rules specifically state that
+A: No. you cannot include a faction terrain feature.
+MAGIC, 7.0 MANIFESTATIONS ARMY COMPOSITION, 3.1 REGIMENTS
+Q: Are manifestations still subject to the restrictions in Core Rules, Q: If a Hero is able to join another Hero’s regiment (e.g. The
+5.3 The Rules of One? Shadow Queen joining Morathi-Khaine or an Assassin joining a
+A: Yes. Dreadlord on Black Dragon), do they take the place of a non-Hero
+unit in that regiment?
+Q: Are manifestations affected by friendly abilities that would A: Yes.
+normally affect units (e.g. those that give units the Ward keyword)?
+A: No, except for those permitted in Magic, 7.0, and those that Q: Can I add units from other factions to my Heroes’ regiments?
+specifically affect manifestations (such as ‘Banish Manifestation’). A: No. The only way to add units from other factions to your army
+is by taking an eligible Regiment of Renown.
+Q: Can manifestations use command abilities?
+A: No, unless that command is on the manifestation’s warscroll. Q: If a Hero’s regiment options contain multiple excluded keywords
+(e.g. non-Beast non-Monster), can it include units in its regiment
+Q: If an ability or battle tactic requires a unit to be destroyed (e.g. that have only one of those keywords?
+‘The Blood Tithe’), does destroying a manifestation count? A: No, it cannot include units with any of those keywords.
+A: No.
+Q: Can my army include a Warmaster (e.g. Sigvald, Prince of
+Q: Do I need to use a Retreat ability to move away from a Slaanesh) in another hero’s regiment?
+manifestation that has a Move characteristic of 0"? A: Yes, but only if your army includes another Warmaster unit,
+A: No, you can use any Move ability. since your general must lead a regiment, and you must pick a
+Warmaster as your general if there are any Warmaster units
+Q: If a manifestation has a Move characteristic that is greater than in your army.
+0", can it use Move abilities in the movement phase of the same
+turn in which it was set up? ARMY COMPOSITION, 3.5 REGIMENTS OF RENOWN
+A: No. Q: If a Regiment of Renown includes a wizard, could that wizard
+cast spells from a universal manifestation lore that was picked for
+Q: If a power level 2 or higher wizard miscasts their first spell, could that army?
+they still use the ‘Banish Manifestation’ ability in that phase? A: Yes.
+A: Yes. Miscasting only prevents that wizard from using any more
+spells in that phase. Q: If a Regiment of Renown (e.g. the Coven of Thryx) includes one
+or more manifestations, do those manifestations replace picking a
+Q: If a manifestation has multiple parts (e.g. Geminids of Uhl-Gysh) manifestation lore for my army?
+and is in combat, can one part of the manifestation be ‘in combat’ A: No, they are in addition.
+while the other is not? If one part is in combat can the other part
+make a pile-in move? Q: Does a Regiment of Renown require a Hero to lead it?
+A: If any part of a manifestation is considered to be in combat, the A: No. As stated in 3.5, Regiments of Renown are pre-built
+entire manifestation is considered to be in combat. If one part can regiments, so they only include the units stated in their unit
+pile in, all parts can pile in (but must all pile in towards the same summary/organisation section.
+enemy unit as per the rules for piling in).
+10
+
+--- Page 11 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+PATH TO GLORY: ASCENSION
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+PATH TO GLORY ROSTER, STEP 1
+Replace ‘It must have a points value of 300 or less’ with ‘It must
+have a points value of 350 or less’.
+PATH OF THE MAGE
+Change ‘Magical Might’ to:
+Reaction: You declared a Spell ability for this Wizard
+MAGICAL MIGHT: This wizard is invigorated
+through the harnessing of magic.
+Effect: If that spell is cast, after resolving the effects
+of that spell, Heal (D3) this Wizard.
+11
+
+--- Page 12 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+GLOSSARY
+ADDENDA
+The following rules updates add text in order to clarify ambiguities and/or avoid unintended interactions.
+Add the following definition: Add the following definition:
+‘drops: The minimum number of Deploy abilities that a player ‘removed from play/removed from the battlefield: When a model
+can use to set up their army. This is usually equal to the number of or unit is removed from the battlefield, it no longer has any effect
+regiments in their army plus the number of auxiliary units in their on the battle, though it can still be relevant for abilities that allow
+army. (Core Rules, 10.1)’ you to return models or replace units.’
+Add the following definition: Add the following definition:
+‘fought: A unit has fought if it used any Fight abilities in the ‘used: An ability has been used once it has been declared, whether
+same turn.’ or not its effect was successfully resolved. (Core Rules, 5.2)’
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+Change the definition of Champion to: Remove the following text from Strike-last:
+‘Champion: Model’s weapons have +1 to Attacks characteristic. ‘If both players have units with Strike-last, they alternate
+(Command Models, 1.0)’ fighting with those units after all other eligible units have fought,
+starting with the active player.’
+Change the definition of contesting to:
+‘contesting: Models contest objectives within their combat range Change the definition of underdog to:
+(3"). When determining objective control, the same unit cannot ‘underdog: Player with fewest victory points. If tied, there is no
+contest more than 1 objective at the same time; the player must underdog for that battle round.’
+pick 1 if more than 1 is within range. (Core Rules, 32.1)’
+Change the first sentence of the entry for ‘modifiers
+Change the definition of Counter-charge to: (characteristic)’ to ‘Characteristics cannot be modified to less than
+‘Counter-charge: Command, 2CP. Charge in enemy charge phase. 1, with the exception of Rend, which can be modified to 0.’
+(Commands, 5.0)’
+MATCHED PLAY: FIRST BLOOD
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+BATTLEPLAN 1, BORDER WAR
+Change the first sentence of the Twist rule to:
+‘Score 2 additional victory points if you control the objective wholly within enemy territory.’
+12
+
+--- Page 13 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+SPEARHEAD: FIRE AND JADE
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+STORMCAST ETERNALS, VIGILANT BROTHERHOOD KHARADRON OVERLORDS, SKYHAMMER
+Add the Infantry keyword to the keyword bar on the TASK FORCE
+Lord-Veritant’s warscroll. Add the Reinforcements keyword (and icon) to the Arkanaut
+Company and Skywardens warscrolls.
+Change the timing of ‘Shield of Azyr’ to ‘Once Per Turn, Your
+Hero Phase’. In the Arkanaut Frigate’s ‘Bomb Racks’ ability, change the declare
+step to:
+STORMCAST ETERNALS, YNDRASTA’S SPEARHEAD ‘Pick an enemy unit that this unit passed across this phase to be
+Add the Infantry keyword to the keyword bar on the target.’
+Yndrasta’s warscroll. and the effect to:
+‘Inflict D3+1 mortal damage on the target.’
+SYLVANETH, BITTERBARK COPSE
+Add the following to the effect of the ‘Seed of Rebirth’ ability: IDONETH DEEPKIN, SOULRAID HUNT
+‘This unit cannot use this ability again for the rest of the battle.’ On the Isharann Soulscryer warscroll, change the effect of ‘Ritual
+of the Creeping Mist’ to:
+FLESH-EATER COURTS, CARRION RETAINERS ‘On a 3+, until the start of your next turn, subtract 1 from wound
+Add the Reinforcements keyword to the keyword bar on the rolls for attacks that target that unit.’
+Cryptguard’s warscroll.
+Change the timing of ‘Ethersea Predators’ to ‘Once Per Turn
+GLOOMSPITE GITZ, BAD MOON MADMOB (Army), End of Any Turn’.
+Change the timing of ‘The Hand of Gork’ to ‘Once Per Battle
+(Army), Your Movement Phase’. CITIES OF SIGMAR, CASTELITE COMPANY
+Change the timing of ‘The Officar’s Order’ to ‘Once Per Battle
+Add the following to the Battle Traits: Round, Start of Battle Round’.
+‘One of your units of Squig Hoppers is not set up during the
+deployment phase. Instead, from the third battle round onwards, In the army composition box, change ‘10 Freeguild Steelhelms’ to
+they can use the following ability: ‘5 Freeguild Steelhelms, 5 Freeguild Steelhelms’ (i.e. two units of 5
+models rather than 1 unit of 10 models).
+Your Movement Phase
+SQUIGALANCHE: A curious, arrhythmic pounding and
+Add the Reinforcements keyword to the keyword bar on the
+cackles of wicked glee in the distance signal the approach of a
+Freeguild Cavaliers’ warscroll.
+mob of manic Squig Hoppers!
+Effect: Set up this unit wholly within your territory, wholly
+within 3" of a battlefield edge and more than 6" from all
+enemy units.
+13
+
+--- Page 14 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+SPEARHEAD: FIRE AND JADE
+HEDONITES OF SLAANESH, BLADES OF THE OGOR MAWTRIBES, TYRANT’S BELLOW
+LURID DREAM Change the ‘On the Mawpath’ text to:
+Add the Reinforcements keyword (and icon) to the Slaangor ‘Your Ironblaster, Mournfang Pack and 1 unit of Ogor Gluttons
+Fiendbloods warscroll. are not set up during the deployment phase. Instead, from the
+third battle round onwards, they can use the following ability:’
+In ‘Temptations of Slaanesh’, lower the number of depravity points
+needed for the ‘Sadistic Spite’ effect to 18+ and for the ‘Oblivious SOULBLIGHT GRAVELORDS, BLOODCRAVE HUNT
+Indulgence’ effect to 24+. Change the timing of the Deathrattle Skeletons ability ‘Skeleton
+Legion’ to ‘Your Combat Phase’.
+LUMINETH REALM-LORDS, GLITTERING PHALANX
+Remove the Facet of War keyword from ‘Lightning Reactions’. FLUXBLADE COVEN, DISCIPLES OF TZEENTCH
+Add the Reinforcements keyword to the keyword bar on the
+SLAVES TO DARKNESS, BLOODWIND LEGION Kairic Acolytes warscroll.
+Add the following to the Battle Traits:
+‘Your Chaos Knights unit is not set up during the deployment HEARTFLAYER TROUPE, DAUGHTERS OF KHAINE
+phase. Instead, from the second battle round onwards, they can On the Melusai Ironscale’s warscroll, change the effect of ‘All-Out
+use the following ability: Slaughter’ to:
+‘Add 1 to the Attacks characteristic of the target’s melee weapons
+Your Movement Phase
+for the rest of the turn.’
+DREADED ARRIVAL: To the thunderous beating of
+flame-trailing hooves and clattering Chaos Armour, the
+TERRAIN
+knights arrive to shatter the enemy.
+Add the following:
+Effect: Set up this unit wholly within your territory, within 1" ‘When a unit is targeted by an attack, if it is impossible to draw a
+of a battlefield edge and more than 6" from all enemy units. straight line from the closest point on the attacking model’s base to
+the closest point on a model in the target unit’s base without that
+Also, in ‘The Dread Banner’, change the declare step to ‘Pick a line passing over a terrain feature, the target unit is considered to
+friendly Chaos Warriors unit.’ be behind a terrain feature for that attack.’
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: If a rule requires more friendly models than enemy models to be contesting a terrain feature (e.g. the Ghyran twist ‘Take the Land’ or the
+battle tactic ‘Hold Ground’), should I use the control scores of my units contesting that terrain feature?
+A: Yes. In these cases, the rule should be treated in the same way as determining control of a terrain feature (Core Rules, 32.3).
+14
+
+--- Page 15 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+SPEARHEAD: SAND AND BONE
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+BATTLE TACTICS CARDS BATTLEPLAN: SAND AND BONE
+In ‘Monument of Living Bone’, change the effect to: In step 4 of the Pre-battle Sequence, replace:
+‘The target is also treated as an objective for the rest of the turn.’ ‘Then they set up the mystical terrain for that realm battlefield as
+shown on the deployment maps, if any.’
+TWIST CARDS With:
+In the Dolorum twist ‘Survivor’s Grief’, replace: ‘Then, if you are fighting on the Ossia realm battlefield, set up a
+‘Each player scores 1 victory point at the end of their turn for each Crypt of Blood terrain feature in the middle of the battlefield.’
+friendly unit that is destroyed or that is a replacement unit.’
+With: TERRAIN
+‘Each player scores 1 victory point at the end of their turn for each Add the following:
+friendly unit from their Spearhead that has either been destroyed ‘When a unit is targeted by an attack, if it is impossible to draw a
+or replaced this battle, not including replacement units.’ straight line from the closest point on the attacking model’s base to
+the closest point on a model in the target unit’s base without that
+line passing over a terrain feature, the target unit is considered to
+be behind a terrain feature for that attack.’
+15
+
+--- Page 16 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+GENERAL’S HANDBOOK 2024-25
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+MORBID CONJURATION AETHERVOID PENDULUM
+Increase the casting value of ‘Summon Suffocating Gravetide’ to 8. Change the effect of the ‘Scything Blade’ ability to:
+‘This Manifestation can move a distance up to its Move
+LAUCHON THE SOULSEEKER characteristic in one direction (see ‘The Pendulum Swings’). It can
+Change the second sentence of the effect of the ‘Traverse the Tides pass through models during that move and can end that move in
+of Death’ ability to: combat. Then, pick up to 3 enemy units that this Manifestation
+‘It can pass through models during that move but cannot end that passed across during that move or that are within ½" of it to be
+move in combat.’ the targets. Roll a D6 for each target. On a 2+, inflict an amount of
+mortal damage on the target equal to the roll.’
+MALEVOLENT MAELSTROM
+Change the declare step of ‘Morbid Detonation’ to: RAVENAK’S GNASHING JAWS
+‘Declare: You must, and can only, use this ability if this unit has 6 Remove the ‘Wild Form’ ability.
+maelstrom points. Pick each unit (friendly and enemy) within 9"
+of it to be the targets.’ BATTLEPLAN: BORDER WAR
+Remove ‘The Vice’ from the list of battleplans that can use the
+SUFFOCATING GRAVETIDE Border War map layout.
+Change the second sentence of the ‘Pulled to the Grave’ ability to:
+‘It can pass through models during that move but cannot end that BATTLEPLAN: STARSTRIKE
+move in combat.’ In the twist, replace:
+‘If an objective would be set up wholly or partially on a terrain
+PURPLE SUN OF SHYISH feature, do not do so. Instead, inflict D6 mortal damage on each
+Change the second sentence of the ‘End Given Form’ ability to: unit wholly or partially on that terrain feature.’
+‘It can pass through models during that move but cannot end that with:
+move in combat.’ ‘If an objective would be set up wholly or partially on a faction
+terrain feature, that terrain feature and any units on it are
+Remove the ‘Wild Form’ ability. destroyed, then the objective is set up normally. If the objective
+would be set up wholly or partially on other terrain features, do not
+do so. Instead, inflict D6 mortal damage on each unit wholly or
+partially on that terrain feature.’
+16
+
+--- Page 17 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+GENERAL’S HANDBOOK 2025-26
+ADDENDA
+The following rules updates add text in order to clarify ambiguities and/or avoid unintended interactions.
+SEASON RULES (2025-26) TERRAIN, 1.5 FACTION TERRAIN
+Add the following rule: Add the following to the bulleted list:
+‘• Faction terrain features with a Move characteristic greater than
+‘REGIMENTED FORCES ‘-’ are treated as if they were units in all phases for the purposes
+If a player has more regiments than their opponent at the start of movement, combat range, being in combat and setting up
+of the battle, then once per battle, that player can re-roll their terrain features, other manifestations and other units.’
+priority roll after seeing the result of both players’ rolls but before
+determining priority for that battle round.’
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+COMMANDS (2025-26) MAGIC (2025-26)
+Change the timing of ‘Covering Fire’ to ‘Enemy Shooting Phase’. In the keywords bar of the ‘Unbind’ ability, change the Prayer
+keyword to the Unbind keyword.
+Add the following to the declare step for ‘Covering Fire’:
+‘You cannot pick Manifestations or faction terrain features as Change 1.1 Power Level to:
+the target of this ability.’ ‘1.1 POWER LEVEL
+Each Wizard and Priest has a power level shown after the
+TERRAIN (2025-26) keyword, e.g.Wizard (2). A Wizard’s casting power level
+In 1.1 Wholly On Terrain and Behind Terrain, change the second determines how many Spell abilities they can use per phase. A
+paragraph to: Priest’s chanting power level determines how many Prayer
+‘When a unit is targeted by an attack, if it is impossible to draw a abilities they can use per phase.
+straight line from the closest point on the attacking model’s base to
+the closest point on the base of a model in the target unit that is in MULTIPLE POWER LEVELS
+range without that line passing over that terrain feature, the target • If an ability references a unit’s power level and that unit
+unit is considered to be behind a terrain feature for the attack made has more than one power level, use whichever power level
+by that attacking model. Ignore parts of the terrain feature within is higher.
+the attacking unit’s combat range for the purposes of determining • If an ability modifies a unit’s power level and that unit has
+if the target is behind that terrain feature.’ more than one power level, it modifies both.’
+Remove 1.1.1 Shooting from Within Terrain in its entirety. ARMY COMPOSITION (2025-26)
+Replace the second bullet point of 3.5 Regiments of Renown with:
+In the ‘Rapid Sprouting’ effect of ‘Activate Place of Power’, replace ‘• Units in a Regiment of Renown cannot use (but can be picked
+‘visible terrain feature’ with ‘visible non-Faction Terrain as the target of, if otherwise eligible) any faction rules from the
+terrain feature’. faction they are allied into, including enhancements and lores,
+unless they have a keyword that matches that faction’s name.’
+In 1.5 Faction Terrain, remove the following sentence: ‘While a
+faction terrain feature is garrisoned, it is a unit (see 1.5.1).’ In 4.1 Enhancements, change:
+‘Enhancements cannot be given to Regiment of Renown units’
+Add the following to 1.5.1 Garrisoning Faction Terrain Features: To:
+‘Units cannot move while they are garrisoned on a terrain feature.’ ‘Enhancements cannot be given to Regiment of Renown units
+unless they have a keyword that matches that faction’s name.’
+17
+
+--- Page 18 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+GENERAL’S HANDBOOK 2025-26
+MANIFESTATION LORES, TWILIT SORCERIES BATTLE TACTICS CARD 3: INTERCEPT AND RECOVER
+Add the following to the effect of ‘Summon Geminids of Uhl- Add the following to the top of the battle tactics card:
+Gysh’: ‘If an ability would remove a unit that was carrying treasure from
+‘A Geminids of Uhl-Gysh endless spell has 2 parts that must be set the battlefield and that unit is not set up again as part of the same
+up within 9" of each other.’ ability (e.g. ‘Dark Apotheosis’ or ‘Red Ruin’), before removing that
+unit from the battlefield, your opponent must give the treasure
+SHARDS OF VALAGHARR it was carrying to another one of their units that does not have a
+In the effect of ‘Phantasmal Translocation’, replace ‘not in combat’ Ghyranite treasure within 3" of that unit. If this is not possible,
+with ‘more than 3" from all enemy units’. that unit counts as having been destroyed for the purpose of this
+battle tactics card.’
+BATTLEPLAN: LIFEROOTS
+In the battleplan rules, replace ‘for each terrain feature they UPDATED
+control’ with ‘for each non-Faction Terrain terrain feature BATTLE TACTICS CARD 5: SCOUTING FORCE
+they control’. Replace:
+‘At the start of the battle, every friendly non-Hero Infantry
+BATTLEPLAN: LINKED LEYLINES and non-Hero Cavalry unit wholly within friendly territory
+In the battleplan rules, change: becomes a scout unit.’
+‘A linked ley line is formed across the battlefield (long edge to long with:
+edge or short edge to short edge)’ ‘At the start of the battle, pick each friendly non-Hero Infantry
+To: and non-Hero Cavalry unit that was not set up in reserve using
+‘A linked ley line is formed from the middle of one edge of the a Deploy ability to become a scout unit.’
+battlefield to the middle of the opposite edge’
+NEW
+BATTLEPLAN: PATHS OF THE FEY In the Strike: Bold Explorers battle tactic rule, replace ‘3 or
+Change the effect of ‘The Spirit Paths Open’ to: more objectives or terrain features’ with ‘3 or more objectives or
+‘All units within 6" of any target objectives must be removed from non-Faction Terrain terrain features’.
+the battlefield by their commander. Those units are vanished.
+Then, starting with you, players must take it in turns to set up each NEW
+friendly vanished unit wholly within 3" of either target objective In the Domination: Courageous Adventurers battle tactic rule,
+and more than 3" from all enemy units. Those units cannot use replace ‘is contesting a terrain feature’ with ‘is contesting a
+Move abilities in the first movement phase of the battle round. non-Faction Terrain terrain feature’.
+If it is impossible for a unit to be set up in this way, it is set up in
+reserve as a lost unit.’ BATTLE TACTICS CARD 6: ATTUNED TO GHYRAN
+Change the Strike: Fey Strikes battle tactic rule to:
+BATTLEPLAN: GRASP OF THORNS ‘You complete this battle tactic at the end of your turn if all the
+Add the following to the end of ‘Carnivorous Flora’: following are true:
+‘That objective cannot be moved while there are any entangled • At least 2 friendly units moved as part of a Retreat ability this
+models contesting it.’ turn. Those units are lure units.
+• At least 2 other friendly units charged this turn and at least 1 of
+BATTLE TACTIC CARD 2: RESTLESS ENERGY those units ended the charge move in combat with an enemy unit
+In the Strike and Domination battle tactics, replace ‘control every from which any lure units retreated.’
+objective’ with ‘control every objective that can be controlled’.
+GLOSSARY 2025-26
+In the glossary entry for Strike-last, remove ‘, starting with the
+active player’.
+Change the first sentence of the entry for ‘modifiers
+(characteristic)’ to ‘Characteristics cannot be modified to less than
+1, with the exception of Rend, which can be modified to 0.’
+18
+
+--- Page 19 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+GENERAL’S HANDBOOK 2025-26
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: Can I complete the same battle tactic multiple times in a battle? BATTLEPLAN: CREEPING CORRUPTION
+A: No, unless specified otherwise. Q: How does damage inflicted by ‘Pulsing Life Energies’ interact
+with The Shadow Queen’s ‘Iron Heart of Khaine’ ability?
+1.0 BATTLE TACTICS OVERVIEW A: Since the damage is inflicted in the Start of Battle Round timing
+Q: If I have met the conditions to complete a battle tactic can I window, before either player’s turn has started, ‘Iron Heart of
+choose not to complete that tactic at the end of my turn? Khaine’ would have no effect on those damage points. In addition,
+A: No. If the conditions are fulfilled and you have not already those damage points would not count towards the limit on damage
+scored a battle tactic from that card this turn, you must score that allocation from ‘Iron Heart of Khaine’ in the next turn.
+battle tactic.
+BATTLEPLAN: ROILING ROOTS
+6.0 ATTACKING (SHOOTING AND COMBAT) Q: In the Roiling Roots battleplan, if a unit that has Strike-last
+COMMANDS because it is contesting an objective that has been picked as the
+Q: If a unit uses ‘All-out Attack’ in the shooting phase and the target of the ‘Tangling Tendrils’ ability, what happens if the models
+combat phase, do I subtract 2 from save rolls for that unit? in that unit that are contesting that objective are slain?
+A: No. Persisting effects (see 28.1) count as the effects of passive A: The unit only has Strike-last while any models in that unit
+abilities for their duration, so units cannot be affected by the same are contesting that objective. It loses the Strike-last effect
+persisting effect more than once. immediately after all of the models that were contesting that
+objective have been slain and removed from the battlefield.
+1.2 UNIVERSAL TERRAIN ABILITIES
+Q: While every model in a friendly non-Monster unit is within 1" BATTLE TACTICS CARD 3: INTERCEPT AND RECOVER
+of an Obscuring terrain feature, are they visible to friendly units? Q: If your opponent has picked the Intercept and Recover battle
+A: Yes. They are just not visible to enemy units outside of their tactic card and they destroy 2 or 3 of your units that are carrying
+combat range. Ghyranite Treasure in the same turn, and then they choose to
+go first after going second in the previous battle round, can you
+1.5 FACTION TERRAIN remove a Ghyranite Treasure that has not been scored yet from a
+Q: If a hero is garrisoning a faction terrain feature, can it still be destroyed unit?
+picked as the target of abilities other than attacks? A: Yes.
+A: Yes.
+Q: If both players have the Intercept and Recover battle tactic
+2.2 ARMIES OF RENOWN card, what is the order in which players pick units to be carrying
+Q: Can I use Scourge of Ghyran enhancements, lores and battle Ghyranite Treasures?
+formations in an Army of Renown? A: The attacker picks all their units first, then the defender picks
+A: No. all their units.
+19
+
+--- Page 20 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+CITIES OF SIGMAR DISCIPLES OF TZEENTCH
+BATTLE TRAITS BATTLE TRAITS
+Add the following to the declare step of the ‘Advance in In the second paragraph of the effect of ‘Masters of Destiny’, replace:
+Formation’ ability: ‘they cannot be modified by other friendly abilities’
+‘You cannot pick the same unit to be a target of this ability more with:
+than once per turn.’ ‘they cannot be modified by other friendly abilities except for those
+that apply negative modifiers.’
+FUSIL-MAJOR ON OGOR WARHULK
+In the effect of ‘Mark Targets’, replace ‘Add 1 to hit rolls for Change the effect of ‘Burning Wyrdflame’ to:
+shooting attacks’ with ‘Add 1 to hit rolls for attacks.’ ‘Effect: Inflict D3 mortal damage on each Burning enemy unit,
+Manifestation and faction terrain feature.’
+TAHLIA VEDRA
+Change the effect of ‘Lead from the Front’ to: Change the effect of ‘Quenching the Flames’ to:
+‘For each target: ‘Effect: If an ability would heal or return slain models to a
+• Add 1 to wound rolls for combat attacks made by that unit for the Burning enemy unit, Manifestation or terrain feature, that
+rest of the turn. ability does not heal or return any slain models to it. Instead, it no
+• That unit has Ward (5+) for the rest of the turn.’ longer has the Burning keyword.’
+FREEGUILD FUSILIERS SPELL LORE
+Change the effect of the ‘Fusiliers, Fire!’ ability to: Change the declare step of the ‘Shield of Fate’ spell to:
+‘Effect: Each time this unit uses a Shoot ability, if it is in a ‘Declare: Pick a friendly Disciples of Tzeentch Wizard to
+fortified position, it can pick either of the ranged weapon profiles cast this spell, pick a visible friendly Disciples of Tzeentch
+for all the attacks it makes with its Fusil-cannons. If it is not in a unit wholly within 18" of them to be the target, then make a casting
+fortified position, use the Mobile weapon characteristics.’ roll of 2D6.’
+HAMMERERS CHAOS SPAWN OF TZEENTCH
+Add the Champion, Musician (1/10) and Remove the declare step from the ‘A Twisted Fate’ ability. Change
+Standard Bearer (1/10) keywords to the keywords bar. the Designer’s Note to:
+‘Designer’s Note: If deployed using this ability, this unit can only be
+WILDERCORPS HUNTERS set up on the battlefield using the ‘Transformed to Spawn’ spell.’
+Add the following bullet point to the unit’s weapon options:
+‘• The champion cannot replace their weapons.’ BLUE HORRORS AND BRIMSTONE HORRORS
+Change the description paragraph to:
+ASSASSIN ‘This unit starts the battle with 10 Blue Horror models or, if it
+In the effect of ‘Hidden Murderer’, replace: is a reinforced unit, 20 Blue Horror models. Each is armed with
+‘and this unit is not in combat,’ Spiteful Talons and Arcane Flames.
+With: Brimstone Horrors models can be added to this unit using the
+‘and there are no enemy units within this unit’s combat range’. ‘Split Again’ ability. Each is armed with Impish Talons and
+Arcane Flames.’
+DAUGHTERS OF KHAINE
+BATTLE FORMATIONS TZAANGOR SHAMAN
+Change the timing of the Shadow Patrol’s ‘Shadowpaths’ ability Add the Disc of Tzeentch keyword to the keywords bar.
+to ‘Once Per Turn (Army), Your Movement Phase’ and remove the
+Core keyword from the ability. KAIRIC ACOLYTES
+Change the first line of this unit’s weapon options to:
+‘Each model in this unit is armed with a Cursed Blade and
+Sorcerous Bolt.’
+20
+
+--- Page 21 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+BURNING SIGIL OF TZEENTCH DELETED
+Change the timing of ‘Radiant Transmogrification’ to ‘Any Hero FLESH-EATER COURTS
+Phase’ and the timing bar colour to gold. BATTLE TRAITS
+Add the followingability:
+Change the declare step and effect of ‘Radiant
+Once Per Turn (Army), Your Hero Phase
+Transmogrification’ to:
+ADDRESS LOYAL SUBJECTS: Gibbering, growling and
+‘Declare: This Manifestation must use this ability in each wild gesticulations are interpreted by the ghouls as a stirring
+hero phase. Pick each unit (friendly and enemy) within 9" of this speech in the midst ofbattle.
+Manifestation to be the targets.
+Declare: Pick a friendly Flesh-eater Courts Hero to use
+thisability.
+‘Effect: Roll 2 dice, pick either result, then apply the corresponding
+effect for the rest of the turn: Effect: Roll a dice for each other friendly Flesh-eater
+1 No effect. Courts unit wholly within 12" of that Hero. For each 5+,
+2-3 Add 2" to the Move characteristic of friendly Disciples give 1 noble deeds point to thatHero.
+of Tzeentch targets and subtract 2" from the Move
+characteristic of enemy targets. Change the ‘Muster Guard’ abilityto:
+4 Add 1 to hit rolls for friendly Disciples of Tzeentch ‘Declare: Pick a friendly Courtier Hero that has 1 or more
+targets and subtract 1 from hit rolls for enemy targets. noble deeds points to use this ability, then pick a friendly unit
+5 Add 1 to wound rolls for friendly Disciples of Tzeentch wholly within 12" of it to be thetarget.
+targets and subtract 1 from wound rolls for enemy targets.
+6 Add 1 to the Attacks characteristic of melee weapons used Effect: Spend any of that Hero’s noble deeds points. If the target
+by friendly Disciples of Tzeentch targets and inflict D3 is a Serfs unit, for each noble deeds point spent, return 1 slain
+mortal damage on each enemy target.’ model to it. If the target is a Knights unit, for every 2 noble deeds
+points spent, return 1 slain model toit.’
+KAIROS FATEWEAVER
+Change Kairos’s weapons to the following: BATTLE FORMATIONS
+Change the effect of ‘Raise the Banners’to:
+RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg
+‘Each time an ability returns at least 1 slain model to a friendly
+Bolts of Change 18" 9 4+ 3+ 1 1 unit that is not in combat, after that ability has been resolved, if
+Wyrdflame
+that unit is a Serfs unit, you can return 1 additional slain model
+MELEE WEAPONS Atk Hit Wnd Rnd Dmg to it, and if it is a Knights unit, roll a dice. On a 4+, you can
+Staff of Tomorrow 9 4+ 3+ 1 D3 return 1 additional slain model toit.’
+and Beaks
+HEROIC TRAITS
+Change the effect of ‘Battle Damaged’ to: Change the ‘Cruel Taskmaster’ abilityto:
+‘Effect: While this unit has 10 or more damage points, the Attacks ‘Effect: Each time a friendly unit wholly within 12" of this unit
+characteristic of its Staff of Tomorrow and Beaks is 6.’ uses the ‘Rally’ command, you can make 3 additional rally rolls
+ofD6.’
+Change the ‘Oracle of Eternity’ ability to:
+GRAND JUSTICE GORMAYNE
+Once Per Battle (Army), Start of Your Turn In the effect of ‘Delusion of Justice Served’,replace:
+ORACLE OF ETERNITY ‘On a 3+, pick 1 of the following effects to apply to the target until
+Effect: Pick 1 battle tactics card that is on your roster and discard it. Then,
+the start of your nextturn:’
+for the rest of the battle, replace it with a battle tactics card that is not on
+your roster. with:
+If that new battle tactics card requires either player to pick something, they ‘On a 3+, this unit gains 1 noble deeds point. Then, pick 1 of
+must do so immediately when the new battle tactics card is picked. the following effects to apply to the target until the start of your
+The combined total of victory points earned by both the discarded battle
+nextturn:’
+tactics card and the new battle tactics card is 15. Any additional victory
+points beyond 15 that are earned by completing the battle tactics on both of
+those battle tactics cards are lost. MARROWSCROLL HERALD
+In the ‘The King’s Entreaty’ ability, change the second sentence of
+DAEMONIC SIMULACRUM the ‘Welcome the Disciple!’ effectto:
+In the effect of ‘Manifested Jaws’, replace ‘power level’ with ‘casting ‘Each time your opponent declares a command, Spell ability or
+power level’. Prayer ability for an Infected unit, roll a dice as areaction.’
+21
+
+--- Page 22 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+CHARNEL THRONE HEDONITES OF SLAANESH
+Change the declare step of ‘Reigning Champion’to: BATTLE TRAITS
+‘Declare: If this terrain feature does not have a Steward, pick a Change ‘An Excess of Depravity’ to:
+friendly Flesh-eater Courts Infantry Hero within 3" of it
+Once Per Battle Round (Army), Start of Battle Round
+and not in combat to be thetarget.’
+AN EXCESS OF DEPRAVITY: Wherever the Hedonites of
+Slaanesh roam, reality is unmade. Those who stand against
+Change the effect of ‘Duty Calls’to: them are assailed by titillating phantasms and mind-bending
+‘Effect: If this terrain feature has a Steward that was not placed illusions until they become slaves to their own base urges.
+on it this turn, set up the Steward on the battlefield wholly within
+Declare: Pick up to 3 friendly Hedonites of Slaanesh
+6" of this terrain feature and not in combat. That unit is no longer
+units to be the targets.
+theSteward.’
+Effect: The targets have the Euphoric keyword for the rest
+FYRESLAYERS of the battle round.
+BATTLE TRAITS
+In addition, for each friendly unit you pick, give your
+Change the timing of the ‘Rune of Relentless Zeal’ ability to opponent 1 temptation dice. During this battle round,
+‘Once Per Battle (Army), Your Movement Phase’ and the timing instead of making a wound roll, save roll, ward roll or run
+bar colour to grey. roll, your opponent can use 1 temptation dice to replace the
+roll they would have made with a 6, or instead of making
+BATTLE FORMATIONS a charge roll they can use 2 temptation dice to replace 2 of
+the dice in a charge roll with two 6s (other dice could then
+Change the effect of the ‘Bulwark of Molten Stone’ ability to:
+be rolled normally). Rolls that have been replaced count as
+‘Effect: Add 1 to save rolls for friendly Fyreslayers Infantry
+unmodified rolls and cannot be re-rolled. You cannot use
+units while they are wholly within friendly territory.’
+temptation dice to replace a re-roll.
+NEW Each time your opponent uses a temptation dice, they must
+PRAYER LORE roll it. On a 1-2, your opponent’s roll is replaced by that value
+instead of a 6, and you must allocate D3 damage points to
+In the effect of ‘Wrath of Vulcatrix’, change the second
+the unit for which the roll was replaced immediately after the
+paragraph to:
+ability used by that unit has been resolved (ward rolls cannot
+‘If the chanting roll was 8+, for the rest of the turn, add 1 to the
+be made for those damage points).
+Attacks characteristic of the target’s Companion weapons for
+every 4 damage points the target has instead.’ At the end of the battle round, any temptation dice that have
+not been used are lost.
+AURIC RUNESON ON MAGMADROTH
+Change the effect of ‘Vying for Glory’ to: In the effect of ‘Euphoric Killers’, replace:
+‘Effect: Each time this unit destroys a Monster, add 1 to the ‘That unit’s weapons have Crit (2 Hits).’
+Attacks characteristic of this unit’s Ancestral Weapons for the rest with:
+of the battle. This unit can be affected by this ability multiple times ‘That unit’s weapons, including Companion weapons, have
+and the effects are cumulative.’ Crit (2 Hits).’
+Designer’s Note: Note that ‘Sadistic Spite’ does not affect
+Companion weapons.
+SPELL LORE
+Change the effect of ‘Phantasmagoria’ to:
+‘Until the start of your next turn, each time the target is picked to
+use a Fight ability, you can pick a friendly unit in combat with the
+target. That friendly unit can move 2D3" after the Fight ability
+has been resolved. It can pass through the combat ranges of enemy
+units and can end that move in combat.’
+SYNESSA, THE VOICE OF SLAANESH
+Change the declare step of ‘Whispers of Doubt’ to:
+‘Pick a visible enemy Hero within 18" of this unit to be the target,
+then make a casting roll of 2D6’.
+22
+
+--- Page 23 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+LUMINETH REALM-LORDS SHRINE LUMINOR
+BATTLE TRAITS Change the first bullet point of the effect of ‘Shrine Guardian’ to:
+Change the first sentence of the ‘Lightning Reactions’ ability to: ‘• This terrain feature has a Move characteristic of 6" and can use
+‘When players are alternating picking units to use a Fight ability, non-command non-ChargeMove abilities as if it were a unit.’
+when it is your turn to pick a unit, you can pick 2 Lumineth
+Realm-lords units instead of 1.’ Change the declare step of ‘Enter the Shrine’ to:
+‘Declare: If this terrain feature does not have a Shrine Guardian,
+BATTLE TRAITS pick a friendly Lumineth Realm-lords Infantry Hero
+Change the second paragraph of the effect of ‘Shining within 3" of it and not in combat to be the target.’
+Company’ to:
+‘For the rest of the battle round, subtract 1 from hit rolls for attacks Change the effect of ‘Exit the Shrine’ to:
+that target friendly Vanari units that have not charged this turn ‘Effect: If this terrain feature has a Shrine Guardian that was not
+and that have not been picked as the target of the ‘Power of Hysh’ placed on it this turn, set up the Shrine Guardian on the battlefield
+ability this battle round.’ wholly within 6" of this terrain feature and not in combat. That
+unit is no longer a Shrine Guardian.’
+In the effect of ‘Move Like the Wind’, replace:
+‘Each target can move a distance up to its Move characteristic.’ MAGGOTKIN OF NURGLE
+with: BATTLE TRAITS
+‘Each target can move 2D6".’ Change the first sentence of the effect of the ‘Blessed by the
+Plaguefather’ ability to:
+MANIFESTATION LORE, MANIFESTATIONS OF HYSH ‘You cannot pick Manifestations or terrain features to be the
+In the effect of ‘Summon Sanctum of Amyntok’, replace ‘not in targets of this ability. Pick 1 of the following effects:’
+combat’ with ‘more than 3" from all enemy units’.
+Add the following ability:
+LYRIOR UTHRALLE, WARDEN OF YMETRICA
+Change the timing of the ‘Voice of Tyrion’ ability to ‘Passive’, Passive
+change the timing bar colour to black and change the effect to: BURST PUSTULES: As blighted flesh is pierced and
+‘Effect: Each time a friendly Lumineth Realm-lords unit hewn, quivering boils erupt, showering all with Nurgle’s
+glistening gifts.
+wholly within 12" of this unit uses the ‘All-out Attack’ command,
+no command points are spent.’ Effect: Each time a Diseased enemy unit would be destroyed,
+before the last model in the unit is removed from play, roll a
+YDRILAN RIVERBLADES dice. On a 3+, pick another enemy unit within 9" of that model
+Change the first sentence of the effect of ‘Relentless as the Driving to be Diseased.
+Current’ to:
+‘If this unit is in combat, it can move 2D6".’ Change the effect of ‘Desperate Remedies’ to:
+‘Effect: If an ability would heal or return slain models to a
+HYSHIAN TWINSTONES Diseased enemy unit, that ability does not heal any damage
+In the effect of ‘Reservoir of Power’, add the following to the points or return any slain models to it. Instead, it no longer has the
+final sentence: Diseased keyword.
+‘or are garrisoning a faction terrain feature within 3" of
+this Manifestation.’ Manifestations and faction terrain features cannot be given the
+Diseased keyword by any friendly abilities.’
+23
+
+--- Page 24 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+SPELL LORES, LORE OF MALIGNANCE DELETED
+Change the effect of ‘Fleshy Abundance’ to: NIGHTHAUNT
+‘Effect: Pick 1 of the following effects: BATTLE TRAITS
+• Heal (D3) the target. Change ‘Discorporate’to:
+• Subtract 1 from wound rolls for attacks that target that unit until
+the start of your next turn.’ Any Hero Phase 1
+DISCORPORATE: IIIfff gggiiivvveeennn ttthhheee ooorrrdddeeerrr,,, ttthhheee NNNiiiggghhhttthhhaaauuunnnttt cccaaannn
+ROTIGUS flicker between the realms of the living anddead.
+Change the effect of ‘Deluge of Nurgle’ to:
+Declare: Pick a friendly Nighthaunt unit to use thisability.
+‘Effect: Roll a D3 for each target. On a 2+:
+• If the target is an enemy unit, inflict an amount of mortal damage Effect: That unit has Ward (5+) for the rest of theturn.
+on the target equal to the roll.
+• If the target is a friendly unit, Heal (X) the target, where X is an BATTLE FORMATIONS
+amount equal to the roll.’ Change the timing of ‘There is No Escape’ to ‘Once Per Turn
+(Army), Your Movement Phase’ and change the declare and
+PLAGUE DRONES, PUSGOYLE BLIGHTLORDS effectto:
+Add the following ability: ‘Declare: Pick a friendly Nighthaunt unit to be thetarget.
+Passive Effect: For the rest of the turn, the target unit can still use
+DISPERSED FORMATION Charge abilities even if it used a Run or Retreat ability in the
+Effect: This unit has a coherency range of 2". same turn. In addition, for the rest of the turn, no mortal damage
+is inflicted on that unit by Retreatabilities.’
+BEASTS OF NURGLE
+Add the following before the final sentence of the effect of the HEROIC TRAITS
+‘Attention Seekers’ ability: Change the effect of ‘Terrifying Entity’to:
+‘If it does so, this unit has charged.’ ‘Effect: This unit can use any of the Aura of Dread abilities,
+even if it doesn’t have the required keyword(s) for thatability.’
+BLOAB ROTSPAWNED
+Change the effect of ‘Miasma of Pestilence’ to: DREADBLADE HARROWS
+‘Effect: Until the start of your next turn, each time a friendly Change the timing of ‘Phantasmal Discorporation’ to ‘Your
+ability is used that resulted in any damage points being allocated to MovementPhase’.
+the target, roll a dice. On a 4+, allocate 1 additional damage point
+to the target (ward rolls cannot be made for that damage point).’ HEXWRAITHS
+Change the Control characteristic to1.
+GUTROT SPUME
+Change the declare step of ‘Master of the Slime Fleet’ to:
+‘Pick a regiment led by this unit to be the target if no units from
+that regiment have been deployed.’
+FECULENT GNARLMAW
+Add the following:
+‘The following universal terrain abilities apply to this terrain
+feature (Terrain, 1.2): Cover, Unstable’
+24
+
+--- Page 25 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+OGOR MAWTRIBES OSSIARCH BONEREAPERS
+BATTLE TRAITS VOKMORTIAN, MASTER OF THE BONE-TITHE
+Add the following after the first sentence of the effect of Add the following to the effect of the ‘Voice of Nagash’ ability:
+‘Trampling Charge’: ‘Those abilities do not count as commands.’
+‘Add 2 to the roll if this unit is a Monster.’
+GOTHIZZAR HARVESTER
+PRAYER LORE, EVERWINTER PRAYERS In the effect of ‘Bone Harvest’, replace:
+In the effect of ‘Call of the Blizzard’, replace: ‘each time an enemy model in combat with this unit is slain’
+‘if the chanting roll was 10+’ with:
+with: ‘each time an enemy model from a unit in combat with this unit
+‘if the chanting roll was 8+’. is slain’.
+Change the chanting value of ‘Pulverising Hailstorm’ to 4, and in MORGHAST ARCHAI
+the effect replace: Change the first sentence of the effect of the ‘Ebon-wrought
+‘If the chanting roll was 10+’ Armour’ ability to:
+with: ‘This unit has Ward (3+) against damage points inflicted
+‘If the chanting roll was 8+’. by Spell abilities, Prayer abilities and abilities used
+by Manifestations.’
+FROSTLORD ON STONEHORN
+Change the timing of the ‘Frost Spear’ ability to ‘Passive’. MORGHAST ARCHAI, MORGHAST HARBINGERS
+Add the Fly keyword to the keywords bar.
+MAWPIT
+Change the terrain abilities paragraph to: IMMORTIS GUARD
+‘The following universal terrain abilities apply to this terrain In the effect of the ‘Soulbound Protectors’ ability, change ‘ward roll
+feature (Terrain, 1.2): Cover, Impassable’ of 1’ to ‘unmodified ward roll of 1’.
+In the ‘Step Away from the Maw’ ability, change ‘Declare:’ SERAPHON
+to ‘Effect:’. BATTLE FORMATIONS
+Remove the Core keyword from the Eternal Starhost’s ‘Celestial
+Change the declare step of ‘Feed the Maw’ to: Translocation’ ability.
+‘Declare: If this terrain feature does not have a Head Butcher, pick
+a friendly Butcher or Slaughtermaster within 3" of it and not in BASTILADON WITH SOLAR ENGINE
+combat to be the target.’ Add the Skink keyword to the keywords bar.
+Change the effect of ‘Step Away from the Maw’ to: LORD KROAK
+‘Effect: If this terrain feature has a Head Butcher that was not In the effect of the ‘Arcane Vassal’ ability:
+placed on it this turn, set up the Head Butcher on the battlefield Replace ‘the next Spell ability used by this unit’ with ‘the next
+wholly within 3" of this terrain feature and not in combat. That Spell ability used by this unit this phase’.
+unit is no longer a Head Butcher.’
+Add the following:
+KRAGNOS ‘The target is treated as the caster for the purpose of other abilities
+Change the timing of the ‘End of Empires’ ability to ‘Your Charge or spell effects, such as ‘Unbind’ or ‘The Earth Trembles’.
+Phase’ and the effect to:
+‘Effect: For the rest of the turn, add 1 to the number of dice rolled In the effect of ‘Supreme Master of Order’, replace:
+when making charge rolls for friendly Destruction units while ‘Add 2 to casting rolls for this unit’
+they are wholly within 12" of this unit, to a maximum of 3.’ with:
+‘Add 2 to casting rolls, and add 1 to unbinding rolls and
+banishment rolls for this unit’.
+In the declare step of ‘Celestial Deliverance’, replace ‘12"’ with
+‘18"’. Also, change the effect to ‘Inflict D3 mortal damage on
+each target.’
+25
+
+--- Page 26 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+SLANN STARMASTER SONS OF BEHEMAT
+In the effect of the ‘Arcane Vassal’ ability: BATTLE TRAITS
+Replace ‘the next Spell ability used by this unit’ with ‘the next Change the declare step of the ‘Colossal Slam’ ability to:
+Spell ability used by this unit this phase’. ‘Declare: Pick a friendly Mega-Gargant that has not used a
+Rampage ability this turn to use this ability, then pick an enemy
+Add the following: Monster or War Machine that has a unit size of 1 and is within
+‘The target is treated as the caster for the purpose of other abilities 1" of it to be the target.’
+or spell effects, such as ‘Unbind’ or ‘The Earth Trembles’.
+Change the ‘Gargant Charge’ ability to:
+SAURUS SCAR-VETERAN ON AGGRADON
+Any Charge Phase
+Change the ‘Alpha Roar’ ability to:
+GARGANT CHARGE: A charging gargant will flatten
+‘Declare: Pick this unit and each friendly Aggradon Lancers unit
+anyone in their path.
+wholly within 12" of it to be the targets.
+Declare: Pick a friendly Mega-Gargant or Gargant unit
+that charged this turn to use this ability, then pick an enemy
+Effect: Add 1 to the Attacks characteristic of the targets’
+unit that has not been picked as the target of this ability this
+Companion weapons for the rest of the turn. In addition, place a
+turn and that is in combat with that unit to be the target.
+rage token next to each target, to a maximum of 3 per unit.’
+Effect: Inflict D3 mortal damage on the target.
+SAURUS ASTROLITH BEARER
+Change the effect of ‘Celestial Conduit’ to: Designer’s Note: This ability can be used by any number of friendly
+‘Effect: If that spell is successfully cast, for the rest of the turn, add Mega-Gargant and Gargant units that charged in each turn.
+3 to the control scores of friendly Seraphon units while they are
+wholly within 12" of this unit.’ ARTEFACTS OF POWER
+Change the timing of ‘Glowy Lantern’ to ‘Passive’, change the
+RIPPERDACTYL RIDERS, TERRADON RIDERS timing bar colour to gold and change the effect to:
+Add the following ability: ‘Effect: This unit can use Summon abilities from the manifestation
+lore you picked during army composition as if it had Wizard (1).’
+Passive
+DISPERSED FORMATION ALL MEGA-GARGANT WARSCROLLS
+Effect: This unit has a coherency range of 2". Add 2 to the Attacks characteristic of Almighty Stomp and
+Almightier Stomp.
+KRAKEN-EATER MEGA-GARGANT
+Change the effect of ‘Get Orf Me Land!’ to:
+‘Effect: Roll a dice. On a 2+, move the target 2D6" to a new position
+on the battlefield more than 1" from all models, terrain features
+and other objectives. That objective is treated as if it were in the
+same territories as it was when it was first set up on the battlefield
+for the purposes of the battleplan.’
+BEAST-SMASHER MEGA-GARGANT
+Change the Attacks characteristic of Menhir Club to 5.
+KRAGNOS
+Change the timing of the ‘End of Empires’ ability to ‘Your Charge
+Phase’ and the effect to:
+‘Effect: For the rest of the turn, add 1 to the number of dice rolled
+when making charge rolls for friendly Destruction units while
+they are wholly within 12" of this unit, to a maximum of 3.’
+26
+
+--- Page 27 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+SYLVANETH GOSSAMID ARCHERS
+BATTLE TRAITS Change the last sentence of the effect of ‘Zephyrspites’ to:
+In the declare step of ‘Endless Growth’, replace: ‘It cannot end that move in combat.’
+‘wholly within 6" of a friendly Awakened Wyldwood’
+with: VENGEFUL SKULLROOT
+‘wholly within 6" of any friendly Awakened Wyldwoods’. Add the following ability:
+SPELL LORE Passive
+Change the effect of ‘Treesong’ to: CREEPING WILLOW
+‘Effect: If there are fewer than 3 friendly Awakened Wyldwoods Effect: This Manifestation counts as an Awakened
+on the battlefield, you can set up an Awakened Wyldwood wholly Wyldwood for the purposes of the ‘Endless Growth’, ‘Walk
+within 24" of the caster, more than 3" from all objectives and more the Hidden Paths’ and ‘Strike and Fade’ abilities.
+than 1" from all enemy units and other terrain features. If there
+are already 3 friendly Awakened Wyldwoods on the battlefield, Change the effect of ‘Vengeful Terrors’ to:
+Heal (3) each friendly Awakened Wyldwood.’ ‘Effect: For the rest of the turn, subtract an amount from the
+target’s control score equal to the number of friendly units that
+ALARIELLE THE EVERQUEEN have been destroyed this battle (not including Manifestations
+Change the timing of ‘Rite of Life’ to ‘Once Per Turn (Army), Your or Faction Terrain).’
+Movement Phase’ and change the effect to:
+‘Effect: Roll a dice. On a 4+, set up a replacement unit with half AWAKENED WYLDWOOD
+the number of models from the target unit (rounding up) wholly Add Ward (5+) to the keywords bar.
+within 9" of a friendly Awakened Wyldwood and more than 9"
+from all enemy units. If the target was a Monster, allocate 6 Change the effect of ‘Growing Woods’ to:
+damage points to the replacement unit (ward rolls cannot be made ‘Each time you set up an Awakened Wyldwood, you can place
+for those damage points).’ 1-3 scenery pieces (Terrain, 1.7). If you place more than 1 scenery
+piece, the tips at the end of each base must touch, forming a circle.
+BELTHANOS, FIRST THORN OF KURNOTH The area inside this circle is considered to be part of this terrain
+Change the effect of the ‘Kurnothi War-horn’ ability to: feature. For each additional scenery piece in this terrain feature
+‘Effect: For the rest of the turn, each target can use Charge that is placed after the first:
+abilities even if they used a Run ability in the same turn.’ • Add 2 to the Health characteristic of this terrain feature.
+• Increase the range of friendly abilities that require friendly
+THE TWISTWEALD models to be wholly within 6" of this terrain feature by 3".’
+Change the timing of the ‘Eruption of Thorned Vines’ ability to
+‘Once Per Turn (Army), Any Movement Phase’ and the timing bar Change the effect of the ‘Overgrown Wilderness’ ability to:
+colour to grey. ‘Enemy units can be targeted by shooting attacks made by
+friendly Sylvaneth units even if every model in that enemy
+KURNOTH HUNTERS WITH KURNOTH GREATBOWS unit is within 1" of this terrain feature. In addition, the Range
+Change the effect of the ‘Steady Aim’ ability to: characteristic of friendly Sylvaneth units’ ranged weapons is not
+‘Effect: For the rest of the turn, this unit can ignore the effects of halved while every model in that friendly unit is within 1" of this
+the ‘Guarded Hero’ ability (Core Rules, 25.0) when picking targets terrain feature.’
+for its shooting attacks.’
+27
+
+--- Page 28 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+DELETED HEDONITES OF SLAANESH
+BLADES OF KHORNE Q: When using the ‘Joyous Battle Fury’ ability, does Dexcessa need
+Q: If I use ‘Slaughter Triumphant’ to set up a replacement to have slain any models in a turn in order to add 1 to the Attacks
+Bloodthirster, and the unit I am replacing had one characteristic of their Impaling Talons for each battle fury token
+or more enhancements, does the replacement unit retain they have?
+thoseenhancements? A: No. Battle fury tokens are gained (and Dexcessa can heal)
+A:No. on any turn in which Dexcessa slew any enemy models, but can
+gain the additional attacks on any turn that they have any battle
+DAUGHTERS OF KHAINE fury tokens.
+Q: Can I use the ‘All-out Slaughter’ ability once per battle with each
+eligible unit? Q: The effect of the Scourge of Ghyran ‘Master of Temptation’ heroic
+A: Yes. This ability is used by the unit, not the player, and it does trait states that units can only use Core abilities. How does this
+not have the ‘Once Per Battle (Army)’ timing, so each eligible unit affect passive abilities?
+can use it once per battle. A: It doesn’t. Passive abilities are not ‘used’, so this ability doesn’t
+have any effect on them.
+Q: Can a Sisters of Slaughter with Sacrificial Knives unit use the
+‘Dance of Death’ ability to move out of combat? LUMINETH REALM-LORDS
+A: Yes. Q: If my battle formation allows me to use a Facet of War ability
+in addition to the one I pick each battle round, can I pick the same
+Q: Can Morathi-Khaine or the Shadow Queen use abilities that Facet of War ability in order to use it twice that battle round?
+would heal them (for example, ‘Rally’)? A: No.
+A: Yes. Even though damage points would not be healed by doing
+so, keywords such as Burning or Diseased would be removed Q: If a Scinari Calligrave miscasts a spell when attempting to
+from them by the use of such an ability. summon a manifestation, can they use their ‘Realmscribe’ ability to
+avoid the miscast?
+DELETED A: No.
+FLESH-EATER COURTS
+Q: Can I use the ‘Muster Guard’ ability, spend 0 noble deeds points Q: When Ellania and Ellathor use the ‘Total Eclipse’ ability, does
+to return 0 models to a unit, then use the ‘Raise the Banners’ ability your opponent need to spend an additional command point for the
+to return an additional model to thatunit? first command used by any unit or for the first command used by
+A: No. The word ‘any’ means ‘1 or more’. Therefore, you would each unit?
+have to spend 1 or more noble deeds points to resolve the effect of A: The first command used by any unit.
+‘Muster Guard’, and an ability would have to have returned 1 or
+more slain models to a unit for the effect of ‘Raise the Banners’ to Q: Can models end a move in the open spaces underneath a
+apply. In the case above, neither hashappened. Shrine Luminor?
+A: Yes. However, if the Shrine Luminor has a Shrine Guardian, an
+DELETED enemy unit would need to use an ability that would allow them to
+GLOOMSPITE GITZ move into combat with the Shrine Luminor to do so, such as the
+Q: Does the ‘Bouncing Fury’ ability have any effect on ‘Charge’ ability.
+Companionweapons?
+A: Yes, because this ability specifically names which weapons
+areaffected.
+28
+
+--- Page 29 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+FACTION PACKS
+MAGGOTKIN OF NURGLE Q: ‘Trampling Charge’ allows Monsters to add 2 to a D3 roll. How
+Q: Does the ‘Disease and Pestilence Personified’ ability require does this work?
+at least one mortal damage to be inflicted by the ‘Wracked with A: If a rule requires you to roll a D3, roll a dice and halve the total,
+Disease’ ability in order for it to inflict 1 additional mortal damage? rounding up. For example, if the Ogor Mawtribes player rolled a 5
+A: Yes, as indicated by ‘add 1 to the amount of mortal damage on a regular 6-sided dice, that would result in a D3 roll of 3. Then,
+inflicted, if any’. if the charging unit was a Monster, you would add 2 to the roll,
+and the charging Monster would inflict 5 mortal damage. Note
+Q: If an ability (such as ‘Rally’) would heal one or more damage this means that Monsters will always inflict some amount of
+points allocated to a unit, but that unit does not have any damage damage when picked as a target of the ‘Trampling Charge’ ability,
+points allocated to it or has an ability that prevents it from healing as their roll will never be less than a 2.
+any damage points, would the Diseased keyword be removed from
+that unit? Similarly, if an ability would return one or more slain OSSIARCH BONEREAPERS
+models to a unit, but no models from that unit are slain, would the Q: At the 2+ stage of the effect of ‘Curse of Years’, if I roll 1 or more
+Diseased keyword be removed from that unit? 2+’s, can I keep rolling extra dice (and inflicting mortal damage on
+A: Yes to both. the target) until a 1 is rolled?
+A: No.
+DELETED
+NIGHTHAUNT SYLVANETH
+Q: When using the ‘Wave of Terror’ ability, can all friendly Q: When placing scenery pieces while setting up an Awakened
+Nighthaunt units that are in combat use Charge abilities or Wyldwood, can the ends of each base overlap?
+onlyone? A: No. The tips at the end of each base must touch without
+A: All of them (the ability affects ‘friendly Nighthauntunits’). overlapping part of the base of a different scenery piece.
+OGOR MAWTRIBES
+Q: Does the ‘Great Gutlord’ heroic trait ignore negative
+modifiers to hit rolls and wound rolls for attacks made with
+Companion weapons?
+A: No.
+29
+
+--- Page 30 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+OTHER DIGITAL DOWNLOADS
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+BATTLETOME: BEASTS OF CHAOS MANIAK WEIRDNOB, SAVAGE BOARBOYS,
+SPELL LORE SAVAGE BOARBOY MANIAKS
+Change the third bullet point in the effect of the ‘Devolve’ spell to: Add ‘Companion’ to the War Boar’s Tusks and Hooves
+‘•Each time the target moves, if the caster is on the battlefield, the weapon profile.
+target must end that move no further from the caster than it was
+at the start of the move.’ KRAGNOS
+Change the timing of the ‘End of Empires’ ability to ‘Your Charge
+BESTIGORS Phase’ and the effect to:
+Replace the effect of the ‘Despoilers’ ability with: ‘Effect: For the rest of the turn, add 1 to the number of dice rolled
+‘Effect: This unit’s attacks score critical hits on unmodified hit rolls when making charge rolls for friendly Destruction units while
+of 5+ for the rest of the turn.’ they are wholly within 12" of this unit, to a maximum of 3.’
+UNGOR RAIDERS NEW
+Change the third sentence of the effect of the ‘Hidden Volley’ BATTLETOME SUPPLEMENT: NIGHTHAUNT
+ability to: GLAIVEWRAITH STALKERS
+‘Then, in your next movement phase, set up this unit on the Change the Rend characteristic of the Hunter’s Glaive weapon
+battlefield using the ‘Beastherd Ambush’ ability.’ profile to 1.
+CENTIGORS Change the ‘Unerring Hunters’ ability to:
+Add the following weapon profile:
+Once Per Turn (Army), Any Combat Phase
+MELEE WEAPONS Atk Hit Wnd Rnd Dmg
+UNERRING HUNTERS: These spectral hunters will hound
+Gutpiercer Spear their prey until the very end of existence itself.
+Anti-Cavalry (+1 Rend), 3 4+ 3+ 1 1
+Charge (+1 Damage) Effect: For the rest of the turn, each time this unit makes a
+pile-in move, add 3" to the distance it can move.
+BATTLETOME: BONESPLITTERZ
+HEROIC TRAITS BATTLETOME SUPPLEMENT:
+Change the timing of the ‘One Wiv Da Beast’ ability to ‘Once Per STORMCAST ETERNALS
+Battle (Army), Any Hero Phase’ and the effect to: LORD-ARCANUM ON TAURALON
+‘The next time this phase that this unit uses a Spell ability, instead Change the timing of the ‘Starlight Mantle’ ability to ‘Once Per
+of making a casting roll for this unit, you can use a value of 6 for Turn (Army), Any Combat Phase’.
+the roll that cannot be modified.’
+AVENTIS FIRESTRIKE
+ALL WARSCROLLS Change the timing of the ‘Comet Trail’ ability to ‘Once Per Turn
+Remove ‘Orruk’ from the keywords bar. (Army), Any Combat Phase’.
+MANIAK WEIRDNOB CELESTAR BALLISTA
+Change the effect of the ‘Bone Spirit’ ability to: Change the timing of the ‘Stormbolt Tempest’ ability to ‘Once Per
+‘Effect: Roll a dice. On a 3+, add 1 to wound rolls for the target’s Battle (Army), Any Combat Phase’.
+combat attacks for the rest of the turn. This ability also affects
+Companion weapons.’
+30
+
+--- Page 31 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+OTHER DIGITAL DOWNLOADS
+LEGENDS WARSCROLLS THE GRYMWATCH
+THE EMBERWATCH, THE FARSTRIDERS Change the Save characteristic to 6+ and the Health characteristic
+Change the ‘Vanguard Chamber’ ability to: to 1.
+Once Per Turn (Army), Your Hero Phase DA KUNNIN’ KREW
+VANGUARD CHAMBER: Through swiftness, guile and Change ‘Easy Meat’ to:
+more than a hint of savagery, the warriors of the Vanguard
+chambers are able to outfight forces many times their own Once Per Turn (Army), Enemy Hero Phase
+limited numbers. EASY MEAT: Showing weakness to a Kruleboy, even for a
+moment, is a death sentence.
+Effect: For the rest of the turn, this unit can use Shoot and/
+or Charge abilities even if it used a Run or Retreat ability in Declare: Pick an enemy unit in combat with this unit to be
+the same turn. the target.
+Effect: Roll a dice. If the roll is at least double the target’s
+TARANTULOS BROOD Health characteristic, 1 model in the target unit is slain.
+Add ‘Companion’ to the Venomous Bites weapon profile.
+FLUXMASTER, FATEMASTER, THE BLUE SCRIBES NEW
+Add ‘Disc of Tzeentch’ to the keywords bar. GROTMAS ADVENT: REGIMENTS
+OF RENOWN
+NEW STUMBLEFOOT GARGANT
+CRYPT GHAST COURTIER Change the timing of the ‘Projectile Vomit’ ability to ‘Once Per
+Replace the ‘Courtier’ keyword with the ‘Noble’ keyword. Turn (Army), Your Shooting Phase’.
+Then, in the declare step, replace ‘pick all other units (friendly and
+MALENETH WITCHBLADE enemy)’ with ‘pick each enemy unit’.
+Add ‘Anti-Hero (+1 Rend)’ to the Deadly Blades weapon profile.
+REGIMENTS OF RENOWN
+Add ‘Crit (Auto-wound), Shoot in Combat’ to the Poisoned SAVIOURS OF CINDERFALL
+Throwing Knives weapon profile. Change the timing of the ‘Sigmar’s Justice’ ability to ‘Once Per
+Battle (Army), Deployment Phase’.
+SKAETH’S WILD HUNT
+Change the description paragraph to: THE STERNIESTE GARRISON
+‘Each model in this unit is armed with Tracker Weapons. The In the Organisation, change ‘Grave Guard’ to ‘Barrow Guard’.
+models in this unit are:
+• Skaeth the Huntsman (champion, also armed with Wild Hunt NEFERATA’S ROYAL ECHELON
+Ranged Weapons) In the Organisation, change ‘Black Knights’ to ‘Barrow Knights’.
+• Karthaen, Huntcaller (musician)
+• Althaen (also armed with Wild Hunt Ranged Weapons) NEW
+• Sheoch THE SORROWMOURN CHOIR
+• Lighaen’ Change the effect of the ‘Insubstantial’ ability to:
+‘Ignore negative modifiers to save rolls for units in this Regiment
+THE WURMSPAT of Renown.’
+Change ‘Ward (6+)’ to ‘Ward (5+)’ in the keywords bar.
+31
+
+--- Page 32 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+OTHER DIGITAL DOWNLOADS
+ARMIES OF RENOWN NEW
+TRIBES OF THE SNOW PEAKS, BATTLE TRAITS Change the ‘Sigmar’s Will’ ability to:
+Change the effect of the ‘Pledges to the Dark Gods’ ability to:
+4
+Your Hero Phase
+‘Effect: Each time a friendly Snow Peaks unit uses 1 of the SIGMAR’S WILL: AAss aa vveesssseell ooff tthhee GGoodd--KKiinngg’’ss cceelleessttiiaall
+following abilities and the effect of that ability is resolved, gain 1 power, Pontifex Zenestra can scour the taint of corrupting
+magic from the earth around her.
+oath point.
+Declare: Make a chanting roll of D6. If the roll is an
+• ‘Oath of Bloodshed’ unmodified 1, you can re-roll the dice.
+• ‘Oath of Murder’
+Effect: Pick 1 of the following effects. Pick up to 2 different
+• ‘Oath of Supremacy’
+effects instead if the chanting roll was 10+.
+• ‘Oath of the Marauder’
+• ‘Oath of the Raider’ Hallowed Ground: Until the start of your next turn, enemy
+units using the ‘Normal Move’ ability cannot end that move
+• ‘Oath of Conquest’
+within 5" of a friendly Cities of Sigmar Human unit while
+• ‘Oath of Dark Sacrifice’’
+it is wholly within 12" of this unit.
+THE ROVING MAW, BATTLE TRAITS Fervent Prayers: Until the start of your next turn, each time
+Rename the ‘Gutbuster Charge’ ability to ‘Trampling Charge’. a friendly Cities of Sigmar Human model is slain by a
+combat attack while it is wholly within 12" of this unit and
+that model was in combat with the attacking unit, roll a dice.
+THE ROVING MAW, SPELL LORE
+On a 6, inflict 1 mortal damage on the attacking unit after the
+Change the effect of ‘Mawmeat’ to:
+Fight ability has been resolved.
+‘For the rest of the battle, units on or within 1" of the target are
+vulnerable to Mawpits. This ability has no effect on Roving Maw Salvation:If you are the active player, pick up to 3 friendly
+units or units that have Fly.’ Cities of Sigmar Human units that are more than 12" from
+this unit and not in combat to be the targets. Remove those
+units from the battlefield and set them up again wholly within
+SCIONS OF NULAHMIA
+12" of this unit and more than 9" from all enemy units. Those
+Add Vampire Lord on Nightmare Steed to roster options.
+units cannot use Charge abilities for the rest of the turn.
+SCOURGE OF GHYRAN Keywords Prayer
+CITIES OF SIGMAR, PONTIFEX ZENESTRA
+NEW DAUGHTERS OF KHAINE,
+Change the ‘Word of the God-King’ ability to: KRETHUSA THE CRONESEER
+Change the declare step of the ‘Gift of Foresight’ ability to:
+Once Per Turn (Army), Your Hero Phase
+‘Pick a friendly non-Unique Daughters of Khaine Aelf
+WORD OF THE GOD-KING: Zenestra can channel
+Infantry or Cavalry unit that has been destroyed to be
+the divine will of Sigmar with but a single utterance, smiting
+heretical priests and practitioners of proscribed magic as well the target.’
+as their conjurations.
+GLOOMSPITE GITZ, LOONSMASHA FANATICS
+Declare: Pick a visible enemy Wizard, Priest or
+Add the following to the effect of ‘Whirling Destruction’:
+Manifestation within 18" of this unit to be the target.
+‘If this unit ended that move in combat, it has charged.’
+Effect: Roll a dice. On a 3+:
+•If the target is a Manifestation, it is banished and GLOOMSPITE GITZ, LORE OF FRAZZLEGIT
+removed from the battlefield. In the effect of ‘Bright Fright’, replace:
+•If the target is a Wizard or Priest, inflict an amount of ‘No mortal damage is inflicted by those Retreat abilities.’
+mortal damage on it equal to the roll. With:
+‘No mortal damage is inflicted on the targets by those
+Retreat abilities.’
+32
+
+--- Page 33 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+OTHER DIGITAL DOWNLOADS
+HEDONITES OF SLAANESH, OGOR MAWTRIBES, BATTLE FORMATIONS
+SLAANGOR FIENDBLOODS In the effect of ‘Fixated on Feeding’, replace:
+Change the effect of the ‘Instinctive Advance’ ability to: ‘If it does so, the target has charged.’
+‘This unit can move up to 3" immediately after that command has With:
+been resolved, unless that command is a reaction, in which case ‘If it ended that move in combat, the target has charged.’
+this unit can move after the ability that it was reacting to has been
+resolved. That move can pass through the combat ranges of enemy Change the declare step of ‘Postprandial Warfare’ to:
+units, and can end in combat.’ ‘Pick up to D3 friendly Ogor Infantry units that were in combat
+this turn with an enemy unit that was destroyed this turn to be
+NEW the targets.’
+KHARADRON OVERLORDS, SKYVESSEL UPGRADES
+Change the name ‘Skyvessel Upgrades’ to ‘Great Endrinworks’ and SERAPHON, MONSTROUS TRAITS
+replace the introductory text as follows: In the effect of ‘Titan of the Land’, replace ‘the Realmshaper
+‘Great Endrinworks are a special type of enhancement for Engine’s’ with ‘the friendly Realmshaper Engine’s’.
+Skyvessels. During army composition, when you add
+enhancements, you can pick 1 Great Endrinwork and give it to a SKAVEN, BROOD TERROR
+Skyvessel on your army roster.’ In ‘Lend a Claw’, change:
+‘Add 1 to hit rolls for the targets’ attacks for the rest of the phase.’
+KRULEBOYZ, SWAMPBOSS SKUMDREKK To:
+In the effect of ‘Rigged Odds’, replace: ‘Add 1 to hit rolls for the targets’ attacks for the rest of the phase,
+‘you can spend any number of betting chips.’ including those made with Companion weapons.’
+With:
+‘you can spend any number of betting chips after seeing the result SKAVEN, BATTLE FORMATIONS
+of the roll.’ In the effect of ‘Will of the Horned Rat’, replace ‘inflict 1 mortal
+damage’ with ‘allocate 1 mortal damage’ and add ‘(ward rolls
+LUMINETH REALM-LORDS, LORE OF PRISMATIC cannot be made for these damage points)’ to the end of the ability.
+RESONANCE
+In the effects of ‘Beacons of Protection’ and ‘Beam of Hysh’, replace SKAVEN, HEROIC TRAITS
+‘been cast’ with ‘been successfully cast’. Change the declare step of ‘Devious Underling’ to:
+‘Pick another friendly Skaven Hero on the battlefield with a
+LUMINETH REALM-LORDS, LIGHT OF ELTHARION Health characteristic that equals or exceeds this unit’s Health
+Change the timing of ‘Eternal Light’ to ‘Passive’, and the effect to: characteristic to be the target.’
+‘If this unit is destroyed and if a friendly Lumineth Realm-
+lords Wizard successfully casts a Summon spell, instead NEW
+of resolving the effect of that Summon spell, you can set up a SOULBLIGHT GRAVELORDS, HEROIC TRAITS
+replacement unit for this unit more than 9" from all enemy units Change the effect of ‘Frightening Vitality’ to:
+and wholly within 12" of the unit that used that Summonspell. ‘Each time an ability would heal exactly 1 or 2 of this unit’s damage
+This ability is still in effect even if this unit is not on the battlefield.’ points, heal 3 damage points instead.’
+MAGGOTKIN OF NURGLE, ROTIGUS
+Add the following declare step to ‘Virulent Downpour’:
+‘Declare: Make a casting roll of 2D6.’
+NEW
+NIGHTHAUNT, KURDOSS VALENTIAN
+Change the Save characteristic to 5+.
+Change ‘Ward (6+)’ to ‘Ward (5+)’ in the keywords bar.
+NEW
+NIGHTHAUNT, BLACK COACH
+Change the Save characteristic to 5+.
+Change ‘Ward (6+)’ to ‘Ward (5+)’ in the keywords bar.
+33
+
+--- Page 34 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+OTHER DIGITAL DOWNLOADS
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+NEW FYRESLAYERS, AURIC RUNESON ON MAGMADROTH
+ARMIES OF RENOWN Q: Can more than one Scourge of Ghyran Auric Runeson on
+Q. Is the Pyrofane Cult Army of Renown in White Dwarf issue 514 Magmadroth pick the same Auric Runefather on Magmadroth as
+legal for Matched Play? the target of their ‘Fire, Blood and Vengeance’?
+A. No, it is a Legends Army of Renown. A: Yes. That Runefather had a big family.
+SCOURGE OF GHYRAN IRONJAWZ, BATTLE FORMATIONS
+Q: Can I include Scourge of Ghyran units in an Army of Renown Q: When using the ‘Mightiest Destroyers’ ability, can I pick a second
+instead of their standard version? target if there is a Megaboss on Maw-Krusha on the battlefield?
+A: Yes. A: No. The ability specifies the unit name, so only a Megaboss unit
+is eligible.
+Q: Can I include Scourge of Ghyran units in a Regiment of Renown
+instead of their standard version? KRULEBOYZ, KILLABOSS ON GREAT GNASHTOOF
+A: No. Q: Can I use the ‘Drag ’Em Out’ ability to remove an enemy
+Infantry Hero from garrisoning a faction terrain feature?
+DAUGHTERS OF KHAINE, BLOODSHADOW RITES A: Yes.
+Q: When using ‘Shadowstep’, if my chanting roll was 8+, could I
+pick the priest themselves as the first target, move them, then pick a SKAVEN, GREY SEER ON SCREAMING BELL
+another eligible unit that is now within range as the second target’? Q: If I successfully cast ‘Gnaw Through Reality’ on a Scourge of
+A: Yes. Ghyran Grey Seer on Screaming Bell, could I then use ‘Tunnels
+Through Reality’ to remove that unit and set it up wholly within 6"
+DISCIPLES OF TZEENTCH, BATTLE FORMATIONS of another friendly Gnawhole?
+Q: Can the target of ‘Sorcerers of War’ attempt to cast a spell in the A: No. ‘Gnaw Through Reality’ does not allow the Grey Seer on
+combat phase if that wizard already attempted to cast in the hero Screaming Bell to use abilities from the Gnawhole warscroll, only
+phase of the same turn? to be treated as a Gnawhole when using those abilities.
+A: Yes.
+SONS OF BEHEMAT
+Q: If a Scourge of Ghyran Kraken-eater Mega-Gargant is in reserve
+beneath the waves at the start of battle round 4, is it destroyed or
+are 6 damage points allocated to it?
+A: It is destroyed.
+34
+
+--- Page 35 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: BLADES OF KHORNE
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+BATTLE TRAITS BLOODTHIRSTER OF INSENSATE RAGE
+NEW Change the effect of ‘Outrageous Carnage’ to:
+Change the timing of ‘Skulls for the Skull Throne’ to ‘Once Per ‘Each time an attack made by this unit scores a critical hit,
+Turn (Army), Start of Any Turn’. inflict D3 mortal damage on each enemy unit within 8" of it
+after the Fight ability has been resolved (and continue the
+Change the timing of ‘Punish the Pacifist’ to ‘Once Per Turn attack sequence).’
+(Army), Your Combat Phase’.
+ARMY OF RENOWN, THE BALEFUL LORDS
+Change the timing of ‘Murder the Mystic’ to ‘Once Per Turn Change the timing of ‘Drawn by Blood’ to:
+(Army), Your Hero Phase’. ‘Once Per Turn (Army), End of Your Turn’
+NEW ARMY OF RENOWN, GORECHOSEN CHAMPIONS
+KARANAK Change the effect of ‘The Scarring Blade’ to:
+Change ‘Stalk the Prey’ to: ‘Effect: Allocate D3 damage points to this unit (ward rolls cannot
+‘Declare: Pick this unit and up to 1 friendly Flesh Hounds unit to be made for those damage points). For the rest of the turn, add X
+be the targets. to the Attacks characteristic of melee weapons used by friendly
+Gorechosen Champions units for the rest of the turn, where X
+Effect: Remove the targets from the battlefield and set them up is equal to the number of damage points allocated to this unit this
+again on the battlefield more than 6" from this unit’s quarry and turn by this ability.
+more than 9" from all other enemy units. If picked to be a target,
+the unit of Flesh Hounds must also be set up wholly within 12" of For the rest of the battle, this unit cannot use the ‘Hate-fuelled
+this unit.’ Killers’ ability and cannot be healed.’
+DEATHBRINGER Change the effect of ‘The Red God’s Eye’ to:
+Add the following to the effect of ‘Trophies of Glorious Deaths’: ‘Friendly Gorechosen Champions units have Ward (6+).’
+‘This reaction cannot be used more than once per command.’
+Change the effect of ‘Hate-fuelled Killers’ to:
+SKULLGRINDER ‘Effect: The first time each friendly Gorechosen Champions
+Change the effect of ‘Bone-Crushing Strikes’ to: unit would be destroyed, before removing it from play, roll a dice.
+‘Effect: Roll a dice. If the roll is equal to or less than the target’s On a 5+, that unit is not destroyed and any remaining damage
+Control characteristic, the target has Strike-last for the rest of points inflicted on it have no effect. Then, Heal (1) that unit.’
+the turn.’
+35
+
+--- Page 36 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+BATTLETOME: FLESH-EATER COURTS
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+NEW NEW
+BATTLE TRAITS ABHORRANT GHOUL KING ON
+Change the second sentence of the effect of ‘A Kingdom ROYAL ZOMBIE DRAGON
+Deluded’ to: Change the effect of ‘For the Kingdom!’ to:
+‘On a 3-4, you must pick the same Delusion as the one you ‘While you believe this Delusion, add 1 to charge rolls for
+picked last turn, even if it is on the warscroll of a unit that has been friendly Knights units and friendly Flesh-eater Courts
+destroyed. In such cases, the effect of that Delusion applies as if Monsters while they are wholly within 12" of any friendly
+the unit had not been destroyed.’ Flesh-eater Courts Heroes.
+NEW Add 2 to charge rolls for friendly Knights units and friendly
+BATTLE FORMATIONS, LORDS OF THE MANOR Flesh-eater Courts Monsters instead while they are wholly
+In the effect of ‘Raise the Banners’, replace ‘Each time an ability within 12" of any friendly Abhorrant Ghoul Kings on Royal
+returns’ with ‘Each time another ability returns’. Zombie Dragons.’
+NEW NEW
+ARTEFACTS OF POWER HIGH FALCONER FELGRYN
+In the final bullet point of the effect of ‘The Splintered Femur’, Change the declare step of ‘Be Mine Eyes’ to:
+replace ‘it is banished’ with ‘it is banished and removed from play’. ‘This unit’s Grype is a token. If this unit’s Grype is not next to an
+enemy unit, pick an enemy unit within 18" of this unit and not in
+combat to be the target.’
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: When the target of ‘Glimpse of Delusion’ makes combat attacks
+as a result of the effect of that spell, can the ‘All-out Attack’
+command or the ‘All-out Defence’ command be used as reactions to
+those attacks?
+A: No.
+36
+
+--- Page 37 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: GLOOMSPITE GITZ
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+KRAGNOS SNARLFANG RIDERS
+Change the timing of the ‘End of Empires’ ability to ‘Your Charge Change the Hit characteristic of Snarlfang’s Slavering Jaws to 4+.
+Phase’ and the effect to:
+‘Effect: For the rest of the turn, add 1 to the number of dice rolled WEBSPINNER SHAMAN
+when making charge rolls for friendly Destruction units while Change the Control characteristic from 5 to 2.
+they are wholly within 12" of this unit, to a maximum of 3.’
+PATH TO GLORY, ANVIL OF APOTHEOSIS
+SKRAGROTT, THE LOONKING Change the effect of ‘Shroomist’ to:
+Change ‘Babbling Wand’ to: ‘Roll 2D6. If the total is equal to or lower than this unit’s Control
+characteristic, that Move ability has no effect.’
+Passive
+BABBLING WAND: This jabbering wand, said to be topped
+In the effect of ‘Sneaky Git’, replace:
+with the skull of the great prophet Kaloth, channels the voices
+‘it is not visible to enemy units that are not in combat with it’
+of Skragrott’sa imprisoned scryers through clacking teeth.
+with:
+Effect: Each time a friendly Moonclan unit wholly within ‘it is not visible to enemy units that are not within this unit’s
+12" of this unit uses the ‘Redeploy’ command, no command combat range’.
+points are spent.
+ARMY OF RENOWN, DROGGZ’S GITMOB
+DROGGZ DA SUNCHOMPA In the effect of ‘Stick ’Em and Run’, replace ‘Careening
+Change ‘Time Ta Scarper’ to:’ Destruction’ with ‘Frazzlegit’s Flame Stream’.
+Once Per Turn (Army), Reaction: You declared a Fight ability for
+ARMY OF RENOWN, DA KING’S GITZ
+a unit wholly within 9" of this unit
+In ‘The Moon and the Loon’, change the first sentence to:
+TIME TA SCARPER: Droggz knows exactly when to get
+‘While a friendly unit is wholly within 9" of a friendly Skragrott, a
+his gitz out of a sticky situation so that they can come back for
+‘anuvver go’ once the odds are in their favour again. friendly Malevolent Moon or a friendly Bad Moon Loonshrine:’
+Effect: Roll a dice. On a 4+, the unit using that Fight ability
+Change the declare step of ‘Da King’s Adjutant’ to:
+can move 2D6" after that Fight ability has been resolved. It
+‘Declare: You cannot use this ability and the Bad Moon
+can move through the combat ranges of any enemy units but
+Loonshrine’s ‘Moonclan Lairs’ ability in the same turn. If this unit
+cannot end that move in combat.
+is within 12" of a friendly Bad Moon Loonshrine, pick a friendly
+non-reinforced, non-Hero, non-MonsterKing’s Gitz unit that
+TRUGG THE TROGGOTH KING has been destroyed to be the target.’
+Add the Gloomspite Gitz keyword.
+Add the following to the effect of ‘Moonhoned Shiv’:
+SNARLBOSS ON WAR-WHEELA ‘This unit can be affected by this ability multiple times and the
+Remove ‘non-Hero’ from the first sentence of the effect of ‘Keepin’ effects are cumulative.’
+Up Wiv Da Boss’.
+In the declare step of ‘Da Loonking’s Command’ and ‘Right Gitz in
+NEW Da Right Place’ replace ‘within 18"’ with ‘wholly within 18"’.
+SUNSTEALA WHEELAS
+Change the timing of ‘Careening Destruction’ to ‘Once Per Turn SPEARHEAD, SNARLPACK HUNTAZ
+(Army), Any Movement Phase’. Change the timing of ‘Sunsteala Shard’ to ‘Once Per Battle, Enemy
+In the effect, replace ‘pick up to 1 enemy Infantry unit’ with ‘pick Movement Phase’.
+up to 1 enemy Infantry or Cavalry unit’
+37
+
+--- Page 38 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+BATTLETOME: GLOOMSPITE GITZ
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: When using the Lunar Squigs effect of ‘Under the Light of the Q: Can the attacker choose to resolve their attacks one at a time for
+Bad Moon’ or the ‘The Moon and the Loon’ ability to use a value the Doom Diver Catapult? If so, how does the Rend reduction apply?
+of 4 for the Move characteristic of a friendly Squig unit, does the A: Yes. As described in the rules for the attack sequence (17.0),
+4 replace the entire Move characteristic of the unit with a 4, or just attacks are resolved one at a time unless you choose to use fast
+the dice roll? dice rolling. Here’s an example attack sequence for the Doom
+A: It replaces the dice roll. For example, if a unit of Squig Hoppers Diver Catapult:
+(with a Move characteristic of D6+8") were affected by one of
+these abilities, it could use a value of 4 instead of rolling the D6, 1.The Gloomspite Gitz player successfully hits and wounds for the
+resulting in a Move characteristic of 12" (4+8"). first attack, then their opponent makes a save roll, subtracting
+the Rend (3) of the weapon from the roll.
+2.The Gloomspite Gitz player fails the hit roll for the second
+attack, re-rolls it to be successful and successfully wounds. Then,
+their opponent makes a save roll subtracting the now-reduced
+Rend (2) from the roll.
+3.The third attack fails to hit and fails again after the re-roll. The
+Rend is now reduced to 1.
+4.The fourth attacks successfully hits and wounds. The opponent
+of the Gloomspite Gitz player subtracts the Rend (1) from their
+save roll.
+38
+
+--- Page 39 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+BATTLETOME: IDONETH DEEPKIN
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+ARMY OF RENOWN, FIRST PHALANX OF IONRACH GLOOMTIDE SHIPWRECK
+In the declare step of ‘Sword of Gwynnar’, replace: Remove ‘Impassable’ from the universal terrain abilities.
+‘Pick a friendly unit that is not in combat to use this ability’
+With: REGIMENTS OF RENOWN, NAMARTI SHORE RAID
+‘Pick a friendly unit in combat to use this ability’. Change the declare step of ‘In the Shadow of the Ethersea’ to:
+‘This ability must be used to deploy this Regiment of
+IKON OF THE SEA Renown instead of the ‘Deploy Unit’ ability or the ‘Deploy
+In the declare step of ‘The Surging Sea’, replace ‘up to 1 friendly Regiment’ ability.’
+unit’ with ‘up to 1 friendly Idoneth Deepkin unit’.
+PATH TO GLORY, ANVIL OF APOTHEOSIS
+IKON OF THE STORM In the ‘Choose A Battle Mount’ step, change the final bullet point
+Add the following to the effect of ‘Whirlpool Fury’: for ‘Sea-steed’ and ‘Allopex’ to:
+‘No mortal damage is inflicted on friendly Idoneth Deepkin ‘Replace the Infantry keyword with the following keywords:
+units by Retreat abilities while they are wholly within 12" of Cavalry, Fly.’
+this unit.’
+ARMY OF RENOWN, WARDENS OF THE CHORRILEUM
+INCARNATE OF THE DEEP Change the effect of ‘Slipstream’ to:
+Change the Banishment characteristic to 9+. ‘The target can move up to D6". That move cannot pass through or
+end within the combat range of an enemy unit.’
+NEW
+ABYSSAL TENDRIL ARMY OF RENOWN, WARDENS OF THE CHORRILEUM
+Change the effect of ‘Crushing Coil’ to: Change the declare step of ‘The Ocean Conceals’ to:
+‘Add 1 to hit rolls for attacks made by friendly Idoneth Deepkin ‘This ability must be used to deploy the friendly Chorrileum
+Manifestations that target an ensnared enemy unit.’ Eidolon instead of the ‘Deploy Unit’ ability or the ‘Deploy
+Regiment’ ability.’
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+NEW
+Q. Is a unit that is picked to be the target of an Akhelian Allopex’s ‘Ensnared’ ability ensnared for the purposes of the Abyssal Tendril’s
+‘Watery Clutch’ and ‘Crushing Coil’ abilities?
+A. No.
+39
+
+--- Page 40 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+BATTLETOME: KHARADRON OVERLORDS
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+NEW VONGRIM SALVAGERS
+BATTLE TRAITS Change the second bullet of ‘Spotter’s Flaregun’ to:
+Change the effect of ‘Skyvessel Cover’ to: ‘Add 1 to the Rend characteristic of melee weapons used by friendly
+‘Subtract 1 from hit rolls for attacks that target friendly Vongrim Salvagers and Vongrim Harpoon Crew units for attacks
+Kharadron Overlords Infantry units that have not charged that target a unit that is contesting the target objective.’
+in the same turn while they are wholly within 6" of a friendly
+Arkanaut Ironclad or Arkanaut Frigate that has not charged in UPDATED
+the same turn.’ ARKANAUT FRIGATE
+Change the effect of ‘Assault Boat’ to:
+BATTLE FORMATIONS, RAPID ‘This unit can move a distance up to the value of the charge roll
+REDEPLOYMENT SQUADRON and must end the move within ½" of a visible enemy unit. If it
+Change the effect of ‘Extra Rappel Anchors’ to: does so:
+‘Friendly Grundstok Gunhaulers can transport up to 2 friendly • Remove the targets from the battlefield and set them up again
+Kharadron Overlords Infantry units instead of 1 and with wholly within this unit’s combat range. The targets can be set up
+a combined model count of up to 6 instead of 5 (see Battle Traits).’ in combat.
+• This unit and the targets have charged, and the targets cannot use
+BATTLE FORMATIONS, ENDRINEERS GUILD another Core ability this phase.
+EXPEDITIONARY FORCE • Pick up to 1 of the targets to have Strike-first for the rest of
+Change the effect of ‘Special Procurement’ to: the turn.’
+‘Give that Hero 1 artefact of power from the ‘Inventions of the ARMY OF RENOWN, PIONEER OUTPOST
+Sky-ports’ or the ‘Ingenious Innovations.’ In the fourth bullet point of the roster options, change ‘Any
+Kharadron Overlords Infantry units’ to ‘Any non-Hero
+NEW Kharadron Overlords Infantry units’.
+ARTEFACTS OF POWER
+Change the timing of ‘Celestium Burst Grenade’ to ‘Once Per ARMY OF RENOWN, THE MAGNATE’S CREW
+Battle, Your Shooting Phase’ and the declare step to: Change the effect of ‘Invictunite-lined Hull’ to:
+‘Pick a visible enemy unit within 12" of this unit to be the target.’ ‘Roll a D3. For the rest of the turn, subtract X from the Rend
+characteristic of weapons used for attacks that target that
+NULL-KHEMIST Skyvessel, where X is equal to the roll.’
+Change the effect of ‘Nullsuit’ to:
+‘Double the Damage characteristic of this unit’s weapons for REGIMENT OF RENOWN, DREKKI’S PRIVATEERS
+attacks that target Priests, Wizards or Manifestations.’ Change the effect of ‘The Good Ship Aelsling’ to:
+‘The Aelsling in this Regiment of Renown has a Health
+characteristic of 17 instead of 14.’
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: Can an Arkanaut Frigate use the ‘Assault Boat’ ability if it used Q: Can I use the ‘Assault Boat’ ability in combination
+a Run ability in the same turn but was picked as a target of Brokk with ‘Counter-charge’?
+Grungsson’s ‘Command the Fleet’ ability earlier in the same turn? A: Yes.
+A: Yes.
+40
+
+--- Page 41 ---
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+BATTLETOME: NIGHTHAUNT
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+NEW NEXUS OF GRIEF
+SPELL LORE Change the effect of ‘Hungry Crypts’ to:
+In the declare step of ‘Chains of Death’, replace ‘pick an enemy ‘Remove this terrain feature from the battlefield and set it up again
+Hero unit’ with ‘pick a visible enemy Hero unit’. on the battlefield within 3" of a friendly Nighthaunt unit, more
+than 3" from all objectives and enemy units, more than 1" from all
+terrain features and more than 12" from all other friendly Nexuses
+of Grief.’
+41
+
+--- Page 42 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: ORRUK WARCLANS
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+IRONJAWZ BATTLE TRAITS NEW
+Change the timing of ‘Ironjawz Waaagh!’ to ‘Once Per Turn BEAST-SKEWER KILLBOW
+(Army), Your Charge Phase’ and change the declare step to: Change the effect of ‘Skewering Bolts’ to:
+‘Declare: Pick a friendly Ironjawz Hero to be the target. You ‘For the rest of the turn, the Damage characteristic of this unit’s
+cannot pick the same Hero to be the target of this ability more Beast-skewer Bolts is 6 if the target is a Monster.’
+than once per battle.’
+SKAREGOB TOTEM
+TUSKBOSS ON MAW-GRUNTA, MAW-GRUNTA WITH Change ‘Sinister Stare’ to:
+HAKKIN’ KREW, MAW-GRUNTA GOUGERS
+Passive
+In the effect of ‘Unstoppable Momentum’, replace:
+SINISTER STARE: Kruleboyz find it hilarious to subject
+‘Each time this unit uses a Charge ability’
+foes under the insidious influence of a Skaregob Totem’s
+with:
+hallucinogenic fogs to a host of nasty surprises.
+‘Each time this unit has charged as a result of using a
+Charge ability’. Effect: Add 1 to dirty trick rolls for friendly Kruleboyz
+units wholly within 12" of this terrain feature or for enemy
+units within 12" of this terrain feature. If this terrain feature
+GORE-GRUNTAS
+has a Shouty Boss, add 1 to dirty trick rolls for friendly
+Change the Hit characteristic of Grunta’s Tusks to 4+.
+Kruleboyz units wholly within 18" of this terrain feature
+instead of wholly within 12" or for enemy units within 18" of
+KRULEBOYZ BATTLE TRAITS
+this terrain feature instead of within 12".
+Change ‘Sneaky Sneakin’’ to:
+Once Per Turn (Army), Your Movement Phase
+GORK-ROARA
+SNEAKY SNEAKIN’: Cloying swamp-mists mask the
+Add the following to the effect of ‘Bellowing Waaagh!-cries’:
+Kruleboyz’ movements.
+‘Friendly units can be affected by this ability multiple times and
+Declare: Pick a friendly Kruleboyz Infantry unit that the effects are cumulative.’
+has 10 or fewer models, is not in combat and has not been the
+target of a Dirty Trick ability this turn to be the target, then SPEARHEAD, IRONJAWZ BIGMOB
+make a dirty trick roll.
+Change the declare step of the Megaboss’s ‘Get Stuck In, Ladz’
+Effect: Remove the target from the battlefield and set it up ability to:
+again wholly within 3" of a terrain feature and more than 9" ‘Pick a friendly unit wholly within 12" of this unit to be the target.’
+from all enemy units.
+ANVIL OF APOTHEOSIS, STEP 3: CHOOSE A WARCLAN
+Keywords Dirty Trick
+Change the effect of ‘Only Da Best’ to:
+‘Add 3" to the Range characteristic of ranged weapons used
+BREAKA-BOSS ON MIREBRUTE TROGGOTH by friendly Kruleboyz units. In addition, you can re-roll 1
+Change the Control characteristic to 5. hit roll per turn for shooting attacks made by each friendly
+Kruleboyz unit.’
+Change the effect of the ‘Breaka-harness’ ability to:
+Effect: Make breaka-roll of D3. PATH TO GLORY, PATH OF DA MOST KUNNIN’
+- Inflict an amount of mortal damage on this unit equal to Change ‘Disconcerting Stare’ to:
+the breaka-roll.
+- Double the breaka-roll and add that value to the Attacks Passive
+characteristic of this unit’s Mirebrute’s Clubs for the rest of DISCONCERTING STARE: Something in this boss’s evil-
+eyed glare gives even hardened veterans a moment’s pause.
+the turn.
+Effect: If this unit is picked as the target of a Fight ability
+SNATCHABOSS ON SLUDGERAKER BEAST and this unit’s Control characteristic is equal to or higher than
+Change the declare step of ‘Festering Wounds’ to: the Control characteristic of the enemy unit using that Fight
+‘Pick up to 3 enemy units that had any damage points allocated to ability, that enemy unit cannot use commands for the rest of
+them this turn by attacks made by this unit or a friendly unit with the turn.
+the Sludgeraker Venom keyword to be the targets.’
+Change the timing of ‘Just You Try It’ to:
+‘Once Per Turn (Army), Any Movement Phase’
+42
+
+--- Page 43 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: ORRUK WARCLANS
+ARMY OF RENOWN, BIG WAAAGH! REGIMENT OF RENOWN, DA KOUNTIN’ KREW
+Add the following to roster options: Change ‘Snatch ’Em Up’ to:
+‘KruleboyzHeroes included in this Army of Renown can
+only include Kruleboyz units in their regiment, and Ironjawz Once Per Turn (Army), Enemy Hero Phase
+Heroes included in this Army of Renown can only include SNATCH ’EM UP: Skumdrekk and his hobgrot toadies
+are constantly on the lookout for new victims and beasts to
+Ironjawz units in their regiment. If your army includes Kragnos,
+snatch up.
+the End of Empires, he can include either Kruleboyz units or
+Ironjawz units in his regiment (but not both), and he counts as Declare: Pick an enemy unit in combat with this Regiment of
+a Hero from that faction for the purposes of needing to have one Renown’s Swampboss Skumdrekk to be the target.
+regiment led by an IronjawzHero for each regiment led by a
+Effect: Roll a dice. If the roll is at least double the target’s
+KruleboyzHero and vice versa.’ Health characteristic, 1 model in the target unit is slain.
+ARMY OF RENOWN, BIG WAAAGH!, SPELL LORE
+Add the Unlimited keyword to the ‘Two Headz As One’ spell.
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: When using the ‘Notorious Bosses’ ability, can I give a target a ARMY OF RENOWN, ZOGGROK’S IRONMONGERZ
+heroic trait that another unit already has? Q: The prayer ‘Get ’Em, Gork!’ allows a terrain feature to become
+A: No. trampled by Gork. If an enemy unit starts and ends a move within
+6" of that terrain feature, would you roll for damage twice? If
+Q: Can each part of the Foot of Gork use the ‘Wandering it ended a move within 6" of two different terrain features that
+Destruction’ ability each turn? were trampled by Gork, would you roll for damage for each such
+A: No. This is a single manifestation with multiple parts, so it can terrain feature?
+only use that ability once in each turn. A: Yes to both questions.
+Q: In the ‘Ironjawz Bigmob’ Spearhead army, are the Brute Ragerz
+set up during the deployment phase?
+A: Yes. Only the Brutes are not set up on the battlefield during the
+deployment phase. The Brute Ragerz are a different unit type, so
+are set up normally.
+43
+
+--- Page 44 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: SKAVEN
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+BATTLE TRAITS WARP LIGHTNING VORTEX
+Replace the effect of ‘Splinters of the Vermindoom’ with: In ‘Warp Vortex’, replace:
+‘Effect: Set up a Gnawhole on the battlefield more than 9" from all ‘In addition, if an enemy unit passes across this Manifestation’
+enemy units, more than 3" from all objectives and more than 1" with:
+from all other terrain features.’ ‘In addition, if an enemy unit passes across this Manifestation
+and/or the round-cornered triangle formed by drawing a line
+PLAGUEPACK around all the bases of the Manifestation’s parts’.
+In the effect of the ‘Plague Rat’ ability, replace ‘chanting roll of 1’
+with ‘unmodified chanting roll of 1’. PATH TO GLORY, ANVIL OF APOTHEOSIS
+Change the Regiment Options for the Masterclan Great Clan to
+LORD SKREECH VERMINKING ‘Any Skaven units’.
+Replace Wizard (1) with Wizard (2) in the keywords bar.
+ARMY OF RENOWN,
+PLAGUE PRIEST ON PLAGUE FURNACE THANQUOL’S MUTATED MENAGERIE
+In ‘Altar of the Great Corruptor’ and ‘Corrupting Influence’, Add the following to the beginning of the effect of
+replace ‘within 6"’ with ‘within 13"’. ‘Monstrous Entourage’:
+‘The Companion weapon ability has no effect on Mutated
+GREY SEER ON SCREAMING BELL Menagerie units.’
+In the effect of ‘Altar of the Horned Rat’, replace ‘within 6"’ with
+‘within 13"’. In ‘Rampaging Demise’ and ‘Spiteful Swarms’, replace ‘when this
+unit is destroyed’ with ‘when this unit would be destroyed’.
+STORMFIENDS
+Change the timing of ‘Grinderfist Tunnellers’ to ‘Once Per Turn
+(Army), Any Movement Phase’.
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: If I pick a friendly Stormfiends unit as the target of the Q: If a Warp-Grinder picks another Warp-Grinder unit to be set up
+‘Filth-crust’ prayer with a chanting roll of 8+, how would in the tunnels below using the ‘Tunnel Skulkers’ ability, can both of
+the Crit (Mortal) weapon ability interact with the ‘Shock those units use the ‘Warp-Ambush’ ability to attempt to set up the
+Gauntlets’ ability? units on the battlefield?
+A: The Crit (Mortal) weapon ability would inflict mortal damage A: Yes.
+on the target unit equal to the Damage characteristic and the
+attack sequence would end, so ‘Shock Gauntlets’ would have no Q: When using the Grey Seer’s ‘Warpstone Shards’ ability, if the 3D6
+further effect. casting roll includes 2 or more rolls of 1 (before removing one of the
+dice), is that spell miscast?
+Q: If an enemy unit is affected by the ‘Gaze of the Gnaw’ ability and A: Yes.
+must attack Vizzik Skour, can the models in that unit that are not
+within Vizzik Skour’s combat range after piling in attack? Q: If a flying unit passes across a Gnawhole, does it ignore the effect
+A: No. of the ‘Volatile Ground’ ability since the ‘Fly’ ability means that
+units ignore terrain features while moving?
+A: No. The unit still counts as having passed across the Gnawhole,
+so the effect applies.
+44
+
+--- Page 45 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: SLAVES TO DARKNESS
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+BATTLE TRAITS SLAUGHTERBRUTE
+Add the following to the ‘Daemonhood’ effect of the ‘Dark Change the effect of ‘Sigils of Domination’ to:
+Apotheosis’ ability: ‘For the rest of the battle, while this unit is within its master’s
+‘If any Manifestations that were summoned by the target are on combat range:
+the battlefield, those Manifestations are removed from play.’ • Add 1 to the number of dice rolled when making charge rolls for
+this unit, to a maximum of 3.
+Change the third sentence of the ‘Daemonhood’ effect of the ‘Dark • This unit can ignore the effects of the Companion weapon ability
+Apotheosis’ ability to: on its weapons.’
+‘If the target is your general, the Daemon Prince becomes your
+general instead and is added to your general’s regiment’. RAPTORYX
+Add the following to the ‘Crazed Flock’ ability:
+Change the effect of ‘Pledged to Slaanesh’ to: ‘This ability also affects Companion weapons.’
+‘For the rest of the turn, when making charge rolls for friendly
+Pledged to Slaanesh units, you can roll 1 additional dice ARMY OF RENOWN, LEGION OF THE FIRST PRINCE
+(to a maximum of 3), but if you do, you must discard 1 dice of Change the final sentence of the introductory paragraph to:
+your choice.’ ‘All units in your army gain the Legion of the First Prince
+keyword except for those in a Regiment of Renown.’
+BATTLE FORMATIONS
+Change the second sentence of the Godswrath Warband’s ‘Ironclad Change the second bullet point of the effect of the ‘First-damned
+Onslaught’ ability to: Prince’ ability to:
+‘Then, roll a D3 for each enemy unit contesting an objective that ‘In addition, each time you make a successful ward roll for that
+has a friendly defiled token.’ friendly Be’lakor, allocate 1 damage point to a friendly non-Hero
+Legion of the First Prince Daemon unit within Be’lakor’s
+HEROIC TRAITS combat range after the damage sequence for Be’lakor has been
+Change the timing of the ‘Favoured of the Pantheon’ ability resolved (ward rolls cannot be made for those damage points).’
+to ‘Passive’.
+PATH TO GLORY, FLAWS
+ENSORCELLED BANNERS Change the timing of ‘Spurned by the Gods to:
+Change the second sentence of the ‘The Banner of Screaming Flesh’ ‘Passive, Warriors of Chaos or Darkoath only’
+ability to:
+‘In addition, while this unit includes any standard bearers, if this PATH TO GLORY, PICK ANY OTHER UPGRADES
+unit charged this turn, add 1 to the Attacks characteristic of this Add the following to the effect of ‘Thrill of Battle’:
+unit’s melee weapons for the rest of the turn.’ ‘Units can be affected by this ability multiple times and the effects
+are cumulative.’
+ARCHAON, THE EVERCHOSEN
+In the ‘Spell-eater’ effect of ‘Three-headed Titan’, replace:
+‘On a 2+, it is banished and inflict D3 mortal damage on the unit
+that summoned it.’
+with:
+‘On a 2+, it is banished and removed from play. In addition, inflict
+D3 mortal damage on the unit that summoned it.’
+45
+
+--- Page 46 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: SLAVES TO DARKNESS
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: When using the ‘Dark Apotheosis’ ability to set up a Daemon Q: Can a Gaunt Summoner use the ‘Minions of the Silver Tower’
+Prince, does that Daemon Prince have to be included on my army ability more than once to set up multiple units in a Silver Tower?
+roster and do I need to spend points on it? A: No, as stated in Core Rules, 5.3.
+A: No to both.
+Q: Can I include more than 1 Ensorcelled Banner in my Slaves to
+Q: If Archaon the Everchosen uses the ‘Eye of Sheerian’ ability and, Darkness army?
+as a result, the Slaves to Darkness player has to take the first turn A: No. Ensorcelled Banners are enhancements, and as stated in
+in a battle round after taking the second turn in the previous battle Army Composition, 4.1, you can only take 1 enhancement from
+round (i.e., they end up taking a ‘double turn’), does the Slaves to each enhancement table in your faction rules.
+Darkness player suffer the penalties for taking a ‘double turn’, for
+instance not being able to pick a battle tactic or their opponent Q: Can Regiments of Renown be included in a Legion of the First
+counting as the underdog for the rest of the battle? Prince army?
+A: No. The penalties for taking a double turn only apply if you A: Yes.
+‘chose’ to go first in the current battle round.
+Q: Can a Daemon Prince from the Godmarked Ascendant Regiment
+Q: Can a unit use the ‘Pledge to Chaos’ ability while it is not on the of Renown be given enhancements?
+battlefield, e.g. if it is set up in reserve in a Silver Tower? A: Yes. In Army Composition 3.5 it states that a unit cannot use
+A: No. faction rules (including enhancements) unless they have a keyword
+that matches up with the faction’s name. Since the Godmarked
+Ascendant Regiment of Renown adds such a keyword, that unit is
+eligible to be given enhancements.
+46
+
+--- Page 47 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: SOULBLIGHT GRAVELORDS
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+SPEARHEAD, DEATHRATTLE TOMB HOST BARROW KNIGHTS
+Change the declare step of ‘King of Shambling Bones’ to: Change the timing of ‘Cursed To Rise Once More’ to ‘Once Per
+‘Declare: Pick a friendly unit wholly within 12" of this unit to be Turn (Army), End of Any Turn’.
+the target.’
+MANIFESTATIONS OF THE GRAVE
+PRINCE VHORDRAI Add the following to the effect of ‘Summon Sanguine Swarm’:
+Change the declare step of ‘Trail of Crimson’ to: ‘A Sanguine Swarm endless spell has 2 parts that must be set up
+‘This unit can make a pile-in move (even if it is not in combat). within 9" of each other.’
+Then, if this unit is in combat, pick an enemy unit in combat with
+it to be the target.’ ANVIL OF THE APOTHEOSIS
+Add the Ward (6+) keyword to the starting Soulblight Gravelords
+LAUKA VAI, MOTHER OF NIGHTMARES hero warscroll.
+In the declare step of ‘Impaling Talons’, replace ‘charged this phase’
+with ‘charged this turn’. ARMY OF RENOWN, KNIGHTS OF THE
+CRIMSON KEEP
+BELLADAMMA VOLGA, FIRST OF THE VYRKOS Change the effect of ‘From a Quarter Unseen’ to:
+In the effect of ‘Under a Killing Moon’, replace: ‘Set up each target wholly within 9" of the battlefield edge and
+‘Add 1 to the Rend characteristic of the targets’ melee weapons’ more than 9" from all enemy units. If you set up any units using
+with: this ability in the third or a subsequent battle round, do not
+‘Add 1 to the Rend characteristic of the targets’ melee weapons spend any command points when using the ‘Carve a Bloody Path’
+(including Companion weapons)’. command this turn.’
+47
+
+--- Page 48 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: STORMCAST ETERNALS
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+IONUS CRYPTBORN VANGUARD CHAMBER WARSCROLLS
+Add the Ruination Chamber keyword to the keywords bar. This update affects the following warscrolls:
+• Vanguard-Raptors with Longstrike Crossbows
+Add the ‘Ruination Chamber’ ability to the warscroll: • Vanguard-Raptors with Hurricane Crossbows
+• Vanguard-Palladors with Starstrike Javelins
+Once Per Turn (Army), Reaction: This unit was picked as the target • Vanguard-Palladors with Shock Handaxes
+of a non-Core ability
+• Vanguard-Hunters
+RUINATION CHAMBER: These veterans march where
+• Neave Blacktalon
+others cannot tread, fighting upon battlefields transformed
+• Lord-Aquilor
+into scenes of apocalypse. Even the most corrosive magics find
+no purchase on their souls.
+Change the ‘Vanguard Chamber’ ability to:
+Effect: Make a resistance roll of D6. On a 4+, that ability has
+no effect on this unit. Once Per Turn (Army), Your Hero Phase
+VANGUARD CHAMBER: Through swiftness, guile and
+LORD-IMPERATANT more than a hint of savagery, the warriors of the Vanguard
+chambers are able to outfight forces many times their own
+Change the timing of ‘Guided by Lightning’ to ‘Once Per Battle
+limited numbers.
+(Army), Your Movement Phase’.
+Effect: For the rest of the turn, this unit can use Shoot and/
+KNIGHT-VEXILLOR or Charge abilities even if it used a Run or Retreat ability in
+In the effect of ‘The Banner of the Reforged’, replace ‘Pick D3’ with the same turn.
+‘Pick up to D3’.
+DAIS ARCANUM
+PRAETORS In the ‘Arcane Enhancement’ ability, change the first bullet point to:
+Change the effect of ‘Soul-bonded’ to: ‘• That unit has Ward (5+) and Fly.’
+‘Effect: Pick a friendly Stormcast Eternals Hero to be this
+unit’s soul-bonded charge for the rest of the battle. This unit can then add the following bullet point:
+use this ability while it is in reserve.’ ‘• If that unit is picked to make a pile-in move, move this
+Manifestation instead.’
+STORMSTRIKE PALLADORS
+Change the Hit characteristic of the Gryph-charger’s Talons and change the final sentence to:
+weapon to 4+. ‘If the unit on the platform is removed from the battlefield,
+immediately remove this Manifestation from play.’
+VANGUARD-RAPTORS WITH
+HURRICANE CROSSBOWS THE ANVIL OF APOTHEOSIS
+Change the timing of ‘Coordinated Strike’ to In Step 6 – Battle Mount Upgrades, change the effect of ‘Rending
+‘Your Shooting Phase’. Claws’ to:
+‘Monster only. Your hero’s Mighty Flying Noble Beast’s Claws or
+LORD-VIGILANT ON MORRGRYPH Flying Noble Beast’s Claws have a Damage characteristic of 3.’
+In the effect of ‘Vice-like Grip’, replace ‘The target cannot be picked
+as the target of commands’ with ‘The target cannot use commands’. PATH TO GLORY, PATH OF THE REDEEMER
+Change the timing of ‘Heralds of the Tempest’ to ‘Once Per Battle,
+Your Movement Phase’.
+Change the timing of ‘Blessed by Azyr’ to ‘Any Hero Phase’ and the
+timing bar colour to gold.
+48
+
+--- Page 49 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+BATTLETOME: STORMCAST ETERNALS
+ARMY OF RENOWN, RUINATION BROTHERHOOD REGIMENT OF RENOWN, THE HORIZON SEEKERS
+Change the first sentence of the effect of ‘Raven’s Flight’ to: In the Organisation section, change ‘1 Vanguard-Palladors unit
+‘Add 2" to the target’s Move characteristic for the rest of the turn’. with 3 models’ to ‘1 Vanguard-Palladors with Starstrike Javelins
+unit with 3 models’.
+In the Roster Options box, in the first bullet point, replace
+‘(must be included and must be your general) with ‘(this unit RULES REFERENCE
+gains the Warmaster keyword, must be included and must be Change the first sentence of the effect summary of ‘Summon Dais
+your general)’. Arcanum’ to ‘targets friendly non-Fly Stormcast Eternals
+Infantry Hero wholly within 12".’
+Change the timing of ‘Corven Lord’ to ‘Passive’.
+ARMY OF RENOWN, HEROES OF THE FIRST-FORGED
+In the Roster Options box, in the first bullet point, replace
+‘(must be included and must be your general) with ‘(this unit
+gains the Warmaster keyword, must be included and must be
+your general)’.
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: Can I use the ‘Ruination Chamber’ ability to react to enemy Q: If I use the ‘Ruination Chamber’ ability to react to an ability
+abilities that target a friendly unit with that ability if that ability that targets multiple units and/or has multiple effects (e.g. ‘Power
+takes place outside of the regular turn sequence (e.g. a Deployment Through’), and the roll is successful, should my opponent still
+Phase ability)? resolve the parts of the ability that affect other units?
+A: Yes. A: Yes. The ‘Ruination Chamber’ ability only allows you to ignore
+the effect of that ability on that unit; it does not stop the effect
+from being resolved for other units.
+49
+
+--- Page 50 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+PATH TO GLORY: RAVAGED COAST
+ADDENDA
+The following rules updates add text in order to clarify ambiguities and/or avoid unintended interactions.
+PATH TO GLORY ROSTER
+Add the following:
+‘Armies of Renown: You can pick an Army of Renown when
+picking your faction. If you do so, you must use its faction rules.
+You can still include a Ravaged Coast Regiment of Renown even
+if the roster options do not allow it, but you cannot include any
+other units that are not listed in the roster options. Units in the
+Ravaged Coast Regiment of Renown do not gain your Army of
+Renown’s keyword.’
+ERRATA
+The following rules updates correct errors in order to clarify ambiguities and/or avoid unintended interactions.
+PATH TO GLORY ROSTER PATH OF THE PACK
+Add the following to Regiments: Add ‘This ability also affects Companion weapons’ to the effects of
+‘Each Hero’s battle profile lists which units can be added to their ‘Hunter’s Instinct’ and ‘Sparking Claws’.
+regiment, and each non-Hero unit lists any relevant keywords
+it has.’ PATH OF THE ARTILLERIST
+Change the timing of ‘King of the Hill’ to ‘Passive’.
+RAVAGED COAST ABILITIES
+Change the timing of ‘Poisoned Domain’ to ‘Once Per Turn, End of PATH OF THE BEHEMOTH
+Your Turn’. Add ‘This ability also affects Companion weapons’ to the effects of
+‘Unrestrained Aggression’ and ‘Burning Bloodlust’.
+THE AFTERMATH SEQUENCE
+EMBERSTONE UPGRADES TABLE BATTLEPLAN: RAID ON HEL’S CLAW
+Replace the rows for ‘Heroic Trait’ and ‘Artefact of Power’ with Change the timing of ‘Ever-burning Coals’ to ‘Once Per Turn, Your
+‘Enhancement’, with a cost of 3 Emberstone Shards. Movement Phase’.
+GAIN AN ENHANCEMENT, SPELL OR PRAYER UNIVERSAL ENHANCEMENTS AND LORES
+Change the first sentence to: Change the effect of ‘Brash and Angry’ to:
+‘Emberstone shards can be spent to gain 1 enhancement (e.g. a ‘If this unit is not in combat, it can immediately use a Charge
+heroic trait, artefact of power or unique enhancement), 1 spell or 1 ability as if it were your charge phase, but it must end the move
+prayer for your army.’ within ½" of that enemy unit. If it does so, this unit has charged
+and that enemy unit’s Charge ability has no effect. This unit has
+PATH OF THE RULER Strike-last for the rest of the turn.’
+Change the timing of ‘Drillmaster’ to ‘Any Combat Phase’.
+Remove the Core, Move and Charge keywords from ‘Brash
+PATH OF THE SORCERER and Angry’.
+Change the effect of ‘Focused Sorcery’ to:
+‘The first time this unit uses a non-Summon Spell ability each
+phase, add 2 to the casting roll for that spell.’
+50
+
+--- Page 51 ---
+®
+RULES UPDATES
+SEPTEMBER 2025
+PATH TO GLORY: RAVAGED COAST
+FREQUENTLY ASKED QUESTIONS
+In this series of questions and answers, the rules-writing team respond to players’ queries and explain how the rules are intended to be used.
+Q: When building my Path to Glory roster, I can include regiments Q: Do battle formations, enhancements and lores cost points?
+with units from different factions that are from the same grand A: No.
+alliance as my general. When I do so, can I use the battle traits or
+enhancements from that other faction? Q: Does the ‘Headshot’ ability of the Vanguard-Raptors with
+A: No, you can only use battle traits and enhancements from the Longstrike Crossbows allow that unit to ignore the effect of the
+faction that you picked for your Path to Glory army or from the ‘Protect at all Costs’ ability on the Twisted by Rage battleplan?
+universal enhancements included in Path to Glory: Ravaged Coast. A: No.
+Q: Can I add spells or prayers from a manifestation lore to my Q: Can an army use a battle trait (such as ‘Treesong’ or ‘Splinters
+Arcane Tome when first creating my army roster? of the Vermindoom’) or an ability on a warscroll of a unit in their
+A: No. army during a battle to set up a faction terrain feature that is not on
+their roster?
+Q: Can I add spells from one of the universal manifestation lores A: Yes.
+(such as Forbidden Power) to my Arcane Tome?
+A: Yes.
+Q: Do you have to include faction terrain (e.g. Gnawholes or
+awakened Wyldwoods) as part of your roster to use abilities that
+place them on the battlefield (i.e. ‘Splinters of the Vermindoom’
+or ‘Treesong’)?
+A: No.
+51

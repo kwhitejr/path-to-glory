@@ -1,0 +1,646 @@
+--- Page 1 ---
+®
+BATTLETOME SUPPLEMENT
+SOULBLIGHT
+GR AVELORDS
+1
+
+--- Page 2 ---
+Prostrate yourselves in awe, mortals, for you are in the presence of the
+Midnight Aristocracy. We are the masters of the night, the terror clawing at
+the dark corners of your mind.
+We are the Soulblight Gravelords, and your blood is our delight.
+Against the supernatural strength and arcane might of the vampire, no
+living being can hope to triumph. Our armies are the numberless dead,
+summoned from barrow, crypt and unmarked grave. Clad in rusted mail and
+with sightless, cratered eyes, they march to mankind’s ruin. They do not tire.
+They do not stop. One day, the realms entire will be crushed beneath their
+iron tread. So too do a menagerie of other beasts serve at our whim: hulking
+armoured killers, swarms of ravenous night-things and carrion-titans that
+soar on tattered wings.
+The Soulblight have preyed upon your kind since you first crawled out from
+lightless caves, and the annals of our victories are long indeed. Perhaps
+most famous of all is the tale of Ulfenkarn, the Cursed City. Conquered by an
+enterprising vampire warlord, this mighty human settlement was transformed
+into a beacon of suffering as an offering to Nagash, Supreme Lord of
+the Undead.
+Now Ulfenkarn slips into the mouth of the Shyish Nadir, that all-consuming
+vortex of oblivion that lurks at the core of the Realm of Death. The city and its
+remaining inhabitants – both living and dead – are slowly being pulled apart,
+devoured by the most powerful concentrations of end-magic in the cosmos.
+Let the Cursed City’s fate foretell the doom that awaits all mortals. Let them
+whisper the name of Ulfenkarn in hushed, fearful tones – a symbol of their
+helplessness in the face of the undying.
+BATTLETOME SUPPLEMENT
+SOULBLIGHT
+GR AVELORDS
+
+--- Page 3 ---
+BATTLETOME SUPPLEMENT
+SOULBLIGHT GRAVELORDS
+Every Citadel Miniature is a unique piece of the ever-evolving narrative of Warhammer. It is, then, an unfortunate
+truth that we can’t continue to sell and support every model we’ve ever made indefinitely. As we make new models,
+and new books to explore their background and rules, we have to stop producing and featuring some older models.
+But just like many of you, we still treasure our collections of older Citadel Miniatures, and we still want to be able to
+use them in games and forge glorious narratives on the tabletop!
+Currently, the rules in this battletome supplement are still legal for use in competitive play. However, on
+1st June 2026, these rules will move over to Warhammer Legends. This means that they will no longer be legal for
+competitive play. When that time comes, we encourage you to continue to use your collection for casual play, and we
+will continue to support this battletome supplement with rules updates as needed throughout the current edition of
+Warhammer Age of Sigmar.
+OFFICIAL SUBSTITUTE LIST
+The following units no longer have current warscrolls: Grave Guard, Black Knights and Zombie Dragon. You
+can use the models in these units to represent the following units as appropriate, provided they are on the listed
+base sizes:
+• Grave Guard → Barrow Guard (28.5mm)
+• Black Knights → Barrow Knights (60 × 35mm)
+• Zombie Dragon → Revenant Draconith (160mm)
+PRODUCED BY THE WARHAMMER DESIGN STUDIO
+With thanks to The Faithful and The Loretesters for their invaluable services.
+Battletome Supplement: Soulblight Gravelords © Copyright Games Workshop Limited 2025. Battletome Supplement: Soulblight Gravelords, GW, Games Workshop,
+Citadel, Warhammer, Warhammer Age of Sigmar, Battletome, Stormcast Eternals, the ‘winged-hammer’ Warhammer logo, and all associated logos, illustrations, images,
+names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likenesses thereof, are either ® or TM, and/or © Games Workshop Limited, variably
+registered around the world. All Rights Reserved.
+Permission to download/print for personal use only.
+This is a work of fiction. All the characters and events portrayed in this book are fictional, and any resemblance to real people or incidents is purely coincidental.
+Pictures used for illustrative purposes only.
+Certain Citadel products may be dangerous if used incorrectly and Games Workshop does not recommend them for use by children under the age of 16 without adult
+supervision. Whatever your age, be careful when using glues, bladed equipment and sprays and make sure that you read and follow the instructions on the packaging.
+Games Workshop Ltd., Willow Road, Lenton, Games Workshop Limited - Irish branch
+Nottingham, NG7 2WS, United Kingdom Unit 3, Lower Liffey Street, Dublin 1, D01 K199, Ireland
+3
+
+--- Page 4 ---
+THE CURSED CITY
+Once, long ago, the proud Shyishan port-city of this ragtag group defied the vampire’s plans and saved a
+Mournhold held dominion over the island underworld great many of the city’s inhabitants, escaping through a
+of Szargorond and the dark, freezing oceans that hidden realmgate. Radukar’s vision of outright victory
+crashed against its cliffs. Then came the Age of Chaos, was denied, and the vampire was cut down. Yet even
+when the Ruinous Powers of old returned to lay claim to this could not prevent Ulfenkarn’s doom. Gradually, the
+the Mortal Realms. Daemons fell upon the city in vast pull of the Nadir began to tear the Cursed City apart, its
+numbers. In panicked desperation, its leaders turned to districts splintering into an archipelago of crumbling
+the vampire warlord Radukar the Wolf, who offered to islets separated from one another by a howling sea of
+protect Mournhold – for a price. end-magic. Streets and towering structures collapsed
+into fistfuls of ash, the memories they contained
+In exchange for Radukar’s aid, Mournhold would offer dispersed on the deathly winds.
+up some of its residents as ‘tribute’. The Wolf slowly
+tightened his stranglehold on the city, surrounding Only a handful of vampires and their favoured
+himself with a court of vampiric sycophants and an servants escaped this catastrophe. Some, like the newly
+army of risen dead. Many years passed. The Stormcasts resurrected Radukar, Nagash still had use for. Others
+descended from Azyr. Yet their light did not shine had a talent for self-preservation, transforming into
+upon the Cursed City. In truth, Radukar’s ambitions swarms of vermin in order to slip away unnoticed.
+were greater than anyone could have guessed. When And so, despite its dramatic death throes, fragments of
+the Shyish Necroquake – a conjuration of Nagash, the the Cursed City remain: echoes of a nightmare that
+Great Necromancer and master of the Realm of Death will haunt the minds of mortals for evermore.
+– broke across reality, the Wolf sensed a chance to rise It is believed by many death-priests of the
+in the undead hierarchy of Shyish. He would deliver the Innerlands that, by Nagash’s will, the
+Cursed City to Nagash as a glorious sacrifice. scattered elements of Ulfenkarn will
+one day realign. On that day,
+Abandoning the pretence of alliance, the vampire and its denizens, raised from
+his minions seized total control of Mournhold, slaying their long slumber, will
+its mortal leaders and turning its entire populace into march once more
+helpless blood-thralls. Renamed Ulfenkarn – the Wolf’s to subjugate
+Feast – the city descended into nightmarish madness. the living.
+Allowing his vampiric underlings to run amok, Radukar
+pursued his goal of destroying the will of the city-folk.
+He aimed to create an aura of hopelessness so all-
+encompassing that the city would be dragged into the
+Shyish Nadir, the vortex of death magic left behind in
+the aftermath of the Necroquake.
+The Wolf had not counted on the valour
+and boldness of a few rebellious souls
+– the heroes of Ulfenkarn. Led
+by the Azyrite agent Jelsen
+Darrock and the former
+guard-commander
+Emelda Braskov,
+
+--- Page 5 ---
+DENIZENS OF THE CURSED CITY
+TORGILLIUS THE GORSLAV THE WATCH CAPTAIN
+CHAMBERLAIN GRAVEKEEPER HALGRIM
+A former member of the Half again as tall as a human When Radukar the Wolf seized
+scholarly brotherhood of and unnaturally strong, Gorslav control of Ulfenkarn in a violent
+sepulchrists known as the Pact the Gravekeeper inspired coup, many humans sought to
+Mortalis, Torgillius turned his absolute terror amongst the advance their position by aiding
+back on that august company Ulfenkarni people. Mute and him. One such was Oleksandr
+in order to join the Wolf’s court utterly merciless, this strange Halgrim, the city’s traitorous
+at Ulfenkarn. He brought with creature seemed only to care for Watch Captain. He personally
+him reams of stolen research tending the crypts and charnel rounded up many nobles and
+into soul repositories – devices pits of the city’s corpse-gardens. important persons and delivered
+that could essentially render a them to the Wolf’s dungeons
+vampire invulnerable. With one wide sweep of his in the Ebon Citadel, where they
+gravekeeper’s spade, Gorslav were tortured and devoured or
+Infected by Radukar with the would smash his victims to the else forcibly transformed into
+Soulblight curse at his own ground. Then, whether dead or undead fiends.
+request, Torgillius would still clinging to life, he would
+become the Wolf’s most hurl them into deep pits and For his treachery, Halgrim
+trusted adjunct. He would bury them beneath mounds of received just reward: he was
+also continue his hideous grave-soil. After several days, bound, gagged and thrown into
+experiments into the nature of those poor souls would emerge a sewer by his outraged fellow
+undeath, abducting prisoners as mindless undead thralls, officers, there to be eaten by
+and dragging them down into ready to serve Radukar’s will. corpse-rats. The vermin picked
+the dank laboratories of the his bones clean, but Radukar
+ancient scholars’ hall known still had a use for him. The
+‘When ye hear the scrape-
+as Barrowmark. Wolf had his necromancers
+scrape-scrape of Gorslav on
+raise the Watch Captain as
+his walk,
+Torgillius was a cunning and a skeletal thrall and granted
+malevolent creature, capable The only sound he ever him command of the newly
+of projecting his mind into makes, for he ain’t one created Ulfenwatch.
+vermin and flying beasts in for talk,
+order to spy upon the populace Armed with a rusted halberd
+Flee then, fool, and hide
+of Ulfenkarn. He was also and shield and no longer
+skilled in necromantic magic, away, and hope he don’t possessing a will of his own,
+preferring to wither his foes come take ye, Halgrim patrolled the streets
+to husks with enervating bolts of Ulfenkarn, gutting anyone
+He’ll bind your arms
+rather than engage them in the foolish enough to defy the
+and drag ye off to bury
+crude business of close combat. Wolf’s law.
+ye awake.’
+– Ulfenkarni folk song
+5
+
+--- Page 6 ---
+VYRKOS BLOOD-BORN
+Upon launching his internal conquest of Ulfenkarn, Radukar the Wolf targeted
+the city’s noble dynasties, who had for centuries deluded themselves into believing
+the vampire was under their control. Scores of highborn sons and daughters
+were slaughtered and drained of every last drop of blue blood. A handful sought
+to escape their predicament, bargaining away what little honour they had left in
+exchange for receiving the Blood Kiss – the vampiric ritual by which mortals are
+infected with the Soulblight curse.
+The bestial strain of vampirism that Radukar carried within his burly frame
+wrought horrific changes upon these desperate souls. Their bodies twisted into the
+half-feral form of Vyrkos Blood-born. With lupine grace and enhanced senses, they
+became the Wolf’s hunting hounds, seeking out troublemakers, escaped prisoners
+and other enemies of Radukar’s Thirsting Court. Though their sharp claws sufficed
+as lethal weapons, some carried rapiers or duelling swords – traditional Ulfenkarni
+blades that were ideal for spilling mortal blood.
+KOSARGI NIGHTGUARD enforcers, cadaverous brutes whose hunger for flesh did
+Long before he arrived in the city of Mournhold, not abate in the least.
+Radukar was a feared reaver of the Shyishan coastlines.
+His elite warriors were the Kosargi – ogor mercenaries Upon hearing the thunderous stomp of their boots, the
+recruited from the frozen underworlds of the Prime citizens of Ulfenkarn would scatter like bloodroaches –
+Innerlands. They killed, looted and burned in the and with good reason. Whenever the Kosargi
+Wolf’s name, and in return for this service, they glutted Nightguard were sent forth, violence soon followed.
+themselves on the corpses of many a slain foe. Though possessed of little grace or swiftness, they were
+all but impossible to lay low, for their rotting skin was as
+When Radukar finally resolved to seize Mournhold for tough as barrow-stone. Ignoring their enemies’ pitiful
+himself and remake it into the Wolf’s Feast, he decided strikes, the Kosargi methodically hacked them into
+that his Kosargi would serve him better in death. He pieces with heavy blows from their bardiches.
+had them all slaughtered and then raised through
+necromantic rituals to do his bidding unto eternity.
+‘‘‘AAAhhh,,, ttthhheee KKKooosssaaarrrgggiii... WWWiiittthhh ttthhhooossseee ooogggooorrrsss aaattt mmmyyy bbbaaaccckkk,,,
+Transformed into unliving colossi, the so-called Kosargi I stained the shores of the Innerlands crimson.
+Nightguard would indeed prove a most formidable It intrigues me to wonder what they might
+weapon in the vampire’s arsenal. In undeath, these accomplish when stripped of mortal weakness.’
+fur-clad warriors served their master without question
+or hesitation. They became his gaolers, executioners and ––– RRRaaaddduuukkkaaarrr ttthhheee WWWooolllfff
+VARGSKYR their monstrous appearance, the Vargskyrs were not
+The Soulblight curse is an unpredictable affliction, mindless. They were cunning creatures who relished the
+capable of causing all manner of unnatural changes in hunt, stalking the gloomy streets of the Cursed City in
+those exposed to it. Not all of the Ulfenkarni mortals search of prey and relishing their quarry’s rising terror
+bitten by Radukar were raised as vampires. Most were as they closed in for the kill.
+drained ash-dry, but some went through a horrendous
+transformation, unable to control the bestial curse that
+seeped into their bloodstream. Bones bent and twisted
+into new configurations. Muscles swelled and skin
+peeled loose, pierced by wiry hairs. From a puddle of
+steaming gore and discarded flesh, a Vargskyr would
+arise – a blood-hungry giant three times the size of a
+human and driven by a frenzied lust for fresh gore.
+Vargskyrs were a manifestation of the animalistic
+Vyrkos bloodline from which Radukar himself hailed. Though relatively rare, Vargskyrs were universally
+They were impeccable hunters, strong enough to wrench dreaded by Ulfenkarni natives. Rumours that some
+a man’s head from his shoulders and fast enough might have escaped the fall of the Cursed City bode ill
+to keep pace with a galloping warhorse. But despite indeed for the mortals of Shyish.
+6
+
+--- Page 7 ---
+VAMPIRE LORD ON ZOMBIE DRAGON
+The warleaders of the Midnight Aristocracy are the gathering in its gullet. Once within striking distance, its
+Vampire Lords, ancient commanders who have waged mouldering jaws distend to spew forth a toxic cloud of
+campaigns of terror against mortalkind for centuries. pestilential vapours that dissolves flesh and bone upon
+As far as these formidable beings are concerned, they impact, turning dozens of helpless victims into lifeless
+have no equal in war or single combat. It is hard to husks. This opening onslaught often shatters the enemy,
+entirely dismiss such arrogant certainty. When alloyed who are left reeling and defenceless when the drake
+with hard-earned experience, the innate strength and then plunges into their midst in a blur of raking claws
+speed of a Soulblight vampire becomes something and rotten fangs.
+truly terrifying.
+The drake’s raw strength alone is a grievous threat, but
+It is unsurprising that such proud warriors favour it is the vampire sat astride the Zombie Dragon who
+the most prestigious of mounts, and Zombie Dragons transforms the monster into a battle-winning weapon.
+are particularly prized. These cadaverous flying Having spent hundreds of years mastering the use of
+creatures are not true Revenant Draconith but rather traditional cavalry weaponry, the Vampire Lord may
+the corpses of drakes that were stitched together with elect either to couch a deathlance or to wield a relic blade
+foul necromancy or that lay in places suffused with that belongs to their undead dynasty.
+especially potent amethyst magic. Innately feral and
+predatory, they can only be brought to heel by a being of Deathlances are lethal on the charge, punching deep
+supreme willpower. Vampire Lords find this an amusing into enemy formations and impaling or breaking bones
+challenge to prove their glory beyond doubt. in the process. Furthermore, the weapon’s tip is imbued
+with sinister curses that ensure that each wound is
+Those who succeed in dominating a Zombie Dragon invariably fatal. Swords, however, offer the vampire a
+are rewarded with a steed that can dominate the more reliable close-combat weapon, perfect for slashing
+skies as easily as it can bring death and destruction to and hacking at enemies preoccupied with trying
+the lands. Soaring high on tattered wings, the drake to escape the drake’s snapping jaws. The Soulblight
+grants its master an unequalled view of the battlefield, vampire’s impressive martial might is enhanced by their
+allowing them to strike wherever they can cause the inherent magical affinity, which allows them to boil the
+most devastation. Tucking its wings alongside its body, blood of their prey or blast the life from foes with bolts
+the undead beast plunges towards its prey, rancid gases of pure end-magic.
+7
+
+--- Page 8 ---
+TERRORGHEIST
+In the violent prehistory of the Mortal Realms, gigantic
+chiropterans dominated the skies. Soaring above
+the lands on membranous wings, they preyed upon
+megafauna, descending from on high and stunning
+their quarry with screeching cries before opening
+their throats and guzzling their blood. The cadaverous
+abominations known as Terrorgheists are all that remain
+of this once-mighty lineage. Raised by necromantic
+magic and driven by a voracious hunger that they
+can never sate, they roam far and wide in search
+of fresh gore.
+Terrorgheists have sword-length talons and hooked
+teeth that are excellent for tearing through flesh and
+puncturing arteries. Yet their greatest weapon is still
+their ear-shattering screech, which even in undeath
+is powerful enough to rupture organs and shatter the
+skulls of any mortals in close proximity. Those who
+survive stumble about dazed, bleeding from the eyes and
+ears – easy prey for the rampaging beast.
+Vampires occasionally use Terrorgheists as undead
+shock weapons, tempting them forth with offerings of
+viscera and then directing them against their enemies.
+In this, they rarely disappoint. Even if laid low, a
+Terrorgheist has one final horrific surprise in store for
+its vanquishers. Its rotten frame will burst in a violent
+discharge of necromantic magic and pressurised corpse-
+gas, and from the rent will spill forth a cloud of ravenous
+carrion-bats, darting for the throats and eyes of the
+nearest living beings.
+BLOODSEEKER PALANQUIN
+For all vampires, the lust for blood transcends a mere that they might enjoy fresh, piquant blood straight from
+desire for sustenance. They crave the stuff with a the vein. Ever flamboyant, they elect to ride serenely into
+fearsome intensity, savouring the most potent types of battle atop a Bloodseeker Palanquin.
+ichor and hunting down enemies whom they believe
+will grant them the most intoxicating feast. Yet there are These stately conveyances are carried forth by wailing
+those of the Midnight Aristocracy who take things even gheists who rake those who get too close with spectral
+further, obsessively collecting and blending blood as a claws. The Sanguinarch sprawls on a seat of silken
+master vintner would perfect their wines. pillows, idly swirling a goblet filled with dark crimson
+nectar as they scan the battlefield for champions who
+Known as Sanguinarchs, these beings often serve their might prove particularly flavoursome. These luckless
+dynasties as agents in mortal cities, spinning webs of foes are cut down and gruesomely exsanguinated by the
+intrigue and gathering courts of sycophantic admirers. vampire’s sorceries, their blood emptied into a font at
+In public, they adopt the persona of the courtly the front of the carriage. Other vampires may very well
+matchmaker, manipulating liaisons between nobles in consider the Sanguinarch’s obsessions indulgent, but
+order to produce the most sumptuous blends of blood in they cannot deny the vitality that floods through them
+their progeny – all for the vampires to one day harvest as they sample their impeccable vintage.
+and savour. There are also dark tales of cursed gardens
+out in the Shyishan wilderness where Sanguinarchs
+‘Do try this. It’s a pure Azyrite lineage, blended
+experiment upon captured mortals to refine their blends.
+with a spattering of Ghurish beastspeaker for
+Many Sanguinarchs believe that the pulse-pounding that earthy richness.’
+ferocity of the battlefield serves to add spice and depth to
+– Countess Fontesa, the Rose of Carstinia
+the gore they consume, and they eagerly seek out war so
+8
+
+--- Page 9 ---
+Torgillius the Chamberlain Gorslav the Gravekeeper Vyrkos Blood-born
+Watch Captain Halgrim Vargskyr
+
+--- Page 10 ---
+Kosargi Nightguard
+Terrorgheist
+Vampire Lord on Zombie Dragon
+10
+
+--- Page 11 ---
+FACTION
+• SOULBLIGHT GRAVELORDS WARSCROLL •
+TORGILLIUS THE
+RULES
+CHAMBERLAIN
+The battle formation and warscrolls in this 6+
+MOVE
+battletome supplement are part of the Soulblight
+Gravelords faction. See page 3 for information about H 5" This dark magician earned himself a place in
+Warhammer Legends and the official proxy list. T S Radukar’s court thanks to his mastery of grave-sand
+A L 5 6+A V and its uses. When called into battle, Torgillius can
+E E unleash devastating sorcery that leaves any survivors
+Rules updated as of May 2025. H
+2 drained of all strength.
+CONTROL
+RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg
+Necrotising Bolts
+18" 6 4+ 4+ 1 D3
+Shoot in Combat
+MELEE WEAPONS Atk Hit Wnd Rnd Dmg
+Familiars’ Fangs and Claws
+4 4+ 4+ - 1
+Companion
+Passive
+TRUSTED LIEUTENANT: Radukar has granted Torgillius
+the resources with which to continue his research. In return, the
+Chamberlain offers his necromantic expertise and the secrets gathered
+for him by his vermin spies.
+BATTLE
+Effect: This unit can use the ‘Deathly Invocation’ ability even if a
+different friendly unit has already used it this turn, but units that have
+FORMATION already been picked to be targets of that ability this turn cannot be
+picked to be targets.
+You can pick the following battle formation for a
+Soulblight Gravelords army instead of picking one Your Hero Phase 6
+from the Soulblight Gravelords faction rules. FAILING FORTITUDE: Ruthlessly targeting his prey’s
+weaknesses, Torgillius hurls bolts of enervating energy to drain their
+strength and resilience.
+LEGIONS OF ULFENKARN
+Declare: Pick a visible enemy unit within 18" of this unit to be the
+target, then make a casting roll of 2D6.
+Passive
+WARDENS OF THE WOLF: The might of Effect: Until the start of your next turn, subtract 1 from wound rolls
+for the target’s attacks.
+Ulfenkarn marches forth from the shattered city,
+its graves emptied to bolster the tides of endless Keywords Spell
+dead, as the howls of feral vampires echo across
+the battlefield.
+Effect: Each time 1 or more slain models
+are returned to a friendly Soulblight
+Gravelords Infantry or Beast unit wholly
+within 12" of a friendly Belladamma Volga,
+Radukar the Wolf, Radukar the Beast, Ivya
+Volga, Lady Annika, Kritza, Torgillius the
+Chamberlain, Gorslav the Gravekeeper or
+Watch Captain Halgrim, add 1 to the number
+of slain models returned to that unit.
+Unique, Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS
+Death, Soulblight Gravelords
+11
+FACTION
+RULES
+
+--- Page 12 ---
+• SOULBLIGHT GRAVELORDS WARSCROLL • • SOULBLIGHT GRAVELORDS WARSCROLL •
+WATCH CAPTAIN GORSLAV THE
+HALGRIM GRAVEKEEPER
+6+ 6+
+MOVE MOVE
+4" 5"
+H During the purge of the city, the traitorous Watch H The macabre creature known as Gorslav the
+T S Captain Oleksandr Halgrim was swift to swear T S Gravekeeper lorded over the many cemeteries and
+A L5 4+ A V himself and his warriors to the Wolf’s cause. In A L 6 6+A V mausoleums of Ulfenkarn. In battle, he leads hordes
+E E death, he commanded the vast legions of skeleton E E of shambling Deadwalkers that hurl themselves at
+H H
+2 warriors known as the Ulfenwatch. 2 the foe, infused with a rabid determination.
+CONTROL CONTROL
+MELEE WEAPONS Atk Hit Wnd Rnd Dmg MELEE WEAPONS Atk Hit Wnd Rnd Dmg
+Cursed Halberd and Sabre
+4 4+ 3+ 2 2 Gravekeeper’s Spade 5 4+ 3+ 1 2
+Crit (Mortal)
+Passive Passive
+DISCIPLINED ADVANCE: Under Halgrim’s command, his KEEPER OF THE CORPSE-GARDENS: In battle, Gorslav can call
+warriors advance ceaselessly in regimented lockstep to crush the foes upon his Deadwalker minions to throw themselves into enemy attacks
+of Ulfenkarn. and blunt their blades.
+Effect: Each time you make a run roll for a friendly Deathrattle Effect: While this unit is within the combat range of a friendly
+Skeletons unit wholly within 12" of this unit, you can change that roll Deadwalker Zombies unit:
+to a 4.
+•This unit has Ward (4+).
+•Each time you make a successful ward roll for this unit, inflict 1
+Reaction: You declared a Fight ability for this unit mortal damage on a friendly Deadwalker Zombies unit within this
+unit’s combat range after the damage sequence for this unit has been
+ECHOES OF THE WATCH: Beneath the sightless gaze of Halgrim,
+resolved (ward rolls cannot be made for those damage points).
+the long-dead garrison of Mournhold act with a disturbing semblance
+of the martial training they prided themselves on in life.
+Once Per Battle, Reaction: You declared the ‘Endless Legions’
+Effect: Pick a friendly Deathrattle Skeletons unit that has not used
+ability and picked a friendly Deadwalkers unit to be the target
+a Fight ability this turn and is within this unit’s combat range to be
+the target. The target can be picked to use a Fight ability immediately ARISE! ARISE!: With a rasping cry, the Gravekeeper beckons
+after the Fight ability used by this unit has been resolved. his freshly buried victims to rise as undead and defend the walls
+of Ulfenkarn.
+Effect: When resolving the effect of the ‘Endless Legions’ ability, set
+up the replacement unit wholly within 3" of this unit instead of wholly
+within 12" and more than 3" from all enemy units instead of more
+than 9", even if it is not your movement phase. The replacement unit
+can still use Charge abilities this turn.
+Unique, Hero, Infantry, Ward (6+) Unique, Hero, Infantry, Ward (6+)
+KEYWORDS KEYWORDS
+Death, Soulblight Gravelords, Deathrattle Death, Soulblight Gravelords, Deadwalkers
+12
+
+--- Page 13 ---
+• SOULBLIGHT GRAVELORDS WARSCROLL • • SOULBLIGHT GRAVELORDS WARSCROLL •
+VYRKOS BLOOD-BORN VARGSKYR
+6+ 6+
+MOVE MOVE
+8" 8"
+H In the gloom-shrouded streets of Ulfenkarn, the H Unable to control the feral aspect of the curse that
+T S Vyrkos Blood-born are never far away, stalking the T S surges through their blood, Vargskyr are towering,
+A L 3 6+A V shadows in search of prey. Once these vampiric fiends A L 8 5+A V distended creatures. On the hunt, they stalk their
+E E catch the scent of blood, they attack with savage E E prey before descending upon them in a frenzy of
+H H
+1 ferocity and lightning speed. 1 slashing claws and razor-sharp fangs.
+CONTROL CONTROL
+MELEE WEAPONS Atk Hit Wnd Rnd Dmg MELEE WEAPONS Atk Hit Wnd Rnd Dmg
+Piercing Blade Raking Talons
+3 3+ 3+ 1 2 4 4+ 2+ 1 2
+Crit (2 Hits) Companion
+Lacerating Fangs
+2 4+ 2+ 2 3
+Passive Companion
+CLING TO THE SHADOWS: With quicksilver speed, these
+creatures scale terrain in a matter of moments, hiding in the shadows Passive
+while they prepare to strike.
+BEAST
+Effect: While each model in this unit is within 1" of any terrain Effect: This unit has a maximum control score of 1.
+features, this unit cannot be targeted by shooting attacks unless the
+attacking model is within 9" of it.
+Passive
+BOUNDING HASTE: Three times the height of a man and with
+Once Per Turn (Army), End of Enemy Turn supernatural strength and reflexes, a Vargskyr covers ground with
+SHADOWFAST: Vyrkos Blood-born move with savage swiftness. terrifying speed.
+Effect: This unit can use a Move ability as if it were your Effect: Add 1 to the number of dice rolled when making charge rolls
+movement phase. for this unit, to a maximum of 3. In addition, when this unit uses
+a Charge ability, it can pass through terrain features and enemy
+models as if it had Fly.
+Infantry, Ward (6+) Beast, Ward (6+)
+KEYWORDS KEYWORDS
+Death, Soulblight Gravelords, Vampire Death, Soulblight Gravelords, Vampire
+13
+
+--- Page 14 ---
+• SOULBLIGHT GRAVELORDS WARSCROLL • • SOULBLIGHT GRAVELORDS WARSCROLL •
+BLOODSEEKER
+KOSARGI NIGHTGUARD
+PALANQUIN
+6+ 6+
+MOVE MOVE
+6" 10" From atop macabre conveyances known as
+H The Kosargi ogors served Radukar for centuries, first H Bloodseeker Palanquins, the Sanguinarchs refine
+T S in life and then in death, raised from the grave with T S
+A L E 4 5+ E A V b fo e u fo l r n e e t c h ro em tic , c so a r r c v e in ry g . g In re b a a t t b t l l o e, o t d h y e s y w s a c t a h tt e e s r i a n l t l o f o th e e s A L E 12 4+ E A V the e x a s r a t n o g f u b i lo n o at d e - b w l o en rt d h i y n g ch . I a n m b p a i t o t n le s , , t u h s e in y g v i t o h l e e i n r t ly
+H H ichor in crimson concoctions to invigorate their
+3 enemy with each swing of their bardiches. 5 vampiric kin.
+CONTROL CONTROL
+MELEE WEAPONS Atk Hit Wnd Rnd Dmg MELEE WEAPONS Atk Hit Wnd Rnd Dmg
+Sanguinarch’s Stiletto
+Kosargi Bardiche 2 4+ 2+ 2 3 5 3+ 3+ 1 2
+Crit (2 Hits)
+Spectral Host’s Blades
+10 4+ 4+ - 1
+Passive Companion
+A PACT MAINTAINED: The undead mercenaries of Kos are as loyal
+to Radukar in death as they were in life. Passive
+Effect: While a friendly Radukar the Wolf or Radukar the Beast WAILS OF THE DAMNED: Unnerving howls follow this macabre
+is within this unit’s combat range, both that unit and this unit have carriage wherever it roams.
+Ward (5+).
+Effect: Subtract 3 from the control scores of enemy units while they
+are within 12" of this unit.
+Once Per Battle (Army), Your Combat Phase
+A PROMISING CONCOCTION: Sanguinarchs are obsessed with
+crafting the finest ichorous blends, and they can further refine such rich
+pickings to bolster their strength and that of their lackeys.
+Declare: Pick up to 3 visible friendly Vampire units wholly within
+12" of this unit to be the targets.
+Effect: Add 1 to the Attacks characteristic of the targets’ melee
+weapons for the rest of the turn.
+Infantry, Ward (6+) Hero, War Machine, Wizard (1), Fly, Ward (6+)
+KEYWORDS KEYWORDS
+Death, Soulblight Gravelords, Deadwalkers Death, Soulblight Gravelords, Vampire
+14
+
+--- Page 15 ---
+• SOULBLIGHT GRAVELORDS WARSCROLL • • SOULBLIGHT GRAVELORDS WARSCROLL •
+VAMPIRE LORD CADO EZECHIAR
+ON ZOMBIE DRAGON THE HOLLOW KING
+6+ 6+
+MOVE MOVE
+12" 6"
+H The proudest and most martial of vampires take to H Known as the Hollow King, Cado Ezechiar seeks
+T S battle astride terrifying undead drakes. Armed with T S both vengeance and redemption. Once a mortal king,
+A L16 3+A V such a potent mount, they are capable of turning the A L 6 4+A V his lands were ravaged by Chaos. Now he hunts the
+E E tide of battle alone, striking down their rivals and E E servants of ruin while seeking a way to escape the
+H H
+5 supping their blood from enchanted goblets. 2 controlling will of Nagash.
+CONTROL CONTROL
+RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg MMEELLEEEE WWEEAAPPOONNSS Atk Hit Wnd Rnd Dmg
+Pestilential Breath EEzzeecchhiiaarriiaann GGrreeaattsswwoorrdd 5 3+ 3+ 2 2
+Shoot in Combat, 10" D6 2+ 4+ 1 2 Crit (Auto-wound)
+Companion
+MELEE WEAPONS Atk Hit Wnd Rnd Dmg Your Hero Phase
+Dynastic Weapon THE COURT OF THE LOST: The iron rings worn by Cado hold
+4 3+ 3+ 2 2
+Charge (+1 Damage) the spirits of souls from his past. In times of need, he summons their
+ethereal forms to aid him.
+Draconic Maw
+3 4+ 2+ 2 3
+Companion Effect: Roll a dice. On a 2+, pick 1 of the following effects to apply
+until the start of your next turn:
+Draconic Claws
+7 4+ 2+ 1 2
+Companion •This unit has a Move characteristic of 12".
+•Add 1 to casting rolls, unbinding rolls and banishment rolls for
+this unit.
+Passive
+•This unit’s melee weapons have Crit (Mortal).
+BATTLE DAMAGED
+Effect: While this unit has 10 or more damage points, the Attacks
+characteristic of its Draconic Claws is 5. Your Hero Phase 7
+RETRIBUTION OR SALVATION: Cado’s quest for vengeance
+and self-control manifests as two forms of sorcery: bolts of killing
+Passive
+judgement and an aura of authority that augments nearby undead.
+THAT WHICH SHOULD NOT BE: To behold such a majestic
+Declare: Pick a visible unit within 12" of this unit to be the target,
+beast as a dragon in the grip of undeath evokes awe and abject terror in
+then make a casting roll of 2D6.
+equal measure.
+Effect: If the target is an enemy unit, inflict D3 mortal damage on it.
+Effect: If this unit charged this turn, for the rest of the turn, subtract 5
+from the control scores of enemy units while they are in combat with If the target is a friendly Deathrattle or Deadwalkers unit,
+this unit. subtract 1 from wound rolls for combat attacks that target that unit
+for the rest of the turn.
+Once Per Turn (Army), End of Any Turn Keywords Spell
+BLOODTHIRSTY DOMINANCE: The Vampire Lord and their
+monstrous mount single out worthy prey, tearing into them with
+relentless fury.
+Declare: If this unit charged this turn, pick an enemy unit in combat
+with it to be the target.
+Effect: Roll a number of dice equal to the target’s Health
+characteristic. For each 6, inflict 1 mortal damage on the target.
+Keywords Rampage
+Hero, Monster, Wizard (1), Fly, Ward (6+) Unique, Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS KEYWORDS
+Death, Soulblight Gravelords, Vampire Death, Soulblight Gravelords, Vampire
+15
+
+--- Page 16 ---
+6+
+MOVE
+• SOULBLIGHT GRAVELORDS WARSCROLL •
+12"
+H
+T S
+L14 4+A TERRORGHEIST
+A V
+E E
+H
+5
+CONTROL RANGED WEAPONS Rng Atk Hit Wnd Rnd Dmg
+Death Shriek
+10" 1 4+ 2+ 2 D6
+Shoot in Combat, Companion
+The Terrorgheist is a MELEE WEAPONS Atk Hit Wnd Rnd Dmg
+bloodthirsty undead beast
+whose piercing cry scythes Fanged Maw 3 4+ 2+ 2 D6
+through the enemy as it plunges Companion
+into the fray. Survivors are left
+reeling and defenceless against Skeletal Talons 6 4+ 2+ 1 2
+the eternally starving beast Companion
+as it attempts to devour them,
+and such is the size of its maw
+Passive Passive
+that human-sized prey is often
+swallowed whole. BATTLE DAMAGED GAPING MAW: This horrific
+Effect: While this unit has 10 or creature bites a great chunk out of
+more damage points, the Attacks its prey – or even swallows it whole.
+characteristic of its Skeletal Talons
+Effect: Each time an attack made
+is 4.
+with this unit’s Fanged Maw scores
+a critical hit, that attack inflicts 6
+mortal damage on the target unit
+and the attack sequence ends.
+Once Per Turn (Army),
+Any Combat Phase
+SONIC ASSAULT: With a
+barrage of ear-piercing shrieks, the
+Terrorgheist drops from the sky to
+savage its stunned prey.
+Declare: If this unit charged this
+turn, pick an enemy unit in combat
+with it to be the target.
+Effect: Roll a dice for each model in
+the target unit.
+If 3 or more of the dice have the
+same value, for the rest of the turn,
+this unit has Strike-first.
+If 6 or more of the dice have the
+same value, for the rest of the turn,
+this unit has Strike-first and
+the target cannot use commands.
+Keywords Rampage
+Monster, Fly, Ward (6+)
+KEYWORDS
+Death, Soulblight Gravelords
+16

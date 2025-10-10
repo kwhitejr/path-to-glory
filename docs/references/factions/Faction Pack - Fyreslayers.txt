@@ -1,0 +1,1275 @@
+--- Page 1 ---
+FACTION PACK
+FYRESLAYERS
+
+--- Page 2 ---
+BATTLE TRAITS
+Fyreslayers armies can use the following abilities:
+Once Per Battle (Army), Start of Any Turn Once Per Battle (Army), Any Hero Phase
+RUNE OF FURY: The rune of fury grants RUNE OF FIERY DETERMINATION:
+the Fyreslayers a portion of their god’s A sliver of Grimnir’s awesome resolve
+battle rage. courses through the Fyreslayers.
+Effect: You can only use this ability if Effect: You can only use this ability if
+you have not used any Ur-gold Rune you have not used any Ur-gold Rune
+abilities this battle round. abilities this battle round.
+For the rest of the battle round, friendly Friendly Fyreslayers units have
+Fyreslayers units have Strike-first Ward (5+) for the rest of the battle round.
+while they are in combat with an enemy Keywords Ur-gold Rune
+unit that charged in the same turn.
+Keywords Ur-gold Rune Once Per Battle (Army),
+Your Movement Phase
+Once Per Battle (Army), RUNE OF RELENTLESS ZEAL: The
+Your Shooting Phase hearts of the Fyreslayers swell with a fiery
+RUNE OF FARSIGHT: Empowered conviction that sees them bear down upon
+by this rune, the Fyreslayers hurl their the foe with surprising swiftness.
+throwing axes into the enemy with
+Effect: You can only use this ability if
+devastating accuracy.
+you have not used any Ur-gold Rune
+Declare: You can only use this ability if abilities this battle round.
+you have not used any Ur-gold Rune
+For the rest of the battle round, friendly
+abilities this battle round.
+Fyreslayers units can use Charge
+Pick any number of enemy units within abilities even if they used a Run ability in
+10" of any visible friendly Fyreslayers the same turn.
+units to be targets. Keywords Ur-gold Rune
+Effect: Roll a D3 for each target. On a 2+,
+Once Per Battle (Army),
+inflict an amount of mortal damage on
+Any Combat Phase
+the target equal to the roll.
+RUNE OF SEARING HEAT: The edges
+Keywords Ur-gold Rune
+of the Fyreslayers’ weapons glow with the
+heat of the forge.
+Effect: You can only use this ability if
+you have not used any Ur-gold Rune
+abilities this battle round.
+Melee weapons used by friendly
+Fyreslayers units have Crit (Mortal)
+for the rest of the battle round.
+Keywords Ur-gold Rune
+September 2025
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Fyreslayers army. Each battle
+fffffffffooooooooorrrrrrrrrmmmmmmmmmaaaaaaaaatttttttttiiiiiiiiiooooooooonnnnnnnnn gggggggggrrrrrrrrraaaaaaaaannnnnnnnntttttttttsssssssss aaaaaaaaa dddddddddiiiiiiiiiffffffffffffffffffeeeeeeeeerrrrrrrrreeeeeeeeennnnnnnnnttttttttt aaaaaaaaabbbbbbbbbiiiiiiiiillllllllliiiiiiiiitttttttttyyyyyyyyy yyyyyyyyyooooooooouuuuuuuuu cccccccccaaaaaaaaannnnnnnnn uuuuuuuuussssssssseeeeeeeee iiiiiiiiinnnnnnnnn ttttttttthhhhhhhhheeeeeeeee bbbbbbbbbaaaaaaaaattttttttttttttttttllllllllleeeeeeeee.........
+WARRIOR KINBAND FORGE BRETHREN
+Passive Passive
+BERSERK KINDRED: Filled with BULWARK OF MOLTEN STONE:
+the fierce fighting spirit of Grimnir, the Shrouded in the shimmering heat of
+Warrior Kinband hurls itself at the foe. the forge-temple, the Forge Brethren
+In their fury, they wield their glinting direct their magmapikes to form blazing
+fyresteel axes so quickly that they appear barricades of lava with sustained volleys
+as a blazing blur. of fire, before returning to blasting their
+enemies to ash.
+Effect: Add 1 to wound rolls for combat
+attacks made by friendly Fyreslayers Effect: Add 1 to save rolls for friendly
+Infantry units that charged in the Fyreslayers Infantry units while
+same turn. they are wholly within friendly territory.
+SCALES OF VULCATRIX LORDS OF THE LODGE
+Passive Passive
+ANCIENT BLOODLINES: Among the MARTIAL PRIDE AND
+most elite formations of the Fyreslayers STUBBORN WILL: The Lords of the
+are the mighty Scales of Vulcatrix. The Lodge burn with a rage tempered by sacred
+proud and majestic Magmadroths in this oaths of war.
+formation are as venerated as those of
+Effect: Add 3 to the control scores
+their lodge’s royal family.
+of friendly Fyreslayers Heroes.
+Effect: Add 2 to the Health characteristic In addition, the control scores of
+of friendly Magmadroth units. Fyreslayers Heroes cannot be
+modified by enemy abilities.
+September 2025
+
+--- Page 4 ---
+HEROIC TRAITS
+INHERITANCE OF GRIMNIR (Hero only)
+Passive Passive
+BLOOD OF THE BERZERKER: In FIERCELY COMPETITIVE: This leader
+this noble duardin is fiery aggression is incredibly stubborn and won’t back
+given form. down from even the boldest of challenges.
+Effect: Add 1 to charge rolls for friendly Effect: If this unit is in combat with an
+Fyreslayers units while they are enemy unit that has Strike-first, this
+wholly within 12" of this unit. unit has Strike-first. If this unit is in
+combat with an enemy unit that uses the
+Passive ‘All-out Attack’ command, add 1 to hit
+ASH-BEARD: So great is this priest’s rolls for this unit’s attacks for the rest of
+mastery of magmic energies that they the turn.
+smoulder eternally with Grimnir’s power.
+Effect: If this unit is not a Priest, they
+have Priest (1). If this unit was already a
+Priest, add 1 to this unit’s chanting rolls.
+ARTEFACTS OF POWER
+HEIRLOOMS OF THE LODGE (Hero only)
+Once Per Battle, Enemy Hero Phase Passive
+ASH-CLOUD RUNE: The bearer of this DROTH-HELM: This ancient helm is said
+rune can call down a column of soot that to have been worn by the first Zharrgrim
+blankets the battlefield. priest to tame a Magmadroth.
+Effect: Until the start of your next turn, Effect: Add 1 to hit rolls for Companion
+friendly Infantry units cannot be weapons used by friendly Fyreslayers
+targeted by shooting attacks while they units while they are wholly within 12" of
+are wholly within 12" of this unit. this unit.
+Once Per Battle, Any Combat Phase
+DRAUGHT OF THE FINEST
+MAGMALT: A single draught of this fiery
+beverage sends shivers of energy surging
+through a Fyreslayer from toes to crest.
+Effect: Add 3 to the Attacks characteristic
+of this unit’s melee weapons for the rest
+of the turn.
+September 2025
+
+--- Page 5 ---
+PRAYER LORE
+ZHARRGRIM BLESSINGS
+Your Hero Phase 4
+PRAYER OF ASH: BBBooorrrnnneee ooonnn aaa ggguuusssttt ooofff hhhooottt fffooorrrgggeee---wwwiiinnndddsss,,, aaa ccciiirrrcccllleee ooofff aaassshhh ssseeettttttllleeesss aaarrrooouuunnnddd ttthhheee
+priest’s allies, protecting them from harm.
+Declare: Pick a friendly Fyreslayers Priest to chant this prayer, pick a visible friendly
+Fyreslayers unit wholly within 12" of them to be the target, then make a chanting roll
+of D6.
+Effect: Subtract 1 from wound rolls for attacks that target that friendly unit until the start
+of your next turn.
+If the chanting roll was 8+, also subtract 1 from the Rend characteristic of attacks that
+target that friendly unit until the start of your next turn.
+Keywords Prayer, Unlimited
+Your Hero Phase 4 Your Hero Phase 4
+PRAYER OF GRIMNIR’S FURY: WRATH OF VULCATRIX: The
+A red rage fills the hearts of those blessed priest sets the runes pressed into a
+by this furious benediction. Magmadroth’s hide ablaze, and the
+colossal beast roars with fury.
+Declare: Pick a friendly Fyreslayers
+Priest to chant this prayer, pick a visible Declare: Pick a friendly Fyreslayers
+friendly Fyreslayers Infantry Hero Priest to chant this prayer, pick a visible
+wholly within 12" of them to be the target, friendly Magmadroth unit wholly
+then make a chanting roll of D6. within 12" of them to be the target, then
+make a chanting roll of D6.
+Effect: The target can use 2 Fight
+abilities this turn. After the first is used, Effect: For the rest of the turn, the
+however, the target has Strike-last for ‘Battle Damaged’ ability has no
+the rest of the turn. effect on the target and add 1 to the
+If the chanting roll was 8+, also add 1 Attacks characteristic of the target’s
+to wound rolls for the target’s combat Companion weapons.
+attacks for the rest of the turn. If the chanting roll was 8+, for the
+Keywords Prayer rest of the turn, add 1 to the Attacks
+characteristic of the target’s Companion
+weapons for every 4 damage points the
+target has instead.
+Keywords Prayer
+September 2025
+
+--- Page 6 ---
+MANIFESTATION LORE
+MAGMIC INVOCATIONS
+Your Hero Phase 4 Your Hero Phase 6
+SUMMON RUNIC FYREWALL: AAtt SSSUUUMMMMMMOOONNN MMMOOOLLLTTTEEENNN IIINNNFFFEEERRRNNNOOOTTTHHH:::
+the command of a Zharrgrim priest, a An elemental manifestation that
+Runic Fyrewall can be raised from the personifies the blazing wrath of Vulcatrix,
+fiery chasms far beneath their soot- a Molten Infernoth can be drawn to battle
+stained feet. Glinting with runes, this by a Zharrgrim priest. Bursting out of the
+scintillating barrier of gold and flame bars realm’s crust, the ferocious entity lumbers
+the enemy’s path and protects the flanks across the battlefield, inspiring Fyreslayers
+of the Fyreslayers’ fyrds as they press while blasting the enemy with raging
+ever forward. torrents of lava.
+Declare: If there is not a friendly Runic Declare: If there is not a friendly Molten
+Fyrewall on the battlefield, pick a friendly Infernoth on the battlefield, pick a
+Fyreslayers Priest to chant this friendly Fyreslayers Priest to chant
+prayer, then make a chanting roll of D6. this prayer, then make a chanting roll
+of D6.
+Effect: Set up a Runic Fyrewall wholly
+within 12" of the chanter and visible Effect: Set up a Molten Infernoth wholly
+to them. within 12" of the chanter, visible to them
+Keywords Prayer, Summon and more than 9" from all enemy units.
+Keywords Prayer, Summon
+Your Hero Phase 4
+SUMMON ZHARRGRON
+FLAME-SPITTER: BByy ccoonncceennttrraattiinngg
+their magmic powers, a Zharrgrim
+priest can summon forth fiery heat from
+the bowels of the realm. With a rumble
+and a crack, an angry geyser opens up
+in the earth, bombarding the foe with
+molten death.
+Declare: If there is not a friendly
+Zharrgron Flame-spitter on the
+battlefield, pick a friendly Fyreslayers
+Priest to chant this prayer, then make a
+chanting roll of D6.
+Effect: Set up a Zharrgron Flame-spitter
+wholly within 12" of the chanter and
+visible to them.
+Keywords Prayer, Summon
+September 2025
+
+--- Page 7 ---
+September 2025
+MOVE
+10"
+H • FYRESLAYERS WARSCROLL •
+L T 14 4+ S A AURIC RUNEFATHER
+A V
+E E
+H
+5 ON MAGMADROTH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Roaring Fyrestream 10" 4 3+ 3+ 1 D3
+Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Latchkey Grandaxe 4 3+ 3+ 2 3 -
+Magmadroth’s
+6 4+ 2+ 1 2 Companion
+Claws and Horns
+Magmadroth’s Blazing Maw 2 4+ 2+ 2 3 Companion
+Passive Once Per Battle (Army),
+BATTLE DAMAGED Your Combat Phase
+Effect: While this unit has 10 or more WARRIOR-KINGS: With discipline and
+damage points, the Attacks characteristic zeal in equal measure, the Runefather
+of its Magmadroth’s Claws and Horns inspires his warriors to bring down
+is 4. the wrath of Grimnir upon any who
+oppose them.
+Once Per Turn (Army),
+Effect: For the rest of the turn, add 1
+Any Combat Phase
+to the Attacks characteristic of melee
+RAGING INFERNO: Throwing back its weapons used by friendly Fyreslayers
+head, a Magmadroth can spew a wave units while they are wholly within 12" of
+of flaming bile that scorches through this unit.
+enemy armour.
+Declare: Pick an enemy unit in combat Passive
+with this unit to be the target. VOLCANIC BLOOD: Born of fire and
+flame, Magmadroths pulse with the
+Effect: Roll a dice. On a 3+, subtract 1
+throbbing heat of the volcanic caverns in
+from save rolls for the target for the rest
+which they make their fyrenests.
+of the turn.
+Keywords Rampage Effect: If you make an unmodified save
+roll of 1 for a combat attack that targets
+this unit, inflict 1 mortal damage on the
+attacking unit after the Fight ability has
+been resolved.
+Warmaster, Hero, Monster, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin, Magmadroth
+
+--- Page 8 ---
+September 2025
+MOVE
+10"
+H • FYRESLAYERS WARSCROLL •
+L T 14 4+ S A AURIC RUNESON
+A V
+E E
+H
+5 ON MAGMADROTH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Roaring Fyrestream 10" 4 3+ 3+ 1 D3
+Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ancestral Weapons 5 3+ 3+ 1 2 Anti-Monster (+1 Rend)
+Magmadroth’s
+6 4+ 2+ 1 2 Companion
+Claws and Horns
+Magmadroth’s Blazing Maw 2 4+ 2+ 2 3 Companion
+Passive Once Per Turn (Army), End of Any Turn
+BATTLE DAMAGED DOMINATING ROAR: The Flame-scale
+Effect: While this unit has 10 or more Youngbloods ridden by Auric Runesons
+damage points, the Attacks characteristic are fiercely territorial when faced with a
+of its Magmadroth’s Claws and Horns monstrous challenger.
+is 4.
+Declare: Pick an enemy Monster in
+combat with this unit to be the target.
+Passive
+VYING FOR GLORY: Runesons seek Effect: If this unit has fewer damage
+their father’s favour in battle by slaying the points than the target, subtract 10 from
+most fearsome enemy creatures. the target’s control score for the rest of
+the turn.
+Effect: Each time this unit destroys
+Keywords Rampage
+a Monster, add 1 to the Attacks
+characteristic of this unit’s Ancestral
+Passive
+Weapons for the rest of the battle.
+This unit can be affected by this VOLCANIC BLOOD: Born of fire and
+ability multiple times and the effects flame, Magmadroths pulse with the
+are cumulative. throbbing heat of the volcanic caverns in
+which they make their fyrenests.
+Effect: If you make an unmodified save
+roll of 1 for a combat attack that targets
+this unit, inflict 1 mortal damage on the
+attacking unit after the Fight ability has
+been resolved.
+Hero, Monster, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin, Magmadroth
+
+--- Page 9 ---
+September 2025
+MOVE
+10"
+H • FYRESLAYERS WARSCROLL •
+L T 14 4+ S A AURIC RUNESMITER
+A V
+E E
+H
+5 ON MAGMADROTH
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Anti-Infantry (+1 Rend),
+Roaring Fyrestream 10" 4 3+ 3+ 1 D3
+Companion
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Latch-axe 4 3+ 3+ 1 2 -
+Magmadroth’s
+6 4+ 2+ 1 2 Companion
+Claws and Horns
+Magmadroth’s Blazing Maw 2 4+ 2+ 2 3 Companion
+Passive Once Per Turn (Army),
+BATTLE DAMAGED Any Combat Phase
+Effect: While this unit has 10 or more LASHING TAIL: Magmadroths can use
+damage points, the Attacks characteristic their muscular spiked tails to pulverise
+of its Magmadroth’s Claws and Horns lesser prey with a single swipe.
+is 4.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Your Hero Phase
+RUNIC EMPOWERMENT: With a Effect: Roll 2D6. If the roll is equal to or
+sonorous chant, the Runesmiter draws less than the number of models in the
+forth the power of the ur-gold runes set target unit, inflict D3+3 mortal damage
+into the flesh of their Fyreslayer kin. on the target.
+Keywords Rampage
+Declare: Pick a friendly Fyreslayers
+unit wholly within 12" of this unit to be
+Passive
+the target.
+VOLCANIC BLOOD: Born of fire and
+Effect: Roll a dice. On a 3+, add 1 to flame, Magmadroths pulse with the
+wound rolls for the target’s attacks for the throbbing heat of the volcanic caverns in
+rest of the turn. which they make their fyrenests.
+Effect: If you make an unmodified save
+roll of 1 for a combat attack that targets
+this unit, inflict 1 mortal damage on the
+attacking unit after the Fight ability has
+been resolved.
+Hero, Monster, Priest (1), Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin, Magmadroth
+
+--- Page 10 ---
+September 2025
+MOVE
+4"
+H
+T S • FYRESLAYERS WARSCROLL •
+L 5 5+A
+A V AURIC RUNEFATHER
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Latchkey Grandaxe 4 3+ 3+ 2 3 -
+Once Per Battle (Army), End of Any Turn
+Deployment Phase COMMANDING PRESENCE: The
+ROYAL RETINUE: Auric Runefathers presence of a Runefather in the Fyreslayer
+go to battle flanked by the most skilled battleline bolsters the warriors’ already
+warriors in the lodge, who are sworn to considerable will, ensuring that the
+protect him from harm. doughty duardin will hold their ground
+and slog it out with any foe.
+Declare: Pick a friendly non-Hero
+Fyreslayers Infantry unit within Effect: Add the current battle round
+this unit’s combat range to be the number to the control scores of friendly
+royal retinue. Fyreslayers Infantry units wholly
+within 12" of this unit for the rest of
+Effect: For the rest of the battle, while the
+the turn.
+royal retinue is wholly within 6" of this
+unit, add 1 to hit rolls for attacks made
+by the royal retinue and this unit has
+Ward (4+).
+Warmaster, Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 11 ---
+September 2025
+MOVE
+4"
+T H S • FYRESLAYERS WARSCROLL •
+A L 5 5+A V AURIC RUNESON
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ancestral Weapons 5 3+ 3+ 1 2 AAnnttii--MMoonnsstteerr (+1 Rend)
+Reaction: You declared a Fight ability
+for this unit
+DAUNTLESS ASSAULT: Eager to prove
+themselves in battle, Auric Runesons are
+at their best leading from the front lines
+alongside their allies.
+Effect: Pick a friendly non-Hero
+Fyreslayers Infantry unit that has
+not used a Fight ability this turn and
+is within this unit’s combat range to be
+the target. The target can be picked to
+use a Fight ability immediately after
+the Fight ability used by this unit has
+been resolved.
+Passive
+FEARLESS CHARGE: Fearless and
+bold, Auric Runesons show their devotion
+to Grimnir with daring assaults and
+furious charges.
+Effect: If this unit charged this turn, for
+the rest of the turn, add 1 to charge rolls
+for friendly Fyreslayers Infantry
+units while they are wholly within 18" of
+this unit.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 12 ---
+September 2025
+MOVE
+4"
+H
+T S • FYRESLAYERS WARSCROLL •
+L 5 5+A
+A V AURIC RUNESMITER
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Latch-axe 4 3+ 3+ 1 2 -
+Deployment Phase Your Hero Phase
+MAGMIC TUNNELLING: A Runesmiter EMERGENCE: The ground opens up to
+standing upon stone can command the reveal the Runesmiter and their entourage.
+rock to allow them passage.
+Declare: Pick this unit if it
+Declare: Pick this unit and up to 1 is underground.
+unit in its regiment if neither unit has
+Effect: Set up this unit anywhere on the
+been deployed.
+battlefield more than 9" from all enemy
+Effect: Set up those units in reserve units. Then, set up the other unit that
+underground. They have now was set up underground with it (if any)
+been deployed. wholly within 6" of this unit and more
+Keywords Deploy than 9" from all enemy units.
+Hero, Priest (1), Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 13 ---
+September 2025
+MOVE
+4"
+T H S • FYRESLAYERS WARSCROLL •
+A L 5 5+A V AURIC RUNEMASTER
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Brazier Staff 3 3+ 3+ 1 2 -
+Passive Reaction: You declared an Ur-gold
+HIGH PRIEST OF THE ZHARRGRIM: Rune ability
+The Zharrgrim order of every Fyreslayer MASTER OF THE RUNES: Drawing
+lodge is led by an Auric Runemaster, a upon the divine power released by sacred
+revered individual attuned to their deity battle, Runemasters are able to awaken
+like no other. the full potential of their ur-gold runes.
+Effect: Each time a Prayer chanted by Effect: Remove 3 of this unit’s magmic
+this unit is answered, this unit gains a power tokens. If you do so, apply the
+magmic power token. effect below that corresponds to the
+Ur-gold Rune ability that was used:
+Rune of Fury: For the rest of the battle
+round, add 1 to wound rolls for combat
+attacks made by friendly Fyreslayers
+units while they have Strike-first.
+Rune of Fiery Determination: Add 1 to
+save rolls for friendly Fyreslayers units
+for the rest of the battle round.
+Rune of Relentless Zeal: Add 1 to run rolls
+and charge rolls for friendly Fyreslayers
+units for the rest of the battle round.
+Rune of Searing Heat: Add 1 to the Rend
+characteristic of melee weapons used by
+friendly Fyreslayers units for the rest
+of the battle round.
+Rune of Farsight: Increase the range of
+the ‘Rune of Farsight’ ability to 16".
+Hero, Priest (2), Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 14 ---
+September 2025
+MOVE
+4"
+H
+T S • FYRESLAYERS WARSCROLL •
+L 5 5+A
+A V BATTLESMITH
+E E
+H
+5
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Ancestral Battle-axe 5 3+ 3+ 1 2 -
+Passive Passive
+ICON OF GRIMNIR: The Battlesmith BARD OF THE LODGE: Standing
+raises their icon of Grimnir and recounts defiant in front of the enemy, a Battlesmith
+tales of past glories, inspiring their allies recites tales of the lodge’s glorious history,
+and setting their ur-gold runes ablaze so rallying the warriors around them.
+that they might fight until the bitter end.
+Effect: If a friendly unit wholly within 12"
+Effect: Ignore negative modifiers to the of this unit uses the ‘Rally’ command, you
+control scores of friendly Fyreslayers can make 3 additional rally rolls of D6.
+units while they are wholly within 12" of
+this unit.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 15 ---
+September 2025
+MOVE
+4" • FYRESLAYERS WARSCROLL •
+T H S GRIMWRATH
+L 5 5+A
+A V
+E E
+H BERZERKER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Fyrestorm Greataxe 5 3+ 3+ 2 2 -
+Deployment Phase Once Per Battle, Any Combat Phase
+GRIMWRATH OATHS: Before battle, BATTLE-FURY: Hewing left and
+each Grimwrath Berzerker swears a sacred right with their greataxe, a Grimwrath
+oath to Grimnir that they will fulfil a Berzerker enters a state of single-
+certain deed in his honour that day. minded frenzy.
+Effect: Pick 1 of the following oaths for Effect: If this unit is in combat, it can
+this unit to swear: use 2 Fight abilities this phase. After
+the first is used, however, this unit has
+‘I will guard them with my life!’: While
+Strike-last for the rest of the phase.
+this unit is wholly within 6" of another
+friendly Fyreslayers Hero:
+•Add 1 to hit rolls for this unit’s attacks.
+•Add 1 to ward rolls for this unit.
+If a friendly Fyreslayers Hero wholly
+within 6" of this unit is destroyed, this
+effect no longer applies.
+‘I will not be stopped!’: Add 1 to charge
+rolls for this unit, and add 1 to save rolls
+for this unit while it is in combat. If this
+unit uses the ‘Retreat’ or ‘Rally’ abilities,
+this effect no longer applies.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 16 ---
+September 2025
+MOVE
+4" • FYRESLAYERS WARSCROLL •
+T H S AURIC
+L 5 5+A
+A V
+E E
+H FLAMEKEEPER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRRnnddDmg AAbbiilliittyy
+Brazier Axe 5 3+ 33++ 1 2 -
+Once Per Turn (Army), Your Hero Phase
+MASTERFLAME RUNE: A
+Flamekeeper’s sacred symbol of office can
+harness the power within ur-gold runes
+of fallen warriors to bestow blessings of
+Grimnir upon their brethren.
+Declare: If any friendly units have
+been destroyed during the battle, pick
+a friendly Fyreslayers Infantry
+unit wholly within 12" of this unit to be
+the target.
+Effect: Roll a dice. If the roll is equal to
+or less than the number of Fyreslayers
+units that have been destroyed during the
+battle, pick 1 of the following effects to
+apply until the start of your next turn:
+Grimnir’s Grit: The target has
+Ward (5+).
+Grimnir’s Resolve: Add 2 to charge rolls
+for the target.
+Grimnir’s Vengeance: Add 1 to the
+Damage characteristic of the target’s
+melee weapons.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 17 ---
+September 2025
+MOVE
+4"
+T H S • FYRESLAYERS WARSCROLL •
+A L 5 5+A V DOOMSEEKER
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Doomseeker Weapons 5 3+ 3+ 1 2 -
+Deployment Phase Passive
+OATHBOUND: A Doomseeker chooses RUNIC POWER: As a Doomseeker
+their quarry and shouts a vow to Grimnir gets closer to their fate, they call upon
+that they will either destroy the enemy or the power of their many ur-gold runes,
+die trying. ensuring either their victory or that they go
+down in a final blaze of glory.
+Declare: Pick an enemy unit to be this
+unit’s quarry. You can pick a unit that has Effect: Add 1 to the Damage
+been deployed in reserve. characteristic of this unit’s melee weapons
+while this unit has 1 damage point.
+Effect: Add 1 to hit rolls and wound rolls
+Add 2 to the Damage characteristic of
+for attacks made by this unit that target
+this unit’s melee weapons instead while
+its quarry.
+this unit has 2 or more damage points.
+If this unit is destroyed while it is in
+combat with its quarry, inflict 3 mortal
+damage on this unit’s quarry immediately
+after the ability that destroyed this unit
+has been resolved.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 18 ---
+September 2025
+MOVE
+4"
+T H S • FYRESLAYERS WARSCROLL •
+A L 6 5+A V GRIMHOLD EXILE
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Fyre-rune Hammers 5 3+ 3+ 2 22 -
+Once Per Battle, Any Combat Phase
+LAST OF THE LODGE-FIRE: In
+desperate need, a Grimhold Exile can
+draw upon the embers of the Zharrkhul
+by striking their hammer-faces together,
+setting a powerful foe ablaze with the
+flames of Grimnir’s wrath.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a number of dice equal to the
+target’s Health characteristic. For each
+4+, inflict 1 mortal damage on the target.
+Keywords Core, Attack, Fight
+Once Per Battle, Your Hero Phase
+HONOUR TO GRIMNIR!: Grimhold
+Exiles exhort their fellow duardin to fight
+with the vigour of their fallen god.
+Declare: Pick up to 3 friendly
+Fyreslayers Infantry units wholly
+within 12" of this unit to be the targets.
+Effect: You can re-roll charge rolls for the
+targets for the rest of the turn.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 19 ---
+September 2025
+MOVE
+• FYRESLAYERS WARSCROLL •
+4"
+H VULKITE
+T S
+L 2 5+A
+A E E V BERZERKERS
+H
+1
+CONTROL WITH BLADED SLINGSHIELDS
+MELEE WEAPONS Atk Hit WndRndDDmmgg AAbbiilliittyy
+Fyresteel Weapons 2 4+ 3+ 11 1 -
+Passive
+BERSERK FURY: No Fyreslayer will
+easily accept death’s embrace while their
+kin are still fighting.
+Effect: Each time a model in this unit is
+slain by a combat attack and that model
+was in combat with the attacking unit,
+roll a dice. On a 5+, inflict 1 mortal
+damage on the attacking unit after the
+Fight ability has been resolved.
+Infantry, Champion, Musician (1/10), Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 20 ---
+September 2025
+MOVE
+• FYRESLAYERS WARSCROLL •
+4"
+H VULKITE
+T S
+L 2 6+A
+A E E V BERZERKERS
+H
+1
+CONTROL WITH FYRESTEEL WEAPONS
+MELEE WEAPONS Atk Hit WndRndDDmmgg AAbbiilliittyy
+Fyresteel Weapons 2 4+ 3+ 11 1 -
+Passive
+WHIRLWIND OF DESTRUCTION:
+With the light of Grimnir burning in
+their eyes, these impetuous warriors hurl
+themselves into the fray, leaving a trail of
+death in their wake.
+Effect: Add 1 to the Attacks characteristic
+of this unit’s melee weapons if this unit
+charged this turn.
+Infantry, Champion, Musician (1/10), Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 21 ---
+September 2025
+MOVE
+4" • FYRESLAYERS WARSCROLL •
+T H S AURIC
+L 2 6+A
+A V
+E E
+H HEARTHGUARD
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Magmapike 12" 2 4+ 3+ 1 D3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Magmapike 1 3+ 3+ 1 11 -
+Passive
+MOLTEN ROCKBOLTS: Enemies struck
+by magmapike bolts find their movements
+become increasingly sluggish as the
+burning rock cools and rapidly solidifies on
+their armour and flesh.
+Effect: Each time a shooting attack
+made by this unit scores a critical hit,
+subtract 1" from the target unit’s Move
+characteristic until the start of your next
+turn. This ability cannot reduce the target
+unit’s unmodified Move characteristic
+below half.
+Infantry, Champion, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 22 ---
+September 2025
+MOVE
+4" • FYRESLAYERS WARSCROLL •
+T H S VULKYN
+L 2 5+A
+A V
+E E
+H FLAMESEEKERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Vulkyn Weapons 3 3+ 3+ 1 1 Anti-Monster (+1 Rend)
+Emberteeth 1 3+ 3+ - 2 Crit (Mortal), Companion
+Each model in this unit is armed with
+Any Combat Phase
+Vulkyn Weapons.
+DROTHMASTERS: Vulkyn Flameseekers
+•1/9 models is a Kyndledroth and must are skilled at dominating monstrous
+replace their weapons with Emberteeth. wild beasts.
+•The champion is a Vulkyn Runefather and
+cannot replace their weapons. Declare: Pick an enemy Monster in
+combat with this unit to be the target.
+Effect: Roll a dice. On a 3+, subtract D3
+from the Damage characteristic of the
+target’s Companion melee weapons for
+the rest of the turn.
+Infantry, Champion (1/9), Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 23 ---
+September 2025
+MOVE
+• FYRESLAYERS WARSCROLL •
+4"
+H HEARTHGUARD
+T S
+L 2 6+A
+A E E V BERZERKERS
+H
+1
+CONTROL WITH FLAMESTRIKE POLEAXES
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Flamestrike Poleaxe 2 3+ 3+ 1 2 Crit (Mortal)
+Passive End of Any Turn
+DUTY UNTO DEATH: Hearthguard SMOULDERING BRAZIERS: With each
+Berzerkers are sworn to protect their lodge swing of a flamestrike poleaxe, the brazier
+and its masters until their dying breath. chained to it arcs towards the foe, sparks
+and fire trailing in its wake.
+Effect: While any friendly Fyreslayers
+Infantry Heroes are wholly within Declare: Pick an enemy unit in combat
+this unit’s combat range, both this unit with this unit to be the target.
+and those friendly units have Ward (5+).
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Infantry, Champion, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 24 ---
+September 2025
+MOVE
+• FYRESLAYERS WARSCROLL •
+4"
+H HEARTHGUARD
+T S
+L 2 6+A
+A E E V BERZERKERS
+H
+1
+CONTROL WITH BERZERKER BROADAXES
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Berzerker Broadaxe 2 3+ 3+ 1 2 -
+Passive Passive
+DUTY UNTO DEATH: Hearthguard FIRES OF VENGEANCE: Should
+Berzerkers are sworn to protect their lodge one of the elders of the lodge be
+and its masters until their dying breath. harmed while under the protection of
+Hearthguard Berzerkers, they are sent
+Effect: While any friendly Fyreslayers
+into such a vengeful rage that they become
+Infantry Heroes are wholly within
+nigh unstoppable.
+this unit’s combat range, both this unit
+and those friendly units have Ward (5+). Effect: While this unit is within the
+combat ranges of any damaged friendly
+Fyreslayers Heroes, add 1 to the
+Attacks characteristic of this unit’s
+melee weapons.
+Infantry, Champion, Ward (6+)
+KEYWORDS
+Order, Fyreslayers, Duardin
+
+--- Page 25 ---
+September 2025
+MOVE
+8" • FYRESLAYERS WARSCROLL •
+T H S MOLTEN
+L10 5+A
+A V
+E E
+H INFERNOTH
+7+
+BANISHMENT
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Raging Torrents of Lava 8" 2 4+ 3+ 2 D3 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Molten Claws 6 4+ 2+ 1 D3 Crit (Mortal)
+End of Any Turn
+FLAMESCARRED: Those wounded by
+a Molten Infernoth are left scorched and
+writhing in pain.
+Declare: Pick an enemy unit that had any
+damage points allocated to it this turn
+by this Manifestation’s attacks to be
+the target.
+Effect: Subtract 1 from wound rolls for
+the target’s combat attacks until the end
+of your next turn.
+Manifestation, Invocation, Fly, Ward (6+)
+KEYWORDS
+Order, Fyreslayers
+
+--- Page 26 ---
+September 2025
+MOVE
+-
+T H S • FYRESLAYERS WARSCROLL •
+A L 8 3+A V RUNIC FYREWALL
+E E
+H
+7+
+BANISHMENT
+Enemy Movement Phase
+ROARING RUNE-FIRE: The leaping
+flames of a Runic Fyrewall act as a barrier
+that only creatures born of fire can pass.
+Declare: Pick up to 3 enemy units
+within 6" of this Manifestation to be
+the targets.
+Effect: Roll a D3 for each target. On a 2+:
+• Inflict an amount of mortal damage on
+the target equal to the roll.
+• Subtract 3 from the target’s control
+score for the rest of the turn.
+Manifestation, Invocation, Ward (6+)
+KEYWORDS
+Order, Fyreslayers
+
+--- Page 27 ---
+September 2025
+MOVE
+- • FYRESLAYERS WARSCROLL •
+T H S ZHARRGRON
+L 5 6+A
+A V
+E E
+H FLAME-SPITTER
+7+
+BANISHMENT
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Magma Blast 18" 8 4+ 3+ 1 1 Crit (2 Hits)
+Passive
+MAGMA BLAST: At the beck of a
+Zharrgrim Priest, the Zharrgron Flame-
+spitter hurls forth a fiery orb that arcs
+across the sky before detonating in an
+explosion of flame amidst the enemy lines.
+Effect: Add 1 to hit rolls for this
+Manifestation’s shooting attacks if the
+target unit has 10 or more models. Add 1
+to hit rolls and wound rolls instead if the
+target unit has 15 or more models.
+Manifestation, Invocation, Ward (6+)
+KEYWORDS
+Order, Fyreslayers
+
+--- Page 28 ---
+September 2025
+MOVE
+- • FYRESLAYERS WARSCROLL •
+T H S MAGMIC
+L 8 3+A
+A V
+E E
+H BATTLEFORGE
+-
+CONTROL
+The following universal terrain abilities
+Start of Any Turn
+apply to this terrain feature (Terrain, 1.2):
+MOLTEN BLESSING: Drawing upon
+Cover, Impassable, Obscuring the powerful elemental energies of the
+Magmic Battleforge, a Zharrgrim priest
+Once Per Battle (Army), Your Hero Phase casts clouds of cinders into the air,
+SPENDING THE FORGE: In times of imbuing those of their sacred order with
+need, a Zharrgrim priest may expend all burning power.
+of the Magmic Battleforge’s power, igniting
+Declare: Pick a friendly Fyreslayers
+the ur-gold runes of their Fyreslayer kin
+Priest within this terrain feature’s
+and infusing the warriors with strength.
+combat range to be the target.
+Declare: Pick a friendly Fyreslayers
+Effect: Add 1 to chanting rolls for the
+Priest within this terrain feature’s
+target for the rest of the turn. In addition,
+combat range to expend the power of
+the target can use the ‘Unbind’ ability this
+the forge.
+turn as if it had Wizard (1).
+Effect:Heal (D3)each friendly
+Fyreslayers unit on the battlefield.
+Once this ability has been used, this
+terrain feature cannot use the ‘Molten
+Blessing’ abiity for the rest of the battle.
+Faction Terrain, Ward (6+)
+KEYWORDS
+Order, Fyreslayers
+
+--- Page 29 ---
+FYRESLAYERS
+SAGA AXEBAND
+All Fyreslayers long for their name to echo forever in the heroic legends of
+This Spearhead army consists their lodge, remembered as a byword for martial skill and boldness. Saga
+of the following units: Axebands are wandering groups of Berzerkers in search of such glory. They
+are guided on their journey by a Battlesmith who bears witness to their
+GENERAL deeds and who will one day honour the worthiest in the Hall of Fyre, thus
+Battlesmith preserving their tale for all time.
+UNITS There is little subtlety to an Axeband’s war-making. These doughty duardin
+5 Hearthguard Berzerkers scorn danger and lack the patience to let battle come to them. Vulkite
+5 Vulkite Berzerkers Berzerkers have a tendency to charge head-first at whatever threat presents
+5 Vulkite Berzerkers itself, relying upon their natural hardiness and the god-given power stamped
+5 Vulkite Berzerkers into their flesh to keep them alive while they carve their foes into smoking
+5 Vulkite Berzerkers chunks of meat. As the fighting rages, the Axeband’s Battlesmith bellows
+tales of long-dead heroes that died in a manner befitting true offspring of
+Grimnir. In so doing, they incite their companions to ever more magnificent
+deeds, setting their runes ablaze with fervour. A band of Hearthguard
+Berzerkers forms an honour guard around the Battlesmith, their two-handed
+weapons lopping off the heads of any foe not cut down by their ward.
+‘Well then, Sons of Grimnir – do you want to live forever?’
+– Battlesmith Aurgi Cinder-eye of the Vostarg
+Graphic designer Jim took a swig of magmalt ale and swore an oath to Grimnir before painting his Fyreslayers of the
+Vostarg lodge, achieving great results in no time at all with a selection of warm-hued Contrast paints.
+
+--- Page 30 ---
+BATTLE TRAITS
+Once Per Battle Round,
+Start of Your Turn UR-GOLD RUNES
+AWAKEN THE RUNES: RUNE OF FURY
+In battle, a Fyreslayer’s ur-gold Standard: Add 1 to hit rolls for combat attacks made by friendly units.
+runes are awakened, filling Enhanced:In addition, add 1 to the Attacks characteristic of your units’
+them with the blazing power melee weapons.
+of Grimnir.
+RUNE OF SEARING HEAT
+Standard:Add 1 to the Rend characteristic of your units’ melee weapons.
+Declare: Pick 1 of the ur-gold
+Enhanced: In addition, add 1 to the Damage characteristic of your units’
+runes on the right, then make an
+melee weapons.
+activation roll of D6. Each ur-
+gold rune can only be activated RUNE OF FIERY DETERMINATION
+once per battle. Standard:Your units have Ward (5+).
+Enhanced:In addition, add 1 to save rolls for friendly units.
+Effect: On a 1-5, the rune’s
+standard effect applies. On a RUNE OF RELENTLESS ZEAL
+6, the rune’s enhanced effect Standard:Add 2" to the Move characteristic of your units.
+applies as well. The effects last Enhanced:In addition, add 2 to charge rolls for your units.
+until the start of your next turn.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Start of the First Battle Round Once Per Turn (Army), Your Shooting Phase
+MAGMIC TUNNELS: Tunnels carved by runic FYRESTEEL THROWING AXES: These
+magic enable a band of Fyreslayers to attack from an sidearms are deadly when hurled at close range.
+unseen quarter.
+Declare: Pick any number of friendly units that are
+Effect: Pick up to 2 friendly units. Remove them not in combat and are within 10" of any enemy units.
+from the battlefield and set them up again anywhere
+on the battlefield more than 6" from all enemy units. Effect: For each of those units, pick a visible enemy
+unit within 10" of it and roll a dice. On a 4+, inflict
+D3 mortal damage on that enemy unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Start of Any Turn Passive
+TOO STUBBORN TO DIE: Long in the beard, SPIRIT OF GRIMNIR: The very presence of your
+your general shrugs off wounds that would fell a general sets ur-gold ablaze.
+lesser duardin.
+Effect: You can re-roll activation rolls you make for
+Effect:Heal (D3) your general. the ‘Ur-gold Runes’ ability (see Battle Traits).
+Your Hero Phase Passive
+HORN OF GRIMNIR: Inlaid with powerful runes POWERFUL PRESENCE: With a roaring voice
+of ur-gold, a blast from this horn inspires those bloody and mighty displays of strength, your general is an
+and bruised to continue the fight. imposing figure upon the battlefield.
+Declare: Pick your general to use this ability if they Effect: Add 3 to your general’s control score.
+are not in combat.
+Effect: Roll a dice for each friendly unit on the
+battlefield that has any slain models. On a 3+, you
+can return 1 slain model to that unit.
+
+--- Page 31 ---
+BATTLE TRAITS
+BATTLE TRAITS
+Once Per Battle Round,
+Sta rOt nocf eY Poeurr BTautrtnle Round, UR-GOLD RUNES
+Start of Your Turn UR-GOLD RUNES
+AWAKEN THE RUNES: RUNE OF FURY
+AInW baAttKle,E aN F yTrHeslEay RerU’s NurE-gSo:ld StanRdUarNdE: A OddF 1F tUo RhiYt rolls for combat attacks made by friendly units.
+Irnu nbeast talree, aa wFayrkeesnlaedye, rfi’sl luinrg-g old SEtnahnadnacredd:: AInd da d1d tiot ihonit, raodllds 1fo tro c tohme bAattt aactktasc ckhsa mraacdtee rbisyt ifcr ioefn ydolyu ru nuintist.s’
+rthuenmes wairteh a twhae kbelanzeidn,g fi plloinwge r Emnehleaen wceeadp:oInn sa.ddition, add 1 to the Attacks characteristic of your units’
+tohf eGmr iwminthir .the blazing power melee weapons.
+of Grimnir. RUNE OF SEARING HEAT
+StanRdUarNdE:A OddF 1S tEoA thRe IRNenGd HchEarAacTteristic of your units’ melee weapons.
+D r D r au u c e e tn nc c ie e v l l a a s s a r r to oe e in n o : : n P P t t h h i i r c c e e o k k lr r l 1 1 i i g g o o o h h f f f t t D , ,t t h h t t 6h he e . e e E u u n n a r r cm m- - g g ha ao o uk kl l d d re e - a a n n S E m E m t n n e e a h h l l n e ea a e e d n n a w wc cr e ee ed a ad d: p p: :A o oI I n n n n d s s d a a . . d d1 d d t i io t t i i t o oh n ne , , R a a d de d dn d 1 1 c t t o oh a t tr h ha e ec D Dte a ari m mst a aic g g e eo f c c h hyo a a r ru a ar c c u t t e en r ri i it s ss t t’ i i c cm o oe f fl e y ye o o w u u r re a u up n no i i t tn s ss ’ ’ .
+agoctldiv rautinoen c raonl lo onfl yD b6e. Eacatcihv autre-d RUNE OF FIERY DETERMINATION
+goonlcde rpuenr eb caattnle o.nly be activated StanRdUarNdE:Y OouFr FunIEitsR hYa vDe EWTaErRd M(5+IN).ATION
+once per battle. SEtnahnadnacredd::YIonu ard udnitiitosn h, aavded W 1 ator dsa v(5e+ r)o.lls for friendly units.
+Effect: On a 1-5, the rune’s Enhanced:In addition, add 1 to save rolls for friendly units.
+Estffaencdta: rOdn e ffa e1c-5t ,a tphpel ireusn. Oe’sn a RUNE OF RELENTLESS ZEAL
+s6t, atnhde arrudn ee’ffs eecnth aapnpcleieds .e Offenc at StanRdUarNdE:A OddF 2R" tEoL tEheN MToLvEe ScSha ZraEcAterListic of your units.
+6ap, tphliee sr uans ew’se elln. hThane ceeffde cetffs elcatst SEtnahnadnacredd::AInd da d2d" ittoio tnh,e a Mddo v2e t och cahraarcgtee rriosltlisc foofr y yoouurr u unniittss..
+aupnptilli etsh ae ss twaerltl .o Thf yeo uerff encetxst l taustr n. Enhanced:In addition, add 2 to charge rolls for your units.
+until the start of your next turn.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Start of the First Battle Round Once Per Turn (Army), Your Shooting Phase
+Once Per Battle, Start of the First Battle Round Once Per Turn (Army), Your Shooting Phase
+MAGMIC TUNNELS: Tunnels carved by runic FYRESTEEL THROWING AXES: These
+MmaAgGic MenIaCbl eT aU bNaNndE oLf SF:y Truesnlanyeelsr sc ator vaetdta bcyk rfuronmic an FsiYdeRarEmSsT aErEe Ld eTaHdlyR wOhWenI hNuGrle Ad XatE cSlo:s The reasneg e.
+munasgeiecn e qnuaabrlet ear .band of Fyreslayers to attack from an sidearms are deadly when hurled at close range.
+unseen quarter. Declare: Pick any number of friendly units that are
+Effect: Pick up to 2 friendly units. Remove them Dnoetc ilna rceo: mPibcakt aannyd naurem wbietrh oinf f1r0ie" nodf layn uyn eintse mthya tu anriet s.
+Efrffomec tt:h Pei bcka tutlpe fitoe l2d farniedn sdelty t uhnemits u. Rp eamgaoivne atnhyemwh ere not in combat and are within 10" of any enemy units.
+forno mth et hbea tbtalettfileelfide lmd oarned t hseatn t h6"e mfro ump aaglla einn eamnyy wuhneitrse. Effect: For each of those units, pick a visible enemy
+on the battlefield more than 6" from all enemy units. Eunffietc wt:i tFhoirn e 1a0c"h o of fi tt haonsde ruonlli tas ,d picicek. Oa nv ias i4b+le, einnflemicty
+uDn3i tm woirtthailn d 1a0m" aogf ei to ann tdh raot lel nae dmicye u. Onint. a 4+, inflict
+D3 mortal damage on that enemy unit.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Start of Any Turn Passive
+Start of Any Turn Passive
+TOO STUBBORN TO DIE: Long in the beard, SPIRIT OF GRIMNIR: The very presence of your
+TyoOurO g eSnTeUraBl sBhOruRgsN o ffT wOo uDnIdEs: tLhoant gw ionu tlhde f eblel aar d, SgePnIeRraIlT s eOtsF u rG-gRolIdM aNblIaRze:. The very presence of your
+yleosuserr g denuearradli nsh.rugs off wounds that would fell a general sets ur-gold ablaze.
+lesser duardin. Effect: You can re-roll activation rolls you make for
+Effect:Heal (D3) your general. Ethffee ‘cUtr: -Ygoould c Ranu nree-sr’ oalbl ialicttyi v(saeteio Bna rttollel sT yraoiut sm).ake for
+Effect:Heal (D3) your general. the ‘Ur-gold Runes’ ability (see Battle Traits).
+Your Hero Phase Passive
+Your Hero Phase Passive
+HORN OF GRIMNIR: Inlaid with powerful runes POWERFUL PRESENCE: With a roaring voice
+Hof OurR-gNol dO, Fa bGlaRstI MfroNmI Rth:i sI nhloarind iwnistphi rpeosw therofsue lb rluonodesy PanOdW miEgRhtFy UdiLsp PlaRyEs oSfE sNtreCnEgt: hW, yitohu ar greonaerrinalg ivso aince
+oafn udr b-groulidse, da tbol acsotn ftrionmue t thhies hfiogrhnt. inspires those bloody aimndp omsiinggh tfiyg duirsep ulapyosn o tfh set rbeantgttlhefi, eylodu.r general is an
+and bruised to continue the fight. imposing figure upon the battlefield.
+Declare: Pick your general to use this ability if they Effect: Add 3 to your general’s control score.
+Dareec nlaorte i:n P ciockm yboaut.r general to use this ability if they Effect: Add 3 to your general’s control score.
+are not in combat.
+Effect: Roll a dice for each friendly unit on the
+Ebafftetlcetfi: eRldo ltl haa dt ihcaes f oanr ye asclahi nfr mienoddleyl su. nOitn o an 3 t+h,e y ou
+bcaantt lreefituelrdn t 1h astla hinas m anoyd esll atoin t hmaot duenlsit. .On a 3+, you
+can return 1 slain model to that unit.
+
+--- Page 32 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+4"
+BATTLESMITH
+5 5+
+5 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Ancestral Battle-axe 5 3+ 3+ 1 2 -
+Battlesmiths are war-skalds and Passive Once Per Battle, Any Hero Phase
+icon bearers who memorialise ICON OF GRIMNIR: The PLANT THE ICON: The
+the glorious history of the
+Fyreslayers through the force Battlesmith raises his icon of Battlesmith slams the pommel of his
+of their oratory. As skilled in Grimnir, inspiring his allies so that icon into the earth, setting the ur-
+combat as any of their kin, they they fight until the bitter end. gold runes of nearby allies ablaze.
+keep their sacred icons aloft in
+the midst of war, rallying their Effect: Add 1 to save rolls for Effect: For the rest of the turn,
+brethren with the image of friendly units while they are wholly friendly units have Ward (5+)
+their grim-faced god. As they within 12" of this unit. while they are wholly within 12" of
+fight, the Battlesmiths recite the this unit.
+histories of the lodge, inspiring
+nearby Fyreslayers to ever
+greater deeds.
+KEYWORDS Hero, Infantry, Ward (6+)
+• SPEARHEAD WARSCROLL •
+4"
+HEARTHGUARD BERZERKERS
+2 6+
+1
+Hearthguard Berzerkers are Passive
+the chosen champions of the
+DUTY UNTO DEATH:
+lodge, assigned the sacred task
+of protecting its dynastic rulers Hearthguard Berzerkers are sworn
+and most prestigious figures to protect their lodge and its masters
+with a near-supernatural until their dying breath.
+determination. Masterful
+warriors skilled in the use of the Effect: While your general is
+more exotic armaments within wholly within this unit’s combat
+their lodge’s armoury, they range, both this unit and your
+wreak devastation among the general have Ward (5+).
+enemy’s ranks, their flamestrike
+poleaxes cleaving, bludgeoning
+and burning foes all at once.
+KEYWORDS Infantry, Ward (6+)
+
+--- Page 33 ---
+SAVE
+SAVE
+MOVE
+CONTROL
+MOVE
+CONTROL
+HTLAEH
+HTLAEH
+• SPEARHEAD WARSCROLL •
+4"
+BATTLESMITH
+5 5+
+5
+Battlesmiths are war-skalds and Passive Once Per Battle, Any Hero Phase
+icon bearers who memorialise ICON OF GRIMNIR: The PLANT THE ICON: The
+the glorious history of the
+Fyreslayers through the force Battlesmith raises his icon of Battlesmith slams the pommel of his
+of their oratory. As skilled in Grimnir, inspiring his allies so that icon into the earth, setting the ur-
+combat as any of their kin, they they fight until the bitter end. gold runes of nearby allies ablaze.
+keep their sacred icons aloft in
+the midst of war, rallying their Effect: Add 1 to save rolls for Effect: For the rest of the turn,
+brethren with the image of friendly units while they are wholly friendly units have Ward (5+)
+their grim-faced god. As they within 12" of this unit. while they are wholly within 12" of
+fight, the Battlesmiths recite the this unit.
+histories of the lodge, inspiring
+nearby Fyreslayers to ever
+greater deeds.
+KEYWORDS Hero, Infantry, Ward (6+)
+• SPEARHEAD WARSCROLL •
+4"
+HEARTHGUARD BERZERKERS
+2 6+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Flamestrike Poleaxe 2 3+ 3+ 1 2 Crit (Mortal)
+Hearthguard Berzerkers are Passive
+the chosen champions of the
+DUTY UNTO DEATH:
+lodge, assigned the sacred task
+of protecting its dynastic rulers Hearthguard Berzerkers are sworn
+and most prestigious figures to protect their lodge and its masters
+with a near-supernatural until their dying breath.
+determination. Masterful
+warriors skilled in the use of the Effect: While your general is
+more exotic armaments within wholly within this unit’s combat
+their lodge’s armoury, they range, both this unit and your
+wreak devastation among the general have Ward (5+).
+enemy’s ranks, their flamestrike
+poleaxes cleaving, bludgeoning
+and burning foes all at once.
+KEYWORDS Infantry, Ward (6+)
+
+--- Page 34 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+4"
+VULKITE BERZERKERS
+2 6+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Anti-charge
+Fyresteel Handaxes 2 4+ 3+ 1 1
+(+1 Rend)
+Skilled and fearless, Vulkite
+Berzerkers wielding twin Passive
+fyresteel axes make up the core
+WHIRLWIND OF
+of Fyreslayer fyrds. Determined
+to prove their valour to the DESTRUCTION: With the light
+lodge, they will risk their lives of Grimnir burning in their eyes,
+in pursuit of glory without a these impetuous warriors hurl
+second thought. As their ur-gold themselves into the fray.
+runes blaze, they become ever
+more ferocious, the power and Effect: Add 1 to the Attacks
+fiery rage of Grimnir coursing characteristic of this unit’s melee
+through their bodies. weapons if it charged in the
+same turn.
+KEYWORDS Infantry, Ward (6+)

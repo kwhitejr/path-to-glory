@@ -1,0 +1,109 @@
+--- Page 1 ---
+®
+BATTLE PROFILES
+JULY 2025
+KHARADRON OVERLORDS
+NEW UPDATED
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+This Hero can join an eligible
+A ether-Khemist 1 120 0-1 Skyvessel, Any Infantry 32mm
+regiment as a Guild Officer.
+This Hero can join an eligible
+Aetheric Navigator 1 130 0-1 Skyvessel, Any Infantry 32mm
+regiment as a Guild Officer.
+✹ A rkanaut Admiral 1 140 (+10) 0-1 Guild Officer, 32mm
+Any Kharadron Overlords
+Brokk Grungsson, Lord-Magnate 0-1 Guild Officer,
+1 260 50mm
+of Barak-Nar Any Kharadron Overlords
+This Hero can join an eligible
+Codewright 1 80 0-1 Skyvessel, Any Infantry 32mm
+regiment as a Guild Officer.
+✹ Drekki Flynt 1 130 (-10) 0-1 Guild Officer, 0-1 Arkanaut Frigate, 32mm
+Any Infantry
+✹ Endrinmaster with This Hero can join an eligible
+1 160 (+10) 0-1 Skyvessel, Any Infantry 40mm
+Dirigible Suit regiment as a Guild Officer.
+✹ Endrinmaster with This Hero can join an eligible
+1 120 (+10) 0-1 Skyvessel, Any Infantry 32mm
+Endrinharness regiment as a Guild Officer.
+NEW 0-1 Guild Officer, 0-1 Skyvessel, This Hero can join an eligible
+✹ Null-Khemist 1 130 Any Infantry regiment as a Guild Officer. 40mm
+HEROES UNIT SIZE POINTS REGIMENT OPTIONS NOTES BASE SIZE
+This Hero can join an eligible
+regiment as a Guild Officer.
+Scourge of Ghyran This unit is legal for Matched
+1 110 0-1 Skyvessel, Any Infantry 32mm
+Codewright Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+A rkanaut Company 10 90 Duardin, Infantry 25mm
+Arkanaut Frigate 1 300 Duardin, Skyvessel, War Machine 120 × 92mm
+Arkanaut Ironclad 1 460 Duardin, Skyvessel, War Machine 170 × 105mm
+E ndrinriggers 3 110 Duardin, Infantry 32mm
+Grundstok Gunhauler 1 140 Duardin, Skyvessel, War Machine 105 × 70mm
+G rundstok Thunderers 5 130 Duardin, Infantry 32mm
+S kywardens 3 120 Duardin, Infantry 32mm
+NEW
+✹ Vongrim Harpoon Crew 5 90 Duardin, Infantry 32mm
+NEW
+✹ Vongrim Salvagers 5 100 Duardin, Infantry 32mm
+UNITS UNIT SIZE POINTS RELEVANT KEYWORDS NOTES BASE SIZE
+This unit is legal for Matched
+Play for battles fought using the
+Scourge of Ghyran General’s Handbook 2025-26
+1 140 Duardin, Skyvessel, War Machine 105 × 70mm
+Grundstok Gunhauler battlepack. This unit can be
+reinforced even though it has a
+minimum unit size of 1.
+
+--- Page 2 ---
+®
+BATTLE PROFILES
+JULY 2025
+KHARADRON OVERLORDS
+NEW UPDATED
+TYPE NAME POINTS NOTES
+✹ Battle Formation Pioneers and Scavengers 0 Battletome: Kharadron Overlords
+✹ Battle Formation Rapid Redeployment Squadron 0 Battletome: Kharadron Overlords
+✹ Battle Formation Veteran Ground Troops 0 Battletome: Kharadron Overlords
+✹ Battle Formation Endrineers Guild 0 Battletome: Kharadron Overlords
+Expeditionary Force
+✹ Heroic Trait Shrewd Opportunist 0 Battletome: Kharadron Overlords
+✹ Heroic Trait Bold as Brass 0 Battletome: Kharadron Overlords
+✹ Heroic Trait Combat Grafter 0 Battletome: Kharadron Overlords
+✹ Artefact of Power Blazebeard and Sons 0 Battletome: Kharadron Overlords
+Bamboozling Flakgun
+Artefact of Power Celestium Burst-grenade 0 Battletome: Kharadron Overlords
+Artefact of Power Voidstone Orb 0 Battletome: Kharadron Overlords
+Artefact of Power Spell in a Bottle 0 Scourge of Ghyran
+Karst-Bana Aether-powered
+Artefact of Power 0 Scourge of Ghyran
+Combat Rig
+Artefact of Power Emberstone Flare 0 Scourge of Ghyran
+Skyvessel Upgrade Voidstone Repulser Vents 0 Scourge of Ghyran
+Skyvessel Upgrade Blazebeard and Sons Ejector Pod 0 Scourge of Ghyran
+Zonbarcorp ‘Dealbreaker’
+Skyvessel Upgrade 0 Scourge of Ghyran
+Battle Ram
+✹ Great Endrinworks Hegsson Solutions ‘Old Reliable’ 0 Battletome: Kharadron Overlords
+Hullplates
+✹ Great Endrinworks Gruksson Wide-Bore Cylinders 0 Battletome: Kharadron Overlords
+✹ Great Endrinworks Coalbeard’s Collapsible Bombrack 0 Battletome: Kharadron Overlords
+✹ Great Endrinworks Tracer-Fire Rounds 0 Battletome: Kharadron Overlords
+✹ Great Endrinworks Grandiose Fuselage 0 Battletome: Kharadron Overlords
+✹ Great Endrinworks Nullstone Galvanisation 0 Battletome: Kharadron Overlords
+NEW
+✹ Faction Terrain Zontari Endrin Dock 0 Battletome: Kharadron Overlords
+ORDER
+UNIT SUMMARY POINTS NOTES
+REGIMENTS
+• Drekki Flynt This Regiment of Renown can be included in the following factions:
+✹ Drekki’s Privateers • 1 Arkanaut Frigate (the Aelsling) 500 Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Lumineth
+• 10 Arkanaut Company Realm-lords, Ogor Mawtribes, Seraphon, Stormcast Eternals, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+• 1 Codewright
+✹ Sky-port Profiteers • 5 Grundstok Thunderers 290 Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Lumineth
+• 5 Grundstok Thunderers Realm-lords, Ogor Mawtribes, Ossiarch Bonereapers, Seraphon, Soulblight
+Gravelords, Stormcast Eternals, Sylvaneth.

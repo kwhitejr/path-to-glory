@@ -1,0 +1,1537 @@
+--- Page 1 ---
+FACTION PACK
+DAUGHTERS
+OF KHAINE
+
+--- Page 2 ---
+BATTLE TRAITS
+Daughters of Khaine armies can use the following abilities:
+Once Per Battle, Any Combat Phase 1 Passive
+ALL-OUT SLAUGHTER: The leaders BLOOD RITES: Before battle, the
+of the Daughters of Khaine can exhort Daughters take part in holy rites of
+their warriors to commit acts of bloodletting. With each sacrifice, the
+terrible slaughter. faithful are imbued with a fraction of their
+god’s furious power.
+Declare: Pick a friendly Daughters of
+Khaine Infantry unit that is in combat Effect: A different effect applies to
+to use this ability. friendly Daughters of Khaine units
+each battle round, as shown below. The
+Effect: That unit can use 2 Fight abilities
+effects of all previous battle rounds also
+this phase. After the first is used, this unit
+apply to those units.
+has Strike-last for the rest of the turn.
+Battle Round 1:
+Quickening Bloodlust: Add 1 to run rolls
+for this unit.
+Battle Round 2:
+Headlong Fury: Add 1 to charge rolls for
+this unit.
+Battle Round 3:
+Zealot’s Rage: Add 1 to hit rolls for this
+unit’s combat attacks.
+Battle Round 4:
+Slaughterer’s Wound: Add 1 to wound
+rolls for this unit’s combat attacks.
+Battle Round 5:
+Frenzied Worshippers: Add 1 to the
+Attacks characteristic of this unit’s
+melee weapons.
+June 2025
+
+--- Page 3 ---
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Daughters of Khaine army. Each
+battle formation grants a different ability you can use in the battle.
+SCÁTHCOVEN SHADOW PATROL
+Passive Once Per Turn (Army),
+SPEED OF THE SCÁTHBORN: The Your Movement Phase
+Melusai and Khinerai that make up the SHADOWPATHS: Well versed in the
+Vyperic Guard strike at the heart of their secrets of the shadowpaths, these warriors
+enemies with lethal speed and accuracy. strike where least expected.
+Effect: If the unmodified charge roll for Declare: Pick a friendly Daughters of
+a friendly Melusai or Khinerai unit Khaine Infantry unit that is not in
+is 8+, that unit has Strike-first for the combat to use this ability.
+rest of the turn.
+Effect: Roll a dice. On a 3+, remove that
+unit from the battlefield and set it up
+again on the battlefield more than 9" from
+all enemy units.
+CAULDRON GUARD SLAUGHTER TROUPE
+Once Per Turn (Army), End of Any Turn Once Per Turn (Army), Reaction: You
+FRENZIED DEVOTEES: The Cauldron declared a Charge ability for a friendly
+Daughters of Khaine Aelf unit
+Guard seek to carve a path for their
+worshipped engines through enemy GLADIATORIAL ACROBATICS: The
+defences at the earliest opportunity. aelves of a Slaughter Troupe perform
+breathtaking displays of acrobatics as they
+Declare: Pick up to 3 friendly close the distance to the foe.
+Daughters of Khaine Infantry or
+War Machine units that are in combat Effect: Change one of the dice in the
+to be the targets. charge roll to a 4.
+Effect: For each target:
+• M ake a pile-in move.
+• Th en, pick an enemy unit in combat
+with the target and roll a D3. On a 2+,
+inflict an amount of mortal damage on
+that enemy unit equal to the roll.
+June 2025
+
+--- Page 4 ---
+HEROIC TRAITS
+PARAGONS OF MURDER (Hero only)
+End of Any Turn End of Any Turn
+MASTER OF POISONS: This hero has BATHED IN BLOOD: This hero bathes
+intimate knowledge of all poisons and in gore during battle, granting her
+coats her blades in an elixir that leaves the healing powers.
+most hardened warriors weak, debilitated
+Effect: Heal (3) this unit if it is in combat.
+and primed for the killing stroke.
+Declare: Pick an enemy unit that had any Passive
+damage points allocated to it this turn by
+ZEALOUS ORATOR: Your general is a
+this unit’s combat attacks to be the target.
+wild demagogue who inspires her followers
+Effect: For the rest of the battle: to fight on in the face of impossible odds.
+• The target cannot be healed. Effect: If a friendly unit wholly within 12"
+• Slain models cannot be returned to the of this unit uses the ‘Rally’ command, you
+target unit. can make 3 additional rally rolls of D6.
+ARTEFACTS OF POWER
+GIFTS OF MORATHI (Hero only)
+Once Per Battle, Your Hero Phase Once Per Battle, Your Movement Phase
+KHAINITE PENDANT: The wearer SEVENFOLD SHADOW: This hero
+can call for Khaine’s blessing as easily as possesses a living shadow that can, at a
+drawing breath. command, envelop them and transport
+them across the shadow realm.
+Declare: Pick a friendly Daughters of
+Khaine Priest wholly within 12" of Effect: If this unit is not in combat,
+this unit. remove it from the battlefield and set it up
+again on the battlefield more than 9" from
+Effect: Give that unit D6 ritual points. all enemy units.
+Keywords Core
+Passive
+CROWN OF WOE: Forged from the cult
+of Khaine’s first sacrificial altar, an aura
+of dread surrounds the wearer of this
+baleful crown.
+Effect: Subtract 2 from the control scores
+of enemy units while they are within 9"
+of this unit.
+June 2025
+
+--- Page 5 ---
+SPELL LORE
+LORE OF SHADOWS
+Your Hero Phase 5
+STEED OF SHADOWS: A coal-black creature with wings of night materialises
+from the darkness and swoops across the battlefield, hastening the movement of the
+Khainites below.
+Declare: Pick a friendly Daughters of Khaine Wizard to cast this spell, pick a visible
+friendly Daughters of Khaine unit wholly within 12" of them to be the target, then
+make a casting roll of 2D6.
+Effect: The target can use Charge abilities this turn even if it used a Run ability in the
+same turn.
+Keywords Spell, Unlimited
+Your Hero Phase 7 Your Hero Phase 8
+DOOMFIRE: The wizard hurls bolt MINDRAZOR: The wizard summons
+of blazing black flame at their foes. spectral blades into their allies’ hands,
+weapons whose edges are honed by the
+Declare: Pick a friendly Daughters of
+wielder’s faith as much as the victim’s fear.
+Khaine Wizard to cast this spell, pick
+a visible enemy unit within 12" of them Declare: Pick a friendly Daughters of
+to be the target, then make a casting roll Khaine Wizard to cast this spell, pick a
+of 2D6. visible friendly Daughters of Khaine
+unit wholly within 12" of them to be the
+Effect: If the target unit has fewer than
+target, then make a casting roll of 2D6.
+10 models, inflict D3 mortal damage on
+the target. Effect: Add 1 to the Rend characteristic
+If the target unit has 10-19 models, inflict of the target’s melee weapons until the
+D6 mortal damage on the target. start of your next turn. In addition, if
+If the target unit has 20 or more models, the target charged this turn, add 1 to
+inflict 6 mortal damage on the target. the Damage characteristic of its melee
+Keywords Spell weapons until the start of your next turn.
+Keywords Spell
+June 2025
+
+--- Page 6 ---
+PRAYER LORE
+PRAYERS OF THE KHAINITE CULT
+Your Hero Phase 5
+SACRAMENT OF BLOOD: The dreaded rune of Khaine spontaneously manifests on
+the brows of the faithful as if carved there by some ghostly knife.
+Declare: Pick a friendly Daughters of Khaine Priest to chant this prayer, pick a
+visible friendly Daughters of Khaine unit wholly within 12" of them to be the target,
+then make a chanting roll of D6.
+Effect: Until the start of your next turn, add 1 to the current battle round number when
+determining which effects of the ‘Blood Rites’ ability apply to the target. If the chanting
+roll was 10+, until the start of your next turn, treat the current battle round number as 5
+when determining which effects of the ‘Blood Rites’ ability apply to the target instead.
+Keywords Prayer, Unlimited
+Your Hero Phase 4 Your Hero Phase 4
+MARTYR’S SACRIFICE: The COVENANT OF THE IRON HEART:
+priestess beseeches Khaine to give those The hearts of the Murder God’s followers
+faithful who have been slain the strength to become as cold and hard as iron,
+deliver one final blow. crushing their fears and doubts with a
+chilling contempt.
+Declare: Pick a friendly Daughters of
+Khaine Priest to chant this prayer, Declare: Pick a friendly Daughters of
+pick a visible friendly Daughters of Khaine Priest to chant this prayer,
+Khaine unit wholly within 12" of them pick a visible friendly Daughters of
+to be the target, then make a chanting Khaine unit wholly within 12" of them
+roll of D6. to be the target, then make a chanting
+roll of D6.
+Effect: Until the start of your next turn,
+each time a model in the target unit is Effect: Ignore negative modifiers to
+slain by a combat attack, before removing the target’s control score until the start
+the model from play, pick an enemy unit of your next turn. In addition, if the
+in combat with the target and roll a dice. chanting roll was 8+, add 5 to the target’s
+If the chanting roll was 8+, roll 2 dice control score until the start of your
+instead of 1. For each 5+, inflict 1 mortal next turn.
+damage on that enemy unit after the Keywords Prayer
+Fight ability has been resolved.
+Keywords Prayer
+June 2025
+
+--- Page 7 ---
+MANIFESTATION LORE
+MANIFESTATIONS OF KHAINE
+Your Hero Phase 6 Your Hero Phase 6
+SUMMON BLADEWIND: The SUMMON BLOODWRACK VIPER:
+caster calls upon their mastery of blood The caster weaves their outstretched hand
+magic to conjure a twirling quartet of in an elaborate pattern that mimics the
+giant, blood-slick blades. structure of a monstrous snake drenched
+in blood.
+Declare: If there is not a friendly
+Bladewind on the battlefield, pick a Declare: If there is not a friendly
+friendly Daughters of Khaine Bloodwrack Viper on the battlefield,
+Wizard to cast this spell, then make a pick a friendly Daughters of Khaine
+casting roll of 2D6. Wizard to cast this spell, then make a
+casting roll of 2D6.
+Effect: Set up a Bladewind wholly within
+9" of the caster, visible to them and more Effect: Set up a Bloodwrack Viper wholly
+than 9" from all enemy units. within 9" of the caster, visible to them and
+Keywords Spell, Summon more than 9" from all enemy units.
+Keywords Spell, Summon
+Your Hero Phase 5
+SUMMON HEART OF FURY: The
+skies turn crimson as this bleeding icon
+descends upon the battle.
+Declare: If there is not a friendly Heart
+of Fury on the battlefield, pick a friendly
+Daughters of Khaine Priest to
+chant this prayer, then make a chanting
+roll of D6.
+Effect: Set up a Heart of Fury wholly
+within 9" of the chanter and visible
+to them.
+Keywords Prayer, Summon
+June 2025
+
+--- Page 8 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 6 5+A V MORATHI-KHAINE
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Heartrender and
+5 3+ 4+ 2 2 -
+Bladed Wings
+Your Hero Phase 7 Passive
+MIRROR DANCE: Morathi casts a ONE SOUL, TWO BODIES:
+spell of shifting, revealing a shadowpath Morathi-Khaine and the Shadow Queen
+between herself and the Shadow Queen. are two entities that share the same
+life force.
+Declare: If a friendly Shadow Queen
+is on the battlefield, make a casting roll Effect: Each time a damage point would
+of 2D6. be allocated to this unit, it is instead
+allocated to a friendly The Shadow Queen
+Effect: Place 2 tokens on the battlefield, (you cannot make any further ward rolls
+one directly underneath the centre of this for that damage point).
+unit’s base and one directly underneath
+the centre of a friendly Shadow Queen’s If this unit would be automatically
+base. Then, remove this unit and that destroyed by another ability, it is not
+Shadow Queen from the battlefield. automatically destroyed. Instead, allocate
+Set up each unit again with its base 3 damage points to a friendly The Shadow
+overlapping the centre of the other Queen (ward rolls cannot be made for
+token, then remove the tokens. If it is not those damage points).
+possible to set up either of the units on
+If a friendly The Shadow
+the battlefield, return both units to their
+Queen is destroyed, this unit is
+original positions. Each unit can only be
+automatically destroyed.
+set up in combat with units that the other
+unit was already in combat with.
+Passive
+Keywords Spell
+SORCERESS SUPREME: Few beings in
+existence can claim a fraction of Morathi’s
+skill in the magical art.
+Effect: Add 1 to casting rolls for this unit.
+Warmaster, Unique, Hero, Wizard (3), Infantry, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 9 ---
+June 2025
+MOVE
+12"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L12 4+A V THE SHADOW QUEEN
+E E
+H
+10
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Gaze of the Shadow Queen 12" 1 2+ 2+ 3 D6 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Heartrender 8 3+ 3+ 2 3 Crit (Mortal)
+Crown of Serpents 2D6 4+ 4+ - 1 -
+Envenomed Tail 1 3+ 3+ 2 6 -
+Passive Once Per Turn (Army), Any Combat Phase
+IRON HEART OF KHAINE: The Iron FURY OF THE SHADOW QUEEN:
+Heart of Khaine is the last remnant of Bloodshed raises the Shadow Queen’s fury
+the fallen god, and it pulses still with life- to new heights and fuels the murderlust of
+sustaining divine energies. nearby Scáthborn.
+Effect: You cannot allocate more than Declare: Pick an enemy unit in combat
+3 damage points to this unit each turn. with this unit to be the target.
+Once 3 points have been allocated to this
+Effect: Roll a D3. On a 2+, inflict an
+unit in a turn, any further damage points
+amount of mortal damage on the target
+that would be allocated to it are ignored.
+equal to the roll. If any models are slain
+Damage points allocated to this unit by this ability, for the rest of the turn, add
+cannot be healed. 1 to the Attacks characteristic of melee
+weapons used by friendly Khinerai and
+If this unit would be automatically
+Melusai units while they are wholly
+destroyed, it is not automatically
+within 12" of this unit.
+destroyed. Instead, allocate 3 damage
+points to it (ward rolls cannot be made for Keywords Rampage
+those damage points).
+Unique, Hero, Monster, Fly, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine
+
+--- Page 10 ---
+June 2025
+MOVE
+12" • DAUGHTERS OF KHAINE WARSCROLL •
+H
+T S KRETHUSA THE
+L 6 5+A
+A V
+E E
+H CRONESEER
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Staff of Morai-Heg 4 3+ 4+ 1 D3 -
+Once Per Turn, Any Hero Phase Your Hero Phase 4
+BURNT OFFERINGS: Casting blood MURDER OF CROWS: Several of
+into her brazier, Krethusa manipulates Krethusa’s feathers transform into eldritch
+the twisting coils of smoke to commune corvids that descend upon her enemies,
+with Morai-Heg. pecking eyes from sockets and flesh
+from bone.
+Declare: If this unit is within the
+combat range of a friendly Cauldron Declare: Pick a visible enemy unit within
+of Blood, pick a visible friendly 18" of this unit to be the target, then make
+Daughters of Khaine Aelf a chanting roll of D6.
+non-Hero Infantry unit wholly within
+Effect: Roll a D3. If the chanting roll was
+18" of this unit to be the target.
+8+, roll a D6 instead. Inflict an amount
+Effect: Roll a dice. On a 2+, pick 1 of the of mortal damage on the target equal to
+following effects to apply to the target. the roll. In addition, if the roll exceeds the
+target’s Health characteristic, subtract 1
+Prophecy of Silence: Until the start of
+from hit rolls for the target’s attacks until
+your next turn, enemy units cannot use
+the start of your next turn.
+commands while they are in combat with
+Keywords Prayer
+the target.
+Prophecy of Dark Wings: The target can
+use the ‘Normal Move’ ability as if it were
+your movement phase. That unit counts
+as having used a Run ability this turn.
+Prophecy of Reclamation: For the rest
+of the turn, while the target is contesting
+an objective, subtract 10 from the control
+scores of enemy units contesting that
+objective that do not have the Hero or
+Monster keyword.
+Unique, Hero, Priest (1), Infantry, Fly, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 11 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L12 4+A V BLOODWRACK SHRINE
+E E
+H
+5
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Bloodwrack Stare 12" 1 2+ See below Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bloodwrack Spear and
+5 3+ 4+ 1 2 -
+Whisperclaw
+Shrinekeepers’ Goadstaves 6 3+ 4+ - 1 -
+Your Hero Phase Passive
+AURA OF AGONY: Bloodwrack Shrines BLOODWRACK STARE: Should a
+emit an aura that causes waves of agony to victim’s eyes lock with a Bloodwrack
+course through the enemy. Medusa’s stare for even a second, their
+lifeblood will violently rebel, flooding from
+Declare: Pick up to 3 different enemy
+every pore until their body collapses into a
+units within 9" of this unit to be
+pool of gore.
+the targets.
+Effect: Each time this unit attacks with
+Effect: Roll a D3 for each target. On a 2+,
+its Bloodwrack Stare, if the attack scores
+inflict an amount of mortal damage on
+a hit, roll a number of dice equal to the
+the target equal to the roll.
+number of models in the target unit. For
+each 5+, inflict 1 mortal damage on that
+Any Charge Phase unit. You cannot pick the same enemy
+BLADED IMPACT: The bladed carriage unit to be targeted by attacks made with
+of a Bloodwrack Shrine can cleave its way a Bloodwrack Stare more than once
+through enemy ranks with ease. per phase.
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Hero, War Machine, Wizard (1), Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Melusai
+
+--- Page 12 ---
+June 2025
+MOVE
+8" • DAUGHTERS OF KHAINE WARSCROLL •
+H
+T S MELUSAI
+L 6 5+A
+A V
+E E
+H IRONSCALE
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Keldrisaíth 12" 2 3+ 3+ 1 D3 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Keldrisaíth 6 3+ 4+ 1 2 Crit (Mortal)
+Reaction: You declared a Fight ability Passive
+for this unit WRATH OF THE SCÁTHBORN: An
+GORY OFFERING: As a Melusai Ironscale leads her Melusai kin in the swift
+Ironscale holds the crystallised heart slaughter of the foe.
+of a slain foe aloft, the power of Khaine
+Effect: You can re-roll charge rolls for
+pulses through it, empowering any fellow
+friendly Melusai units while they are
+Melusai nearby.
+wholly within 12" of this unit.
+Effect: Pick a friendly non-Hero
+Melusai unit that has not used a Fight
+ability this turn and is within this unit’s
+combat range to be the target. The target
+can be picked to use a Fight ability
+immediately after the Fight ability
+used by this unit has been resolved. If it
+is picked to do so, add 1 to the Attacks
+characteristic of the target’s melee
+weapons for the rest of the turn.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Melusai
+
+--- Page 13 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+L T 12 4+ S A HAG QUEEN
+A V
+E E
+H
+5 ON CAULDRON OF BLOOD
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Torrent of Burning Blood 10" 6 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Blade of Khaine 4 3+ 4+ 1 2 Crit (Mortal)
+Avatar’s Sword 5 3+ 3+ 2 3 -
+Witch Aelves’ Sciansá 6 3+ 4+ - 1 -
+Passive Once Per Turn (Army), Any Hero Phase
+ALTAR OF KHAINE: The powerful WITCHBREW: Witchbrew drives the
+magic that fuels the Cauldron of Blood imbiber into such an ecstasy of destruction
+grants empowerment and protection to that they will fight on in the face of
+those nearby. impossible odds.
+Effect: Add 1 to save rolls for friendly Declare: Pick a friendly Daughters of
+Daughters of Khaine Infantry Khaine unit wholly within 12" of this
+units while they are wholly within 9" of unit to be the target.
+this unit.
+Effect: Roll a dice. On a 3+, the target has
+In addition, add 1 to chanting rolls
+Ward (5+) for the rest of the turn.
+for friendly Daughters of Khaine
+Priests while they are wholly within 9"
+of this unit.
+Any Charge Phase
+BLADED IMPACT: The bladed carriage
+hauling a Cauldron of Blood can cleave its
+way through enemy ranks with ease.
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Hero, Priest (1), War Machine, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf, Cauldron of Blood
+
+--- Page 14 ---
+June 2025
+MOVE
+8"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 6 5+A V BLOODWRACK MEDUSA
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Bloodwrack Stare 12" 1 2+ See below Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bloodwrack Spear and
+5 3+ 4+ 1 2 -
+Whisperclaw
+Passive Reaction: You declared a Fight ability
+BLOODWRACK STARE: Should a for this unit
+victim’s eyes lock with a Bloodwrack MELUSAI KIN: A Bloodwrack
+Medusa’s stare for even a second, their Medusa leads her Melusai kin into
+lifeblood will violently rebel, flooding from battle, encouraging them to follow her
+every pore until their body collapses into a example and strike down the enemy with
+pool of gore. brutal swiftness.
+Effect: Each time this unit attacks with Effect: Pick a friendly non-Hero
+its Bloodwrack Stare, if the attack scores Melusai unit that has not used a Fight
+a hit, roll a number of dice equal to the ability this turn and is within this unit’s
+number of models in the target unit. For combat range to be the target. The target
+each 5+, inflict 1 mortal damage on that can be picked to use a Fight ability
+unit. You cannot pick the same enemy immediately after the Fight ability used
+unit to be targeted by attacks made with by this unit has been resolved.
+a Bloodwrack Stare more than once
+per phase.
+Hero, Wizard (1), Infantry, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Melusai
+
+--- Page 15 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 5 5+A V HAG QUEEN
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Blade of Khaine 4 3+ 4+ 1 2 Crit (Mortal)
+Once Per Turn (Army), Any Hero Phase
+WITCHBREW: Witchbrew drives the
+imbiber into such an ecstasy of destruction
+that they will fight on in the face of
+impossible odds.
+Declare: Pick a friendly Daughters of
+Khaine unit wholly within 12" of this
+unit to be the target.
+Effect: Roll a dice. On a 3+, the target has
+Ward (5+) for the rest of the turn.
+Hero, Priest (1), Infantry, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 16 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 7 3+A V AVATAR OF KHAINE
+E E
+H
+2
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Torrent of Burning Blood 10" 6 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Avatar’s Sword 5 3+ 3+ 2 3 -
+Once Per Turn (Army), Any Charge Phase
+WRATH OF KHAINE: Khaine’s subjects
+channel their faith through a bladed idol
+of the Murder God, allowing it to carry out
+acts of monstrous carnage.
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the
+target equal to the roll. If the target is a
+Monster, double the amount of mortal
+damage inflicted.
+Keywords Rampage
+Monster, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine
+
+--- Page 17 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+L T 12 4+ S A SLAUGHTER QUEEN
+A V
+E E
+H
+5 ON CAULDRON OF BLOOD
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Torrent of Burning Blood 10" 6 3+ 3+ 1 1 Shoot in Combat
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Deathsword and
+6 3+ 4+ 1 2 -
+Blade of Khaine
+Avatar’s Sword 5 3+ 3+ 2 3 -
+Witch Aelves’ Sciansá 6 3+ 4+ - 1 -
+Passive Once Per Turn (Army), Any Combat Phase
+ALTAR OF KHAINE: The powerful ORGY OF SLAUGHTER: The Slaughter
+magic that fuels the Cauldron of Blood Queen orders her warriors to renew their
+grants empowerment and protection to assault twice over.
+those nearby.
+Declare: Pick a friendly Daughters of
+Effect: Add 1 to save rolls for friendly Khaine Aelf Infantry unit wholly
+Daughters of Khaine Infantry within 12" of this unit to be the target.
+units while they are wholly within 9" of
+Effect: Roll a dice. On a 3+, add 1 to the
+this unit.
+Attacks characteristic of the target’s
+In addition, add 1 to chanting rolls
+melee weapons for the rest of the turn.
+for friendly Daughters of Khaine
+Priests while they are wholly within 9"
+of this unit. Any Charge Phase
+BLADED IMPACT: The bladed carriage
+hauling a Cauldron of Blood can cleave its
+way through enemy ranks with ease.
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+Hero, Priest (1), War Machine, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf, Cauldron of Blood
+
+--- Page 18 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 5 5+A V SLAUGHTER QUEEN
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Deathsword and
+6 3+ 4+ 1 2 -
+Blade of Khaine
+Once Per Turn (Army), Any Combat Phase
+ORGY OF SLAUGHTER: The Slaughter
+Queen orders her warriors to renew their
+assault twice over.
+Declare: Pick a friendly Daughters of
+Khaine Aelf Infantry unit wholly
+within 12" of this unit to be the target.
+Effect: Roll a dice. On a 3+, add 1 to the
+Attacks characteristic of the target’s
+melee weapons for the rest of the turn.
+Hero, Priest (1), Infantry, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 19 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 5 5+A V HIGH GLADIATRIX
+E E
+H
+2
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Barbed Whip and
+6 3+ 4+ 1 2 -
+Gladiatrix’s Blade
+Any Combat Phase
+PARAGON OF SLAUGHTER: The
+spectacular acts of death-dealing
+performed by a High Gladiatrix inspire
+nearby Daughters of Khaine, setting their
+souls aflame with the power of the Bloody-
+Handed God.
+Declare: If this unit is in combat, pick a
+visible friendly Daughters of Khaine
+Aelf non-Hero Infantry unit wholly
+within 12" of this unit to be the target.
+Effect: Roll a dice. On a 2+, add 1 to the
+Rend characteristic of melee weapons
+used by the target for the rest of the turn.
+Once Per Battle, Any Combat Phase
+KILLING STROKE: A High Gladiatrix
+prides herself on slaying enemies with
+magnificently gory flourishes, killing them
+with a brutal whip motion or single precise
+stroke from her blade.
+Declare: Pick an enemy Hero in combat
+with this unit to be the target.
+Effect: Roll 2D6. If the roll exceeds
+the target’s Health characteristic, it is
+automatically destroyed.
+Hero, Infantry, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 20 ---
+June 2025
+MOVE
+14" • DAUGHTERS OF KHAINE WARSCROLL •
+T H S DOOMFIRE
+L 3 5+A
+A V
+E E
+H WARLOCKS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Doomfire Crossbow 10" 2 3+ 4+ - 1 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Cursed Scimitar 2 3+ 4+ 1 1 -
+Dark Steed’s Vicious Bite 2 5+ 3+ - 1 Companion
+Passive
+OUTMANOEUVRE: Doomfire Warlocks
+are the light cavalry of the war covens,
+worrying the enemy’s flanks and engaging
+unprotected targets.
+Effect: When this unit uses the ‘Redeploy’
+command, if you roll a 1-3 when
+determining the distance this unit can
+move, you can use a value of 4 instead.
+Wizard (1), Cavalry, Champion, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 21 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+L T 1 6+ S A SISTERS OF SLAUGHTER
+A V
+E E
+H
+1 WITH SACRIFICIAL KNIVES
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Kruiplash and
+3 3+ 4+ - 1 Anti-Infantry (+1 Rend)
+Sacrificial Knife
+Enemy Combat Phase
+DANCE OF DEATH: Sisters of Slaughter
+manoeuvre in the heat of combat to close
+the distance with their enemies.
+Effect: This unit can move 3". It can pass
+through the combat ranges of enemy
+units and can end that move in combat.
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5), Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 22 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+L T 1 5+ S A SISTERS OF SLAUGHTER
+A V
+E E
+H
+1 WITH BLADED BUCKLERS
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Kruiplash 2 3+ 4+ - 1 Anti-Infantry (+1 Rend)
+Passive Passive
+DANCE OF DIVERSION: Sisters of BLADED BUCKLERS: The martial skill
+Slaughter move around their enemies with of these warriors allows them to turn
+ease, making them nearly impossible to defensive techniques into deadly strikes.
+strike down.
+Effect: Each time you make an
+Effect: Subtract 1 from hit rolls for unmodified save roll of 6 for a combat
+combat attacks that target this unit. attack that targets this unit, inflict 1
+mortal damage on the attacking unit after
+the Fight ability has been resolved.
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5), Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 23 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+L T 1 5+ S A WITCH AELVES
+A V
+E E
+H
+1 WITH BLADED BUCKLERS
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Sciansá 2 3+ 4+ - 1 Crit (Auto-wound)
+Passive
+BLADED BUCKLERS: The martial skill
+of these warriors allows them to turn
+defensive techniques into deadly strikes.
+Effect: Each time you make an
+unmodified save roll of 6 for a combat
+attack that targets this unit, inflict 1
+mortal damage on the attacking unit after
+the Fight ability has been resolved.
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5), Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 24 ---
+June 2025
+MOVE
+6"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+L T 1 6+ S A WITCH AELVES
+A V
+E E
+H
+1 WITH PAIRED SCIANSÁ
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Paired Sciansá 3 3+ 4+ - 1 Crit (Auto-wound)
+Passive
+FRENZIED FERVOUR: Witch Aelves
+hurl themselves at the enemy with no fear
+of death, cutting down foes in a whirlwind
+of blades.
+Effect: Add 1 to the Rend characteristic
+of this unit’s melee weapons for the rest
+of the turn if this unit charged in the
+same turn.
+Infantry, Champion, Musician (1/5), Standard Bearer (1/5), Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 25 ---
+June 2025
+MOVE
+8"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 2 5+A V BLOOD STALKERS
+E E
+H
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Heartseeker Bow 18" 3 3+ 4+ 1 1 Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Scianlar 2 3+ 4+ - 1 -
+Your Shooting Phase
+HEARTSEEKERS: The blood-blessed
+arrows loosed by these Melusai unerringly
+seek out the enemy’s vital organs.
+Effect: If this unit has not used a Move
+ability this turn and was not set up this
+turn, this unit’s shooting attacks score
+critical hits on unmodified hit rolls of 5+
+for the rest of the turn.
+Infantry, Champion, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Melusai
+
+--- Page 26 ---
+June 2025
+MOVE
+12" • DAUGHTERS OF KHAINE WARSCROLL •
+T H S KHINERAI
+L 2 5+A
+A V
+E E
+H HEARTRENDERS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Barbed Javelin 12" 2 3+ 4+ 1 1 Crit (Auto-wound)
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Barbed Javelin 1 3+ 4+ - 1 -
+Deployment Phase Your Movement Phase
+CIRCLING IN THE SKIES ABOVE: The DEATH FROM ABOVE: The
+Khinerai circle high above the battlefield, Khinerai delight in using their leathery
+waiting for the perfect moment to strike. wings to descend upon the foe from
+unexpected vectors.
+Declare: Pick this unit if it has not
+been deployed. Declare: Pick this unit if it is in the skies.
+Effect: Set up this unit in reserve in the Effect: Set up this unit anywhere on
+skies. It has now been deployed. the battlefield more than 9" from all
+enemy units.
+Keywords Deploy
+Any Shooting Phase
+FIRE AND FLIGHT: Heartrenders are
+masters of the hit-and-run strike, loosing
+volleys of sharpened projectiles before
+darting away.
+Effect: If this unit used a Shoot ability
+this phase, this unit can move D6". It
+cannot move into combat during any part
+of that move.
+Infantry, Champion, Fly, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Khinerai
+
+--- Page 27 ---
+June 2025
+MOVE
+8"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 2 5+A V BLOOD SISTERS
+E E
+H
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Heartshard Glaive 2 3+ 4+ 1 2 Crit (Mortal)
+Any Combat Phase
+CRYSTAL TOUCH: The scáth touch of a
+Blood Sister can permanently transmute
+an enemy into an immobile – though still
+fully conscious – crystal statue.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Roll a dice. If the roll exceeds the
+target’s Health characteristic, the target
+has Strike-last for the rest of the turn.
+Infantry, Champion, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Melusai
+
+--- Page 28 ---
+June 2025
+MOVE
+12" • DAUGHTERS OF KHAINE WARSCROLL •
+T H S KHINERAI
+L 2 5+A
+A V
+E E
+H LIFETAKERS
+1
+CONTROL
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Barbed Sickle 2 3+ 4+ 1 1 Crit (Auto-wound)
+Deployment Phase Your Movement Phase
+CIRCLING IN THE SKIES ABOVE: The DEATH FROM ABOVE: The
+Khinerai circle high above the battlefield, Khinerai delight in using their leathery
+waiting for the perfect moment to strike. wings to descend upon the foe from
+unexpected vectors.
+Declare: Pick this unit if it has not
+been deployed. Declare: Pick this unit if it is in the skies.
+Effect: Set up this unit in reserve in the Effect: Set up this unit anywhere on
+skies. It has now been deployed. the battlefield more than 9" from all
+Keywords Deploy enemy units.
+Reaction: You declared a Fight ability
+for this unit
+FIGHT AND FLIGHT: The cults of the
+Khinerai are masters of the hit-and-
+run strike.
+Effect: After resolving the effect of that
+Fight ability, this unit can immediately
+move D6". It cannot end that move in
+combat with any units that it was not
+already in combat with at the start of
+the move.
+Infantry, Champion, Fly, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Khinerai
+
+--- Page 29 ---
+June 2025
+MOVE
+6" • DAUGHTERS OF KHAINE WARSCROLL •
+T H S KHAINITE
+L 1 5+A
+A V
+E H E SHADOWSTALKERS
+1
+CONTROL
+RANGED WEAPONS Rng Atk Hit WndRndDmg Ability
+Cursed Missiles 10" 1 3+ 3+ 1 1 -
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Shadowstalker Blades 2 3+ 4+ - 1 -
+Your Movement Phase
+SHADOW LEAP: Shadowstalkers can
+vanish and reappear at will as they
+navigate the Umbral Web.
+Effect: Remove this unit from the
+battlefield and set it up again on the
+battlefield more than 9" from all
+enemy units.
+Keywords Core
+Infantry, Champion (1/9), Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine, Aelf
+
+--- Page 30 ---
+June 2025
+MOVE
+9"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L10 4+A V BLOODWRACK VIPER
+E E
+H
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Anti-Hero (+1 Rend),
+Fanged Strikes 3 4+ 2+ 1 3
+Crit (Mortal)
+Once Per Turn (Army), Any Combat Phase
+CRUSHING COILS: The coils of the
+Bloodwrack Viper circle around an enemy
+hero, pinning them in place.
+Declare: Pick an enemy Infantry Hero
+in combat with this Manifestation to
+be the target.
+Effect: Roll a dice. On a 3+, the target has
+Strike-last for the rest of the turn.
+Keywords Rampage
+Monster, Manifestation, Endless Spell, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine
+
+--- Page 31 ---
+June 2025
+MOVE
+12"
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 7 6+A V BLADEWIND
+E E
+H
+7+
+BANISHMENT
+MELEE WEAPONS Atk Hit WndRndDmg Ability
+Bladed Vortex 9 3+ 3+ 1 1 Crit (2 Hits)
+Any Combat Phase
+UNNATURAL EDGE: The falchions
+carve through an enemy’s defences, and
+the swirling blades prevent them from
+getting their guard back up.
+Declare: If this Manifestation charged
+this turn, pick an enemy unit in combat
+with it to be the target.
+Effect: Roll a dice. On a 3+, ignore
+positive modifiers to save rolls for the
+target for the rest of the turn.
+Manifestation, Endless Spell, Fly, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine
+
+--- Page 32 ---
+June 2025
+MOVE
+-
+H • DAUGHTERS OF KHAINE WARSCROLL •
+T S
+A L 7 4+A V HEART OF FURY
+E E
+H
+7+
+BANISHMENT
+Passive
+LOCUS OF THE MURDER GOD: This
+prayer takes the form of Khaine’s undying
+power and bestows death-defying energies
+upon his faithful.
+Effect: Subtract 1 from wound rolls
+for combat attacks that target friendly
+Daughters of Khaine Infantry
+units while they are wholly within 12" of
+this Manifestation.
+Manifestation, Invocation, Ward (6+)
+KEYWORDS
+Order, Daughters of Khaine
+
+--- Page 33 ---
+DAUGHTERS OF KHAINE
+HEARTFLAYER TROUPE
+Eager for worthy kills to offer to their goddess, the most zealous disciples
+This Spearhead army consists of Morathi-Khaine set out in Heartflayer Troupes to massacre her enemies.
+of the following units: These Khainites are darting, blood-slick killers upon the battlefield,
+eschewing heavy armour in order to maximise their dexterity and speed.
+GENERAL Each Troupe is led by a Melusai Ironscale, most loyal of Morathi-Khaine’s
+ Melusai Ironscale Scáthborn guard. These serpentine champions are powerhouses in their own
+right, viciously striking down foes with their keldrisaíth staves or blasting
+UNITS them from afar with bolts of umbral magic. They are backed up by the
+ 5 Witch Aelves Melusai archers known as Blood Stalkers, who pick off opponents from a
+ 5 Witch Aelves distance with preternatural skill, piercing hearts with enchanted arrows.
+ 5 Doomfire Warlocks
+ 5 Blood Stalkers Surging forward to break through the front lines are the Doomfire Warlocks,
+incinerating enemies with flames made of pure shadow before beheading
+stragglers with their darkly gleaming scimitars. Throngs of Witch Aelves
+scream in their wake, eager to commit murder in the name of their bloody-
+handed goddess. These priestesses of battle place great religious import on
+wanton slaughter, and they will relentlessly stab and slice until they are
+stained as red as the corpses that surround them.
+‘Let us gouge out the hearts of these fools and offer them to the
+Bloody-Handed One!’
+– Cariadra Hagg-Mawr
+Lead rules writer Matt’s paint scheme is inspired by Celtic traditional colours, representing a Khainite force from the
+Aelfgrove Wetlands of Ghyran. He has applied blue warpaint to the skin of his aelves and used plenty of natural shades.
+
+--- Page 34 ---
+BATTLE TRAITS
+BLOOD RITES
+ROUND ABILITY
+Before battle, the Daughters take
+part in holy rites of blood-letting. QUICKENING BLOODLUST: The Khainites’ hearts
+With each sacrifice, the faithful 1 beat harder and their strides lengthen in anticipation of battle.
+are imbued with a fraction of their
+goddess’s furious power. Effect: Add 1 to run rolls for this unit.
+HEADLONG FURY: Reciting the catechism of Crimson
+At the start of each battle round, all 2 Hate, the Khainites rush ahead in their eagerness to slaughter.
+friendly units gain the Blood Rites
+passive ability that corresponds to Effect: Add 1 to charge rolls for this unit.
+the current battle round number, as ZEALOT’S RAGE: The faithful draw the god’s
+s k h e o ep w n al l i n B l t o h o e d t a R b i l t e e o s n a b t i h li e t i r e i s g h g t a i ( n u e n d it s 3 murderous spirit to the battlefield.
+in previous battle rounds). Effect: Add 1 to hit rolls for combat attacks made by this unit.
+SLAUGHTERER’S STRENGTH: Khaine’s flock are
+imbued with shocking strength.
+4
+Effect: Add 1 to wound rolls for combat attacks made by
+this unit.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Your Hero Phase Any Combat Phase
+MURDEROUS EPIPHANY: The Khainites are BLESSING OF KHAINE: Sacred rites have been
+struck by a terrible vision of the Bloody-Handed God performed on this Melusai Ironscale by the priestesses
+that drives their zeal to ever greater heights. of the temple, and it is said that she can bestow the
+blessing of Khaine upon her sisters in battle.
+Effect: All friendly units gain the Blood Rites passive
+ability they would have gained at the start of the next Declare: Pick a friendly unit wholly within 12" of
+battle round (they keep this ability for the rest of the your general. You cannot pick your general.
+battle, but they do not gain it for a second time at the
+start of the next battle round). Effect: Add 1 to ward rolls for that unit this phase.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Passive
+BATHED IN BLOOD: Your general draws vigour FUELLED BY REVENGE: This general inspires a
+from the gore that splatters over her in battle. wrathful lust for vengeance in her Scáthborn kin.
+Effect: Each time a model is slain by your general, Effect: Add 1 to the Rend characteristic of melee
+Heal (1) your general. weapons used by friendly Blood Stalkers units while
+they are wholly within 12" of your general.
+Once Per Battle, Any Combat Phase Your Hero Phase
+FLASK OF SHADEMIST: Filled with an obscuring ZEALOUS ORATOR: Your general is a wild
+mist harvested from the Ulguan coast, when this flask demagogue who inspires her followers to fight on in
+is shattered, the battlefield is plunged into darkness. the face of impossible odds.
+Effect: Until the end of the phase, subtract 1 from hit Declare: Pick a friendly unit wholly within 9" of your
+rolls for attacks that target friendly units while they general that is not in combat. Roll a dice for each
+are wholly within 12" of your general. slain model from that unit.
+Effect: For each 5+, you can return 1 slain model to
+that unit.
+
+--- Page 35 ---
+BATTLE TRAITS
+BLOOD RITES
+ROUND ABILITY
+Before battle, the Daughters take
+part in holy rites of blood-letting. QUICKENING BLOODLUST: The Khainites’ hearts
+With each sacrifice, the faithful 1 beat harder and their strides lengthen in anticipation of battle.
+are imbued with a fraction of their
+goddess’s furious power. Effect: Add 1 to run rolls for this unit.
+HEADLONG FURY: Reciting the catechism of Crimson
+At the start of each battle round, all 2 Hate, the Khainites rush ahead in their eagerness to slaughter.
+friendly units gain the Blood Rites
+passive ability that corresponds to Effect: Add 1 to charge rolls for this unit.
+the current battle round number, as ZEALOT’S RAGE: The faithful draw the god’s
+s k h e o ep w n al l i n B l t o h o e d t a R b i l t e e o s n a b t i h li e t i r e i s g h g t a i ( n u e n d it s 3 murderous spirit to the battlefield.
+in previous battle rounds). Effect: Add 1 to hit rolls for combat attacks made by this unit.
+SLAUGHTERER’S STRENGTH: Khaine’s flock are
+imbued with shocking strength.
+4
+Effect: Add 1 to wound rolls for combat attacks made by
+this unit.
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Your Hero Phase Any Combat Phase
+MURDEROUS EPIPHANY: The Khainites are BLESSING OF KHAINE: Sacred rites have been
+struck by a terrible vision of the Bloody-Handed God performed on this Melusai Ironscale by the priestesses
+that drives their zeal to ever greater heights. of the temple, and it is said that she can bestow the
+blessing of Khaine upon her sisters in battle.
+Effect: All friendly units gain the Blood Rites passive
+ability they would have gained at the start of the next Declare: Pick a friendly unit wholly within 12" of
+battle round (they keep this ability for the rest of the your general. You cannot pick your general.
+battle, but they do not gain it for a second time at the
+start of the next battle round). Effect: Add 1 to ward rolls for that unit this phase.
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Passive Passive
+BATHED IN BLOOD: Your general draws vigour FUELLED BY REVENGE: This general inspires a
+from the gore that splatters over her in battle. wrathful lust for vengeance in her Scáthborn kin.
+Effect: Each time a model is slain by your general, Effect: Add 1 to the Rend characteristic of melee
+Heal (1) your general. weapons used by friendly Blood Stalkers units while
+they are wholly within 12" of your general.
+Once Per Battle, Any Combat Phase Your Hero Phase
+FLASK OF SHADEMIST: Filled with an obscuring ZEALOUS ORATOR: Your general is a wild
+mist harvested from the Ulguan coast, when this flask demagogue who inspires her followers to fight on in
+is shattered, the battlefield is plunged into darkness. the face of impossible odds.
+Effect: Until the end of the phase, subtract 1 from hit Declare: Pick a friendly unit wholly within 9" of your
+rolls for attacks that target friendly units while they general that is not in combat. Roll a dice for each
+are wholly within 12" of your general. slain model from that unit.
+Effect: For each 5+, you can return 1 slain model to
+that unit.
+
+--- Page 36 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+8"
+MELUSAI IRONSCALE
+6 5+
+2 RA NGED WEAPONS Range Att acks Hit Wound Rend Damage Ability
+Keldrisaíth 12" 2 3+ 3+ 1 D3 -
+MELEE WEAPONS Att acks Hit Wound Rend Damage Ability
+Craft ed from the souls of aelves Keldrisaíth 6 3+ 4+ 1 2 -
+that blazed brightest with the
+need for revenge, the Melusai
+Ironscales serve Morathi-
+Khaine as elite war leaders
+amongst the Scáthborn and are
+terrifying martial champions
+in their own right. Each of the
+Scáthborn is bound in loyalty
+to Morathi-Khaine, and they
+are her eyes and ears outside
+her temple within Hagg Nar.
+Th eir baleful magic is capable
+of transforming their enemies
+into statues of living crystal,
+in which they remain forever
+imprisoned at the agonising
+point of death.
+Hero, Infantry, Ward (6+)
+SAVE
+MOVE
+CONTROL
+HTLAEH
+Your Hero Phase
+ALL-OUT SLAUGHTER: Th e Melusai Ironscale exhorts
+their warriors to commit acts of terrible bloodshed.
+Declare: Pick a friendly unit wholly within 12" of this unit
+to be the target. You cannot pick this unit.
+Eff ect: Add 1 to the Attacks characteristic of the target’s
+melee weapons for the rest of the turn.
+End of Any Turn
+TURNED TO CRYSTAL: Th e touch of an Ironscale can
+permanently transmute an enemy into a crystal statue.
+Declare: Pick an enemy unit within 1" of this unit to be the
+target and roll a dice.
+Eff ect: On a 2+, infl ict 1 mortal damage on the target.
+KEYWORDS
+• SPEARHEAD WARSCROLL •
+8"
+BLOOD STALKERS
+2 5+
+1 RA NGED WEAPONS Range Att acks Hit Wound Rend Damage Ability
+Heartseeker Bow 18" 3 3+ 4+ 1 1 Crit (Auto-wound)
+MELEE WEAPONS Att acks Hit Wound Rend Damage Ability
+Drawing their ornate Scianlar 2 3+ 4+ - 1 -
+heartseeker bows, the slithering
+Melusai archers known as
+Blood Stalkers loose terrifyingly Passive
+accurate volleys. Th eir bows are HEARTSEEKERS: Th e blood-
+carved from wood taken from blessed arrows loosed by these
+the sentient ashdusk tree, and Melusai unerringly seek out the
+their arrows are blessed by the
+enemy’s vital organs.
+Hag Queens of their coven. Each
+missile fi red by these serpentine Eff ect: Shooting attacks made
+hunters is guided by these
+by this unit score critical hits on
+enchantments straight towards
+an enemy’s heart. unmodifi ed hit rolls of 5+ if this
+unit did not use a Move ability in
+the same turn.
+KEYWORDS Infantry, Ward (6+)
+38
+
+--- Page 37 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+8"
+MELUSAI IRONSCALE
+6 5+
+2 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Keldrisaíth 12" 2 3+ 3+ 1 D3 -
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Crafted from the souls of aelves Keldrisaíth 6 3+ 4+ 1 2 -
+that blazed brightest with the
+need for revenge, the Melusai
+Ironscales serve Morathi-
+Khaine as elite war leaders
+amongst the Scáthborn and are
+terrifying martial champions
+in their own right. Each of the
+Scáthborn is bound in loyalty
+to Morathi-Khaine, and they
+are her eyes and ears outside
+her temple within Hagg Nar.
+Their baleful magic is capable
+of transforming their enemies
+into statues of living crystal,
+in which they remain forever
+imprisoned at the agonising
+point of death.
+Hero, Infantry, Ward (6+)
+SAVE
+MOVE
+CONTROL
+HTLAEH
+Your Hero Phase
+ALL-OUT SLAUGHTER: The Melusai Ironscale exhorts
+their warriors to commit acts of terrible bloodshed.
+Declare: Pick a friendly unit wholly within 12" of this unit
+to be the target. You cannot pick this unit.
+Effect: Until the start of your next turn, add 1 to hit rolls
+for combat attacks made by the target.
+End of Any Turn
+TURNED TO CRYSTAL: The touch of an Ironscale can
+permanently transmute an enemy into a crystal statue.
+Declare: Pick an enemy unit within 1" of this unit to be the
+target and roll a dice.
+Effect: On a 2+, inflict 1 mortal damage on the target.
+KEYWORDS
+• SPEARHEAD WARSCROLL •
+8"
+BLOOD STALKERS
+2 5+
+1 RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Heartseeker Bow 18" 3 3+ 4+ 1 1 Crit (Auto-wound)
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Drawing their ornate Scianlar 2 3+ 4+ - 1 -
+heartseeker bows, the slithering
+Melusai archers known as
+Blood Stalkers loose terrifyingly Passive
+accurate volleys. Their bows are HEARTSEEKERS: The blood-
+carved from wood taken from blessed arrows loosed by these
+the sentient ashdusk tree, and
+Melusai unerringly seek out the
+their arrows are blessed by the
+Hag Queens of their coven. Each enemy’s vital organs.
+missile fired by these serpentine
+Effect: Shooting attacks made
+hunters is guided by these
+enchantments straight towards by this unit score critical hits on
+an enemy’s heart. unmodified hit rolls of 5+ if this
+unit did not use a Move ability in
+the same turn.
+KEYWORDS Infantry, Ward (6+)
+
+--- Page 38 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+14"
+DOOMFIRE WARLOCKS
+3 5+
+1
+Doomfire Warlocks are expert
+light cavalry, adept at harrying
+flanks with crossbow fire or
+cutting down targets with their
+cursed scimitars. They can
+harness the power of shadow,
+hurling bolts of black flame to
+destroy their targets. Each is
+branded with a painful rune
+upon their forehead, without
+which they would gradually
+wither away, for the majority
+of males in the temple-cities
+are born weak of body and
+spirit. These sigils greatly
+amplify the Warlocks’ magical
+potential , allowing them to
+cast searing bolts of magical
+doomfire at those nearby,
+but forever leash them to
+Morathi-Khaine’s service.
+Cavalry, Reinforcements, Ward (6+)
+SAVE
+MOVE
+CONTROL
+HTLAEH
+RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Doomfire Crossbow 10" 2 3+ 4+ - 1 -
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Cursed Scimitar 2 3+ 4+ 1 1 -
+Dark Steed’s Vicious Bite 2 5+ 3+ - 1 Companion
+Your Hero Phase
+DOOMFIRE: The Doomfire
+Warlocks hurl bolts of blazing black
+flame at their foes.
+Declare: Pick a visible enemy unit
+within 12" of this unit to be the
+target, then make a casting roll
+of 2D6.
+Effect: On a 6+, inflict D3 mortal
+damage on the target.
+KEYWORDS
+• SPEARHEAD WARSCROLL •
+6"
+WITCH AELVES
+1 6+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Paired Sciansá 3 3+ 4+ - 1 Crit (Auto-wound)
+Witch Aelves are devotees Passive
+of bloodshed and murder, FRENZIED FERVOUR: Witch
+eschewing heavy armour in
+favour of nigh-supernatural Aelves hurl themselves at the enemy
+agility. As they charge headlong with no fear of death, cutting down
+into the foe, they enter an foes in a whirlwind of blades.
+ecstatic killing frenzy. For the
+Witch Aelves, battle is a sacred Effect: Add 1 to the Rend
+ritual where they can truly characteristic of this unit’s melee
+express their devotion to their weapons if it charged in the
+Murder God. Each carries a same turn.
+sciansá, a holy tool tempered
+in blood – one twist of this
+notched blade causes extreme
+pain as it slices through foes’
+guts and severs their arteries in
+a crimson spray.
+KEYWORDS Infantry, Reinforcements, Ward (6+)
+
+--- Page 39 ---
+SAVE
+MOVE
+CONTROL
+HTLAEH
+• SPEARHEAD WARSCROLL •
+14"
+DOOMFIRE WARLOCKS
+3 5+
+1
+Doomfire Warlocks are expert
+light cavalry, adept at harrying
+flanks with crossbow fire or
+cutting down targets with their
+cursed scimitars. They can
+harness the power of shadow,
+hurling bolts of black flame to
+destroy their targets. Each is
+branded with a painful rune
+upon their forehead, without
+which they would gradually
+wither away, for the majority
+of males in the temple-cities
+are born weak of body and
+spirit. These sigils greatly
+amplify the Warlocks’ magical
+potential , allowing them to
+cast searing bolts of magical
+doomfire at those nearby,
+but forever leash them to
+Morathi-Khaine’s service.
+Cavalry, Reinforcements, Ward (6+)
+SAVE
+MOVE
+CONTROL
+HTLAEH
+RANGED WEAPONS Range Attacks Hit Wound Rend Damage Ability
+Doomfire Crossbow 10" 2 3+ 4+ - 1 -
+MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Cursed Scimitar 2 3+ 4+ 1 1 -
+Dark Steed’s Vicious Bite 2 5+ 3+ - 1 Companion
+Your Hero Phase
+DOOMFIRE: The Doomfire
+Warlocks hurl bolts of blazing black
+flame at their foes.
+Declare: Pick a visible enemy unit
+within 12" of this unit to be the
+target, then make a casting roll
+of 2D6.
+Effect: On a 6+, inflict D3 mortal
+damage on the target.
+KEYWORDS
+• SPEARHEAD WARSCROLL •
+6"
+WITCH AELVES
+1 6+
+1 MELEE WEAPONS Attacks Hit Wound Rend Damage Ability
+Paired Sciansá 3 3+ 4+ - 1 Crit (Auto-wound)
+Witch Aelves are devotees Passive
+of bloodshed and murder, FRENZIED FERVOUR: Witch
+eschewing heavy armour in
+favour of nigh-supernatural Aelves hurl themselves at the enemy
+agility. As they charge headlong with no fear of death, cutting down
+into the foe, they enter an foes in a whirlwind of blades.
+ecstatic killing frenzy. For the
+Witch Aelves, battle is a sacred Effect: Add 1 to the Rend
+ritual where they can truly characteristic of this unit’s melee
+express their devotion to their weapons if it charged in the
+Murder God. Each carries a same turn.
+sciansá, a holy tool tempered
+in blood – one twist of this
+notched blade causes extreme
+pain as it slices through foes’
+guts and severs their arteries in
+a crimson spray.
+KEYWORDS Infantry, Reinforcements, Ward (6+)
