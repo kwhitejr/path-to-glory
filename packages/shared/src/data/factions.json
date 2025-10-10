@@ -130,5 +130,49 @@
         "description": "Feared across the realms, this hero leaves naught in their wake but a trail of sun-bleached bones. Once per battle: This unit can use 2 Fight abilities this phase. After the first is used, however, this unit has Strike-last for the rest of the turn."
       }
     ]
+  },
+  "stormcast-eternals": {
+    "id": "stormcast-eternals",
+    "name": "Stormcast Eternals",
+    "grandAlliance": "ORDER",
+    "startingGlory": 0,
+    "startingRenown": 1,
+    "description": "Path to Glory faction pack for Stormcast Eternals",
+    "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
+    "extractedAt": "2025-10-09T00:00:00.000Z",
+    "enhancements": [
+      {
+        "id": "null-pendant",
+        "name": "Null Pendant",
+        "description": "This dark amulet holds magic within that can sap the resolve of the enemy. Once per battle, end of any turn: Pick an enemy unit in combat with this unit to be the target. Subtract 5 from the target's control score for the rest of the turn."
+      },
+      {
+        "id": "quicksilver-draught",
+        "name": "Quicksilver Draught",
+        "description": "This potion lends uncanny speed to the one who imbibes it. Once per battle, any combat phase: This unit has Strike-first for the rest of the turn."
+      },
+      {
+        "id": "mirrorshield",
+        "name": "Mirrorshield",
+        "description": "This shield reflects the sun's rays in questing beams that seek out the eyes of enemy marksmen. This unit cannot be targeted by shooting attacks unless the attacking model is within 9\" of it."
+      }
+    ],
+    "pathAbilities": [
+      {
+        "id": "staunch-defender",
+        "name": "Staunch Defender",
+        "description": "To contest the sacred grounds of Sigmar is to invoke the almighty power of Azyr. While this unit is contesting an objective in friendly territory, add 3 to the control scores of all friendly Stormcast Eternals units contesting that objective."
+      },
+      {
+        "id": "envoy-of-the-heavens",
+        "name": "Envoy of the Heavens",
+        "description": "When a Stormcast Eternal is laid low, the light that carries the warrior's soul back to Azyr invigorates those who fight on. If a friendly unit was destroyed in the previous turn, pick a visible friendly Stormcast Eternals unit wholly within 12\" of this unit to be the target. The target has Ward (5+) until the start of your next turn."
+      },
+      {
+        "id": "shock-and-awe",
+        "name": "Shock and Awe",
+        "description": "When this general and their Stormcasts take to the field, their shining visage strikes fear into the foe. Each time a friendly Stormcast Eternals unit is set up wholly within 12\" of this unit using the 'Scions of the Storm' ability, subtract 1 from hit rolls for attacks that target that unit for the rest of the battle round."
+      }
+    ]
   }
 }
