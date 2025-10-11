@@ -23,6 +23,11 @@ export const GET_MY_ARMIES = gql`
       units {
         id
         unitTypeId
+        name
+        rank
+        renown
+        reinforced
+        isWarlord
       }
     }
   }
