@@ -1,12 +1,6 @@
 1. Tests tests and more tests.
 1. Fix local dev
-1. Profile pic in army list is still busted
-1. Ensure new frontend forms saves to backend
-1. Create army failed due to "Error loading army: Cannot return null for non-nullable field Army.questPoints."
-1. Create Army form needs to show army po/int total somewhere.
-1. Maybe there should be a floating widget with key army data (faction, point total, warlord, unit names).
-1. Add form data validation so that no junk data makes it to the data base
-1. Add Battle Traits accordion component for each army faction
+1. Fix units without battle profile data
 1. Make warscrolls queryable
 1. Custom warscroll form
 1. Add image capability
