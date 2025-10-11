@@ -49,6 +49,15 @@
     "unit": ["Unique", "Hero", "Cavalry"],
     "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
   },
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 180,
+    "baseSize": "90 × 52mm",
+    "isManifestation": false,
+    "isFactionTerrain": false
+  },
+  "regimentOptions": "0-1 Ruinous Champion, Any Slaves to Darkness",
+  "notes": "This Hero can join Be'lakor's regiment.",
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }

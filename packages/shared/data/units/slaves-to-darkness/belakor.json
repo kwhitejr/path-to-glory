@@ -69,6 +69,14 @@
     "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (2)", "Fly", "Ward (6+)"],
     "faction": ["Chaos", "Slaves to Darkness", "Daemon", "Undivided"]
   },
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 460,
+    "baseSize": "100mm",
+    "isManifestation": false,
+    "isFactionTerrain": false
+  },
+  "regimentOptions": "0-1 Eternus or Ruinous Champion, Any Slaves to Darkness",
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }

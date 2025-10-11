@@ -68,6 +68,8 @@ export const BattleProfileSchema = z.object({
   points: z.number(),
   keywords: z.array(z.string()).optional(),
   baseSize: z.string().optional(),
+  isManifestation: z.boolean().optional(), // True for Manifestations/Endless Spells
+  isFactionTerrain: z.boolean().optional(), // True for Faction Terrain
 });
 
 export type BattleProfile = z.infer<typeof BattleProfileSchema>;

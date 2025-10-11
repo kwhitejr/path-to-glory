@@ -27,6 +27,13 @@
     "unit": ["Manifestation", "Endless Spell", "Ward (6+)", "Banishment (7+)"],
     "faction": ["Death", "Flesh-eater Courts"]
   },
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 0,
+    "isManifestation": true,
+    "isFactionTerrain": false
+  },
+  "notes": "Summoned manifestation - does not cost points in matched play",
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }

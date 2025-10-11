@@ -33,6 +33,13 @@
     "unit": ["Faction Terrain"],
     "faction": ["Chaos", "Slaves to Darkness"]
   },
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 0,
+    "isManifestation": false,
+    "isFactionTerrain": true
+  },
+  "notes": "Faction terrain - does not cost points in matched play",
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }

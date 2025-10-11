@@ -126,11 +126,20 @@ export default function UnitSelector({
                 })
                 .map((unit) => {
                   const isHero = unit.keywords.unit.includes('Hero');
-                  const prefix = isHero ? '[Hero] ' : '';
+                  const isManifestation = unit.battleProfile?.isManifestation || false;
+                  const isFactionTerrain = unit.battleProfile?.isFactionTerrain || false;
+
+                  let prefix = '';
+                  if (isHero) prefix = '[Hero] ';
+                  else if (isManifestation) prefix = '[Manifestation] ';
+                  else if (isFactionTerrain) prefix = '[Terrain] ';
+
                   const points = unit.battleProfile?.points || 0;
+                  const pointsLabel = points === 0 ? 'Free' : `${points} pts`;
+
                   return (
                     <option key={unit.id} value={unit.id}>
-                      {prefix}{unit.name} ({points} pts)
+                      {prefix}{unit.name} ({pointsLabel})
                     </option>
                   );
                 })}
@@ -294,6 +303,10 @@ export default function UnitSelector({
           {selectedUnits.map((unit) => {
             const unitData = availableUnits[unit.warscrollId];
             const points = unitData?.battleProfile?.points || 0;
+            const isManifestation = unitData?.battleProfile?.isManifestation || false;
+            const isFactionTerrain = unitData?.battleProfile?.isFactionTerrain || false;
+            const pointsLabel = points === 0 ? 'Free' : `${points} pts`;
+
             return (
               <div
                 key={unit.id}
@@ -301,11 +314,23 @@ export default function UnitSelector({
               >
                 <div className="flex items-start justify-between mb-2">
                   <div className="flex-1">
-                    <div className="font-medium">{unit.name}</div>
+                    <div className="flex items-center gap-2">
+                      <div className="font-medium">{unit.name}</div>
+                      {isManifestation && (
+                        <span className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-purple-100 text-purple-700">
+                          MANIFESTATION
+                        </span>
+                      )}
+                      {isFactionTerrain && (
+                        <span className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-amber-100 text-amber-700">
+                          TERRAIN
+                        </span>
+                      )}
+                    </div>
                     <div className="text-sm text-gray-600">{unit.warscroll}</div>
                   </div>
                   <div className="flex items-center gap-3">
-                    <div className="text-sm font-semibold text-primary-600">{points} pts</div>
+                    <div className="text-sm font-semibold text-primary-600">{pointsLabel}</div>
                     <button
                       type="button"
                       onClick={() => handleRemoveUnit(unit.id)}

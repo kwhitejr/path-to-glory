@@ -68,6 +68,14 @@
     "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (3)", "Fly", "Ward (6+)"],
     "faction": ["Death", "Ossiarch Bonereapers"]
   },
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 390,
+    "baseSize": "120 × 92mm",
+    "isManifestation": false,
+    "isFactionTerrain": false
+  },
+  "regimentOptions": "0-1 Legion Subcommander, Any Ossiarch Bonereapers",
   "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }
