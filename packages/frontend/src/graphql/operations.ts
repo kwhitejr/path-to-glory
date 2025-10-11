@@ -198,6 +198,12 @@ export const UPDATE_UNIT = gql`
   }
 `;
 
+export const DELETE_ARMY = gql`
+  mutation DeleteArmy($id: ID!) {
+    deleteArmy(id: $id)
+  }
+`;
+
 export const REMOVE_UNIT = gql`
   mutation RemoveUnit($id: ID!) {
     removeUnit(id: $id)

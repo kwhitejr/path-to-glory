@@ -1,9 +1,17 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
 import { useQuery, useMutation } from '@apollo/client';
-import { getAllFactions, RealmOfOrigin, RealmOfOriginLabels, getBattleFormationsByFaction } from '@path-to-glory/shared';
+import {
+  getAllFactions,
+  RealmOfOrigin,
+  RealmOfOriginLabels,
+  getBattleFormationsByFaction,
+  getSpellLoreByFaction,
+  getPrayerLoreByFaction,
+  getManifestationLoreByFaction
+} from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
-import { GET_ARMY, UPDATE_ARMY, GET_MY_ARMIES } from '../graphql/operations';
+import { GET_ARMY, UPDATE_ARMY, DELETE_ARMY, GET_MY_ARMIES } from '../graphql/operations';
 
 export default function EditArmyPage() {
   const navigate = useNavigate();
@@ -23,6 +31,10 @@ export default function EditArmyPage() {
     ],
   });
 
+  const [deleteArmy, { loading: deleting }] = useMutation(DELETE_ARMY, {
+    refetchQueries: [{ query: GET_MY_ARMIES }],
+  });
+
   const [formData, setFormData] = useState({
     name: '',
     realmOfOrigin: '' as RealmOfOrigin | '',
@@ -32,10 +44,10 @@ export default function EditArmyPage() {
     currentQuest: '',
     questPoints: 0,
     completedQuests: [] as string[],
-    spellLore: [] as string[],
-    prayerLore: [] as string[],
-    manifestationLore: [] as string[],
   });
+  const [selectedSpells, setSelectedSpells] = useState<string[]>([]);
+  const [selectedPrayers, setSelectedPrayers] = useState<string[]>([]);
+  const [selectedManifestations, setSelectedManifestations] = useState<string[]>([]);
 
   const [submitError, setSubmitError] = useState<string | null>(null);
 
@@ -59,10 +71,10 @@ export default function EditArmyPage() {
         currentQuest: army.currentQuest || '',
         questPoints: army.questPoints || 0,
         completedQuests: army.completedQuests || [],
-        spellLore: army.spellLore || [],
-        prayerLore: army.prayerLore || [],
-        manifestationLore: army.manifestationLore || [],
       });
+      setSelectedSpells(army.spellLore || []);
+      setSelectedPrayers(army.prayerLore || []);
+      setSelectedManifestations(army.manifestationLore || []);
     }
   }, [army, user, authLoading, navigate]);
 
@@ -88,9 +100,9 @@ export default function EditArmyPage() {
             currentQuest: formData.currentQuest || undefined,
             questPoints: formData.questPoints,
             completedQuests: formData.completedQuests,
-            spellLore: formData.spellLore,
-            prayerLore: formData.prayerLore,
-            manifestationLore: formData.manifestationLore,
+            spellLore: selectedSpells,
+            prayerLore: selectedPrayers,
+            manifestationLore: selectedManifestations,
           },
         },
       });
@@ -103,9 +115,26 @@ export default function EditArmyPage() {
     }
   };
 
-  const handleDelete = () => {
-    // TODO: Implement delete army mutation
-    alert('Delete army functionality not yet implemented');
+  const handleDelete = async () => {
+    if (!army) return;
+
+    const confirmMessage = `Are you sure you want to delete "${army.name}"?\n\nThis will permanently delete the army and all its units. This action cannot be undone.`;
+
+    if (!window.confirm(confirmMessage)) {
+      return;
+    }
+
+    try {
+      await deleteArmy({
+        variables: { id: armyId! },
+      });
+
+      console.log('Army deleted successfully');
+      navigate('/armies');
+    } catch (err) {
+      console.error('Error deleting army:', err);
+      alert(err instanceof Error ? err.message : 'Failed to delete army');
+    }
   };
 
   if (queryLoading || authLoading) {
@@ -142,6 +171,9 @@ export default function EditArmyPage() {
 
   const selectedFaction = factions.find((f) => f.id === army.factionId);
   const battleFormations = army.factionId ? getBattleFormationsByFaction(army.factionId) : [];
+  const spellLore = army.factionId ? getSpellLoreByFaction(army.factionId) : null;
+  const prayerLore = army.factionId ? getPrayerLoreByFaction(army.factionId) : null;
+  const manifestationLore = army.factionId ? getManifestationLoreByFaction(army.factionId) : null;
 
   return (
     <div className="max-w-2xl mx-auto">
@@ -355,57 +387,122 @@ export default function EditArmyPage() {
         </div>
 
         {/* Arcane Tome Section */}
-        <div className="border-t pt-6">
-          <h3 className="text-lg font-semibold mb-4">Arcane Tome</h3>
+        {(spellLore || prayerLore || manifestationLore) && (
+          <div className="card bg-purple-50 border border-purple-200">
+            <h3 className="font-semibold mb-3">Arcane Tome</h3>
+            <p className="text-sm text-gray-600 mb-4">
+              Select spells, prayers, and manifestations for your army
+            </p>
 
-          {/* Spell Lore */}
-          <div className="mb-4">
-            <label htmlFor="spellLore" className="label">
-              Spell Lore (max 6)
-            </label>
-            <textarea
-              id="spellLore"
-              rows={3}
-              className="input"
-              value={formData.spellLore.join('\n')}
-              onChange={(e) => setFormData({ ...formData, spellLore: e.target.value.split('\n').filter(s => s.trim()).slice(0, 6) })}
-              placeholder="Enter spells, one per line (max 6)..."
-              disabled={updating}
-            />
-          </div>
+            {/* Spell Lore */}
+            {spellLore && (
+              <div className="mb-4">
+                <label className="label text-sm font-medium">
+                  {spellLore.name}
+                </label>
+                <div className="space-y-2 mt-2">
+                  {spellLore.spells.map((spell) => (
+                    <label
+                      key={spell.id}
+                      className="flex items-start p-3 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={selectedSpells.includes(spell.id)}
+                        onChange={(e) => {
+                          if (e.target.checked) {
+                            setSelectedSpells([...selectedSpells, spell.id]);
+                          } else {
+                            setSelectedSpells(selectedSpells.filter(id => id !== spell.id));
+                          }
+                        }}
+                        className="h-4 w-4 text-purple-600 focus:ring-purple-500 border-gray-300 rounded mt-1"
+                        disabled={updating}
+                      />
+                      <div className="ml-3 flex-1">
+                        <div className="font-medium text-sm">{spell.name}</div>
+                        <div className="text-xs text-gray-500">Casting Value: {spell.castingValue}</div>
+                        <div className="text-xs text-gray-600 mt-1">{spell.description}</div>
+                      </div>
+                    </label>
+                  ))}
+                </div>
+              </div>
+            )}
 
-          {/* Prayer Lore */}
-          <div className="mb-4">
-            <label htmlFor="prayerLore" className="label">
-              Prayer Lore (max 6)
-            </label>
-            <textarea
-              id="prayerLore"
-              rows={3}
-              className="input"
-              value={formData.prayerLore.join('\n')}
-              onChange={(e) => setFormData({ ...formData, prayerLore: e.target.value.split('\n').filter(p => p.trim()).slice(0, 6) })}
-              placeholder="Enter prayers, one per line (max 6)..."
-              disabled={updating}
-            />
-          </div>
+            {/* Prayer Lore */}
+            {prayerLore && (
+              <div className="mb-4">
+                <label className="label text-sm font-medium">
+                  {prayerLore.name}
+                </label>
+                <div className="space-y-2 mt-2">
+                  {prayerLore.prayers.map((prayer) => (
+                    <label
+                      key={prayer.id}
+                      className="flex items-start p-3 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={selectedPrayers.includes(prayer.id)}
+                        onChange={(e) => {
+                          if (e.target.checked) {
+                            setSelectedPrayers([...selectedPrayers, prayer.id]);
+                          } else {
+                            setSelectedPrayers(selectedPrayers.filter(id => id !== prayer.id));
+                          }
+                        }}
+                        className="h-4 w-4 text-purple-600 focus:ring-purple-500 border-gray-300 rounded mt-1"
+                        disabled={updating}
+                      />
+                      <div className="ml-3 flex-1">
+                        <div className="font-medium text-sm">{prayer.name}</div>
+                        <div className="text-xs text-gray-500">Chanting Value: {prayer.chantingValue}</div>
+                        <div className="text-xs text-gray-600 mt-1">{prayer.description}</div>
+                      </div>
+                    </label>
+                  ))}
+                </div>
+              </div>
+            )}
 
-          {/* Manifestation Lore */}
-          <div>
-            <label htmlFor="manifestationLore" className="label">
-              Manifestation Lore (max 6)
-            </label>
-            <textarea
-              id="manifestationLore"
-              rows={3}
-              className="input"
-              value={formData.manifestationLore.join('\n')}
-              onChange={(e) => setFormData({ ...formData, manifestationLore: e.target.value.split('\n').filter(m => m.trim()).slice(0, 6) })}
-              placeholder="Enter manifestations, one per line (max 6)..."
-              disabled={updating}
-            />
+            {/* Manifestation Lore */}
+            {manifestationLore && (
+              <div>
+                <label className="label text-sm font-medium">
+                  {manifestationLore.name}
+                </label>
+                <div className="space-y-2 mt-2">
+                  {manifestationLore.manifestations.map((manifestation) => (
+                    <label
+                      key={manifestation.id}
+                      className="flex items-start p-3 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={selectedManifestations.includes(manifestation.id)}
+                        onChange={(e) => {
+                          if (e.target.checked) {
+                            setSelectedManifestations([...selectedManifestations, manifestation.id]);
+                          } else {
+                            setSelectedManifestations(selectedManifestations.filter(id => id !== manifestation.id));
+                          }
+                        }}
+                        className="h-4 w-4 text-purple-600 focus:ring-purple-500 border-gray-300 rounded mt-1"
+                        disabled={updating}
+                      />
+                      <div className="ml-3 flex-1">
+                        <div className="font-medium text-sm">{manifestation.name}</div>
+                        <div className="text-xs text-gray-500">Casting Value: {manifestation.castingValue}</div>
+                        <div className="text-xs text-gray-600 mt-1">{manifestation.description}</div>
+                      </div>
+                    </label>
+                  ))}
+                </div>
+              </div>
+            )}
           </div>
-        </div>
+        )}
 
         {/* Actions */}
         <div className="flex gap-3 pt-4">
@@ -435,9 +532,10 @@ export default function EditArmyPage() {
           <button
             type="button"
             onClick={handleDelete}
-            className="btn-secondary bg-red-50 text-red-600 border-red-300 hover:bg-red-100"
+            disabled={updating || deleting}
+            className="btn-secondary bg-red-50 text-red-600 border-red-300 hover:bg-red-100 disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            Delete Army
+            {deleting ? 'Deleting...' : 'Delete Army'}
           </button>
         </div>
       </form>
