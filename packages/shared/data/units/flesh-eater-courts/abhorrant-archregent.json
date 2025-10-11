@@ -25,7 +25,9 @@
       "description": "A triumphant bellowing blast echoes across the land, beckoning the ghoulish hordes to battle.",
       "declare": "Make a casting roll of 2D6.",
       "effect": "The first friendly Flesh-eater Courts unit to be set up in the following movement phase can immediately move D6\". That unit cannot move into combat during any part of that move.",
-      "keywords": ["Spell"]
+      "keywords": [
+        "Spell"
+      ]
     },
     {
       "name": "Countless Servants",
@@ -33,13 +35,30 @@
       "description": "With a chilling shriek, the Archregent summons some of their most trusted warriors.",
       "declare": "Pick a friendly Serfs or Knights unit wholly within 12\" of this unit to be the target.",
       "effect": "Roll a dice. On a 3+:\n• If the target is a Serfs unit, you can return up to 3 slain models to that unit.\n• If the target is a Knights unit, you can return 1 slain model to that unit.",
-      "keywords": ["Core"]
+      "keywords": [
+        "Core"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Wizard (2)", "Infantry", "Ward (6+)"],
-    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+    "unit": [
+      "Hero",
+      "Wizard (2)",
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts",
+      "Abhorrant"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 160,
+    "regimentOptions": "0-1 Royal Attendant, Any Flesh-eater Courts",
+    "baseSize": "40mm"
+  }
 }

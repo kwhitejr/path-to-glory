@@ -46,13 +46,27 @@
       "description": "To stand near a Mutalith can have horrific consequences.",
       "declare": "Pick a visible enemy unit within 12\" of this unit to be the target.",
       "effect": "Roll a dice and apply the corresponding effect below. If this unit is wholly within 12\" of a friendly Tzeentch Wizard, you can roll 2 dice instead, pick either result, then apply the corresponding effect below.\n\n1 Untouched: No effect.\n2 Hideous Disfigurement: Subtract 3 from the target's control score until the start of your next turn.\n3 Troggbrains: The target cannot use commands for the rest of the turn.\n4 Gift of Mutations: Subtract 1\" from the target's Move characteristic for the rest of the battle.\n5 Horrific Absorption: Inflict D6 mortal damage on the target. Then, Heal (D6) this unit.\n6 Transmogrification: Pick any other effect.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Monster"],
-    "faction": ["Chaos", "Slaves to Darkness", "Daemon", "Tzeentch"]
+    "unit": [
+      "Monster"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Daemon",
+      "Tzeentch"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 170,
+    "baseSize": "40mm"
+  }
 }

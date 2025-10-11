@@ -33,9 +33,23 @@
     }
   ],
   "keywords": {
-    "unit": ["Beast"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
+    "unit": [
+      "Beast"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 6,
+    "points": 100,
+    "keywords": [
+      "Beast"
+    ],
+    "baseSize": "60 × 35mm"
+  }
 }

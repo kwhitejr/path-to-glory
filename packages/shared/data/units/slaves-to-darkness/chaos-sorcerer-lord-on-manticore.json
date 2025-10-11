@@ -42,13 +42,29 @@
       "description": "The barbed tail of a Manticore secretes a paralysing toxin that can stun an enemy long enough for the Manticore to tear into them with impunity.",
       "declare": "Pick an enemy Monster in combat with this unit to be the target.",
       "effect": "Roll a dice. On a 3+, the target has Strike-last for the rest of the turn.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Monster", "Wizard (1)", "Fly"],
-    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+    "unit": [
+      "Hero",
+      "Monster",
+      "Wizard (1)",
+      "Fly"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Warriors of Chaos"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 120,
+    "baseSize": "40mm"
+  }
 }

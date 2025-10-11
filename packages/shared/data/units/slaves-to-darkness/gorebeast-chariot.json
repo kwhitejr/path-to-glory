@@ -52,9 +52,24 @@
     }
   ],
   "keywords": {
-    "unit": ["War Machine"],
-    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+    "unit": [
+      "War Machine"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Warriors of Chaos"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 100,
+    "keywords": [
+      "Warriors of Chaos",
+      "War Machine"
+    ],
+    "baseSize": "120 × 92mm"
+  }
 }

@@ -52,7 +52,9 @@
       "description": "The Zombie Dragon approaches the front line from above, eye sockets aglow with unholy energy.",
       "declare": "Pick this unit if it has not been deployed.",
       "effect": "Set up this unit in reserve high above the battlefield. It has now been deployed.",
-      "keywords": ["Deploy"]
+      "keywords": [
+        "Deploy"
+      ]
     },
     {
       "name": "Loathsome Descent",
@@ -66,13 +68,30 @@
       "timing": "Once Per Turn (Army), Any Combat Phase",
       "description": "The Zombie Dragon soars over the enemy warriors, scouring those below with its corrosive breath.",
       "effect": "If this unit charged this turn, roll a dice. On a 3+, this unit can move 2D6\". It can pass through the combat ranges of enemy units but must end that move in combat. Then, pick an enemy unit that this unit passed across during that move. Inflict D3 mortal damage on that enemy unit.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Monster", "Fly", "Ward (6+)"],
-    "faction": ["Death", "Flesh-eater Courts"]
+    "unit": [
+      "Monster",
+      "Fly",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 240,
+    "keywords": [
+      "Monster"
+    ],
+    "baseSize": "130mm"
+  }
 }

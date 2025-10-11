@@ -51,7 +51,9 @@
       "description": "Gothizzar Harvesters are capable of swiftly disassembling their foes so that nearby Mortek might be reconstituted from their blood-smeared bones.",
       "declare": "Pick an enemy Infantry unit in combat with this unit to be the target.",
       "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. For each model slain by this ability, you can return 1 slain model to a friendly Mortek Guard unit wholly within 12\" of this unit.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     },
     {
       "name": "Repair Construct",
@@ -62,9 +64,23 @@
     }
   ],
   "keywords": {
-    "unit": ["Monster", "Ward (6+)"],
-    "faction": ["Death", "Ossiarch Bonereapers"]
+    "unit": [
+      "Monster",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Ossiarch Bonereapers"
+    ]
   },
   "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 140,
+    "keywords": [
+      "Monster"
+    ],
+    "baseSize": "105 × 70mm"
+  }
 }

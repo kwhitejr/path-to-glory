@@ -65,13 +65,28 @@
       "description": "The enormous maw of a Stardrake can bite a foe in half.",
       "declare": "Pick an enemy unit in combat with this unit to be the target.",
       "effect": "Roll 3 dice. For each roll that equals or exceeds the target's Health characteristic, 1 model in the target unit is slain.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Monster", "Fly"],
-    "faction": ["Order", "Stormcast Eternals", "Extremis Chamber"]
+    "unit": [
+      "Hero",
+      "Monster",
+      "Fly"
+    ],
+    "faction": [
+      "Order",
+      "Stormcast Eternals",
+      "Extremis Chamber"
+    ]
   },
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 100,
+    "baseSize": "40mm"
+  }
 }

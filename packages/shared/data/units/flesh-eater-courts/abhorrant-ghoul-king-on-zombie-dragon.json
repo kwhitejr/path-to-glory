@@ -60,7 +60,9 @@
       "description": "To behold such a majestic beast as a dragon in the grip of undeath evokes awe and abject terror in equal measure.",
       "declare": "Pick an enemy unit in combat with this unit to be the target.",
       "effect": "Roll a dice. If the roll exceeds the target's Control characteristic, the target cannot use commands for the rest of the turn.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     },
     {
       "name": "Monstrous Hunger",
@@ -70,9 +72,25 @@
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Monster", "Wizard (1)", "Fly", "Ward (6+)"],
-    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+    "unit": [
+      "Hero",
+      "Monster",
+      "Wizard (1)",
+      "Fly",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts",
+      "Abhorrant"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 120,
+    "regimentOptions": "0-1 Royal Attendant, Any Flesh-eater Courts",
+    "baseSize": "130mm"
+  }
 }

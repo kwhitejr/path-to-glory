@@ -42,13 +42,28 @@
       "description": "It is a point of pride to a Manticore rider that they and their steed are the apex predators of the battlefield. They seek out the strongest foes and do not rest until they have proven their supremacy with a vicious kill.",
       "declare": "Pick an enemy Monster in combat with this unit to be the target.",
       "effect": "Add 1 to hit rolls for this unit's combat attacks that target that Monster for the rest of the turn. This ability also affects Companion weapons.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Monster", "Fly"],
-    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+    "unit": [
+      "Hero",
+      "Monster",
+      "Fly"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Warriors of Chaos"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 100,
+    "baseSize": "40mm"
+  }
 }

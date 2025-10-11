@@ -28,9 +28,26 @@
     }
   ],
   "keywords": {
-    "unit": ["Infantry", "Champion", "Standard Bearer (1/5)"],
-    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+    "unit": [
+      "Infantry",
+      "Champion",
+      "Standard Bearer (1/5)"
+    ],
+    "faction": [
+      "Order",
+      "Stormcast Eternals",
+      "Warrior Chamber"
+    ]
   },
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 5,
+    "points": 100,
+    "keywords": [
+      "Warrior Chamber",
+      "Infantry"
+    ],
+    "baseSize": "40mm"
+  }
 }

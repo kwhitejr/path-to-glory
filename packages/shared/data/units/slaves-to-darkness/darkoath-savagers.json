@@ -28,9 +28,27 @@
     }
   ],
   "keywords": {
-    "unit": ["Infantry", "Champion (1/10)"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath"]
+    "unit": [
+      "Infantry",
+      "Champion (1/10)"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided",
+      "Darkoath"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 10,
+    "points": 90,
+    "keywords": [
+      "Darkoath",
+      "Infantry"
+    ],
+    "notes": "This unit cannot be reinforced.",
+    "baseSize": "32mm [3], 28.5mm [7]"
+  }
 }

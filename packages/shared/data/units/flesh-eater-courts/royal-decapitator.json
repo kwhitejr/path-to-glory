@@ -34,9 +34,24 @@
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Infantry", "Ward (6+)"],
-    "faction": ["Death", "Flesh-eater Courts", "Courtier"]
+    "unit": [
+      "Hero",
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts",
+      "Courtier"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 100,
+    "regimentOptions": "0-1 Beast, Any Serfs",
+    "notes": "This Hero can join an eligible regiment as a Royal Attendant.",
+    "baseSize": "32mm"
+  }
 }

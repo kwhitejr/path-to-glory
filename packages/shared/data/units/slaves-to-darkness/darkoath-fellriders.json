@@ -62,9 +62,28 @@
     }
   ],
   "keywords": {
-    "unit": ["Cavalry", "Champion", "Musician (1/5)", "Standard Bearer (1/5)"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath"]
+    "unit": [
+      "Cavalry",
+      "Champion",
+      "Musician (1/5)",
+      "Standard Bearer (1/5)"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided",
+      "Darkoath"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 5,
+    "points": 150,
+    "keywords": [
+      "Darkoath",
+      "Cavalry"
+    ],
+    "baseSize": "60 × 35mm"
+  }
 }

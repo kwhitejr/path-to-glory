@@ -53,7 +53,9 @@
       "description": "The Thanatorg is quick to put potential usurpers of Abraxia's power in their place.",
       "declare": "Pick an enemy Hero in combat with this unit to be the target.",
       "effect": "Roll a dice. On a 3+, subtract 1 from the Attacks characteristic of the target's melee weapons for the rest of the turn.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     },
     {
       "name": "Gorbolga the Accurs'd",
@@ -63,9 +65,24 @@
     }
   ],
   "keywords": {
-    "unit": ["Unique", "Hero", "Monster", "Ward (5+)"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Warriors of Chaos"]
+    "unit": [
+      "Unique",
+      "Hero",
+      "Monster",
+      "Ward (5+)"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided",
+      "Warriors of Chaos"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 350,
+    "baseSize": "40mm"
+  }
 }

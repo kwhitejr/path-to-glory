@@ -40,13 +40,29 @@
       "description": "Nadja spits a vile curse in the Dark Tongue, drawing unnatural shadows to coil around an enemy champion and sap their life force.",
       "declare": "Pick a visible enemy Hero within 18\" of this unit to be the target, then make a casting roll of 2D6.",
       "effect": "Inflict 1 mortal damage on the target and subtract 1 from the Attacks characteristic of the target's melee weapons until the start of your next turn.",
-      "keywords": ["Spell"]
+      "keywords": [
+        "Spell"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Unique", "Infantry"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath", "Gunnar's Oathsworn"]
+    "unit": [
+      "Unique",
+      "Infantry"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided",
+      "Darkoath",
+      "Gunnar's Oathsworn"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 0,
+    "baseSize": "40mm"
+  }
 }

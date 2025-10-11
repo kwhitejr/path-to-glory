@@ -25,13 +25,26 @@
       "description": "A Sphiranx can manipulate the actions of its enemies with a simple glance.",
       "declare": "Pick an enemy unit within 6\" of this unit to be the target.",
       "effect": "Roll a dice. If the roll exceeds the target's Control characteristic, the target has Strike-last for the rest of the turn.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Monster"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
+    "unit": [
+      "Monster"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 150,
+    "baseSize": "40mm"
+  }
 }

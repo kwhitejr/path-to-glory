@@ -37,13 +37,34 @@
       "description": "There are many ghoulish legends of Crypt Flayers winging down to lift noble heroes into the sky, either plucking them from danger or carrying them into the fray.",
       "declare": "If this unit is not in combat, pick a friendly Flesh-eater Courts Infantry Hero that does not have Fly and is within this unit's combat range to be the target.",
       "effect": "Remove the target from the battlefield. Then, this unit can move a distance up to its Move characteristic. It cannot end that move in combat. Then, set up the target within this unit's combat range and more than 3\" from all enemy units.",
-      "keywords": ["Core", "Move"]
+      "keywords": [
+        "Core",
+        "Move"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Infantry", "Champion", "Fly", "Ward (6+)"],
-    "faction": ["Death", "Flesh-eater Courts", "Knights"]
+    "unit": [
+      "Infantry",
+      "Champion",
+      "Fly",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts",
+      "Knights"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 3,
+    "points": 150,
+    "keywords": [
+      "Knights",
+      "Infantry"
+    ],
+    "baseSize": "50mm"
+  }
 }

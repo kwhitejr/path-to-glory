@@ -41,9 +41,23 @@
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Infantry", "Ward (6+)"],
-    "faction": ["Chaos", "Slaves to Darkness", "Daemon"]
+    "unit": [
+      "Hero",
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Daemon"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 260,
+    "regimentOptions": "0-1 Ruinous Champion, Any Slaves to Darkness",
+    "baseSize": "60mm"
+  }
 }

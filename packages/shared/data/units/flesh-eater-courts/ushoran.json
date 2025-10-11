@@ -45,7 +45,9 @@
       "description": "Madness pulses from the gem in Ushoran's crown, overwhelming those who draw too close.",
       "declare": "Pick up to 3 enemy units in combat with this unit to be the targets.",
       "effect": "Roll a dice for each target. If the roll exceeds the target's Control characteristic, the target has Strike-last for the rest of the turn.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     },
     {
       "name": "Glimpse of Delusion",
@@ -53,7 +55,9 @@
       "description": "Ushoran pulls an enemy into his delusion, causing them to see friends as vicious monsters.",
       "declare": "Pick a visible enemy model within 18\" of this unit to be the target, pick another enemy unit within the target's combat range to be the victim, then make a casting roll of 2D6.",
       "effect": "Pick 1 of the target's melee weapons. Immediately resolve combat attacks made with that weapon against the victim.",
-      "keywords": ["Spell"]
+      "keywords": [
+        "Spell"
+      ]
     },
     {
       "name": "Epicentre of Delusion",
@@ -62,9 +66,26 @@
     }
   ],
   "keywords": {
-    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (2)", "Ward (5+)"],
-    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+    "unit": [
+      "Warmaster",
+      "Unique",
+      "Hero",
+      "Monster",
+      "Wizard (2)",
+      "Ward (5+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts",
+      "Abhorrant"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 450,
+    "regimentOptions": "Any Royal Attendant, Any Flesh-eater Courts",
+    "baseSize": "130mm"
+  }
 }

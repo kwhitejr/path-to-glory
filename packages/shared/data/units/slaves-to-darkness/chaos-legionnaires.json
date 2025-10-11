@@ -28,9 +28,21 @@
     }
   ],
   "keywords": {
-    "unit": ["Infantry", "Champion (1/8)"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
+    "unit": [
+      "Infantry",
+      "Champion (1/8)"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 80,
+    "baseSize": "40mm"
+  }
 }

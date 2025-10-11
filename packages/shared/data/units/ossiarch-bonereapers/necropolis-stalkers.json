@@ -28,9 +28,23 @@
     }
   ],
   "keywords": {
-    "unit": ["Infantry", "Ward (6+)"],
-    "faction": ["Death", "Ossiarch Bonereapers"]
+    "unit": [
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Ossiarch Bonereapers"
+    ]
   },
   "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 3,
+    "points": 140,
+    "keywords": [
+      "Infantry"
+    ],
+    "baseSize": "50mm"
+  }
 }

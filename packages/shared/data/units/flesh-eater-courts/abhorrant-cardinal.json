@@ -28,9 +28,24 @@
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Priest (1)", "Infantry", "Ward (6+)"],
-    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+    "unit": [
+      "Hero",
+      "Priest (1)",
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts",
+      "Abhorrant"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 130,
+    "regimentOptions": "0-1 Royal Attendant, 0-1 Beast, 0-1 Knights, Any Serfs",
+    "baseSize": "32mm"
+  }
 }

@@ -29,9 +29,24 @@
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Wizard (1)", "Infantry", "Ward (6+)"],
-    "faction": ["Death", "Ossiarch Bonereapers", "Mortisan"]
+    "unit": [
+      "Hero",
+      "Wizard (1)",
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Ossiarch Bonereapers",
+      "Mortisan"
+    ]
   },
   "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 110,
+    "regimentOptions": "0-1 Gothizzar Harvester, Any Infantry",
+    "baseSize": "32mm"
+  }
 }

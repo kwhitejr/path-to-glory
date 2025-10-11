@@ -45,13 +45,28 @@
       "description": "The Shrinemaster invokes the Dark Pantheon to bless nearby followers with their favour.",
       "declare": "Pick a visible friendly Slaves to Darkness unit wholly within 12\" of this unit that shares a Mark of Chaos keyword with this unit to be the target. Then, make a chanting roll of D6.",
       "effect": "Apply 1 of the following effects to the target for the rest of the turn depending on which Mark of Chaos keyword this unit has:\n• Undivided: When the target uses the 'Rally' command, you can make 3 additional rally rolls of D6.\n• Khorne: Add 1 to hit rolls for the target's attacks.\n• Tzeentch: The target has Ward (5+).\n• Nurgle: Add 1 to wound rolls for the target's attacks.\n• Slaanesh: Add 1 to the number of dice rolled when making charge rolls for the target, to a maximum of 3.\n\nIf the chanting roll was 8+, you can pick up to 2 eligible units to be the targets instead of 1.",
-      "keywords": ["Prayer"]
+      "keywords": [
+        "Prayer"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Priest (1)", "War Machine"],
-    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+    "unit": [
+      "Hero",
+      "Priest (1)",
+      "War Machine"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Warriors of Chaos"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 250,
+    "baseSize": "40mm"
+  }
 }

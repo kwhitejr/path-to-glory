@@ -34,9 +34,26 @@
     }
   ],
   "keywords": {
-    "unit": ["Infantry", "Champion", "Ward (6+)"],
-    "faction": ["Death", "Flesh-eater Courts", "Knights"]
+    "unit": [
+      "Infantry",
+      "Champion",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts",
+      "Knights"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 3,
+    "points": 160,
+    "keywords": [
+      "Knights",
+      "Infantry"
+    ],
+    "baseSize": "50mm"
+  }
 }

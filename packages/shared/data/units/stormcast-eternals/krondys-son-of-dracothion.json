@@ -59,7 +59,9 @@
       "description": "Defiant in the face of any foe, Krondys issues an ear-shattering roar at those who dare face him.",
       "declare": "Pick an enemy unit in combat with this unit to be the target.",
       "effect": "Roll a dice. On a 3+, the target cannot use commands for the rest of the turn.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     },
     {
       "name": "Atavistic Tempest",
@@ -67,13 +69,30 @@
       "description": "Wielding the power of Azyr alongside the lost magics of the Draconith empire, Krondys barrages the enemy with elemental storms.",
       "declare": "Pick a visible enemy unit within 18\" of the caster to be the target, then make a casting roll of 2D6.",
       "effect": "Pick 1 of the following effects to apply to the target until the start of your next turn:\n\nBlinding Gales: Subtract 1 from hit rolls for the target's attacks.\n\nMeteor-hail: Subtract 1 from the Rend characteristic of the target's weapons.\n\nFlash-freezing Blizzard: Subtract 1 from save rolls for the target.",
-      "keywords": ["Spell"]
+      "keywords": [
+        "Spell"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (2)", "Fly"],
-    "faction": ["Order", "Stormcast Eternals"]
+    "unit": [
+      "Warmaster",
+      "Unique",
+      "Hero",
+      "Monster",
+      "Wizard (2)",
+      "Fly"
+    ],
+    "faction": [
+      "Order",
+      "Stormcast Eternals"
+    ]
   },
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 540,
+    "baseSize": "40mm"
+  }
 }

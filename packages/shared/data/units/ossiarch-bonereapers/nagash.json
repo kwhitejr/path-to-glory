@@ -45,7 +45,9 @@
       "description": "Nagash's touch can turn a foe to a pile of dusty bones in moments.",
       "declare": "Pick a visible enemy Hero or Monster in combat with this unit to be the target.",
       "effect": "Hide a dice in one of your hands or under one of two appropriate containers. Your opponent must pick one of your hands or containers. If they pick the one hiding the dice, this ability has no effect. If they pick the empty one, the target is automatically destroyed.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     },
     {
       "name": "Supreme Lord of the Undead",
@@ -59,13 +61,31 @@
       "description": "In a storm of morbid sorcery, Nagash blasts his foes' souls or re-knits his minions' bodies.",
       "declare": "This unit can cast this spell more than once per phase. Pick a visible unit wholly within 18\" of this unit that has not been picked to be the target of this spell this turn to be the target, then make a casting roll of 2D6.",
       "effect": "If the target is an enemy unit, inflict D3 mortal damage on it. If the target is a friendly Death unit, pick 1 of the following effects:\n• Return a number of slain models to the target unit with a combined Health characteristic of up to 3.\n• The target has Ward (5+) until the start of your next turn.",
-      "keywords": ["Spell"]
+      "keywords": [
+        "Spell"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Wizard (9)", "Fly", "Ward (5+)"],
-    "faction": ["Death", "Ossiarch Bonereapers"]
+    "unit": [
+      "Warmaster",
+      "Unique",
+      "Hero",
+      "Monster",
+      "Wizard (9)",
+      "Fly",
+      "Ward (5+)"
+    ],
+    "faction": [
+      "Death",
+      "Ossiarch Bonereapers"
+    ]
   },
   "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 840,
+    "baseSize": "40mm"
+  }
 }

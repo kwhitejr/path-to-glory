@@ -50,13 +50,31 @@
       "description": "Neave Blacktalon has a natural talent at translocating in a blur of lightning to ride the winds aetheric.",
       "declare": "If this unit is in combat or charged this turn, this unit can make a pile-in move. Then, if this unit is in combat, you must pick 1 or more enemy units to be the target(s) of this unit's attacks.",
       "effect": "Resolve combat attacks against the target unit(s). Then, roll a dice. On a 3+, remove this unit from the battlefield and set it up again on the battlefield more than 3\" from all enemy units and wholly within the combat range of a friendly The Blacktalons unit that is not in combat.",
-      "keywords": ["Core", "Attack", "Fight"]
+      "keywords": [
+        "Core",
+        "Attack",
+        "Fight"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Unique", "Hero", "Infantry"],
-    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber", "The Blacktalons"]
+    "unit": [
+      "Unique",
+      "Hero",
+      "Infantry"
+    ],
+    "faction": [
+      "Order",
+      "Stormcast Eternals",
+      "Vanguard Chamber",
+      "The Blacktalons"
+    ]
   },
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 300,
+    "baseSize": "40mm"
+  }
 }

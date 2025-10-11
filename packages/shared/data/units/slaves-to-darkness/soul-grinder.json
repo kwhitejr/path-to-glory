@@ -68,13 +68,27 @@
       "description": "The mechanical lower limbs of a Soul Grinder crush, stamp and impale without mercy.",
       "declare": "Pick an enemy Infantry unit in combat with this unit to be the target.",
       "effect": "Roll a D3. On a 2+, inflict an amount of mortal damage on the target equal to the roll. Then, this unit can move 6\". During that move, it can pass through models in the target unit but must end that move in combat.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Monster", "Ward (6+)"],
-    "faction": ["Chaos", "Slaves to Darkness", "Daemon"]
+    "unit": [
+      "Monster",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Daemon"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 330,
+    "baseSize": "40mm"
+  }
 }

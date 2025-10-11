@@ -45,13 +45,30 @@
       "description": "Vokmortian binds an enemy to a deadly mystical contract.",
       "declare": "Pick a visible enemy unit within 18\" of this unit to be bound, pick a visible friendly Ossiarch Bonereapers unit wholly within 18\" of this unit to be bound, then make a casting roll of 2D6.",
       "effect": "Until the start of your next turn, each time the bound friendly unit is picked to be the target of an ability used by the bound enemy unit, roll a D3. On a 2+, inflict an amount of mortal damage on the bound enemy unit equal to the roll as a reaction. If the bound enemy unit is destroyed by this ability, do not resolve the effect of the enemy ability.",
-      "keywords": ["Spell"]
+      "keywords": [
+        "Spell"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Unique", "Hero", "Wizard (2)", "Infantry", "Ward (6+)"],
-    "faction": ["Death", "Ossiarch Bonereapers"]
+    "unit": [
+      "Unique",
+      "Hero",
+      "Wizard (2)",
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Ossiarch Bonereapers"
+    ]
   },
   "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 150,
+    "regimentOptions": "Any Ossiarch Bonereapers",
+    "baseSize": "40mm"
+  }
 }

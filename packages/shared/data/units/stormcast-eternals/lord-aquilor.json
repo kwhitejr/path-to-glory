@@ -56,9 +56,22 @@
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Cavalry"],
-    "faction": ["Order", "Stormcast Eternals", "Vanguard Chamber"]
+    "unit": [
+      "Hero",
+      "Cavalry"
+    ],
+    "faction": [
+      "Order",
+      "Stormcast Eternals",
+      "Vanguard Chamber"
+    ]
   },
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 140,
+    "regimentOptions": "Any Gryph-hounds, Any Vanguard Chamber",
+    "baseSize": "90 \u00d7 52mm"
+  }
 }

@@ -35,9 +35,24 @@
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Infantry", "Ward (5+)"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath"]
+    "unit": [
+      "Hero",
+      "Infantry",
+      "Ward (5+)"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided",
+      "Darkoath"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 100,
+    "regimentOptions": "0-1 Oathsworn, 0-1 Monster, Any Darkoath",
+    "baseSize": "32mm"
+  }
 }

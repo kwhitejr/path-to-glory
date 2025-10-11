@@ -35,13 +35,30 @@
       "description": "The Soulmason empowers and focuses the souls that animate a nearby regiment of Ossiarch warriors.",
       "declare": "Pick a visible friendly Ossiarch Bonereapers unit wholly within 12\" of the caster to be the target, then make a casting roll of 2D6.",
       "effect": "The target has Strike-first for the rest of the turn.",
-      "keywords": ["Spell"]
+      "keywords": [
+        "Spell"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Wizard (2)", "Infantry", "Ward (6+)"],
-    "faction": ["Death", "Ossiarch Bonereapers", "Mortisan"]
+    "unit": [
+      "Hero",
+      "Wizard (2)",
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Ossiarch Bonereapers",
+      "Mortisan"
+    ]
   },
   "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 150,
+    "regimentOptions": "0-1 Gothizzar Harvester, Any Infantry",
+    "baseSize": "40mm"
+  }
 }

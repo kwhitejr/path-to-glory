@@ -66,13 +66,31 @@
       "description": "Assailed by visions of the glorious feast to come, the abhorrant's steed is filled with a hunger-driven impetus.",
       "declare": "Pick an enemy Hero in combat with this unit to be the target.",
       "effect": "Roll a dice. On a 3+, attacks made with this unit's Terrorgheist's Fanged Maw that target that enemy unit score critical hits on unmodified hit rolls of 5+ for the rest of the turn.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Monster", "Wizard (1)", "Fly", "Ward (6+)"],
-    "faction": ["Death", "Flesh-eater Courts", "Abhorrant"]
+    "unit": [
+      "Hero",
+      "Monster",
+      "Wizard (1)",
+      "Fly",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Death",
+      "Flesh-eater Courts",
+      "Abhorrant"
+    ]
   },
   "sourceFile": "Faction Pack - Flesh Eater Courts.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 120,
+    "regimentOptions": "0-1 Royal Attendant, Any Flesh-eater Courts",
+    "baseSize": "130mm"
+  }
 }

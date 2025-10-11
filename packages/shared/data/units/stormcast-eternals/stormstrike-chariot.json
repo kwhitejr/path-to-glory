@@ -65,9 +65,24 @@
     }
   ],
   "keywords": {
-    "unit": ["War Machine"],
-    "faction": ["Order", "Stormcast Eternals", "Warrior Chamber"]
+    "unit": [
+      "War Machine"
+    ],
+    "faction": [
+      "Order",
+      "Stormcast Eternals",
+      "Warrior Chamber"
+    ]
   },
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 120,
+    "keywords": [
+      "Warrior Chamber",
+      "War Machine"
+    ],
+    "baseSize": "120 \u00d7 92mm"
+  }
 }

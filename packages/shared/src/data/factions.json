@@ -41,6 +41,38 @@
         "name": "Savage Beyond Reason",
         "description": "The fury of battle drives this general into an intense rage. While this unit has fewer than 6 noble deeds points, its melee weapons have Crit (2 Hits). While it has 6 noble deeds points, its melee weapons have Crit (Mortal)."
       }
+    ],
+    "battleFormations": [
+      {
+        "id": "knightly-echelon",
+        "name": "Knightly Echelon",
+        "description": "From Battletome: Flesh-eater Courts"
+      },
+      {
+        "id": "lords-of-the-manor",
+        "name": "Lords of the Manor",
+        "description": "From Battletome: Flesh-eater Courts"
+      },
+      {
+        "id": "the-royal-hunt",
+        "name": "The Royal Hunt",
+        "description": "From Battletome: Flesh-eater Courts"
+      },
+      {
+        "id": "royal-menagerie",
+        "name": "Royal Menagerie",
+        "description": "From Battletome: Flesh-eater Courts"
+      },
+      {
+        "id": "impassioned-serfs",
+        "name": "Impassioned Serfs",
+        "description": "From Scourge of Ghyran"
+      },
+      {
+        "id": "questing-courtiers",
+        "name": "Questing Courtiers",
+        "description": "From Scourge of Ghyran"
+      }
     ]
   },
   "ossiarch-bonereapers": {
@@ -84,6 +116,38 @@
         "id": "mighty-archaeossian",
         "name": "Mighty Archaeossian",
         "description": "The fossilised bone from which this hero is formed is supernaturally hard. If the unmodified hit roll for an attack that targets this unit is 1-3, the attack fails and the attack sequence ends."
+      }
+    ],
+    "battleFormations": [
+      {
+        "id": "mortisan-council",
+        "name": "Mortisan Council",
+        "description": "From Faction Pack: Ossiarch Bonereapers"
+      },
+      {
+        "id": "mortek-ballistari",
+        "name": "Mortek Ballistari",
+        "description": "From Faction Pack: Ossiarch Bonereapers"
+      },
+      {
+        "id": "kavalos-lance",
+        "name": "Kavalos Lance",
+        "description": "From Faction Pack: Ossiarch Bonereapers"
+      },
+      {
+        "id": "mortek-phalanx",
+        "name": "Mortek Phalanx",
+        "description": "From Faction Pack: Ossiarch Bonereapers"
+      },
+      {
+        "id": "tithe-guards",
+        "name": "Tithe Guards",
+        "description": "From Scourge of Ghyran"
+      },
+      {
+        "id": "hekatos-drillmasters",
+        "name": "Hekatos Drillmasters",
+        "description": "From Scourge of Ghyran"
       }
     ]
   },
@@ -129,6 +193,38 @@
         "name": "Deathmonger",
         "description": "Feared across the realms, this hero leaves naught in their wake but a trail of sun-bleached bones. Once per battle: This unit can use 2 Fight abilities this phase. After the first is used, however, this unit has Strike-last for the rest of the turn."
       }
+    ],
+    "battleFormations": [
+      {
+        "id": "legion-of-chaos",
+        "name": "Legion of Chaos",
+        "description": "From Battletome: Slaves to Darkness"
+      },
+      {
+        "id": "godswrath-warband",
+        "name": "Godswrath Warband",
+        "description": "From Battletome: Slaves to Darkness"
+      },
+      {
+        "id": "despoilers",
+        "name": "Despoilers",
+        "description": "From Battletome: Slaves to Darkness"
+      },
+      {
+        "id": "darkoath-horde",
+        "name": "Darkoath Horde",
+        "description": "From Battletome: Slaves to Darkness"
+      },
+      {
+        "id": "chaos-horde",
+        "name": "Chaos Horde",
+        "description": "From Scourge of Ghyran"
+      },
+      {
+        "id": "champions-of-chaos",
+        "name": "Champions of Chaos",
+        "description": "From Scourge of Ghyran"
+      }
     ]
   },
   "stormcast-eternals": {
@@ -172,6 +268,28 @@
         "id": "shock-and-awe",
         "name": "Shock and Awe",
         "description": "When this general and their Stormcasts take to the field, their shining visage strikes fear into the foe. Each time a friendly Stormcast Eternals unit is set up wholly within 12\" of this unit using the 'Scions of the Storm' ability, subtract 1 from hit rolls for attacks that target that unit for the rest of the battle round."
+      }
+    ],
+    "battleFormations": [
+      {
+        "id": "sentinels-of-the-bleak-citadels",
+        "name": "Sentinels of the Bleak Citadels",
+        "description": "From Battletome: Stormcast Eternals"
+      },
+      {
+        "id": "thunderhead-host",
+        "name": "Thunderhead Host",
+        "description": "From Battletome: Stormcast Eternals"
+      },
+      {
+        "id": "vanguard-wing",
+        "name": "Vanguard Wing",
+        "description": "From Battletome: Stormcast Eternals"
+      },
+      {
+        "id": "lightning-echelon",
+        "name": "Lightning Echelon",
+        "description": "From Battletome: Stormcast Eternals"
       }
     ]
   }

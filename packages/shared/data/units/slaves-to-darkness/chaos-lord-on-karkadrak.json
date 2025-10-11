@@ -46,9 +46,23 @@
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Cavalry"],
-    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+    "unit": [
+      "Hero",
+      "Cavalry"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Warriors of Chaos"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 100,
+    "regimentOptions": "0-1 Ruinous Champion, Any Slaves to Darkness",
+    "notes": "This Hero can join an eligible regiment as a Ruinous Champion.",
+    "baseSize": "90 × 52mm"
+  }
 }

@@ -37,7 +37,9 @@
       "description": "The warped fortresses of the Gaunt Summoners are infested with thrall hosts.",
       "declare": "Pick a friendly unit that has not been deployed to be the target.",
       "effect": "The target is set up in reserve in a Silver Tower. It has now been deployed.",
-      "keywords": ["Deploy"]
+      "keywords": [
+        "Deploy"
+      ]
     },
     {
       "name": "Book of Profane Secrets",
@@ -52,13 +54,31 @@
       "description": "Whispering fell incantations, a Gaunt Summoner can temporarily divert the path of a realmgate, allowing malefic Chaos entities to storm the battlefield.",
       "declare": "Make a casting roll of 2D6.",
       "effect": "Units set up this turn using this unit's 'Book of Profane Secrets' ability can be set up wholly within 18\" of this unit and more than 7\" from all enemy units instead of the distances in the ability.",
-      "keywords": ["Spell"]
+      "keywords": [
+        "Spell"
+      ]
     }
   ],
   "keywords": {
-    "unit": ["Hero", "Wizard (2)", "Infantry", "Ward (6+)"],
-    "faction": ["Chaos", "Slaves to Darkness", "Daemon", "Tzeentch"]
+    "unit": [
+      "Hero",
+      "Wizard (2)",
+      "Infantry",
+      "Ward (6+)"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Daemon",
+      "Tzeentch"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 180,
+    "regimentOptions": "Any Slaves to Darkness",
+    "baseSize": "40mm"
+  }
 }

@@ -37,9 +37,24 @@
     }
   ],
   "keywords": {
-    "unit": ["Cavalry"],
-    "faction": ["Chaos", "Slaves to Darkness", "Warriors of Chaos"]
+    "unit": [
+      "Cavalry"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Warriors of Chaos"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 3,
+    "points": 330,
+    "keywords": [
+      "Warriors of Chaos",
+      "Cavalry"
+    ],
+    "baseSize": "75 × 42mm"
+  }
 }

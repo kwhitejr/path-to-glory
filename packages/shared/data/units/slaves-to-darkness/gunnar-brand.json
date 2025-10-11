@@ -36,9 +36,24 @@
     }
   ],
   "keywords": {
-    "unit": ["Unique", "Hero", "Infantry"],
-    "faction": ["Chaos", "Slaves to Darkness", "Undivided", "Darkoath", "Gunnar's Oathsworn"]
+    "unit": [
+      "Unique",
+      "Hero",
+      "Infantry"
+    ],
+    "faction": [
+      "Chaos",
+      "Slaves to Darkness",
+      "Undivided",
+      "Darkoath",
+      "Gunnar's Oathsworn"
+    ]
   },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 200,
+    "baseSize": "40mm"
+  }
 }

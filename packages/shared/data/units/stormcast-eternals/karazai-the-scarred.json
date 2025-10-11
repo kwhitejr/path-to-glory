@@ -53,7 +53,9 @@
       "description": "With a sweep of his destructive tail, Karazai can deliver a killing blow to those in his path.",
       "declare": "Pick an enemy unit in combat with this unit to be the target.",
       "effect": "Roll a dice for each model in the target unit. For each 5+, inflict 1 mortal damage on the target.",
-      "keywords": ["Rampage"]
+      "keywords": [
+        "Rampage"
+      ]
     },
     {
       "name": "Ancient Master of War",
@@ -64,9 +66,23 @@
     }
   ],
   "keywords": {
-    "unit": ["Warmaster", "Unique", "Hero", "Monster", "Fly"],
-    "faction": ["Order", "Stormcast Eternals"]
+    "unit": [
+      "Warmaster",
+      "Unique",
+      "Hero",
+      "Monster",
+      "Fly"
+    ],
+    "faction": [
+      "Order",
+      "Stormcast Eternals"
+    ]
   },
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
-  "extractedAt": "2025-10-07T00:00:00Z"
+  "extractedAt": "2025-10-07T00:00:00Z",
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 460,
+    "baseSize": "40mm"
+  }
 }
