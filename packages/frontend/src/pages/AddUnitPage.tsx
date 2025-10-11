@@ -182,9 +182,22 @@ export default function AddUnitPage() {
               })}
           </select>
           {selectedWarscroll && (
-            <p className="mt-2 text-sm text-gray-600">
-              {selectedWarscroll.subtitle || selectedWarscroll.keywords.unit.join(', ')}
-            </p>
+            <div className="mt-2">
+              {selectedWarscroll.subtitle ? (
+                <p className="text-sm text-gray-600">{selectedWarscroll.subtitle}</p>
+              ) : (
+                <div className="flex flex-wrap gap-1">
+                  {selectedWarscroll.keywords.unit.map((keyword, idx) => (
+                    <span
+                      key={idx}
+                      className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-blue-100 text-blue-700"
+                    >
+                      {keyword.toUpperCase()}
+                    </span>
+                  ))}
+                </div>
+              )}
+            </div>
           )}
         </div>
 

@@ -145,10 +145,24 @@ export default function UnitSelector({
                 })}
             </select>
             {formData.warscrollId && (
-              <p className="mt-1 text-xs text-gray-600">
-                {availableUnits[formData.warscrollId].subtitle ||
-                  availableUnits[formData.warscrollId].keywords.unit.join(', ')}
-              </p>
+              <div className="mt-1">
+                {availableUnits[formData.warscrollId].subtitle ? (
+                  <p className="text-xs text-gray-600">
+                    {availableUnits[formData.warscrollId].subtitle}
+                  </p>
+                ) : (
+                  <div className="flex flex-wrap gap-1">
+                    {availableUnits[formData.warscrollId].keywords.unit.map((keyword, idx) => (
+                      <span
+                        key={idx}
+                        className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-blue-100 text-blue-700"
+                      >
+                        {keyword.toUpperCase()}
+                      </span>
+                    ))}
+                  </div>
+                )}
+              </div>
             )}
           </div>
 
