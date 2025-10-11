@@ -234,6 +234,9 @@ input CreateArmyInput {
   battleFormation: String
   background: String
   warlordUnitId: String
+  spellLore: [String!]
+  prayerLore: [String!]
+  manifestationLore: [String!]
 }
 
 input UpdateArmyInput {

@@ -40,6 +40,97 @@ export const UnitProfileSchema = z.object({
 export type UnitProfile = z.infer<typeof UnitProfileSchema>;
 
 /**
+ * Spell from a spell lore
+ */
+export const SpellSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  castingValue: z.number(),
+  description: z.string(),
+});
+
+export type Spell = z.infer<typeof SpellSchema>;
+
+/**
+ * Prayer from a prayer lore
+ */
+export const PrayerSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  chantingValue: z.number(),
+  description: z.string(),
+});
+
+export type Prayer = z.infer<typeof PrayerSchema>;
+
+/**
+ * Manifestation from a manifestation lore
+ */
+export const ManifestationSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  castingValue: z.number(),
+  description: z.string(),
+});
+
+export type Manifestation = z.infer<typeof ManifestationSchema>;
+
+/**
+ * Spell Lore
+ */
+export const SpellLoreSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  spells: z.array(SpellSchema),
+});
+
+export type SpellLore = z.infer<typeof SpellLoreSchema>;
+
+/**
+ * Prayer Lore
+ */
+export const PrayerLoreSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  prayers: z.array(PrayerSchema),
+});
+
+export type PrayerLore = z.infer<typeof PrayerLoreSchema>;
+
+/**
+ * Manifestation Lore
+ */
+export const ManifestationLoreSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  manifestations: z.array(ManifestationSchema),
+});
+
+export type ManifestationLore = z.infer<typeof ManifestationLoreSchema>;
+
+/**
+ * Arcane Tome containing spell, prayer, and manifestation lores
+ */
+export const ArcaneTomeSchema = z.object({
+  spellLore: SpellLoreSchema.optional(),
+  prayerLore: PrayerLoreSchema.optional(),
+  manifestationLore: ManifestationLoreSchema.optional(),
+});
+
+export type ArcaneTome = z.infer<typeof ArcaneTomeSchema>;
+
+/**
+ * Battle Formation option
+ */
+export const BattleFormationSchema = z.object({
+  id: z.string(),
+  name: z.string(),
+  description: z.string(),
+});
+
+export type BattleFormation = z.infer<typeof BattleFormationSchema>;
+
+/**
  * Schema for faction data extracted from PDFs
  */
 export const FactionSchema = z.object({
@@ -54,6 +145,8 @@ export const FactionSchema = z.object({
   enhancements: z.array(EnhancementSchema).optional(), // Artefacts of Power
   pathAbilities: z.array(PathAbilitySchema).optional(), // Heroic Traits
   units: z.array(UnitProfileSchema).optional(), // Units from battle profiles
+  battleFormations: z.array(BattleFormationSchema).optional(), // Battle formations
+  arcaneTome: ArcaneTomeSchema.optional(), // Arcane tome with lores
 });
 
 export type FactionData = z.infer<typeof FactionSchema>;

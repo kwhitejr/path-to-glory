@@ -1,7 +1,16 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useMutation, useQuery } from '@apollo/client';
-import { getAllFactions, getUnitsByFaction, type UnitWarscroll, RealmOfOrigin, RealmOfOriginLabels } from '@path-to-glory/shared';
+import {
+  getAllFactions,
+  getUnitsByFaction,
+  getSpellLoreByFaction,
+  getPrayerLoreByFaction,
+  getManifestationLoreByFaction,
+  type UnitWarscroll,
+  RealmOfOrigin,
+  RealmOfOriginLabels
+} from '@path-to-glory/shared';
 import UnitSelector, { SelectedUnit } from '../components/UnitSelector';
 import { useAuth } from '../contexts/AuthContext';
 import { CREATE_CAMPAIGN, CREATE_ARMY, ADD_UNIT, GET_MY_CAMPAIGNS, GET_MY_ARMIES } from '../graphql/operations';
@@ -33,6 +42,9 @@ export default function CreateArmyPage() {
   });
   const [selectedUnits, setSelectedUnits] = useState<SelectedUnit[]>([]);
   const [warlordUnitId, setWarlordUnitId] = useState<string>('');
+  const [selectedSpells, setSelectedSpells] = useState<string[]>([]);
+  const [selectedPrayers, setSelectedPrayers] = useState<string[]>([]);
+  const [selectedManifestations, setSelectedManifestations] = useState<string[]>([]);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
@@ -86,6 +98,9 @@ export default function CreateArmyPage() {
             realmOfOrigin: formData.realmOfOrigin || undefined,
             battleFormation: formData.battleFormation || undefined,
             background: formData.background || undefined,
+            spellLore: selectedSpells.length > 0 ? selectedSpells : undefined,
+            prayerLore: selectedPrayers.length > 0 ? selectedPrayers : undefined,
+            manifestationLore: selectedManifestations.length > 0 ? selectedManifestations : undefined,
           },
         },
       });
@@ -137,11 +152,19 @@ export default function CreateArmyPage() {
   const selectedFaction = factions.find((f) => f.id === formData.factionId);
   const availableUnits: Record<string, UnitWarscroll> = formData.factionId ? getUnitsByFaction(formData.factionId) : {};
 
+  // Get arcane tome options for selected faction
+  const spellLore = formData.factionId ? getSpellLoreByFaction(formData.factionId) : null;
+  const prayerLore = formData.factionId ? getPrayerLoreByFaction(formData.factionId) : null;
+  const manifestationLore = formData.factionId ? getManifestationLoreByFaction(formData.factionId) : null;
+
   const handleFactionChange = (factionId: string) => {
     setFormData({ ...formData, factionId });
-    // Clear units and warlord when faction changes
+    // Clear units, warlord, and arcane tome selections when faction changes
     setSelectedUnits([]);
     setWarlordUnitId('');
+    setSelectedSpells([]);
+    setSelectedPrayers([]);
+    setSelectedManifestations([]);
   };
 
   // Update warlord selection when units change
@@ -267,6 +290,124 @@ export default function CreateArmyPage() {
             Faction-specific formations coming soon
           </p>
         </div>
+
+        {/* Arcane Tome Selections */}
+        {formData.factionId && (spellLore || prayerLore || manifestationLore) && (
+          <div className="card bg-purple-50 border border-purple-200">
+            <h3 className="font-semibold mb-3">Arcane Tome</h3>
+            <p className="text-sm text-gray-600 mb-4">
+              Select spells, prayers, and manifestations for your army
+            </p>
+
+            {/* Spell Lore */}
+            {spellLore && (
+              <div className="mb-4">
+                <label className="label text-sm font-medium">
+                  {spellLore.name}
+                </label>
+                <div className="space-y-2 mt-2">
+                  {spellLore.spells.map((spell) => (
+                    <label
+                      key={spell.id}
+                      className="flex items-start p-3 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={selectedSpells.includes(spell.id)}
+                        onChange={(e) => {
+                          if (e.target.checked) {
+                            setSelectedSpells([...selectedSpells, spell.id]);
+                          } else {
+                            setSelectedSpells(selectedSpells.filter(id => id !== spell.id));
+                          }
+                        }}
+                        className="h-4 w-4 text-purple-600 focus:ring-purple-500 border-gray-300 rounded mt-1"
+                        disabled={isSubmitting}
+                      />
+                      <div className="ml-3 flex-1">
+                        <div className="font-medium text-sm">{spell.name}</div>
+                        <div className="text-xs text-gray-500">Casting Value: {spell.castingValue}</div>
+                        <div className="text-xs text-gray-600 mt-1">{spell.description}</div>
+                      </div>
+                    </label>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Prayer Lore */}
+            {prayerLore && (
+              <div className="mb-4">
+                <label className="label text-sm font-medium">
+                  {prayerLore.name}
+                </label>
+                <div className="space-y-2 mt-2">
+                  {prayerLore.prayers.map((prayer) => (
+                    <label
+                      key={prayer.id}
+                      className="flex items-start p-3 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={selectedPrayers.includes(prayer.id)}
+                        onChange={(e) => {
+                          if (e.target.checked) {
+                            setSelectedPrayers([...selectedPrayers, prayer.id]);
+                          } else {
+                            setSelectedPrayers(selectedPrayers.filter(id => id !== prayer.id));
+                          }
+                        }}
+                        className="h-4 w-4 text-purple-600 focus:ring-purple-500 border-gray-300 rounded mt-1"
+                        disabled={isSubmitting}
+                      />
+                      <div className="ml-3 flex-1">
+                        <div className="font-medium text-sm">{prayer.name}</div>
+                        <div className="text-xs text-gray-500">Chanting Value: {prayer.chantingValue}</div>
+                        <div className="text-xs text-gray-600 mt-1">{prayer.description}</div>
+                      </div>
+                    </label>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* Manifestation Lore */}
+            {manifestationLore && (
+              <div>
+                <label className="label text-sm font-medium">
+                  {manifestationLore.name}
+                </label>
+                <div className="space-y-2 mt-2">
+                  {manifestationLore.manifestations.map((manifestation) => (
+                    <label
+                      key={manifestation.id}
+                      className="flex items-start p-3 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                    >
+                      <input
+                        type="checkbox"
+                        checked={selectedManifestations.includes(manifestation.id)}
+                        onChange={(e) => {
+                          if (e.target.checked) {
+                            setSelectedManifestations([...selectedManifestations, manifestation.id]);
+                          } else {
+                            setSelectedManifestations(selectedManifestations.filter(id => id !== manifestation.id));
+                          }
+                        }}
+                        className="h-4 w-4 text-purple-600 focus:ring-purple-500 border-gray-300 rounded mt-1"
+                        disabled={isSubmitting}
+                      />
+                      <div className="ml-3 flex-1">
+                        <div className="font-medium text-sm">{manifestation.name}</div>
+                        <div className="text-xs text-gray-500">Casting Value: {manifestation.castingValue}</div>
+                        <div className="text-xs text-gray-600 mt-1">{manifestation.description}</div>
+                      </div>
+                    </label>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
 
         {/* Background */}
         <div>
