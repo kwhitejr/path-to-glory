@@ -8,60 +8,62 @@
  * - GSI1SK: Secondary sort for user queries
  */
 
+import { DynamoDBKeyPrefix } from '@path-to-glory/shared';
+
 export const keys = {
   // User keys
   user: (cognitoId: string) => ({
-    PK: `USER#${cognitoId}`,
-    SK: 'METADATA',
+    PK: `${DynamoDBKeyPrefix.USER}${cognitoId}`,
+    SK: DynamoDBKeyPrefix.METADATA,
   }),
 
   // Campaign keys
   campaign: (campaignId: string) => ({
-    PK: `CAMPAIGN#${campaignId}`,
-    SK: 'METADATA',
+    PK: `${DynamoDBKeyPrefix.CAMPAIGN}${campaignId}`,
+    SK: DynamoDBKeyPrefix.METADATA,
   }),
 
   // Army keys
   army: (campaignId: string, armyId: string) => ({
-    PK: `CAMPAIGN#${campaignId}`,
-    SK: `ARMY#${armyId}`,
+    PK: `${DynamoDBKeyPrefix.CAMPAIGN}${campaignId}`,
+    SK: `${DynamoDBKeyPrefix.ARMY}${armyId}`,
   }),
 
   // Unit keys
   unit: (campaignId: string, armyId: string, unitId: string) => ({
-    PK: `CAMPAIGN#${campaignId}`,
-    SK: `ARMY#${armyId}#UNIT#${unitId}`,
+    PK: `${DynamoDBKeyPrefix.CAMPAIGN}${campaignId}`,
+    SK: `${DynamoDBKeyPrefix.ARMY}${armyId}${DynamoDBKeyPrefix.UNIT}${unitId}`,
   }),
 
   // Battle keys
   battle: (campaignId: string, battleId: string) => ({
-    PK: `CAMPAIGN#${campaignId}`,
-    SK: `BATTLE#${battleId}`,
+    PK: `${DynamoDBKeyPrefix.CAMPAIGN}${campaignId}`,
+    SK: `${DynamoDBKeyPrefix.BATTLE}${battleId}`,
   }),
 };
 
 export const gsiKeys = {
   // Get all campaigns for a user
   userCampaigns: (userId: string) => ({
-    GSI1PK: `USER#${userId}`,
-    GSI1SK: 'CAMPAIGN#',
+    GSI1PK: `${DynamoDBKeyPrefix.USER}${userId}`,
+    GSI1SK: DynamoDBKeyPrefix.CAMPAIGN,
   }),
 
   // Get all armies for a user
   userArmies: (userId: string) => ({
-    GSI1PK: `USER#${userId}`,
-    GSI1SK: 'ARMY#',
+    GSI1PK: `${DynamoDBKeyPrefix.USER}${userId}`,
+    GSI1SK: DynamoDBKeyPrefix.ARMY,
   }),
 
   // Link army to user
   armyOwner: (userId: string, armyId: string) => ({
-    GSI1PK: `USER#${userId}`,
-    GSI1SK: `ARMY#${armyId}`,
+    GSI1PK: `${DynamoDBKeyPrefix.USER}${userId}`,
+    GSI1SK: `${DynamoDBKeyPrefix.ARMY}${armyId}`,
   }),
 
   // Link campaign to user
   campaignOwner: (userId: string, campaignId: string) => ({
-    GSI1PK: `USER#${userId}`,
-    GSI1SK: `CAMPAIGN#${campaignId}`,
+    GSI1PK: `${DynamoDBKeyPrefix.USER}${userId}`,
+    GSI1SK: `${DynamoDBKeyPrefix.CAMPAIGN}${campaignId}`,
   }),
 };

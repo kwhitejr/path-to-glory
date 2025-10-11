@@ -10,7 +10,7 @@ export default function Header() {
         <div className="flex items-center justify-between">
           {/* Logo/Title */}
           <Link to="/" className="flex items-center space-x-2">
-            <h1 className="text-xl font-bold md:text-2xl">Path to Glory</h1>
+            <h1 className="text-xl font-bold md:text-2xl">Path to Glory Tracker</h1>
           </Link>
 
           {/* User Profile / Login */}

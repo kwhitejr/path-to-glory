@@ -90,15 +90,16 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       const mappedUser = mapAuthUserToUser(authUser, attributes);
       setUser(mappedUser);
       console.log('[AuthContext] Loading complete. User: logged in');
-    } catch (err: any) {
+    } catch (err) {
+      const error = err as Error & { name?: string };
       console.error('[AuthContext] Load user error:', {
-        name: err?.name,
-        message: err?.message,
-        error: err,
+        name: error?.name,
+        message: error?.message,
+        error: error,
       });
 
       // If error is about already being authenticated, try to sign out and retry
-      if (err?.name === 'UserAlreadyAuthenticatedException') {
+      if (error?.name === 'UserAlreadyAuthenticatedException') {
         console.log('[AuthContext] Clearing stale session...');
         try {
           await signOut();

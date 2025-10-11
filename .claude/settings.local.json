@@ -35,7 +35,15 @@
       "Bash(git log:*)",
       "Bash(npm run dev:*)",
       "Bash(git restore:*)",
-      "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_gPyZe4/**)"
+      "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_gPyZe4/**)",
+      "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_fMxG8N/**)",
+      "Bash(jq:*)",
+      "Bash(cat:*)",
+      "Bash(dig:*)",
+      "Bash(git remote get-url:*)",
+      "Bash(npm run codegen:*)",
+      "Bash(node:*)",
+      "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_ewhJwW/**)"
     ],
     "deny": [],
     "ask": []

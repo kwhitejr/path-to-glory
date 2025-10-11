@@ -73,7 +73,81 @@
         "name": "Questing Courtiers",
         "description": "From Scourge of Ghyran"
       }
-    ]
+    ],
+    "arcaneTome": {
+      "spellLore": {
+        "id": "lore-of-madness",
+        "name": "Lore of Madness",
+        "spells": [
+          {
+            "id": "deranged-transformation",
+            "name": "Deranged Transformation",
+            "castingValue": 6,
+            "description": "The spellcaster causes the limbs of a nearby pack to bulge and lengthen, allowing the creatures to charge forwards at a furious pace and imbuing them with greater strength. Pick a visible friendly Flesh-eater Courts Infantry or Cavalry unit wholly within 12\" of the caster. Until the start of your next turn: Add 2\" to the target's Move characteristic and add 1 to wound rolls for the target's combat attacks."
+          },
+          {
+            "id": "miasma-of-madness",
+            "name": "Miasma of Madness",
+            "castingValue": 5,
+            "description": "The wizard calls forth a sanity-warping mist to engulf the foe. Pick a visible enemy unit within 18\" of the caster. Roll 7 dice and apply effects: Ravaged Mind (2+ same values = 1 mortal damage), Gory Visions (3+ same values = subtract 1 from hit rolls), Drooling Stupor (4+ same values = also subtract 1 from wound rolls)."
+          },
+          {
+            "id": "charnel-feast",
+            "name": "Charnel Feast",
+            "castingValue": 6,
+            "description": "The caster draws out the life essence of nearby foes and uses it to heal the injured warriors of the court. Pick a visible enemy unit within 18\" of the caster. Inflict D3 mortal damage on the target. Then, you can pick a friendly Flesh-eater Courts Infantry unit within 6\" of the target. For each damage point allocated to the target by this ability, you can return 1 slain model to that friendly unit."
+          }
+        ]
+      },
+      "prayerLore": {
+        "id": "rites-of-delusion",
+        "name": "Rites of Delusion",
+        "prayers": [
+          {
+            "id": "blessed-feast",
+            "name": "Blessed Feast",
+            "chantingValue": 5,
+            "description": "The priest blesses his followers' next meal to bring health and happiness to those who partake. Pick a visible enemy unit within 18\" of the chanter. Until the start of your next turn, each time a model in the target unit is slain, Heal (1) a friendly Flesh-eater Courts unit in combat with the target. If the chanting roll was 10+, Heal (D3) that friendly unit instead."
+          },
+          {
+            "id": "summerking-favour",
+            "name": "The Summerking's Favour",
+            "chantingValue": 5,
+            "description": "The priest delivers a blistering sermon lionising the deeds of a courtly champion, marking them out as a saint in their followers' eyes. Pick a visible friendly Flesh-eater Courts Hero wholly within 18\" of the chanter. Until the start of your next turn, each time an enemy model is slain by a combat attack made by the target, give the target 1 additional noble deeds point after the Fight ability has been resolved. If the chanting roll was 10+, give all friendly Flesh-eater Courts Heroes wholly within 18\" of the target 1 additional noble deeds point instead."
+          },
+          {
+            "id": "charnel-conviction",
+            "name": "Charnel Conviction",
+            "chantingValue": 5,
+            "description": "Anointed with libations by their priest, ghouls believe themselves to be invincible warriors of faith. Pick a visible friendly Flesh-eater Courts unit wholly within 18\" of the chanter. Until the start of your next turn, the target has Ward (5+). If the chanting roll was 10+, pick another friendly Flesh-eater Courts unit wholly within 18\" of the target. That unit also has Ward (5+) until the start of your next turn."
+          }
+        ]
+      },
+      "manifestationLore": {
+        "id": "manifested-insanity",
+        "name": "Manifested Insanity",
+        "manifestations": [
+          {
+            "id": "chalice-of-ushoran",
+            "name": "Summon Chalice of Ushoran",
+            "castingValue": 6,
+            "description": "The wizard conjures forth a manifestation of the sacred cup held by Ushoran. This bone-wrought goblet is continually filled with the blood of those slain in its presence. Set up a Chalice of Ushoran wholly within 12\" of the caster and visible to them."
+          },
+          {
+            "id": "cadaverous-barricade",
+            "name": "Summon Cadaverous Barricade",
+            "castingValue": 5,
+            "description": "With a word of command, the corpses of those who once served Ushoran rise up from the grave, dragging with them the detritus of a forgotten civilisation and clawing at the living with lifeless hands. Set up a Cadaverous Barricade wholly within 18\" of the caster and visible to them."
+          },
+          {
+            "id": "corpsemare-stampede",
+            "name": "Summon Corpsemare Stampede",
+            "castingValue": 7,
+            "description": "Imbued with grisly vigour by the insane magics of the abhorrants, the undead beasts of a Corpsemare Stampede burst from the blood-soaked ground to trample across the battlefield with reckless abandon. Set up a Corpsemare Stampede wholly within 9\" of the caster, visible to them and more than 9\" from all enemy units."
+          }
+        ]
+      }
+    }
   },
   "ossiarch-bonereapers": {
     "id": "ossiarch-bonereapers",
@@ -149,7 +223,57 @@
         "name": "Hekatos Drillmasters",
         "description": "From Scourge of Ghyran"
       }
-    ]
+    ],
+    "arcaneTome": {
+      "spellLore": {
+        "id": "lore-of-ossian-sorcery",
+        "name": "Lore of Ossian Sorcery",
+        "spells": [
+          {
+            "id": "empower-nadirite-weapons",
+            "name": "Empower Nadirite Weapons",
+            "castingValue": 5,
+            "description": "The caster imbues nadirite weapons with deadly power. Pick a visible friendly Ossiarch Bonereapers unit within 12\" of the caster. The target's combat attacks score critical hits on unmodified hit rolls of 5+ until the start of your next turn."
+          },
+          {
+            "id": "drain-vitality",
+            "name": "Drain Vitality",
+            "castingValue": 7,
+            "description": "This cursed spell saps a foe's strength, leaving them weak and vulnerable. Pick a visible enemy unit within 12\" of the caster. Until the start of your next turn, subtract 1 from hit rolls for the target's attacks and subtract 1 from save rolls for the target."
+          },
+          {
+            "id": "shard-storm",
+            "name": "Shard Storm",
+            "castingValue": 7,
+            "description": "The caster conjures forth a great cloud of bone-shards and hurls them at the foe. Pick a visible enemy unit within 18\" of the caster. Roll a number of dice equal to the number of models in the target unit. For each 5+, inflict 1 mortal damage on the target."
+          }
+        ]
+      },
+      "manifestationLore": {
+        "id": "horrors-of-the-necropolis",
+        "name": "Horrors of the Necropolis",
+        "manifestations": [
+          {
+            "id": "soulstealer-carrion",
+            "name": "Summon Soulstealer Carrion",
+            "castingValue": 6,
+            "description": "Soaring from its caster's spread fingertips, the Soulstealer Carrion takes wing above the battlefield. Set up a Soulstealer Carrion wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units."
+          },
+          {
+            "id": "nightmare-predator",
+            "name": "Summon Nightmare Predator",
+            "castingValue": 6,
+            "description": "The Nightmare Predator is a looming conjuration of Shyishan magic that takes the form of a disturbing terror. Set up a Nightmare Predator wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units."
+          },
+          {
+            "id": "bone-tithe-shrieker",
+            "name": "Summon Bone-tithe Shrieker",
+            "castingValue": 6,
+            "description": "The caster conjures a four-headed, all-seeing monstrosity to hunt down those who would escape the Ossiarch tithe. Set up a Bone-tithe Shrieker wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units."
+          }
+        ]
+      }
+    }
   },
   "slaves-to-darkness": {
     "id": "slaves-to-darkness",
@@ -225,7 +349,57 @@
         "name": "Champions of Chaos",
         "description": "From Scourge of Ghyran"
       }
-    ]
+    ],
+    "arcaneTome": {
+      "spellLore": {
+        "id": "lore-of-the-damned",
+        "name": "Lore of the Damned",
+        "spells": [
+          {
+            "id": "spite-tongue-curse",
+            "name": "Spite-Tongue Curse",
+            "castingValue": 5,
+            "description": "Uttering the foul syllables of the Dark Tongue until blood pours from their mouth, the caster beseeches the Chaos Gods to destroy their enemies – though such pacts carry with them a terrible cost. Pick a visible enemy unit within 12\" of the caster. If the casting attempt is unsuccessful or if the spell is unbound, inflict D3 mortal damage on the caster. Effect: Inflict 3 mortal damage on the target."
+          },
+          {
+            "id": "binding-damnation",
+            "name": "Binding Damnation",
+            "castingValue": 7,
+            "description": "At the caster's urging, tendrils of raw Chaos burst from the tortured ground, entwining the limbs of their enemies and rendering them easy prey. Pick a visible enemy unit within 12\" of the caster. The target has Strike-last until the start of your next turn."
+          },
+          {
+            "id": "daemonic-speed",
+            "name": "Daemonic Speed",
+            "castingValue": 7,
+            "description": "Infernal winds blow at the back of these hordes, speeding them into battle against the enemies of the gods. Pick a visible friendly Slaves to Darkness unit wholly within 12\" of the caster. For the rest of the turn, add 1 to the number of dice rolled when making charge rolls for the target, to a maximum of 3."
+          }
+        ]
+      },
+      "manifestationLore": {
+        "id": "manifestations-of-malevolence",
+        "name": "Manifestations of Malevolence",
+        "manifestations": [
+          {
+            "id": "darkfire-daemonrift",
+            "name": "Summon Darkfire Daemonrift",
+            "castingValue": 7,
+            "description": "Darkfire Daemonrifts are eldritch portals torn ajar by dark incantations. Once the veil has been sundered, raw magic seeping from the Realm of Chaos forms an opening for the horrors beyond to vent their spite, widened and empowered by spellcraft that draws upon the essence of Chaos. Set up a Darkfire Daemonrift wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units."
+          },
+          {
+            "id": "eightfold-doom-sigil",
+            "name": "Summon Eightfold Doom-Sigil",
+            "castingValue": 7,
+            "description": "Eightfold Doom-Sigils are icons of Chaos in all its glory, blazing symbols of pure ruin. To fall in the presence of such a sorcerous construct is to be damned, for these lingering spells hungrily suck souls into the Realm of Chaos for the gods to feast upon. Set up an Eightfold Doom-Sigil wholly within 12\" of the caster and visible to them."
+          },
+          {
+            "id": "realmscourge-rupture",
+            "name": "Summon Realmscourge Rupture",
+            "castingValue": 7,
+            "description": "Realmscourge Ruptures are not subtle weapons. When the necessary magical power has been channelled and released by a tribal shaman, the land itself writhes in the grip of Chaos, sharpened spikes surging forth like an accursed tidal wave to overwhelm anything in their path. Set up a Realmscourge Rupture wholly within 12\" of the caster, visible to them and more than 9\" from all enemy units."
+          }
+        ]
+      }
+    }
   },
   "stormcast-eternals": {
     "id": "stormcast-eternals",
@@ -291,6 +465,80 @@
         "name": "Lightning Echelon",
         "description": "From Battletome: Stormcast Eternals"
       }
-    ]
+    ],
+    "arcaneTome": {
+      "spellLore": {
+        "id": "lore-of-the-storm",
+        "name": "Lore of the Storm",
+        "spells": [
+          {
+            "id": "lightning-blast",
+            "name": "Lightning Blast",
+            "castingValue": 5,
+            "description": "The wizard releases pent-up storm energy into the foe. Pick the closest visible enemy unit to the caster that has not been picked to be the target of this ability this turn. Inflict D3 mortal damage on the target."
+          },
+          {
+            "id": "thundershock",
+            "name": "Thundershock",
+            "castingValue": 6,
+            "description": "The wizard unleashes the power of Sigmar's storm as a roiling wave of pure force. Pick a visible enemy unit within 12\" of the caster. Subtract 1 from wound rolls for the target's attacks until the start of your next turn."
+          },
+          {
+            "id": "starfall",
+            "name": "Starfall",
+            "castingValue": 7,
+            "description": "Gazing towards the heavens, the wizard hurls meteoric rain into the enemy's path. Pick a visible enemy Infantry or Cavalry unit within 18\" of the caster. Until the start of your next turn, subtract 1 from the number of dice rolled when making charge rolls for the target, to a minimum of 1."
+          }
+        ]
+      },
+      "prayerLore": {
+        "id": "prayers-of-the-stormhosts",
+        "name": "Prayers of the Stormhosts",
+        "prayers": [
+          {
+            "id": "healing-storm",
+            "name": "Healing Storm",
+            "chantingValue": 4,
+            "description": "The priest calls down cleansing bolts from the sky, their invigorating energies closing even the most grievous wounds. Pick a visible friendly Stormcast Eternals unit wholly within 12\" of the chanter. Heal (D3) the target. If the chanting roll was 8+, Heal (D3) each visible friendly Stormcast Eternals unit wholly within 12\" of the chanter instead."
+          },
+          {
+            "id": "bless-weapons",
+            "name": "Bless Weapons",
+            "chantingValue": 6,
+            "description": "The priest imbues weapons of those nearby with the pure essence of the storm. Pick a visible friendly Stormcast Eternals Infantry unit wholly within 12\" of the chanter. Add 1 to the Attacks characteristic of the target's melee weapons until the start of your next turn. If the chanting roll was 12+, this ability affects all visible friendly Stormcast Eternals units wholly within 12\" of the chanter."
+          },
+          {
+            "id": "translocation",
+            "name": "Translocation",
+            "chantingValue": 4,
+            "description": "The priest summons bolts of lightning to transport nearby warriors across the battlefield. Pick a visible friendly Stormcast Eternals unit wholly within 12\" of the chanter. Remove the target from the battlefield and set it up again on the battlefield more than 9\" from all enemy units. In addition, if the chanting roll was 8+, subtract 1 from hit rolls for attacks that target that unit for the rest of the battle round."
+          }
+        ]
+      },
+      "manifestationLore": {
+        "id": "manifestations-of-the-storm",
+        "name": "Manifestations of the Storm",
+        "manifestations": [
+          {
+            "id": "dais-arcanum",
+            "name": "Summon Dais Arcanum",
+            "castingValue": 6,
+            "description": "The wizard calls down a single bolt of lightning to strike the ground at their feet, leaving behind a perfect sigmarite disc for a chosen Stormcast to mount and be carried into the air. Pick a friendly Stormcast Eternals Infantry Hero that does not have Fly and is wholly within 12\" of the caster. Set up a Dais Arcanum within ½\" of the target, visible to the caster and not in combat. Then, remove the target from the battlefield and place it on the platform of that Dais Arcanum."
+          },
+          {
+            "id": "celestian-vortex",
+            "name": "Summon Celestian Vortex",
+            "castingValue": 6,
+            "description": "The wizard casts a pair of ensorcelled hammers into the air, which begin to spin. As the vortex gets more intense, the hammers multiply to form a maelstrom of skull-crushing force. Set up a Celestian Vortex wholly within 18\" of the caster and more than 9\" from all enemy units."
+          },
+          {
+            "id": "everblaze-comet",
+            "name": "Summon Everblaze Comet",
+            "castingValue": 7,
+            "description": "Reaching an arm to the heavens, the wizard calls down a pure comet of Azyrite energy that crashes into the foe's ranks with devastating effect. Set up an Everblaze Comet wholly within 18\" of the caster."
+          }
+        ]
+      }
+    }
   }
 }
