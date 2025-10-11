@@ -20,6 +20,10 @@ export const GET_MY_ARMIES = gql`
         email
         picture
       }
+      units {
+        id
+        unitTypeId
+      }
     }
   }
 `;

@@ -93,7 +93,7 @@ export default function ArmyDetailPage() {
           </Link>
         </div>
 
-        <div className="grid grid-cols-2 md:grid-cols-3 gap-4 text-sm">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
           <div>
             <span className="text-gray-500 block">Glory Points</span>
             <span className="font-bold text-lg text-primary-600">{army.glory}</span>
@@ -101,6 +101,15 @@ export default function ArmyDetailPage() {
           <div>
             <span className="text-gray-500 block">Renown</span>
             <span className="font-bold text-lg text-primary-600">{army.renown}</span>
+          </div>
+          <div>
+            <span className="text-gray-500 block">Total Points</span>
+            <span className="font-bold text-lg text-primary-600">
+              {army.units?.reduce((sum: number, unit: UnitType) => {
+                const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
+                return sum + (unitWarscroll?.battleProfile?.points || 0);
+              }, 0) || 0}
+            </span>
           </div>
           <div>
             <span className="text-gray-500 block">Grand Alliance</span>
@@ -220,19 +229,7 @@ export default function ArmyDetailPage() {
       {/* Order of Battle - matches roster PDF structure */}
       <div className="card">
         <div className="flex justify-between items-center mb-4">
-          <div>
-            <h3 className="font-bold text-lg">Order of Battle</h3>
-            {army.units && army.units.length > 0 && (
-              <p className="text-sm text-gray-600 mt-1">
-                Total Points: <span className="font-bold text-primary-600">
-                  {army.units.reduce((sum: number, unit: UnitType) => {
-                    const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
-                    return sum + (unitWarscroll?.battleProfile?.points || 0);
-                  }, 0)}
-                </span>
-              </p>
-            )}
-          </div>
+          <h3 className="font-bold text-lg">Order of Battle</h3>
           <Link to={`/armies/${armyId}/units/new`} className="btn-primary text-sm">
             + Add Unit
           </Link>

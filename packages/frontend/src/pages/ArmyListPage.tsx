@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { useQuery } from '@apollo/client';
-import { getAllFactions, type FactionData, ViewMode, FilterValue, GrandAlliance } from '@path-to-glory/shared';
+import { getAllFactions, type FactionData, ViewMode, FilterValue, GrandAlliance, getUnit } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
 import { GET_MY_ARMIES } from '../graphql/operations';
 import type { GetMyArmiesQuery } from '../gql/graphql';
@@ -310,6 +310,15 @@ export default function ArmyListPage() {
                   <div>
                     <span className="text-gray-500">Renown:</span>{' '}
                     <span className="font-semibold">{army.renown}</span>
+                  </div>
+                  <div>
+                    <span className="text-gray-500">Points:</span>{' '}
+                    <span className="font-semibold">
+                      {army.units?.reduce((sum, unit) => {
+                        const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
+                        return sum + (unitWarscroll?.battleProfile?.points || 0);
+                      }, 0) || 0}
+                    </span>
                   </div>
                 </div>
               </Link>

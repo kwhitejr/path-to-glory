@@ -79,10 +79,22 @@ export default function UnitSelector({
     onUnitsChange(selectedUnits.filter((u) => u.id !== unitId));
   };
 
+  const totalPoints = selectedUnits.reduce((sum, unit) => {
+    const unitData = availableUnits[unit.warscrollId];
+    return sum + (unitData?.battleProfile?.points || 0);
+  }, 0);
+
   return (
     <div className="space-y-4">
       <div className="flex items-center justify-between">
-        <h3 className="font-semibold">Units</h3>
+        <div>
+          <h3 className="font-semibold">Units</h3>
+          {selectedUnits.length > 0 && (
+            <p className="text-sm text-gray-600 mt-1">
+              Total: <span className="font-bold text-primary-600">{totalPoints} points</span>
+            </p>
+          )}
+        </div>
         <button
           type="button"
           onClick={() => setShowAddUnit(!showAddUnit)}
