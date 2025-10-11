@@ -271,6 +271,11 @@ function UnitCard({ unit, onClick }: { unit: UnitWarscroll; onClick: () => void 
   const isHero = unit.keywords.unit.includes('Hero');
   const isMonster = unit.keywords.unit.includes('Monster');
   const isWizard = unit.keywords.unit.some(k => k.startsWith('Wizard'));
+  const isManifestation = unit.battleProfile?.isManifestation || false;
+  const isFactionTerrain = unit.battleProfile?.isFactionTerrain || false;
+
+  const points = unit.battleProfile?.points || 0;
+  const pointsLabel = points === 0 ? 'Free' : points;
 
   return (
     <button
@@ -287,7 +292,7 @@ function UnitCard({ unit, onClick }: { unit: UnitWarscroll; onClick: () => void 
         </div>
         {unit.battleProfile && (
           <div className="text-right">
-            <div className="text-lg font-bold text-primary-600">{unit.battleProfile.points}</div>
+            <div className="text-lg font-bold text-primary-600">{pointsLabel}</div>
             <div className="text-xs text-gray-500">pts</div>
           </div>
         )}
@@ -314,6 +319,16 @@ function UnitCard({ unit, onClick }: { unit: UnitWarscroll; onClick: () => void 
         {isHero && <span className="badge badge-primary">Hero</span>}
         {isMonster && <span className="badge badge-secondary">Monster</span>}
         {isWizard && <span className="badge badge-accent">Wizard</span>}
+        {isManifestation && (
+          <span className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-purple-100 text-purple-700">
+            MANIFESTATION
+          </span>
+        )}
+        {isFactionTerrain && (
+          <span className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-amber-100 text-amber-700">
+            TERRAIN
+          </span>
+        )}
       </div>
     </button>
   );
@@ -321,6 +336,8 @@ function UnitCard({ unit, onClick }: { unit: UnitWarscroll; onClick: () => void 
 
 function UnitDetailModal({ unit, onClose }: { unit: UnitWarscroll; onClose: () => void }) {
   const faction = getAllFactions().find(f => f.id === unit.factionId);
+  const isManifestation = unit.battleProfile?.isManifestation || false;
+  const isFactionTerrain = unit.battleProfile?.isFactionTerrain || false;
 
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50 overflow-y-auto">
@@ -328,7 +345,19 @@ function UnitDetailModal({ unit, onClose }: { unit: UnitWarscroll; onClose: () =
         {/* Header */}
         <div className="sticky top-0 bg-white border-b border-gray-200 p-6 flex justify-between items-start">
           <div>
-            <h2 className="text-2xl font-bold text-gray-900">{unit.name}</h2>
+            <div className="flex items-center gap-2 mb-1">
+              <h2 className="text-2xl font-bold text-gray-900">{unit.name}</h2>
+              {isManifestation && (
+                <span className="inline-block px-2 py-1 text-xs font-semibold rounded bg-purple-100 text-purple-700">
+                  MANIFESTATION
+                </span>
+              )}
+              {isFactionTerrain && (
+                <span className="inline-block px-2 py-1 text-xs font-semibold rounded bg-amber-100 text-amber-700">
+                  TERRAIN
+                </span>
+              )}
+            </div>
             {unit.subtitle && (
               <p className="text-gray-600 mt-1">{unit.subtitle}</p>
             )}
