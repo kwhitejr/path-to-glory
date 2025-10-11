@@ -98,8 +98,11 @@ export type CreateArmyInput = {
   campaignId: Scalars['ID']['input'];
   factionId: Scalars['ID']['input'];
   heraldry?: InputMaybe<Scalars['String']['input']>;
+  manifestationLore?: InputMaybe<Array<Scalars['String']['input']>>;
   name: Scalars['String']['input'];
+  prayerLore?: InputMaybe<Array<Scalars['String']['input']>>;
   realmOfOrigin?: InputMaybe<RealmOfOrigin>;
+  spellLore?: InputMaybe<Array<Scalars['String']['input']>>;
   warlordUnitId?: InputMaybe<Scalars['String']['input']>;
 };
 
@@ -142,6 +145,8 @@ export type Mutation = {
   createArmy: Army;
   /** Create a new campaign */
   createCampaign: Campaign;
+  /** Delete an army and all its units */
+  deleteArmy: Scalars['Boolean']['output'];
   /** Record a battle */
   recordBattle: Battle;
   /** Remove a unit from an army */
@@ -172,6 +177,11 @@ export type MutationCreateArmyArgs = {
 
 export type MutationCreateCampaignArgs = {
   input: CreateCampaignInput;
+};
+
+
+export type MutationDeleteArmyArgs = {
+  id: Scalars['ID']['input'];
 };
 
 

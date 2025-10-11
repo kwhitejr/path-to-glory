@@ -79,8 +79,19 @@ export const resolvers = {
         playerId: army.playerId,
         factionId: army.factionId,
         name: army.name,
+        heraldry: army.heraldry,
+        realmOfOrigin: army.realmOfOrigin,
+        battleFormation: army.battleFormation,
         glory: army.glory,
         renown: army.renown,
+        background: army.background,
+        notableEvents: army.notableEvents,
+        currentQuest: army.currentQuest,
+        questPoints: army.questPoints,
+        completedQuests: army.completedQuests,
+        spellLore: army.spellLore,
+        prayerLore: army.prayerLore,
+        manifestationLore: army.manifestationLore,
         createdAt: army.createdAt,
         updatedAt: army.updatedAt,
       };
@@ -96,8 +107,19 @@ export const resolvers = {
         playerId: a.playerId,
         factionId: a.factionId,
         name: a.name,
+        heraldry: a.heraldry,
+        realmOfOrigin: a.realmOfOrigin,
+        battleFormation: a.battleFormation,
         glory: a.glory,
         renown: a.renown,
+        background: a.background,
+        notableEvents: a.notableEvents,
+        currentQuest: a.currentQuest,
+        questPoints: a.questPoints,
+        completedQuests: a.completedQuests,
+        spellLore: a.spellLore,
+        prayerLore: a.prayerLore,
+        manifestationLore: a.manifestationLore,
         createdAt: a.createdAt,
         updatedAt: a.updatedAt,
       }));
@@ -142,11 +164,27 @@ export const resolvers = {
           campaignId: string;
           factionId: string;
           name: string;
+          heraldry?: string;
+          realmOfOrigin?: string;
+          battleFormation?: string;
+          background?: string;
+          spellLore?: string[];
+          prayerLore?: string[];
+          manifestationLore?: string[];
         };
       },
       context: GraphQLContext
     ) => {
       requireAuth(context);
+
+      // Validate input
+      if (!input.name || input.name.trim().length === 0) {
+        throw new Error('Army name is required');
+      }
+
+      if (input.name.length > 100) {
+        throw new Error('Army name must be 100 characters or less');
+      }
 
       // Verify campaign exists and user has access
       const campaign = await campaignRepo.findById(input.campaignId);
@@ -164,7 +202,11 @@ export const resolvers = {
         campaignId: input.campaignId,
         playerId: context.user.cognitoId,
         factionId: input.factionId,
-        name: input.name,
+        name: input.name.trim(),
+        heraldry: input.heraldry,
+        realmOfOrigin: input.realmOfOrigin,
+        battleFormation: input.battleFormation,
+        background: input.background,
         glory: faction.startingGlory,
         renown: faction.startingRenown,
       });
@@ -175,8 +217,19 @@ export const resolvers = {
         playerId: army.playerId,
         factionId: army.factionId,
         name: army.name,
+        heraldry: army.heraldry,
+        realmOfOrigin: army.realmOfOrigin,
+        battleFormation: army.battleFormation,
         glory: army.glory,
         renown: army.renown,
+        background: army.background,
+        notableEvents: army.notableEvents,
+        currentQuest: army.currentQuest,
+        questPoints: army.questPoints,
+        completedQuests: army.completedQuests,
+        spellLore: army.spellLore,
+        prayerLore: army.prayerLore,
+        manifestationLore: army.manifestationLore,
         createdAt: army.createdAt,
         updatedAt: army.updatedAt,
       };
@@ -191,13 +244,33 @@ export const resolvers = {
         id: string;
         input: {
           name?: string;
+          heraldry?: string;
+          realmOfOrigin?: string;
+          battleFormation?: string;
           glory?: number;
           renown?: number;
+          background?: string;
+          notableEvents?: string;
+          currentQuest?: string;
+          questPoints?: number;
+          completedQuests?: string[];
+          spellLore?: string[];
+          prayerLore?: string[];
+          manifestationLore?: string[];
         };
       },
       context: GraphQLContext
     ) => {
       requireAuth(context);
+
+      // Validate input
+      if (input.name !== undefined && input.name.trim().length === 0) {
+        throw new Error('Army name cannot be empty');
+      }
+
+      if (input.name !== undefined && input.name.length > 100) {
+        throw new Error('Army name must be 100 characters or less');
+      }
 
       // Find army to get campaignId and verify ownership
       const armies = await armyRepo.findByPlayerId(context.user.cognitoId);
@@ -217,11 +290,51 @@ export const resolvers = {
         playerId: army.playerId,
         factionId: army.factionId,
         name: army.name,
+        heraldry: army.heraldry,
+        realmOfOrigin: army.realmOfOrigin,
+        battleFormation: army.battleFormation,
         glory: army.glory,
         renown: army.renown,
+        background: army.background,
+        notableEvents: army.notableEvents,
+        currentQuest: army.currentQuest,
+        questPoints: army.questPoints,
+        completedQuests: army.completedQuests,
+        spellLore: army.spellLore,
+        prayerLore: army.prayerLore,
+        manifestationLore: army.manifestationLore,
         createdAt: army.createdAt,
         updatedAt: army.updatedAt,
       };
+    },
+
+    deleteArmy: async (
+      _: unknown,
+      { id }: { id: string },
+      context: GraphQLContext
+    ) => {
+      requireAuth(context);
+
+      // Find army to get campaignId and verify ownership
+      const armies = await armyRepo.findByPlayerId(context.user.cognitoId);
+      const existingArmy = armies.find(a => a.id === id);
+
+      if (!existingArmy) {
+        throw new Error('Army not found');
+      }
+
+      requireOwnership(context, existingArmy.playerId);
+
+      // Delete all units in the army first
+      const units = await unitRepo.findByArmyId(existingArmy.campaignId, id);
+      for (const unit of units) {
+        await unitRepo.delete(existingArmy.campaignId, id, unit.id);
+      }
+
+      // Then delete the army
+      await armyRepo.delete(existingArmy.campaignId, id);
+
+      return true;
     },
 
     addUnit: async (
@@ -234,11 +347,14 @@ export const resolvers = {
         input: {
           unitTypeId: string;
           name: string;
+          warscroll: string;
           size: number;
           wounds: number;
           rank: string;
           renown: number;
           reinforced: boolean;
+          isWarlord: boolean;
+          pathAbilities?: string[];
         };
       },
       context: GraphQLContext
@@ -260,11 +376,14 @@ export const resolvers = {
         armyId,
         unitTypeId: input.unitTypeId,
         name: input.name,
+        warscroll: input.warscroll,
         size: input.size,
         wounds: input.wounds,
         rank: input.rank,
         renown: input.renown,
         reinforced: input.reinforced,
+        isWarlord: input.isWarlord,
+        pathAbilities: input.pathAbilities,
       });
 
       return {
@@ -273,14 +392,17 @@ export const resolvers = {
         armyId: unit.armyId,
         unitTypeId: unit.unitTypeId,
         name: unit.name,
+        warscroll: unit.warscroll,
         size: unit.size,
         wounds: unit.wounds,
         rank: unit.rank,
         renown: unit.renown,
         reinforced: unit.reinforced,
+        isWarlord: unit.isWarlord,
         veteranAbilities: unit.veteranAbilities,
         injuries: unit.injuries,
         enhancements: unit.enhancements,
+        pathAbilities: unit.pathAbilities,
         createdAt: unit.createdAt,
         updatedAt: unit.updatedAt,
       };
@@ -342,14 +464,17 @@ export const resolvers = {
         armyId: unit.armyId,
         unitTypeId: unit.unitTypeId,
         name: unit.name,
+        warscroll: unit.warscroll,
         size: unit.size,
         wounds: unit.wounds,
         rank: unit.rank,
         renown: unit.renown,
         reinforced: unit.reinforced,
+        isWarlord: unit.isWarlord,
         veteranAbilities: unit.veteranAbilities,
         injuries: unit.injuries,
         enhancements: unit.enhancements,
+        pathAbilities: unit.pathAbilities,
         createdAt: unit.createdAt,
         updatedAt: unit.updatedAt,
       };
@@ -435,14 +560,17 @@ export const resolvers = {
         armyId: unit.armyId,
         unitTypeId: unit.unitTypeId,
         name: unit.name,
+        warscroll: unit.warscroll,
         size: unit.size,
         wounds: unit.wounds,
         rank: unit.rank,
         renown: unit.renown,
         reinforced: unit.reinforced,
+        isWarlord: unit.isWarlord,
         veteranAbilities: unit.veteranAbilities,
         injuries: unit.injuries,
         enhancements: unit.enhancements,
+        pathAbilities: unit.pathAbilities,
         createdAt: unit.createdAt,
         updatedAt: unit.updatedAt,
       };
@@ -469,8 +597,19 @@ export const resolvers = {
         playerId: a.playerId,
         factionId: a.factionId,
         name: a.name,
+        heraldry: a.heraldry,
+        realmOfOrigin: a.realmOfOrigin,
+        battleFormation: a.battleFormation,
         glory: a.glory,
         renown: a.renown,
+        background: a.background,
+        notableEvents: a.notableEvents,
+        currentQuest: a.currentQuest,
+        questPoints: a.questPoints,
+        completedQuests: a.completedQuests,
+        spellLore: a.spellLore,
+        prayerLore: a.prayerLore,
+        manifestationLore: a.manifestationLore,
         createdAt: a.createdAt,
         updatedAt: a.updatedAt,
       }));
@@ -501,8 +640,19 @@ export const resolvers = {
         playerId: a.playerId,
         factionId: a.factionId,
         name: a.name,
+        heraldry: a.heraldry,
+        realmOfOrigin: a.realmOfOrigin,
+        battleFormation: a.battleFormation,
         glory: a.glory,
         renown: a.renown,
+        background: a.background,
+        notableEvents: a.notableEvents,
+        currentQuest: a.currentQuest,
+        questPoints: a.questPoints,
+        completedQuests: a.completedQuests,
+        spellLore: a.spellLore,
+        prayerLore: a.prayerLore,
+        manifestationLore: a.manifestationLore,
         createdAt: a.createdAt,
         updatedAt: a.updatedAt,
       }));
@@ -555,14 +705,17 @@ export const resolvers = {
         armyId: u.armyId,
         unitTypeId: u.unitTypeId,
         name: u.name,
+        warscroll: u.warscroll,
         size: u.size,
         wounds: u.wounds,
         rank: u.rank,
         renown: u.renown,
         reinforced: u.reinforced,
+        isWarlord: u.isWarlord,
         veteranAbilities: u.veteranAbilities,
         injuries: u.injuries,
         enhancements: u.enhancements,
+        pathAbilities: u.pathAbilities,
         createdAt: u.createdAt,
         updatedAt: u.updatedAt,
       }));
@@ -581,8 +734,19 @@ export const resolvers = {
         playerId: army.playerId,
         factionId: army.factionId,
         name: army.name,
+        heraldry: army.heraldry,
+        realmOfOrigin: army.realmOfOrigin,
+        battleFormation: army.battleFormation,
         glory: army.glory,
         renown: army.renown,
+        background: army.background,
+        notableEvents: army.notableEvents,
+        currentQuest: army.currentQuest,
+        questPoints: army.questPoints,
+        completedQuests: army.completedQuests,
+        spellLore: army.spellLore,
+        prayerLore: army.prayerLore,
+        manifestationLore: army.manifestationLore,
         createdAt: army.createdAt,
         updatedAt: army.updatedAt,
       };

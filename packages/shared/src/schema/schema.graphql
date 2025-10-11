@@ -195,6 +195,11 @@ type Mutation {
   updateArmy(id: ID!, input: UpdateArmyInput!): Army!
 
   """
+  Delete an army and all its units
+  """
+  deleteArmy(id: ID!): Boolean!
+
+  """
   Add a unit to an army
   """
   addUnit(armyId: ID!, input: AddUnitInput!): Unit!
