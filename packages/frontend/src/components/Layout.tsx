@@ -18,6 +18,9 @@ export default function Layout() {
             <NavLink to="/armies" active={location.pathname.startsWith('/armies')}>
               My Armies
             </NavLink>
+            <NavLink to="/warscrolls" active={location.pathname.startsWith('/warscrolls')}>
+              Warscrolls
+            </NavLink>
             <NavLink to="/campaigns" active={location.pathname.startsWith('/campaigns')}>
               Campaigns
             </NavLink>

@@ -11,6 +11,7 @@ import CreateArmyPage from './pages/CreateArmyPage';
 import EditArmyPage from './pages/EditArmyPage';
 import AddUnitPage from './pages/AddUnitPage';
 import EditUnitPage from './pages/EditUnitPage';
+import WarscrollsPage from './pages/WarscrollsPage';
 import CampaignsPage from './pages/CampaignsPage';
 import BattlesPage from './pages/BattlesPage';
 
@@ -71,6 +72,7 @@ function AppContent() {
           <Route path="armies/:armyId/edit" element={<EditArmyPage />} />
           <Route path="armies/:armyId/units/new" element={<AddUnitPage />} />
           <Route path="armies/:armyId/units/:unitId/edit" element={<EditUnitPage />} />
+          <Route path="warscrolls" element={<WarscrollsPage />} />
           <Route path="campaigns" element={<CampaignsPage />} />
           <Route path="battles" element={<BattlesPage />} />
         </Route>
