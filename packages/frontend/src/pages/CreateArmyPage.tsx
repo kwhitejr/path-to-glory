@@ -277,26 +277,34 @@ export default function CreateArmyPage() {
         {/* Battle Formation */}
         {formData.factionId && battleFormations.length > 0 && (
           <div>
-            <label htmlFor="battleFormation" className="label">
+            <label className="label">
               Battle Formation
             </label>
-            <select
-              id="battleFormation"
-              className="input"
-              value={formData.battleFormation}
-              onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
-              disabled={isSubmitting}
-            >
-              <option value="">Select a battle formation...</option>
+            <div className="space-y-3 mt-2">
               {battleFormations.map((formation) => (
-                <option key={formation.id} value={formation.name}>
-                  {formation.name}
-                </option>
+                <label
+                  key={formation.id}
+                  className="flex items-start p-4 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                >
+                  <input
+                    type="radio"
+                    name="battleFormation"
+                    value={formation.name}
+                    checked={formData.battleFormation === formation.name}
+                    onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
+                    className="h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300 mt-1"
+                    disabled={isSubmitting}
+                  />
+                  <div className="ml-3 flex-1">
+                    <div className="font-medium text-sm mb-1">{formation.name}</div>
+                    <div className="text-xs text-gray-600">{formation.description}</div>
+                  </div>
+                </label>
               ))}
-            </select>
+            </div>
             {formData.battleFormation && (
-              <p className="mt-2 text-sm text-gray-600">
-                {battleFormations.find(f => f.name === formData.battleFormation)?.description}
+              <p className="text-xs text-gray-500 italic mt-3">
+                Refer to your faction's Battletome or the Core Rules for detailed battle formation abilities and restrictions.
               </p>
             )}
           </div>

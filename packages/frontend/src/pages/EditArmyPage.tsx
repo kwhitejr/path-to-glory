@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams, Link } from 'react-router-dom';
 import { useQuery, useMutation } from '@apollo/client';
-import { getAllFactions, RealmOfOrigin, RealmOfOriginLabels } from '@path-to-glory/shared';
+import { getAllFactions, RealmOfOrigin, RealmOfOriginLabels, getBattleFormationsByFaction } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
 import { GET_ARMY, UPDATE_ARMY, GET_MY_ARMIES } from '../graphql/operations';
 
@@ -141,6 +141,7 @@ export default function EditArmyPage() {
   }
 
   const selectedFaction = factions.find((f) => f.id === army.factionId);
+  const battleFormations = army.factionId ? getBattleFormationsByFaction(army.factionId) : [];
 
   return (
     <div className="max-w-2xl mx-auto">
@@ -230,23 +231,40 @@ export default function EditArmyPage() {
         </div>
 
         {/* Battle Formation */}
-        <div>
-          <label htmlFor="battleFormation" className="label">
-            Battle Formation
-          </label>
-          <input
-            id="battleFormation"
-            type="text"
-            className="input"
-            value={formData.battleFormation}
-            onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
-            placeholder="Enter battle formation..."
-            disabled={updating}
-          />
-          <p className="mt-1 text-xs text-gray-500">
-            Faction-specific formations coming soon
-          </p>
-        </div>
+        {battleFormations.length > 0 && (
+          <div>
+            <label className="label">
+              Battle Formation
+            </label>
+            <div className="space-y-3 mt-2">
+              {battleFormations.map((formation) => (
+                <label
+                  key={formation.id}
+                  className="flex items-start p-4 border border-gray-200 rounded bg-white hover:bg-gray-50 cursor-pointer"
+                >
+                  <input
+                    type="radio"
+                    name="battleFormation"
+                    value={formation.name}
+                    checked={formData.battleFormation === formation.name}
+                    onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
+                    className="h-4 w-4 text-primary-600 focus:ring-primary-500 border-gray-300 mt-1"
+                    disabled={updating}
+                  />
+                  <div className="ml-3 flex-1">
+                    <div className="font-medium text-sm mb-1">{formation.name}</div>
+                    <div className="text-xs text-gray-600">{formation.description}</div>
+                  </div>
+                </label>
+              ))}
+            </div>
+            {formData.battleFormation && (
+              <p className="text-xs text-gray-500 italic mt-3">
+                Refer to your faction's Battletome or the Core Rules for detailed battle formation abilities and restrictions.
+              </p>
+            )}
+          </div>
+        )}
 
         {/* Background */}
         <div>
