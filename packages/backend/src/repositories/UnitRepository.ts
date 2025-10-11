@@ -80,7 +80,7 @@ export class UnitRepository {
         KeyConditionExpression: 'PK = :pk AND begins_with(SK, :sk)',
         ExpressionAttributeValues: {
           ':pk': `CAMPAIGN#${campaignId}`,
-          ':sk': `ARMY#${armyId}UNIT#`,
+          ':sk': `ARMY#${armyId}#UNIT#`,
         },
       })
     );

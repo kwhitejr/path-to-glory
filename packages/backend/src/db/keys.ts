@@ -32,7 +32,7 @@ export const keys = {
   // Unit keys
   unit: (campaignId: string, armyId: string, unitId: string) => ({
     PK: `${DynamoDBKeyPrefix.CAMPAIGN}${campaignId}`,
-    SK: `${DynamoDBKeyPrefix.ARMY}${armyId}${DynamoDBKeyPrefix.UNIT}${unitId}`,
+    SK: `${DynamoDBKeyPrefix.ARMY}${armyId}#${DynamoDBKeyPrefix.UNIT}${unitId}`,
   }),
 
   // Battle keys
