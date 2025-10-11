@@ -1,0 +1,2321 @@
+FACTION PACK
+HEDONITES
+OF SLAANESH
+BATTLE TRAITS
+Hedonites of Slaanesh armies can use the following abilities:
+Once Per Battle Round (Army),
+Start of Battle Round
+Passive
+EUPHORIC KILLERS: The followers
+AN EXCESS OF DEPRAVITY: Wherever
+the Hedonites of Slaanesh roam, reality is
+unmade. Those who stand against them
+are assailed by titillating phantasms and
+mind-bending illusions until they become
+slaves to their own base urges.
+
+of Slaanesh revel in slaughter, the thrill
+of battle sending them into an electrified
+frenzy as they mutilate their foe.
+
+Declare: Pick up to 3 friendly
+Hedonites of Slaanesh units to be
+the targets.
+
+• That unit’s weapons, including
+Companion weapons, have Crit (2 Hits).
+• That unit can use a Run ability and still
+use Shoot and/or Charge abilities
+later in the turn.
+
+Effect: While a friendly unit has the
+Euphoric keyword:
+Effect: The targets have the Euphoric
+keyword for the rest of the battle round.
+In addition, for each friendly unit you
+pick, give your opponent 1 temptation
+dice. During this battle round, instead
+of making a wound roll, save roll, ward
+roll or run roll, your opponent can use 1
+temptation dice to replace the roll they
+would have made with a 6, or instead
+of making a charge roll they can use 2
+temptation dice to replace 2 of the dice in
+a charge roll with two 6s (other dice could
+then be rolled normally). Rolls that have
+been replaced count as unmodified rolls
+and cannot be re-rolled. You cannot use
+temptation dice to replace a re-roll.
+Each time your opponent uses a
+temptation dice, they must roll it. On a
+1-2, your opponent’s roll is replaced by
+that value instead of a 6, and you must
+allocate D3 damage points to the unit for
+which the roll was replaced immediately
+after the ability used by that unit has been
+resolved (ward rolls cannot be made for
+those damage points).
+At the end of the battle round, any
+temptation dice that have not been used
+are lost.
+
+June 2025
+BATTLE FORMATIONS
+You can pick 1 of the following battle formations for a Hedonites of Slaanesh army. Each
+battle formation grants a different ability you can use in the battle.
+
+SEEKER CAVALCADE
+DEPRAVED CARNIVAL
+Passive
+THE ECSTATIC THRONGS: To the
+massed supplicants of Slaanesh, any form
+of sensation – even the most agonising – is
+to be embraced as a sacrament to their
+loathsome god.
+Effect: Add 1 to hit rolls for friendly
+Sybarite Infantry units while they
+are damaged or if they had any models
+slain in the same turn.
+
+Passive
+RECKLESS HASTE: Whether seeking
+their lost god or simply chasing new
+heights of speed, the mounted hosts of
+Slaanesh make war at a breakneck pace.
+Effect: Friendly Hedonites of
+Slaanesh Cavalry units can use a
+Retreat ability and still use Charge
+abilities later in the turn. In addition,
+no mortal damage is inflicted on
+Hedonites of Slaanesh Cavalry
+units by Retreat abilities.
+
+EPICUREAN REVELLERS
+SUPREME SYBARITES
+Passive
+Passive
+EXQUISITE PALATE: The Mortal
+Realms are vistas of depraved fascination
+to Slaanesh’s daemons, who will resist
+banishment with all their might.
+Effect: Each time a friendly non-Hero
+Hedonites of Slaanesh Daemon
+uses the ‘Rally’ command, you can make
+3 additional rally rolls of D6.
+
+GODLY AMBITIONS: There are
+many who would now seek to supplant
+imprisoned Slaanesh, and their force of
+personality fills their worshippers with
+reverent mania.
+Effect: Add 3 to the control scores of
+friendly non-Hero Hedonites of
+Slaanesh units while they are within
+the combat ranges of any friendly
+Hedonites of Slaanesh Heroes.
+
+June 2025
+HEROIC TRAITS
+FIGUREHEADS OF THE DARK PRINCE (Hero only)
+Passive
+Passive
+GLORY HOG: This hero wants nothing
+INTO THE FRAY: The first blow struck is
+more than to revel in the defeat of
+their enemies.
+
+the sweetest, and this warlord makes sure
+they slake their desire for violence with
+force and skill.
+
+Effect: If an enemy Hero is destroyed
+by this unit, this unit has the Euphoric
+keyword for the rest of the battle.
+
+Effect: If this unit charged this turn and
+the unmodified charge roll was 8+, this
+unit has Strike-first for the rest of
+the turn.
+
+Passive
+STRONGEST ALONE: This hero fights
+most fiercely on their own, lest their
+followers sully their greatness with their
+lesser presence.
+
+Effect: Add 1 to hit rolls and wound rolls
+for this unit’s attacks while it is more than
+6" from all other friendly units.
+
+ARTEFACTS OF POWER
+COVETED TREASURES (Hero only)
+Once Per Battle, Any Combat Phase
+Once Per Battle, Any Combat Phase
+THRENODY VOICEBOX: When
+ICON OF INFINITE EXCESS:
+Slaanesh’s most opulent standard drives
+both followers and enemies of the Dark
+Prince into orgiastic fits of violence.
+
+swallowed and held in the gullet, this tiny
+music box allows the bearer to let fly a
+mournful melody that can lull enemies
+into a stupor.
+
+Declare: Pick a non-Hero Hedonites
+of Slaanesh unit wholly within 12" of
+this unit to be the target.
+Effect: Add 1 to the Attacks characteristic
+of the target’s melee weapons for the rest
+of the turn.
+
+Effect: For the rest of the turn, subtract 1
+from the Attacks characteristic of melee
+weapons used by enemy units while they
+are in combat with this unit.
+End of Any Turn
+PENDANT OF SLAANESH: This
+pendant burrows deep into the owner’s
+chest and nestles next to their heart,
+invigorating them whenever they feel pain.
+Effect: If any damage points were
+allocated to this unit this turn, Heal (3)
+this unit.
+June 2025
+SPELL LORE
+LORE OF EXTRAVAGANCE
+Your Hero Phase
+SADISTIC SPITE: The caster bombards their allies with visions of their most visceral
+6
+and bloody desires until they can no longer tell what is real and what is fantasy.
+
+Declare: Pick a friendly Hedonites of Slaanesh Wizard to cast this spell, pick a
+visible friendly Euphoric unit to be the target, then make a casting roll of 2D6.
+Effect: The target’s melee weapons have Crit (Mortal) instead of Crit (2 Hits) for the rest
+of the battle round.
+Keywords
+Spell, Unlimited
+Your Hero Phase
+OVERWHELMING
+ACQUIESCENCE: The wizard engulfs
+7
+Your Hero Phase
+PHANTASMAGORIA: The sorcerer
+5
+the foe in an arcane haze of dreams and
+unattainable desires.
+
+summons illusory creatures that flit across
+the battlefield, bewildering the enemy and
+enabling their allies to retreat.
+
+Declare: Pick a friendly Hedonites of
+Slaanesh Wizard to cast this spell,
+pick a visible enemy unit within 18" of
+them to be the target, then make a casting
+roll of 2D6.
+
+Declare: Pick a friendly Hedonites of
+Slaanesh Wizard to cast this spell,
+pick a visible enemy unit within 12" of
+them to be the target, then make a casting
+roll of 2D6.
+
+Effect: Add 1 to wound rolls for attacks
+that target that enemy unit until the start
+of your next turn.
+
+Effect: Until the start of your next turn,
+each time the target is picked to use a
+Fight ability, you can pick a friendly
+unit in combat with the target. That
+friendly unit can move 2D3" after the
+Fight ability has been resolved. It can
+pass through the combat ranges of enemy
+units and can end that move in combat.
+
+Keywords
+Spell
+Keywords
+June 2025
+Spell
+MANIFESTATION LORE
+MANIFESTATIONS OF DEPRAVITY
+6
+Your Hero Phase
+SUMMON WHEELS OF
+EXCRUCIATION: Throwing a small
+Your Hero Phase
+SUMMON MESMERISING
+MIRROR: Smashing a small glass mirror
+multi-bladed knife into the air and
+channelling magical energy into it, the
+caster summons forth a storm of swiftly
+moving razor-sharp blades.
+
+to the ground, the wizard uses magical
+energy to cause it to reform and grow
+in size.
+
+Declare: If there is not a friendly
+Mesmerising Mirror on the battlefield,
+pick a friendly Hedonites of
+Slaanesh Wizard to cast this spell,
+then make a casting roll of 2D6.
+
+Declare: If there is not a friendly Wheels
+of Excruciation endless spell on the
+battlefield, pick a friendly Hedonites
+of Slaanesh Wizard to cast this spell,
+then make a casting roll of 2D6.
+
+Effect: Set up a Mesmerising Mirror
+wholly within 12" of the caster and visible
+to them.
+Keywords
+Spell, Summon
+Your Hero Phase
+SUMMON DREADFUL VISAGE:
+7
+Effect: Set up a Wheels of Excruciation
+endless spell wholly within 12" of the
+caster, visible to them and more than 9"
+from all enemy units.
+
+Inhaling draughts of hallucinogenic
+incense, the caster externalises their
+most unnatural desires in the form of a
+screaming daemonic visage.
+Declare: If there is not a friendly
+Dreadful Visage on the battlefield, pick
+a friendly Hedonites of Slaanesh
+Wizard to cast this spell, then make a
+casting roll of 2D6.
+Effect: Set up a Dreadful Visage wholly
+within 12" of the caster, visible to them
+and more than 9" from all enemy units.
+Keywords
+6
+Spell, Summon
+June 2025
+Keywords
+Spell, Summon
+June 2025
+14"
+HE
+16
+CO
+• HEDONITES OF SLAANESH WARSCROLL •
+4+
+S AV E
+A LT H
+MOV E
+5
+SHALAXI HELBANE
+N T ROL
+MELEE WEAPONS
+Atk Hit Wnd Rnd Dmg
+6
+2
+Soulpiercer
+Impaling Claws
+2+ 3+
+3+ 3+
+Passive
+BATTLE DAMAGED
+Effect: While this unit has 10 or more
+damage points, the Attacks characteristic
+of its Soulpiercer is 4.
+Passive
+SUPERNATURAL GRACE: Whether
+they turn blows aside or simply dodge out
+of harm’s way, it is extremely difficult to
+pin down a Keeper of Secrets.
+Effect: Subtract 1 from hit rolls for
+combat attacks that target this unit.
+
+4
+Your Hero Phase
+REFINE SENSES: The sorcerer
+channels magical power into their senses
+so that nothing can be hidden from them
+and none can escape their wrath.
+Declare: Make a casting roll of 2D6.
+Effect: For the rest of the turn:
+• Add 1 to wound rolls for this unit’s
+attacks that target enemy Heroes.
+• Add 1 to save rolls for attacks made by
+enemy Heroes that target this unit.
+Keywords
+KEYWORDS
+Spell
+2
+2
+3
+4
+Ability
+Anti-Hero (+1 Rend)
+-
+Once Per Turn (Army), Reaction:
+Opponent declared a Charge ability for a
+Hero within 9" of this unit
+PARAMOUNT HUNTER: Shalaxi will
+permit none save themselves the honour of
+striking down their chosen quarry.
+Effect: If this unit is not in combat, it
+can immediately move 2D6". It can pass
+through the combat ranges of enemy
+units but it must end that move within ½"
+of that Hero. If it does so, this unit has
+charged, and that Hero’s Charge ability
+has no effect.
+Keywords
+Core, Move, Charge,
+Rampage
+Once Per Battle, Your Combat Phase
+EXCESS OF VIOLENCE: With the
+subtlest of gestures, Shalaxi Helbane
+can rouse their followers to attack with
+redoubled aggression.
+Declare: Pick a friendly non-Hero
+Hedonites of Slaanesh unit wholly
+within 12" of this unit to be the target.
+Effect: The target can use 2 Fight
+abilities this turn. After the first is used,
+however, the target has Strike-last for
+the rest of the turn.
+
+Warmaster, Unique, Hero, Monster, Wizard (2), Ward (5+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+16
+CO
+4+
+S AV E
+A LT H
+MOV E
+12"
+5
+• HEDONITES OF SLAANESH WARSCROLL •
+KEEPER OF SECRETS
+N T ROL
+MELEE WEAPONS
+Elegant Greatblade
+Impaling Claws
+Atk Hit Wnd Rnd Dmg
+6
+2
+2+ 3+
+3+ 3+
+Passive
+BATTLE DAMAGED
+Ability
+2
+4
+-
+Once Per Turn (Army), Any Combat Phase
+Effect: While this unit has 10 or more
+damage points, the Attacks characteristic
+of its Elegant Greatblade is 4.
+
+DARK TEMPTATIONS: Few can resist
+the wiles of a Keeper of Secrets.
+
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Pick 1 of the following effects:
+Passive
+SUPERNATURAL GRACE: Whether
+they turn blows aside or simply dodge out
+of harm’s way, it is extremely difficult to
+pin down a Keeper of Secrets.
+
+Effect: Subtract 1 from hit rolls for
+combat attacks that target this unit.
+Your Hero Phase
+LOCUS OF SLAANESH: With violence
+and excess, the walls of reality can be made
+thin enough to draw forth reinforcements
+of Slaaneshi daemons.
+Declare: Pick a friendly Hedonites of
+Slaanesh Daemon unit that started
+the battle with 3 or more models and has
+been destroyed to be the target.
+Effect: Roll a dice. On a 4+, set up a
+replacement unit with half the number
+of models from the target unit (rounding
+up) wholly within 12" of this unit and
+more than 9" from all enemy units.
+
+KEYWORDS
+2
+2
+• Add 1 to hit rolls for the target’s attacks
+for the rest of the turn.
+• Add 1 to save rolls for the target for the
+rest of the turn.
+• If the target is damaged, Heal (D3)
+the target.
+Then, add 1 to the Damage characteristic
+of this unit’s Elegant Greatblade for
+attacks that target that enemy unit for the
+rest of the turn.
+Keywords
+Rampage
+Your Hero Phase
+CACOPHONIC CHOIR: The wizard
+6
+unleashes a sanity-shattering chorus of
+magical sound.
+Declare: Pick up to 3 visible enemy units
+within 6" of this unit to be the targets,
+then make a casting roll of 2D6.
+Effect: Roll a dice for each target. If the roll
+exceeds the target’s Control characteristic,
+inflict D3 mortal damage on it.
+Keywords
+Spell
+Hero, Monster, Wizard (2), Ward (5+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+10
+CO
+• HEDONITES OF SLAANESH WARSCROLL •
+SYNESSA
+5+
+S AV E
+A LT H
+MOV E
+12"
+5
+THE VOICE OF SLA ANESH
+N T ROL
+RANGED WEAPONS
+Staff of Slaanesh
+MELEE WEAPONS
+Unraveller’s Talons
+Rng Atk Hit Wnd Rnd Dmg
+18"
+3
+3+ 3+
+5
+3+ 3+
+Once Per Turn (Army), Any Combat Phase
+glance at Synessa’s magnificence leaves
+those nearby captivated.
+
+Declare: Pick an enemy unit that charged
+this turn and is in combat with this unit
+to be the target.
+Effect: Roll a dice. On a 3+, subtract 1
+from wound rolls for the target’s attacks
+for the rest of the turn.
+Rampage
+End of Any Turn
+VOICE OF SLAANESH: Possessing all
+the Dark Prince’s skill in intoxicating
+oratory, Synessa can reduce an enemy
+warrior to a paranoid wreck or lift an ally
+to a state of rapturous obedience.
+
+Declare: Pick a visible unit within 18" of
+this unit to be the target.
+Effect: If the target is a friendly unit, add
+5 to the target’s control score for the rest
+of the turn. If the target is an enemy unit,
+subtract 5 from the target’s control score
+for the rest of the turn.
+
+KEYWORDS
+Ability
+D3
+Shoot in Combat
+Atk Hit Wnd Rnd Dmg
+ENTHRALLING SPLENDOUR: A mere
+Keywords
+1
+2
+Ability
+2
+-
+Passive
+PROGENY OF SLAANESH: Despite
+their mutual enmity, Synessa and
+Dexcessa are inextricably connected,
+giving them an advantage over their foes.
+Effect: While a friendly Dexcessa is
+on the battlefield, add 1 to this unit’s
+power level.
+Your Hero Phase
+WHISPERS OF DOUBT: Synessa
+7
+whispers words that reveal the
+enemy’s darkest desires, breaking their
+concentration and leaving them vulnerable
+to attack.
+Declare: Pick a visible enemy Hero
+within 18" of this unit to be the target,
+then make a casting roll of 2D6.
+Effect: Add 1 to hit rolls and wound rolls
+for combat attacks that target that enemy
+unit for the rest of the turn.
+Keywords
+Spell
+Warmaster, Unique, Hero, Monster, Wizard (1), Fly, Ward (5+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+10
+CO
+• HEDONITES OF SLAANESH WARSCROLL •
+DEXCESSA
+5+
+S AV E
+A LT H
+MOV E
+12"
+5
+THE TALON OF SLA ANESH
+N T ROL
+MELEE WEAPONS
+Atk Hit Wnd Rnd Dmg
+7
+Impaling Talons
+3+ 3+
+End of Any Turn
+Ability
+2
+-
+Passive
+JOYOUS BATTLE FURY: Once Dexcessa
+begins to fight, they become invigorated by
+the glorious thrill of combat.
+Effect: If any enemy models were slain
+by this unit’s combat attacks this turn,
+Heal (D3) this unit, then place a battle
+fury token next to it.
+
+Add 1 to the Attacks characteristic of this
+unit’s Impaling Talons for each battle
+fury token it has until the end of the
+next turn.
+Passive
+FLEETING DANCE OF DEATH:
+Dexcessa rarely stays locked in combat
+in one place for long, flitting swiftly all
+over the battlefield and bringing death
+wherever they alight.
+Effect: This unit can use Charge
+abilities even if it used a Retreat
+ability in the same turn. In addition, no
+mortal damage is inflicted on this unit by
+Retreat abilities.
+
+KEYWORDS
+2
+SCION OF SLAANESH: Despite their
+mutual enmity, Dexcessa and Synessa are
+inextricably connected, giving them an
+advantage over their foes.
+Effect: While a friendly Synessa is on the
+battlefield, subtract 1 from hit rolls for
+attacks that target this unit.
+Once Per Turn (Army), Any Combat Phase
+REDOLENCE OF VIOLENCE: The
+beautiful scent of Dexcessa’s savagery
+permeates through the Hedonite ranks.
+Declare: If this unit charged this turn,
+pick up to D3 other friendly non-Hero
+Hedonites of Slaanesh Daemon
+units wholly within 12" of this unit to be
+the targets.
+Effect: Add 1 to the Attacks characteristic
+of the targets’ melee weapons for the rest
+of the turn.
+Keywords
+Rampage
+Warmaster, Unique, Hero, Monster, Fly, Ward (5+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+9
+CO
+8"
+• HEDONITES OF SLAANESH WARSCROLL •
+SYLL’ESSKE
+4+
+S AV E
+A LT H
+MOV E
+4
+THE VENGEFUL ALLEGIANCE
+N T ROL
+MELEE WEAPONS
+Axe of Dominion
+Scourging Whip
+Atk Hit Wnd Rnd Dmg
+4
+6
+3+ 3+
+2+ 4+
+Any Combat Phase
+2
+1
+Ability
+3
+2
+-
+Passive
+DEADLY SYMBIOSIS: In battle, the
+hosts of Syll’Esske seek to emulate the
+symbiosis of their master, compelling
+one another to escalating acts of
+depraved violence.
+
+Declare: Pick a friendly non-Hero
+Sybarite unit and a friendly non-Hero
+Hedonites of Slaanesh Daemon
+unit to be the targets. Both units must be
+wholly within 12" of this unit.
+Effect: For the rest of the turn, if either
+target uses the ‘All-out Attack’ or ‘All-out
+Defence’ command, the other target can
+also use the same command in the same
+phase and no command points are spent
+to use the command a second time.
+
+THE VENGEFUL ALLEGIANCE:
+Should one aspect of the Vengeful
+Allegiance deflect a blow, their other half
+will swiftly capitalise on the situation.
+Effect: Each time you make an
+unmodified save roll of 6 for a combat
+attack that targets this unit, inflict 1
+mortal damage on the attacking unit after
+the Fight ability has been resolved.
+Your Hero Phase
+SUBVERT: Syll torments the foe with
+7
+whispers and visions, distracting them
+from their duties.
+Declare: Pick a visible enemy unit within
+12" of this unit to be the target, then make
+a casting roll of 2D6.
+Effect: The target cannot use commands
+for the rest of the turn.
+Keywords
+KEYWORDS
+Spell
+Unique, Hero, Wizard (1), Infantry, Ward (6+)
+Chaos, Hedonites of Slaanesh, Daemon, Sybarite
+June 2025
+HE
+7
+CO
+9"
+• HEDONITES OF SLAANESH WARSCROLL •
+CONTORTED
+EPITOME
+5+
+S AV E
+A LT H
+MOV E
+2
+N T ROL
+MELEE WEAPONS
+Piercing Claws and
+Coiled Tentacles
+Atk Hit Wnd Rnd Dmg
+7
+3+ 4+
+Reaction: Opponent declared a command
+or Retreat ability for a unit in combat
+with this unit
+HORRIBLE FASCINATION: Many
+of weaker will would rather die than
+abandon the glories shown by a Mirror
+of Absorption – and the daemonic entity
+readily obliges.
+Effect: Inflict D3 mortal damage on that
+enemy unit.
+
+KEYWORDS
+1
+2
+Ability
+-
+Passive
+SWALLOW ENERGY: A Contorted
+Epitome steals the most intense and
+excessive energies, channelling them back
+to Slaanesh’s Temple of Twisted Mirrors.
+Effect: If you make a successful ward roll
+for this unit, add 1 to this unit’s power
+level until the end of your next turn.
+
+Hero, Wizard (1), Infantry, Ward (4+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+5
+CO
+6"
+• HEDONITES OF SLAANESH WARSCROLL •
+INFERNAL
+ENRAPTURESS
+5+
+S AV E
+A LT H
+MOV E
+2
+HERALD OF SLA ANESH
+N T ROL
+RANGED WEAPONS
+Heartstring Lyre
+MELEE WEAPONS
+Piercing Claw
+Rng Atk Hit Wnd Rnd Dmg
+Ability
+Atk Hit Wnd Rnd Dmg
+Ability
+12"
+2
+2+ 3+
+3
+3+ 4+
+2
+1
+D3
+1
+Once Per Turn (Army), Reaction:
+Opponent declared a Spell ability for a
+Wizard within 18" of this unit
+DISCORDANT DISRUPTION: An
+Infernal Enrapturess can play music so
+dissonant that it causes physical harm to
+those attuned to magic.
+
+Effect: The casting roll for that spell
+must be re-rolled. If 2 or more dice in the
+re-rolled casting roll have the same value
+or if 1 of the dice is a 6, inflict D3 mortal
+damage on that Wizard after the effect
+of that spell has been resolved.
+
+KEYWORDS
+Hero, Infantry, Ward (6+)
+Chaos, Hedonites of Slaanesh, Daemon
+-
+June 2025
+HE
+5
+CO
+8"
+5+
+S AV E
+A LT H
+MOV E
+2
+• HEDONITES OF SLAANESH WARSCROLL •
+THE MASQUE
+N T ROL
+MELEE WEAPONS
+Atk Hit Wnd Rnd Dmg
+6
+Razor-edged Claws
+3+ 4+
+Deployment Phase
+1
+2
+Ability
+-
+Any Hero Phase
+THE ENDLESS DANCE: The Masque
+STAFF OF MASKS: The masks on
+dances eternally across the Mortal Realms,
+endlessly seeking an audience to confound
+and swiftly slay.
+
+this staff constantly flicker and change,
+enhancing the Masque’s attacks or
+protecting them from harm.
+
+Effect: Remove this unit from the
+battlefield and set it up again on the
+battlefield more than 3" from all
+enemy units.
+
+Effect: Pick 1 of the following effects:
+KEYWORDS
+• Add 3 to the Attacks characteristic of
+this unit’s Razor-edged Claws for the
+rest of the turn.
+• Heal (3) this unit.
+
+Unique, Hero, Infantry, Ward (4+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+6
+CO
+4+
+S AV E
+A LT H
+MOV E
+12"
+2
+• HEDONITES OF SLAANESH WARSCROLL •
+SEEKER CHARIOT
+N T ROL
+MELEE WEAPONS
+Flensing Whips and
+Piercing Claws
+Steeds’ Poisoned Tongues
+Atk Hit Wnd Rnd Dmg
+Ability
+4
+3+ 4+
+1
+1
+-
+4
+3+ 4+
+-
+1
+Companion
+Any Charge Phase
+MUTILATING BLADES: A Slaaneshi
+chariot inflicts carnage when it ploughs
+into the foe.
+
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+
+KEYWORDS
+War Machine, Ward (6+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+7
+10"
+CO
+4+
+S AV E
+A LT H
+MOV E
+2
+• HEDONITES OF SLAANESH WARSCROLL •
+HELLFLAYER
+N T ROL
+MELEE WEAPONS
+Flensing Whips and
+Piercing Claws
+Steeds’ Poisoned Tongues
+Axle Blades
+Atk Hit Wnd Rnd Dmg
+6
+3+ 4+
+1
+1
+4
+3+ 4+
+-
+1
+4
+4+ 2+
+2
+Any Movement Phase
+-
+Companion
+Anti-Infantry (+1 Rend),
+D3
+Companion
+Passive
+SOULSCENT: The whirling blades of
+this fearsome chariot mow down the
+enemy, transmuting their souls into an
+exhilarating incense that drives its riders
+into an ecstatic frenzy.
+Declare: Pick up to 3 enemy units that
+this unit passed across this phase to be
+the targets.
+Effect: Roll a D3 for each target. On a 2+,
+inflict an amount of mortal damage on
+the target equal to the roll. If any models
+are slain by this ability, this unit has
+Ward (5+) for the rest of the turn.
+
+KEYWORDS
+Ability
+THRESHING DOOM: The wail of
+an approaching Hellflayer sees enemy
+infantry diving for cover.
+Effect: When this unit moves, it can pass
+through models in enemy Infantry
+units and can pass through the combat
+ranges of enemy Infantry units, but
+it cannot end a move in combat unless
+specified in the ability used.
+
+War Machine, Ward (6+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+12
+CO
+4+
+S AV E
+A LT H
+MOV E
+12"
+2
+• HEDONITES OF SLAANESH WARSCROLL •
+BLADEBRINGER
+HERALD ON EXALTED CHARIOT
+N T ROL
+MELEE WEAPONS
+Flensing Whips and
+Piercing Claws
+Steeds’ Poisoned Tongues
+Atk Hit Wnd Rnd Dmg
+12 3+ 4+
+1
+1
+-
+8
+-
+1
+Companion
+Any Charge Phase
+MUTILATING BLADES: A Slaaneshi
+chariot inflicts carnage when it ploughs
+into the foe.
+
+Declare: If this unit charged this phase,
+pick an enemy unit within 1" of it to be
+the target.
+Effect: Roll a D3. On a 2+, inflict an
+amount of mortal damage on the target
+equal to the roll.
+
+KEYWORDS
+Ability
+3+ 4+
+Once Per Turn (Army),
+Your Movement Phase
+SOULGORGERS: The grandest
+Bladebringers excel in stoking fits of manic
+violence in their disciples and hangers-on.
+Declare: Pick up to 3 friendly
+non-Unique Hedonites of Slaanesh
+War Machines wholly within 12" of
+this unit to be the targets.
+Effect: Add 1 to the Attacks characteristic
+of the targets’ melee weapons for the
+rest of the turn. This ability also affects
+Companion weapons.
+
+Hero, War Machine, Wizard (1), Ward (6+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+1
+CO
+6"
+6+
+S AV E
+A LT H
+MOV E
+1
+• HEDONITES OF SLAANESH WARSCROLL •
+DAEMONETTES
+N T ROL
+MELEE WEAPONS
+Piercing Claws
+Atk Hit Wnd Rnd Dmg
+2
+3+ 4+
+1
+1
+Ability
+-
+Passive
+LITHE AND SWIFT: Charging
+Daemonettes can riddle an enemy with a
+quicksilver flurry of claw-strikes.
+Effect: Add 1 to the Attacks characteristic
+of this unit’s Piercing Claws for the rest
+of the turn if this unit charged in the
+same turn.
+
+KEYWORDS
+Infantry, Champion, Musician (1/10), Standard Bearer (1/10), Ward (6+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+4
+10"
+CO
+5+
+S AV E
+A LT H
+MOV E
+1
+• HEDONITES OF SLAANESH WARSCROLL •
+FIENDS
+N T ROL
+MELEE WEAPONS
+Deadly Pincers and
+Barbed Stinger
+Atk Hit Wnd Rnd Dmg
+4
+4+ 3+
+Once Per Turn (Army), Any Combat Phase
+SOPORIFIC MUSK: A Fiend exudes a
+1
+Ability
+Anti-Monster (+1 Rend),
+D3
+Companion
+Passive
+DISRUPTIVE SONG: Fiends of Slaanesh
+pervasive and oily musk that numbs a foe
+to all but the most extreme of stimuli.
+
+let out a keening song that disturbs the
+concentration of spellcasters who hear it.
+
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+
+Effect: Subtract 1 from casting rolls and
+unbinding rolls for enemy Wizards
+while they are within 12" of this unit.
+
+Effect: Roll a dice. On a 4+, the target has
+Strike-last for the rest of the turn.
+
+Passive
+BEAST
+Effect: This unit has a maximum control
+score of 1.
+
+KEYWORDS
+Beast, Champion, Ward (6+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+3
+CO
+5+
+S AV E
+A LT H
+MOV E
+12"
+1
+• HEDONITES OF SLAANESH WARSCROLL •
+SEEKERS
+N T ROL
+MELEE WEAPONS
+Atk Hit Wnd Rnd Dmg
+3
+2
+Agonising Claws
+Steed’s Poisoned Tongue
+3+ 4+
+3+ 4+
+1
+-
+1
+1
+Ability
+Anti-Cavalry (+1 Rend)
+Companion
+Passive
+QUICKSILVER SPEED: Seekers of
+Slaanesh are daemonic hunters and swift
+beyond belief.
+Effect: When making run rolls for this
+unit, if you roll a 1-3, you can use a value
+of 4 instead.
+
+KEYWORDS
+Cavalry, Champion, Musician (1/5), Standard Bearer (1/5), Ward (6+)
+Chaos, Hedonites of Slaanesh, Daemon
+June 2025
+HE
+18
+CO
+8"
+• HEDONITES OF SLAANESH WARSCROLL •
+GLUTOS
+ORSCOLLION
+4+
+S AV E
+A LT H
+MOV E
+5
+LORD OF GLUTTONY
+N T ROL
+RANGED WEAPONS
+Leerstave of Loth’shar
+MELEE WEAPONS
+Greatblade and Claws
+Scourge and Dagger
+Rng Atk Hit Wnd Rnd Dmg
+12"
+1
+2+ 2+
+8
+4
+3+ 3+
+3+ 4+
+End of Any Turn
+GORGE ON EXCESS: Glutos’s followers
+grow strong on acts of excess.
+
+Declare: Pick a friendly Sybarite
+unit wholly within 12" of this unit to be
+the target.
+
+1
+-
+3
+1
+Ability
+Companion
+Companion
+THE GRAND GOUR MAND: To Glutos,
+battle is a sumptuous banquet.
+
+Effect: A different effect applies to
+friendly Sybarite units each battle
+round while they are wholly within 12"
+of this unit, as shown below. The effects
+of all previous battle rounds also apply to
+those units while they are wholly within
+12" of this unit.
+Battle Round 1:
+Starter: Add 1 to run rolls and charge
+rolls for those units.
+
+Effect: Heal (6) the target.
+
+7
+CRIPPLING FAMISHMENT: With
+a snap of his fingers, Glutos paralyses his
+prey with immeasurable hunger.
+
+Declare: Pick a visible enemy unit within
+18" of this unit to be the target, then make
+a casting roll of 2D6.
+Effect: Until the start of your next turn:
+• Halve the target’s Move characteristic.
+• Halve run rolls and charge rolls for
+the target.
+
+KEYWORDS
+Ability
+Shoot in Combat
+Passive
+Effect: While this unit has 10 or more
+damage points, the Attacks characteristic
+of its Greatblade and Claws is 6.
+
+Keywords
+6
+Atk Hit Wnd Rnd Dmg
+Passive
+BATTLE DAMAGED
+Your Hero Phase
+-
+Battle Round 2:
+Main: Add 3 to those units’ control scores.
+Battle Round 3:
+Dessert: Add 1 to hit rolls for those
+unit’s attacks.
+Battle Round 4+:
+Digestif: Add 1 to the Rend characteristic
+of those units’ melee weapons.
+
+Spell
+Warmaster, Unique, Hero, War Machine, Wizard (2), Ward (5+)
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+5
+CO
+6"
+5+
+S AV E
+A LT H
+MOV E
+2
+• HEDONITES OF SLAANESH WARSCROLL •
+LORD OF HUBRIS
+N T ROL
+MELEE WEAPONS
+Exquisite Scimitar
+Atk Hit Wnd Rnd Dmg
+5
+3+ 4+
+Any Combat Phase
+2
+Ability
+-
+Any Combat Phase
+‘YOU FIRST, I INSIST…’: So confident
+is this champion of excess that they allow
+their foe a futile swipe for free.
+Declare: Pick an enemy unit in combat
+with this unit to be the target.
+Effect: Your opponent must decide
+whether the target will accept or decline
+this unit’s challenge.
+Accept: The target has Strike-first
+for the rest of the turn. If this unit is in
+combat with the target when the target
+is picked to use a Fight ability, all of the
+target’s attacks must target this unit.
+Decline: The target has Strike-last for
+the rest of the turn.
+
+KEYWORDS
+1
+ONLY THE BEST WILL SUFFICE:
+Lords of Hubris refuse to fight alongside
+any but the finest warriors of the Sybarite
+hordes. In doing so, they inspire a level of
+pride worthy of their title.
+Declare: Pick a friendly Myrmidesh
+Painbringers or Symbaresh Twinsouls
+unit that is in combat and is wholly
+within 12" of this unit to be the target.
+Effect: Roll a dice. On a 3+, for the rest of
+the turn, each time a model in the target
+unit is slain by a combat attack and that
+model was in combat with the attacking
+unit, roll a dice. For each 4+, inflict 1
+mortal damage on the attacking unit after
+the Fight ability has been resolved.
+
+Hero, Infantry, Ward (5+)
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+5
+CO
+6"
+4+
+S AV E
+A LT H
+MOV E
+2
+• HEDONITES OF SLAANESH WARSCROLL •
+LORD OF PAIN
+N T ROL
+MELEE WEAPONS
+Soulpiercer Mace
+Atk Hit Wnd Rnd Dmg
+5
+3+ 3+
+Passive
+1
+2
+Ability
+-
+Passive
+SHARE THE PAIN: Lords of Pain have
+DISCIPLES IN TOR MENT: Slaanesh’s
+mastered every kind of torment and are
+adept at gifting the most terrible of agonies
+to their foes.
+
+Sybarites flock around a battling Lord
+of Pain, eager to be rewarded with the
+choicest expressions of agony.
+
+Effect: Each time you make a successful
+ward roll for this unit for a damage point
+inflicted by a combat attack, inflict 1
+mortal damage on the attacking unit after
+the Fight ability has been resolved.
+
+Effect: While this unit is contesting an
+objective, add 1 to wound rolls for combat
+attacks made by friendly Sybarite units
+wholly within 12" of this unit.
+
+KEYWORDS
+Hero, Infantry, Ward (5+)
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+6"
+7
+• HEDONITES OF SLAANESH WARSCROLL •
+SIGVALD
+3+
+S AV E
+A LT H
+MOV E
+CO
+2
+PRINCE OF SLA ANESH
+N T ROL
+MELEE WEAPONS
+Shardslash
+Atk Hit Wnd Rnd Dmg
+5
+2+ 3+
+Passive
+2
+2
+Ability
+Passive
+POWERED BY VAINGLORY: Sigvald is
+the epitome of vainglory, one of Slaanesh’s
+favourite sins. So great is his sense of
+superiority that few can stand before his
+prideful assaults.
+Effect: If this unit charged this turn
+and the unmodified charge roll was 6+,
+the Attacks characteristic of this unit’s
+Shardslash is equal to the unmodified
+charge roll.
+
+SHARDSLASH: This majestic blade slices
+through sigmarite and arcane wards alike
+as if they were merely the thinnest silk.
+Effect: Ward rolls cannot be made for
+damage points inflicted by this unit’s
+combat attacks.
+
+Passive
+THE GLORIOUS REBORN: None can
+best Sigvald in hand-to-hand combat,
+or so he believes, and the Geld-Prince is
+determined to prove it.
+
+Effect: This unit has Strike-first if it
+charged in the same turn.
+
+KEYWORDS
+-
+Warmaster, Unique, Hero, Infantry, Ward (4+)
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+3
+CO
+6"
+• HEDONITES OF SLAANESH WARSCROLL •
+5+
+S AV E
+A LT H
+MOV E
+1
+N T ROL
+MELEE WEAPONS
+Razor-sharp Claws and
+Gilded Weapons
+SLAANGOR
+FIENDBLOODS
+Atk Hit Wnd Rnd Dmg
+4
+4+ 3+
+1
+2
+Enemy Shooting Phase
+SLAUGHTER AT ANY COST:
+When stirred by the excesses of battle,
+Fiendbloods waste no time in hunting
+down their victims.
+Effect: If any damage points were
+allocated to this unit this turn, this unit
+can use the ‘Normal Move’ ability as if it
+were your movement phase.
+
+KEYWORDS
+Infantry, Champion
+Chaos, Hedonites of Slaanesh, Sybarite
+Ability
+-
+June 2025
+HE
+5
+CO
+6"
+• HEDONITES OF SLAANESH WARSCROLL •
+5+
+S AV E
+A LT H
+MOV E
+2
+N T ROL
+MELEE WEAPONS
+Haze Staff
+Shadow-cloaked Claws
+SHARDSPEAKER
+OF SLAANESH
+Atk Hit Wnd Rnd Dmg
+3
+4
+3+ 4+
+4+ 3+
+This unit is armed with a Haze Staff.
+It can only attack with Shadow-cloaked
+Claws by using the ‘Mist Lurkers’ ability.
+Once Per Turn (Army),
+Your Shooting Phase
+TWISTED MIRROR: A Twisted Mirror
+tests the spirit of any who gaze into
+it, weakening those who fall victim to
+its illusions.
+
+1
+1
+D3
+D3
+Ability
+Companion
+Passive
+MIST LURKERS: The mist-daemons that
+billow and slink around a Shardspeaker
+are empowered by arcane energies.
+Effect: If this unit successfully casts
+a spell, until the start of your next
+turn, it can attack with its Shadowcloaked Claws.
+
+Declare: Pick an enemy unit within 8" of
+this unit to be the target.
+Effect: Roll a dice. On a 4+, subtract 1
+from save rolls for the target until the
+start of your next turn.
+
+KEYWORDS
+Hero, Wizard (1), Infantry, Ward (6+)
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+2
+CO
+6"
+• HEDONITES OF SLAANESH WARSCROLL •
+3+
+S AV E
+A LT H
+MOV E
+1
+N T ROL
+MELEE WEAPONS
+Wicked Scimitar
+MYRMIDESH
+PAINBRINGERS
+Atk Hit Wnd Rnd Dmg
+3
+3+ 3+
+1
+1
+Passive
+PARAGONS OF BATTLE: Myrmidesh
+Painbringers seek to prove their martial
+prowess in the manic heart of battle.
+
+Effect: Add 1 to the Rend characteristic
+of this unit’s melee weapons while
+it is contesting an objective you do
+not control.
+
+KEYWORDS
+Infantry, Champion
+Chaos, Hedonites of Slaanesh, Sybarite
+Ability
+-
+June 2025
+HE
+1
+CO
+6"
+6+
+S AV E
+A LT H
+MOV E
+1
+• HEDONITES OF SLAANESH WARSCROLL •
+BLISSBARB ARCHERS
+N T ROL
+RANGED WEAPONS
+Blissbarb Bow
+MELEE WEAPONS
+Sybarite Blade
+Rng Atk Hit Wnd Rnd Dmg
+Ability
+Atk Hit Wnd Rnd Dmg
+Ability
+18"
+2
+1
+3+ 4+
+3+ 4+
+1
+-
+1
+1
+Passive
+BLISSBREW HOMONCULUS: Blissbrew
+Homonculi bear censers from which clouds
+of sickly-sweet incense emanate.
+
+Effect: This unit’s Blissbrew Homonculus
+is a token. There is 1 Blissbrew
+Homonculus for every 10 models in
+this unit.
+Subtract 1 from hit rolls for shooting
+attacks that target this unit while it has
+a Blissbrew Homonculus. If you make
+an unmodified save roll of 1 for this unit,
+remove the Blissbrew Homonculus from
+the battlefield after the Attack ability
+has been resolved (the damage point is
+still inflicted).
+
+KEYWORDS
+Infantry, Champion
+Chaos, Hedonites of Slaanesh, Sybarite
+-
+June 2025
+HE
+2
+CO
+6"
+• HEDONITES OF SLAANESH WARSCROLL •
+SYMBARESH
+TWINSOULS
+4+
+S AV E
+A LT H
+MOV E
+1
+N T ROL
+MELEE WEAPONS
+Merciless Weapons
+Atk Hit Wnd Rnd Dmg
+4
+3+ 4+
+Passive
+1
+1
+Ability
+-
+Passive
+EGO-DRIVEN EXCESS: These warriors
+FIENDISH REFLEXES: As the daemons
+refuse to be outdone by their comrades
+and use unorthodox techniques to best
+their foes.
+
+possessing these mortals take control,
+their speed increases tenfold, making them
+almost impossible to hit.
+
+Effect: If this unit did not charge this
+turn, subtract 1 from the Attacks
+characteristic of melee weapons used by
+enemy units while they are in combat
+with this unit.
+
+Effect: If this unit did not charge this
+turn, it has Ward (5+) while it is
+in combat.
+
+KEYWORDS
+Infantry, Champion
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+3
+CO
+• HEDONITES OF SLAANESH WARSCROLL •
+5+
+S AV E
+A LT H
+MOV E
+12"
+1
+HELLSTRIDERS
+N T ROL
+MELEE WEAPONS
+Atk Hit Wnd Rnd Dmg
+Claw-spear or Hellscourge
+3
+3+ 4+
+-
+1
+Steed’s Poisoned Tongue
+2
+3+ 4+
+-
+1
+Ability
+Anti-Infantry (+1 Rend),
+Charge (+1 Damage)
+Companion
+Passive
+MAIMING CHARGE: The gruesome
+carnage caused by Hellstriders on the
+charge can unnerve the staunchest foe.
+Effect: If this unit charged this turn,
+subtract 3 from the control scores of
+enemy Infantry units while they are in
+combat with this unit.
+
+KEYWORDS
+Cavalry, Champion, Musician (1/5), Standard Bearer (1/5)
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+4
+CO
+• HEDONITES OF SLAANESH WARSCROLL •
+SLICKBLADE
+SEEKERS
+5+
+S AV E
+A LT H
+MOV E
+12"
+1
+N T ROL
+MELEE WEAPONS
+Slickblade Glaive
+Exalted Steed’s
+Poisoned Tongue
+Atk Hit Wnd Rnd Dmg
+Ability
+3
+3+ 4+
+1
+1
+Charge (+1 Damage)
+3
+3+ 4+
+-
+1
+Companion
+Passive
+UNRIVALLED VELOCITY: Slickblade
+Seekers are obsessed with high-speed
+kills, tearing towards the foe with
+relentless haste.
+
+Effect: You can re-roll charge rolls for
+this unit.
+
+KEYWORDS
+Cavalry, Champion
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+4
+CO
+5+
+S AV E
+A LT H
+MOV E
+12"
+1
+• HEDONITES OF SLAANESH WARSCROLL •
+BLISSBARB SEEKERS
+N T ROL
+RANGED WEAPONS
+Seeker Bow
+MELEE WEAPONS
+Sybarite Blade
+Exalted Steed’s
+Poisoned Tongue
+Rng Atk Hit Wnd Rnd Dmg
+Ability
+Atk Hit Wnd Rnd Dmg
+Ability
+12"
+3
+3+ 4+
+1
+1
+1
+3+ 4+
+-
+1
+3
+3+ 4+
+-
+1
+Companion
+Passive
+GLORY SHOTS: Nothing pleases the
+Blissbarb Seekers more than shooting
+down enemies encamped on a vital point,
+all without breaking stride.
+Effect: Add 1 to the Rend characteristic
+of this unit’s ranged weapons for attacks
+that target units contesting an objective
+you do not control.
+
+KEYWORDS
+Cavalry, Champion
+Chaos, Hedonites of Slaanesh, Sybarite
+June 2025
+HE
+6
+B
+AN
+8"
+6+
+S AV E
+A LT H
+MOV E
+7+
+ISH M
+• HEDONITES OF SLAANESH WARSCROLL •
+DREADFUL VISAGE
+T
+EN
+MELEE WEAPONS
+Hooked Tongues
+Atk Hit Wnd Rnd Dmg
+8
+3+ 4+
+1
+1
+Ability
+Any Combat Phase
+FLENSING TONGUES: Opening its
+soul-sucking maw, the Dreadful Visage lets
+fly a plethora of hooked tongues that lash
+and flense the flesh of those nearby.
+Declare: Pick an enemy unit in combat
+with this Manifestation to be
+the target.
+Effect: Roll 6 dice. For each 4+, inflict
+1 mortal damage on the target. If any
+models are slain by this ability, the target
+has Strike-last for the rest of the turn.
+
+KEYWORDS
+Manifestation, Endless Spell, Fly, Ward (6+)
+Chaos, Hedonites of Slaanesh
+-
+June 2025
+HE
+6
+B
+AN
+-
+• HEDONITES OF SLAANESH WARSCROLL •
+MESMERISING
+MIRROR
+5+
+S AV E
+A LT H
+MOV E
+7+
+ISH MEN
+T
+Reaction: Opponent declared a Move
+ability for a unit wholly within 12" of
+this Manifestation
+IRRESISTIBLE LURE: The Mirror lures
+mortals as a candle draws moths to its
+light. Those strong enough to turn away
+feel knives of anguish and loss driven into
+their hearts.
+
+Effect: If that enemy unit does not end
+the move closer to this Manifestation
+than it was at the start of the move, inflict
+D3 mortal damage on it after the Move
+ability has been resolved.
+Any Movement Phase
+GAZE NOT INTO ITS DEPTHS:
+A Mesmerising Mirror can enthral a
+warrior’s soul, offering tempting gifts
+of power while slowly sapping their
+very essence.
+Declare: Pick an enemy unit within 6" of
+this Manifestation to be the target.
+Effect: Inflict D3 mortal damage on the
+target. Then, add 1 to hit rolls for the
+target’s attacks for the rest of the turn.
+
+KEYWORDS
+Manifestation, Endless Spell, Ward (6+)
+Chaos, Hedonites of Slaanesh
+June 2025
+HE
+6
+B
+AN
+8"
+• HEDONITES OF SLAANESH WARSCROLL •
+5+
+S AV E
+A LT H
+MOV E
+7+
+ISH MEN
+T
+MELEE WEAPONS
+Rending Wheels
+WHEELS OF
+EXCRUCIATION
+Atk Hit Wnd Rnd Dmg
+2D6 4+ 4+
+-
+1
+Ability
+Your Movement Phase
+EXQUISITE AGONY: The Wheels of
+Excruciation deliver death by a thousand
+exquisite cuts to those who get in their way.
+Declare: Pick up to 3 enemy units that
+this Manifestation passed across this
+turn to be the targets.
+Effect: Roll 6 dice for each target. For
+each roll that is less than the target’s Save
+characteristic, inflict 1 mortal damage on
+the target.
+
+KEYWORDS
+Manifestation, Endless Spell, Fly, Ward (6+)
+Chaos, Hedonites of Slaanesh
+-
+June 2025
+HE
+10
+CO
+-
+4+
+S AV E
+A LT H
+MOV E
+-
+• HEDONITES OF SLAANESH WARSCROLL •
+FANE OF SLAANESH
+N T ROL
+The following universal terrain abilities
+apply to this terrain feature (Terrain, 1.2):
+Cover, Impassable
+Your Hero Phase
+DAMNED CONDUIT: Slaanesh’s
+minions can make sacrifices at a Fane of
+Slaanesh to gain martial prowess.
+Declare: Pick a friendly Hedonites of
+Slaanesh unit wholly within 12" of this
+terrain feature to be the target.
+Effect: Allocate D3 damage points to the
+target (ward rolls cannot be made for
+those damage points). Then, pick 1 of the
+following effects to apply until the start of
+your next turn:
+• Add 1 to wound rolls for the target’s
+combat attacks.
+• Add 1 to run rolls and charge rolls for
+the target.
+• Add 1 to casting rolls and unbinding
+rolls for the target.
+
+KEYWORDS
+Faction Terrain, Ward (6+)
+Chaos, Hedonites of Slaanesh
+HEDONITES OF SLAANESH
+BLADES OF THE LURID DREAM
+This Spearhead army consists
+of the following units:
+GENERAL
+ Shardspeaker of Slaanesh
+UNITS
+ 5 Blissbarb Archers with 1
+Blissbrew Homonculus
+ 5 Blissbarb Archers
+ 5 Slickblade Seekers
+ 3 Slaangor Fiendbloods
+Slaanesh, the loathsome yet beguiling Dark Prince of the Ruinous Powers,
+excels in ensnaring mortals. He whispers that they might slake their most
+salacious desires, if only they should enter into his service. For many who
+endure existences of privation and drudgery, it is an offer too tempting
+to resist. Reality becomes a phantasmagoric paradise of revelry to these
+Sybarites, every torment theirs to inflict and have inflicted upon them. Many
+form warbands who seek to inhabit this blissful dream-state for eternity –
+and drag more noble souls down into the depths of their depravity.
+It is the Shardspeakers who direct these packs of murderous libertines
+and who channel the power of the Dark Prince like a powerful intoxicant.
+Through clouds of incense dart Blissbarb Archers, whose arrows are smeared
+with poisons that distort the senses. Only then do the elite of the Sybarites
+move in for the kill. Disdainful laughter echoes as Slickblade Seekers sprint
+forwards to slice off heads, herding surviving prey towards their doom. That
+doom is delivered by the Slaangor Fiendbloods. The arrival of these trilling
+beast-kin is the breaking point for the foe; some weep in terror, some cry
+out in joy and try desperately to embrace them. All are ripped asunder, their
+dream turning to a gruesome nightmare in their agonised final moments.
+
+‘Swiftly, my paramours! The Dark Prince spies unfortunates
+stooped beneath the weight of reality. We must save them from
+their sanity!’
+– Hiraxith of the Six Slicing Shards
+Wherever the Hedonites of Slaanesh roam, reality is
+unmade. Those who stand against them are assailed by
+titillating phantasms and mind-bending illusions until
+they become slaves to their own base urges.
+You receive 6 temptation dice at the start of the battle
+round. Each time your opponent makes a failed hit
+roll, a failed wound roll or a failed save roll, you can
+offer them a temptation dice. If they accept your offer,
+that roll is replaced with a 6. Rolls replaced in this way
+cannot be re-rolled or modified.
+Each time your opponent accepts your offer of a
+temptation dice, you gain D6 depravity points. Each
+time your opponent rejects your offer of a temptation
+dice, inflict D3 mortal damage on the unit for which the
+roll was made.
+
+You cannot offer your opponent a temptation dice for
+the same enemy unit more than once per phase. At
+the end of the battle round, all remaining temptation
+dice are lost.
+All friendly units gain passive abilities from the table
+below based on the number of depravity points you
+have. These abilities are cumulative.
+
+DP
+ABILITY
+12+
+TANTALISING TORMENT: This
+unit can use a Run ability and still use
+Charge abilities later in the turn.
+
+18+
+SADISTIC SPITE: This unit’s melee
+weapons have Crit (Mortal).
+
+24+
+OBLIVIOUS INDULGENCE:
+This unit has Ward (5+).
+
+REGIMENT ABILITIES: Pick 1 of the following regiment abilities.
+Once Per Battle, Any Combat Phase
+UNPARA LLELED SPEED: They say the first
+blow struck is the sweetest…
+Declare: Pick a friendly unit to use this ability.
+Effect: That unit has Strike-first this phase.
+
+Once Per Turn, Your Movement Phase
+LOCUS OF DIVERSION: These warriors
+release perfumed mists that fill the foes’ minds with
+everything but the matter at hand.
+Declare: Pick a friendly unit to use this ability.
+Effect: For the rest of the turn, that unit can use
+a Retreat ability and still use Shoot and/or
+Charge abilities later in the turn.
+
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+
+SPEARHEAD
+BATT LE TRA ITS
+TEMPTATIONS OF SLAANESH
+Declare: Pick a friendly unit to use this ability.
+Effect: That unit has Strike-first this phase.
+
+Declare: Pick a friendly unit to use this ability.
+Effect: For the rest of the turn, that unit can use
+a Retreat ability and still use Shoot and/or
+Charge abilities later in the turn.
+
+ENHANCEMENTS: Give your general 1 of the following enhancements.
+Any Combat Phase
+Once Per Turn, Your Shooting Phase
+SCEPTRE OF DOMINATION: The staff carried
+by this Shardspeaker contains magic that can seduce
+the minds of their foes.
+
+TWISTED MIRROR: A Twisted Mirror tests the
+spirit of any who gaze into it, immobilising those who
+fall victim to its illusions.
+
+Declare: Roll a dice for each enemy unit in combat
+with your general.
+
+Declare: Pick an enemy unit within 9" of your
+general and roll a dice.
+
+Effect: On a 5+, the unit being rolled for has
+Strike-last this phase.
+
+Effect: On a 4+, subtract 1 from save rolls for that
+unit until the start of your next turn.
+
+Your Hero Phase
+CACOPHONIC CHOIR: The Shardspeaker
+summons a sanity-shattering symphony of sound.
+Declare: Make a casting roll of 2D6.
+Effect: On a 6+, make a cacophony roll of D6. Inflict
+D3 mortal damage on each enemy unit (roll for
+each) within 6" of your general that has a Control
+characteristic less than the cacophony roll.
+
+Your Hero Phase
+PENDANT OF SLAANESH: This pendant
+burrows through the Shardspeaker’s rich fabrics
+and scarred chest before nestling next to their heart,
+invigorating them with sublime energy whenever they
+feel pain.
+Effect: Heal (D3) your general.
+
+5
+6"
+• SPEARHEAD WARSCROLL •
+5+
+SHARDSPEAKER OF SLAANESH
+SAVE
+HEALTH
+MOVE
+2
+MELEE WEAPONS
+Haze Staff
+CONTROL
+The Shardspeakers are sorcerers
+and seers amongst the Hedonite
+hosts, inducted into the higher
+mysteries of their decadent
+god. Wrapped in sumptuous
+fabrics and surrounded by
+swirling, sighing mist-daemons,
+they cut enigmatic figures
+amongst the hordes of revellers.
+Each Shardspeaker bears a
+Twisted Mirror, a fragment of
+ensorcelled glass said to be taken
+from Slaanesh’s own palace. By
+channelling their will through
+these relics, a Shardspeaker
+can display to their foe a vision
+of utmost perfection or abject
+personal horror, enrapturing
+them with the unhallowed
+majesty of Slaanesh.
+
+Attacks
+3
+Hit
+3+
+Wound Rend Damage
+4+
+Your Hero Phase
+VISION OF DAMNATION: The
+sorcerer conjures a vision of excess so
+intense that reality itself shimmers
+and distorts.
+Declare: Make a casting roll of 2D6.
+Effect: On a 6+, roll 6 dice. For each
+4+, you receive 1 depravity point.
+
+KEYWORDS
+Hero, Wizard, Infantry
+1
+D3
+Ability
+-
+4
+12"
+• SPEARHEAD WARSCROLL •
+5+
+SLICKBLADE SEEKERS
+SAVE
+HEALTH
+MOVE
+1
+CONTROL
+Whooping and screaming in
+unearthly glee, Slickblade
+Seekers ride at the fore of the
+Sybarite carnivals. They make
+war at a blistering pace, carried
+atop their daemonic steeds –
+creatures able to exist in the
+Mortal Realms due to a blooddeep connection with their
+rider. For a Slickblade Seeker, no
+sensation is finer than to slay an
+enemy without breaking stride.
+As they charge into melee they
+spin and twirl their glaives so
+fast the air itself seems to shriek,
+before the Sybarites lash out to
+neatly sever heads from necks.
+
+MELEE WEAPONS
+Slickblade Glaive
+Exalted Steed’s Poisoned Tongue
+Attacks
+3
+3
+Hit
+3+
+3+
+Wound Rend Damage
+4+
+4+
+Passive
+UNRIVALLED VELOCITY: Slickblade Seekers are
+obsessed with high-speed kills, tearing towards the foe
+with relentless haste.
+Effect: You can re-roll charge rolls for this unit.
+
+KEYWORDS
+Cavalry
+1
+-
+1
+1
+Ability
+Charge (+1 Damage)
+Companion
+3
+6"
+5+
+• SPE A R H E A D WA R SCROLL •
+SLA A NGOR FI ENDBLOODS
+SAVE
+HEALTH
+MOVE
+1
+CONTROL
+The Slaangor Fiendbloods are
+towering beastmen utterly
+in thrall to the Lord of Dark
+Delights. With an animalistic
+lack of restraint, they have
+over-indulged until only the
+most visceral and torturous of
+sensations can now rouse them.
+Slaangors roam Slaaneshi camps
+in a glassy-eyed stupor, allowing
+fellow Sybarites to drape them
+in fi ne gems and silks. When
+battle beckons, a transformation
+seizes them; they become
+arrow-swift instruments of
+manic violence, barrelling
+forwards without a hint of selfpreservation in their maddened
+desire to feel anything at all.
+
+MELEE WEAPONS
+Razor-sharp Claws
+Att acks
+4
+5
+Razor-sharp Claw and Gilded Weapon
+Hit
+4+
+4+
+Wound Rend Damage
+3+
+3+
+1
+1
+This unit has 2 Slaangor Fiendbloods armed with Razorsharp Claws, and 1 Slaangor Fiendblood armed with a
+Razor-sharp Claw and Gilded Weapon.
+Enemy Shooting Phase
+SLAUGHTER AT ANY COST: When stirred by the
+excesses of battle, Fiendbloods waste no time in hunting
+down their victims.
+Declare: Th is unit can use this ability if any damage
+points were allocated to it this turn.
+Effect: Th is unit can use the ‘Normal Move’ ability as if
+it were your movement phase.
+
+KEY WORDS
+Infantry, Reinforcements
+2
+2
+Ability
+-
+1
+6"
+• SPEARHEAD WARSCROLL •
+6+
+BLISSBARB ARCHERS
+SAVE
+HEALTH
+MOVE
+1
+RANGED WEAPONS
+Blissbarb Bow
+CONTROL
+Blissbarb Archers are the
+footsoldiers of Slaanesh’s mortal
+hosts, the sinful masses who
+partake in the bacchanals and
+the carnivals of agony. Having
+abandoned their past lives,
+these fleet-footed Sybarites are
+single-minded in their pursuit
+of decadence. Though forbidden
+from engaging in the glorious
+sensations of melee by their
+cruel overlords – though many
+cannot help but seek to wet
+their daggers when opportunity
+arises – they instead assail the
+foe with barbed arrows, laced
+with hallucinogenic toxins that
+open the mind to new vistas of
+dark possibility.
+
+MELEE WEAPONS
+Sybarite Blade
+Range Attacks
+Hit
+Wound Rend Damage
+Ability
+Attacks
+Hit
+Wound Rend Damage
+Ability
+18"
+2
+1
+3+
+3+
+4+
+4+
+1
+-
+One unit has 5 Blissbarb Archers and
+1 Blissbrew Homonculus. The other
+unit has 5 Blissbarb Archers.
+The Blissbarb Archers are each armed
+with a Blissbarb Bow and Sybarite
+Blade. The Blissbrew Homonculus is
+armed with a Sybarite Blade.
+Passive
+LIGHT-FOOTED KILLERS:
+Blissbarb Archers can deliver
+pinpoint shots even while cavorting
+wildly across the battlefield.
+Effect: This unit can use Shoot
+abilities even if it used a Run
+ability in the same turn.
+
+KEYWORDS
+Infantry, Reinforcements
+1
+1
+-
+-
+

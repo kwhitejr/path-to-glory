@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { useQuery } from '@apollo/client';
-import { getFactionById, UnitRank, getUnit, RealmOfOriginLabels } from '@path-to-glory/shared';
+import { getFactionById, UnitRank, getUnit, RealmOfOriginLabels, getBattleFormationsByFaction } from '@path-to-glory/shared';
 import { GET_ARMY } from '../graphql/operations';
 import type { GetArmyQuery } from '../gql/graphql';
 
@@ -31,6 +31,10 @@ export default function ArmyDetailPage() {
 
   const army = data?.army;
   const faction = army ? getFactionById(army.factionId) : null;
+  const battleFormations = army ? getBattleFormationsByFaction(army.factionId) : [];
+  const selectedFormation = army?.battleFormation
+    ? battleFormations.find(f => f.name === army.battleFormation)
+    : null;
 
   type UnitType = NonNullable<GetArmyQuery['army']>['units'][number];
 
@@ -109,9 +113,14 @@ export default function ArmyDetailPage() {
             </div>
           )}
           {army.battleFormation && (
-            <div>
-              <span className="text-gray-500 block">Battle Formation</span>
-              <span className="font-semibold">{army.battleFormation}</span>
+            <div className="col-span-2">
+              <span className="text-gray-500 block mb-1">Battle Formation</span>
+              <span className="font-semibold block">{army.battleFormation}</span>
+              {selectedFormation && (
+                <p className="text-xs text-gray-500 mt-1">
+                  {selectedFormation.description}
+                </p>
+              )}
             </div>
           )}
         </div>

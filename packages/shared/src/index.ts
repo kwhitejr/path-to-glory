@@ -14,6 +14,5 @@ export * from './types/unit.js';
 // GraphQL types (generated - will be available after running codegen)
 // export * from './types/graphql.js';
 
-// Data
-export * from './data/index.js';
-export * from '../data/units/index.js';
+// Data (all static game data consolidated in data/ directory)
+export * from '../data/index.js';

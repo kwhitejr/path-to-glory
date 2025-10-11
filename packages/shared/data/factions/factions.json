@@ -46,22 +46,22 @@
       {
         "id": "knightly-echelon",
         "name": "Knightly Echelon",
-        "description": "From Battletome: Flesh-eater Courts"
+        "description": "Once Per Turn (Army), End of Any Turn - A Hunger for Glory: Seeking to rise up the depraved hierarchy of their kind, champions of the courts will attempt to outdo one another with acts of derring-do, such as launching bold and bloody raids deep into enemy territory. Give 1 noble deeds point to each friendly Flesh-eater Courts Hero wholly outside friendly territory."
       },
       {
         "id": "lords-of-the-manor",
         "name": "Lords of the Manor",
-        "description": "From Battletome: Flesh-eater Courts"
+        "description": "Passive - Raise the Banners: In the dominating presence of their royal masters, courtiers of every rank call forth their minions in ever greater numbers. Each time a friendly unit uses an ability that returns any slain models to a friendly Serfs or Knights unit, add 1 to the number of slain models returned to that unit."
       },
       {
         "id": "the-royal-hunt",
         "name": "The Royal Hunt",
-        "description": "From Battletome: Flesh-eater Courts"
+        "description": "Passive - Gore-Splattered Hunters: The mordants of the Ghoul Patrols scuttle through their perceived kingdoms in deranged warbands, ready to assail the enemy in coordinated strikes. When players are alternating picking units to use a Fight ability, when it is your turn to pick a unit, you can pick 2 Crypt Ghouls units instead of 1. Neither unit can have Strike-last. Resolve the second Fight ability immediately after the first."
       },
       {
         "id": "royal-menagerie",
         "name": "Royal Menagerie",
-        "description": "From Battletome: Flesh-eater Courts"
+        "description": "Once Per Turn (Army), Your Combat Phase - Meat for the Beast: In battle, Flesh-eater monarchs often toss their pet monstrosities choice cuts of flesh, granting them a burst of strength and ferocity. Pick a friendly Flesh-eater Courts Monster. Roll a dice. On a 3+, the target has Strike-first for the rest of the turn."
       },
       {
         "id": "impassioned-serfs",
@@ -196,22 +196,22 @@
       {
         "id": "mortisan-council",
         "name": "Mortisan Council",
-        "description": "From Faction Pack: Ossiarch Bonereapers"
+        "description": "Passive - Necrotic Symphony: Each Mortisan thrives in the presence of their fellow craftsmen, their arcane might spiralling as the collective magnifies their individual potency. Add 1 to casting rolls for friendly Ossiarch Bonereapers Infantry Wizards."
       },
       {
         "id": "mortek-ballistari",
         "name": "Mortek Ballistari",
-        "description": "From Faction Pack: Ossiarch Bonereapers"
+        "description": "Your Shooting Phase - Crawling Barrage: Ossiarch artillery is best utilised en masse, unleashing their necrotic payload from a secure position behind the Mortek ranks. Pick up to 3 friendly Mortek Crawler units that are wholly within friendly territory and that have not used a Move ability this turn. Add 1 to hit rolls for each target's shooting attacks for the rest of the turn."
       },
       {
         "id": "kavalos-lance",
         "name": "Kavalos Lance",
-        "description": "From Faction Pack: Ossiarch Bonereapers"
+        "description": "Once Per Battle (Army), Deployment Phase - Swift as Death: Kavalos formations dominate the battlefield with their sheer speed, seeking out the enemy's weakest point before sending a deadly charge crashing home. Pick up to 3 friendly Ossiarch Bonereapers Cavalry units. Each target can move 6\" but cannot end that move in combat."
       },
       {
         "id": "mortek-phalanx",
         "name": "Mortek Phalanx",
-        "description": "From Faction Pack: Ossiarch Bonereapers"
+        "description": "Once Per Turn (Army), Your Movement Phase - Send in the Reserve: The Mortek Guard are deployed in deep ranks, with strategic reserves ready to enter the fray whenever the cohesion of the battleline is threatened. Pick a friendly Mortek Guard unit that has been destroyed. Roll a dice. On a 5+, set up a replacement unit with half the number of models from the target unit (rounding up) on the battlefield more than 9\" from all enemy units."
       },
       {
         "id": "tithe-guards",
@@ -322,22 +322,22 @@
       {
         "id": "legion-of-chaos",
         "name": "Legion of Chaos",
-        "description": "From Battletome: Slaves to Darkness"
+        "description": "Passive - United in Darkness: The myriad forces of Chaos march to war under a common cause, led by warlords who have put aside their rivalries in the name of laying waste to the lands of a shared foe. While there is at least 1 friendly Warriors of Chaos Hero and 1 other friendly Daemon Hero or Darkoath Hero on the battlefield, add 2 to the control scores of friendly Slaves to Darkness units while they are contesting an objective that is wholly outside friendly territory."
       },
       {
         "id": "godswrath-warband",
         "name": "Godswrath Warband",
-        "description": "From Battletome: Slaves to Darkness"
+        "description": "Once Per Turn (Army), End of Your Turn - Ironclad Onslaught: When a Chaos horde is on the march, the realms tremble. Hundreds of heavily armoured warriors desecrate all in their path as they roar oaths to the Dark Pantheon. Pick an objective that is contested by any friendly units. Place a defiled token next to the target objective. Then, roll a D3 for each enemy unit contesting an objective that has a defiled token. On a 2+, inflict an amount of mortal damage on that enemy unit equal to the roll."
       },
       {
         "id": "despoilers",
         "name": "Despoilers",
-        "description": "From Battletome: Slaves to Darkness"
+        "description": "Once Per Turn (Army), Reaction: You declared a Fight ability for a friendly Daemon Prince unit - Feral Ruin: A Daemon Prince's unholy radiance draws to them the most savage of chaotic creatures, abominations against nature that hunger to spill blood. Pick a friendly non-Hero Slaves to Darkness Monster or Beast unit that has not used a Fight ability this turn and is wholly within 12\" of this unit. The target can be picked to use a Fight ability immediately after the Fight ability used by this unit has been resolved."
       },
       {
         "id": "darkoath-horde",
         "name": "Darkoath Horde",
-        "description": "From Battletome: Slaves to Darkness"
+        "description": "Once Per Turn (Army), Your Movement Phase - Rally the Tribes: One of the horde's commanders looses a terrifying battle cry, calling more of their blade-sworn warriors to their side. If there is a friendly Darkoath Hero on the battlefield, pick a friendly non-Hero non-Unique Darkoath unit that has been destroyed. Roll a dice. On a 3+, set up a replacement unit with half the number of models from the target unit (rounding up) on the battlefield, wholly within 6\" of a battlefield edge and more than 3\" from all enemy units."
       },
       {
         "id": "chaos-horde",
@@ -448,22 +448,22 @@
       {
         "id": "sentinels-of-the-bleak-citadels",
         "name": "Sentinels of the Bleak Citadels",
-        "description": "From Battletome: Stormcast Eternals"
+        "description": "Once Per Turn (Army), Any Hero Phase - Ancient Aura: Storm-charged energy ebbs and flows around the warriors of the Ruination chamber, surrounding them in a scouring aura of power. Finding purchase with a weapon on these ancient heroes can be a difficult task for even the mightiest of mortal foes. Pick a friendly Ruination Chamber unit. That unit has Ward (5+) for the rest of the turn."
       },
       {
         "id": "thunderhead-host",
         "name": "Thunderhead Host",
-        "description": "From Battletome: Stormcast Eternals"
+        "description": "Passive - Synchronised Strikes: The core of a Thunderhead Host is often made up of fighters from the Warrior chambers; having trained relentlessly with the sworn brethren of their Stormhost, they operate like a well-oiled cogfort. Add 1 to hit rolls for combat attacks made by friendly Warrior Chamber units while they are wholly within 12\" of any friendly non-Hero Stormcast Eternals units that do not have the Warrior Chamber keyword."
       },
       {
         "id": "vanguard-wing",
         "name": "Vanguard Wing",
-        "description": "From Battletome: Stormcast Eternals"
+        "description": "Once Per Turn (Army), Your Movement Phase - Peerless Manoeuvres: These warriors are the precision weapon of the God-King, skilled at manipulating a battlefield in their favour by feinting from view and reappearing where they are needed most. Pick a friendly Vanguard Chamber unit that is not in combat. Roll a dice. On a 3+, remove that unit from the battlefield and set it up again anywhere on the battlefield more than 9\" from all enemy units."
       },
       {
         "id": "lightning-echelon",
         "name": "Lightning Echelon",
-        "description": "From Battletome: Stormcast Eternals"
+        "description": "Once Per Turn (Army), Any Combat Phase - Oncoming Storm: First to the fight, the Lightning Echelon is akin to a spear-thrust into the heart of the enemy. Deployed only in times of great need, they smash into the foe's vanguard with the force of an oncoming tempest. Pick a friendly Extremis Chamber unit that charged this turn. Roll a dice. On a 3+, that unit has Strike-first for the rest of the turn."
       }
     ],
     "arcaneTome": {

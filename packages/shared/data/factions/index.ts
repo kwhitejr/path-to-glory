@@ -1,7 +1,7 @@
 /**
  * Faction data
  */
-import type { FactionData } from '../types/faction.js';
+import type { FactionData } from '../../src/types/faction.js';
 import factionsJson from './factions.json';
 
 // Load factions from JSON file

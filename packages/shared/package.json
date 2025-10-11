@@ -6,12 +6,17 @@
   "main": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
   "scripts": {
-    "build": "tsc",
+    "build": "npm run clean && tsc && npm run copy:data",
+    "clean": "rm -rf dist",
+    "copy:data": "mkdir -p dist/data && cp -r data/factions dist/data/ && cp -r data/units dist/data/ && cp data/index.ts dist/data/",
     "dev": "tsc --watch",
     "type-check": "tsc --noEmit",
     "codegen": "graphql-codegen --config codegen.yml",
     "ingest:factions": "tsx scripts/ingest-factions.ts"
   },
+  "files": [
+    "dist"
+  ],
   "dependencies": {
     "zod": "^3.22.4"
   },
