@@ -7,6 +7,7 @@ import {
   getSpellLoreByFaction,
   getPrayerLoreByFaction,
   getManifestationLoreByFaction,
+  getBattleFormationsByFaction,
   type UnitWarscroll,
   RealmOfOrigin,
   RealmOfOriginLabels
@@ -152,7 +153,8 @@ export default function CreateArmyPage() {
   const selectedFaction = factions.find((f) => f.id === formData.factionId);
   const availableUnits: Record<string, UnitWarscroll> = formData.factionId ? getUnitsByFaction(formData.factionId) : {};
 
-  // Get arcane tome options for selected faction
+  // Get faction-specific options
+  const battleFormations = formData.factionId ? getBattleFormationsByFaction(formData.factionId) : [];
   const spellLore = formData.factionId ? getSpellLoreByFaction(formData.factionId) : null;
   const prayerLore = formData.factionId ? getPrayerLoreByFaction(formData.factionId) : null;
   const manifestationLore = formData.factionId ? getManifestationLoreByFaction(formData.factionId) : null;
@@ -273,23 +275,32 @@ export default function CreateArmyPage() {
         </div>
 
         {/* Battle Formation */}
-        <div>
-          <label htmlFor="battleFormation" className="label">
-            Battle Formation
-          </label>
-          <input
-            id="battleFormation"
-            type="text"
-            className="input"
-            value={formData.battleFormation}
-            onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
-            placeholder="Enter battle formation..."
-            disabled={isSubmitting}
-          />
-          <p className="mt-1 text-xs text-gray-500">
-            Faction-specific formations coming soon
-          </p>
-        </div>
+        {formData.factionId && battleFormations.length > 0 && (
+          <div>
+            <label htmlFor="battleFormation" className="label">
+              Battle Formation
+            </label>
+            <select
+              id="battleFormation"
+              className="input"
+              value={formData.battleFormation}
+              onChange={(e) => setFormData({ ...formData, battleFormation: e.target.value })}
+              disabled={isSubmitting}
+            >
+              <option value="">Select a battle formation...</option>
+              {battleFormations.map((formation) => (
+                <option key={formation.id} value={formation.name}>
+                  {formation.name}
+                </option>
+              ))}
+            </select>
+            {formData.battleFormation && (
+              <p className="mt-2 text-sm text-gray-600">
+                {battleFormations.find(f => f.name === formData.battleFormation)?.description}
+              </p>
+            )}
+          </div>
+        )}
 
         {/* Arcane Tome Selections */}
         {formData.factionId && (spellLore || prayerLore || manifestationLore) && (
