@@ -44,6 +44,13 @@
     "unit": ["Monster"],
     "faction": ["Chaos", "Slaves to Darkness", "Undivided"]
   },
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 120,
+    "baseSize": "60mm",
+    "isManifestation": false,
+    "isFactionTerrain": false
+  },
   "sourceFile": "Faction Pack - Slaves to Darkness.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }

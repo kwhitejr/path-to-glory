@@ -61,6 +61,14 @@
     "unit": ["Unique", "Infantry"],
     "faction": ["Order", "Stormcast Eternals", "The Blacktalons"]
   },
+  "battleProfile": {
+    "unitSize": 3,
+    "points": 0,
+    "baseSize": "40mm",
+    "isManifestation": false,
+    "isFactionTerrain": false
+  },
+  "regimentOptions": "This unit can only be taken in Neave Blacktalon's regiment.",
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }

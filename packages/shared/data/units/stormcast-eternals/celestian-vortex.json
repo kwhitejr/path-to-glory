@@ -31,6 +31,12 @@
     "unit": ["Manifestation", "Endless Spell", "Fly", "Ward (6+)"],
     "faction": ["Order", "Stormcast Eternals"]
   },
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 0,
+    "isManifestation": true,
+    "isFactionTerrain": false
+  },
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }

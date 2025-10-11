@@ -74,6 +74,14 @@
     "unit": ["Warmaster", "Unique", "Hero", "Monster", "Priest (2)", "Fly"],
     "faction": ["Order", "Stormcast Eternals"]
   },
+  "battleProfile": {
+    "unitSize": 1,
+    "points": 380,
+    "baseSize": "100mm",
+    "isManifestation": false,
+    "isFactionTerrain": false
+  },
+  "regimentOptions": "0-1 Stormcast Exemplar, Any Stormcast Eternals",
   "sourceFile": "Faction Pack - Stormcast Eternals.pdf",
   "extractedAt": "2025-10-07T00:00:00Z"
 }
