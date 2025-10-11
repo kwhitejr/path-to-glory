@@ -52,6 +52,34 @@ export class UserRepository {
   async upsert(params: CreateUserParams): Promise<UserItem> {
     const existing = await this.findByCognitoId(params.cognitoId);
     if (existing) {
+      // Update user if any fields have changed
+      const needsUpdate =
+        existing.email !== params.email ||
+        existing.name !== params.name ||
+        existing.picture !== params.picture ||
+        existing.googleId !== params.googleId;
+
+      if (needsUpdate) {
+        const now = new Date().toISOString();
+        const updated: UserItem = {
+          ...existing,
+          email: params.email,
+          name: params.name,
+          picture: params.picture,
+          googleId: params.googleId,
+          updatedAt: now,
+        };
+
+        await docClient.send(
+          new PutCommand({
+            TableName: TABLE_NAME,
+            Item: updated,
+          })
+        );
+
+        return updated;
+      }
+
       return existing;
     }
     return this.create(params);
