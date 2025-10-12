@@ -20,6 +20,7 @@ const graphqlPlugin = {
   },
 };
 
+// Build GraphQL Lambda
 await esbuild.build({
   entryPoints: ['src/handlers/graphql.ts'],
   bundle: true,
@@ -29,6 +30,20 @@ await esbuild.build({
   outfile: 'dist/index.mjs',
   external: ['@aws-sdk/*'],
   plugins: [graphqlPlugin],
+  banner: {
+    js: 'import { createRequire } from "module"; const require = createRequire(import.meta.url);',
+  },
+});
+
+// Build Image Service Lambda
+await esbuild.build({
+  entryPoints: ['src/handlers/images.ts'],
+  bundle: true,
+  platform: 'node',
+  target: 'node20',
+  format: 'esm',
+  outfile: 'dist/images.mjs',
+  external: ['@aws-sdk/*'],
   banner: {
     js: 'import { createRequire } from "module"; const require = createRequire(import.meta.url);',
   },

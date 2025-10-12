@@ -8,6 +8,16 @@ output "graphql_url" {
   value       = "https://${var.api_domain_name}/graphql"
 }
 
+output "images_upload_url" {
+  description = "Image upload endpoint URL"
+  value       = "https://${var.api_domain_name}/images/upload-url"
+}
+
+output "images_bucket_name" {
+  description = "S3 bucket for user-uploaded images"
+  value       = aws_s3_bucket.images.id
+}
+
 output "dynamodb_table_name" {
   description = "DynamoDB table name"
   value       = aws_dynamodb_table.main.name

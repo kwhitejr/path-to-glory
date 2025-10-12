@@ -38,6 +38,7 @@ export interface ArmyItem extends BaseItem {
   factionId: string;
   name: string;
   heraldry?: string;
+  imageUrl?: string;
   realmOfOrigin?: string;
   battleFormation?: string;
   glory: number;
@@ -59,6 +60,7 @@ export interface UnitItem extends BaseItem {
   armyId: string;
   unitTypeId: string;
   name: string;
+  imageUrl?: string;
   warscroll: string;
   size: number;
   wounds: number;

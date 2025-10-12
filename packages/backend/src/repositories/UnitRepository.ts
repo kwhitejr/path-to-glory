@@ -9,6 +9,7 @@ export interface CreateUnitParams {
   armyId: string;
   unitTypeId: string;
   name: string;
+  imageUrl?: string;
   warscroll: string;
   size: number;
   wounds: number;
@@ -21,6 +22,7 @@ export interface CreateUnitParams {
 
 export interface UpdateUnitParams {
   name?: string;
+  imageUrl?: string;
   warscroll?: string;
   size?: number;
   wounds?: number;
@@ -47,6 +49,7 @@ export class UnitRepository {
       armyId: params.armyId,
       unitTypeId: params.unitTypeId,
       name: params.name,
+      imageUrl: params.imageUrl,
       warscroll: params.warscroll,
       size: params.size,
       wounds: params.wounds,
@@ -103,6 +106,11 @@ export class UnitRepository {
       updateExpressions.push('#name = :name');
       expressionAttributeNames['#name'] = 'name';
       expressionAttributeValues[':name'] = params.name;
+    }
+
+    if (params.imageUrl !== undefined) {
+      updateExpressions.push('imageUrl = :imageUrl');
+      expressionAttributeValues[':imageUrl'] = params.imageUrl;
     }
 
     if (params.size !== undefined) {

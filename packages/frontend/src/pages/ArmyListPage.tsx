@@ -270,26 +270,49 @@ export default function ArmyListPage() {
               >
                 <div className="flex justify-between items-start mb-3">
                   <div className="flex-1 flex items-start gap-3">
-                    {/* Player profile picture */}
-                    {viewMode === ViewMode.ALL && army.player && (
-                      <div className="flex-shrink-0">
-                        {army.player.picture ? (
-                          <img
-                            src={army.player.picture}
-                            alt={army.player.name}
-                            className="h-10 w-10 rounded-full border-2 border-gray-200"
-                          />
-                        ) : (
-                          <div className="flex h-10 w-10 items-center justify-center rounded-full border-2 border-gray-200 bg-gray-100 text-sm font-semibold text-gray-600">
-                            {army.player.name.charAt(0).toUpperCase()}
-                          </div>
-                        )}
-                      </div>
-                    )}
+                    {/* Army thumbnail */}
+                    <div className="flex-shrink-0">
+                      {army.imageUrl ? (
+                        <img
+                          src={army.imageUrl}
+                          alt={army.name}
+                          className="h-20 w-20 rounded object-cover border-2 border-gray-200"
+                        />
+                      ) : (
+                        <div className="flex h-20 w-20 items-center justify-center rounded border-2 border-dashed border-gray-300 bg-gray-50">
+                          <svg
+                            className="h-8 w-8 text-gray-400"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                            />
+                          </svg>
+                        </div>
+                      )}
+                    </div>
                     <div className="flex-1 min-w-0">
                       <h3 className="font-bold text-lg">{army.name}</h3>
                       {viewMode === ViewMode.ALL && army.player && (
-                        <p className="text-xs text-gray-500 mt-0.5">by {army.player.name}</p>
+                        <div className="flex items-center gap-2 mt-1">
+                          {army.player.picture ? (
+                            <img
+                              src={army.player.picture}
+                              alt={army.player.name}
+                              className="h-5 w-5 rounded-full border border-gray-200"
+                            />
+                          ) : (
+                            <div className="flex h-5 w-5 items-center justify-center rounded-full border border-gray-200 bg-gray-100 text-xs font-semibold text-gray-600">
+                              {army.player.name.charAt(0).toUpperCase()}
+                            </div>
+                          )}
+                          <p className="text-xs text-gray-500">by {army.player.name}</p>
+                        </div>
                       )}
                     </div>
                   </div>

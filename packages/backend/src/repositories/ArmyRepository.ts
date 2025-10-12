@@ -10,6 +10,7 @@ export interface CreateArmyParams {
   factionId: string;
   name: string;
   heraldry?: string;
+  imageUrl?: string;
   realmOfOrigin?: string;
   battleFormation?: string;
   background?: string;
@@ -20,6 +21,7 @@ export interface CreateArmyParams {
 export interface UpdateArmyParams {
   name?: string;
   heraldry?: string;
+  imageUrl?: string;
   realmOfOrigin?: string;
   battleFormation?: string;
   glory?: number;
@@ -49,6 +51,7 @@ export class ArmyRepository {
       factionId: params.factionId,
       name: params.name,
       heraldry: params.heraldry,
+      imageUrl: params.imageUrl,
       realmOfOrigin: params.realmOfOrigin,
       battleFormation: params.battleFormation,
       glory: params.glory ?? 0,
@@ -135,6 +138,11 @@ export class ArmyRepository {
     if (params.heraldry !== undefined) {
       updateExpressions.push('heraldry = :heraldry');
       expressionAttributeValues[':heraldry'] = params.heraldry;
+    }
+
+    if (params.imageUrl !== undefined) {
+      updateExpressions.push('imageUrl = :imageUrl');
+      expressionAttributeValues[':imageUrl'] = params.imageUrl;
     }
 
     if (params.realmOfOrigin !== undefined) {

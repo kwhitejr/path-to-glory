@@ -28,6 +28,12 @@ variable "lambda_zip_path" {
   default     = "../../packages/backend/lambda.zip"
 }
 
+variable "lambda_images_zip_path" {
+  description = "Path to image service Lambda deployment package"
+  type        = string
+  default     = "../../packages/backend/lambda-images.zip"
+}
+
 variable "enable_mock_data" {
   description = "Enable mock data seeding"
   type        = string

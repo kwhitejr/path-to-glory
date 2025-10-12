@@ -81,6 +81,17 @@ export default function ArmyDetailPage() {
         Back to Armies
       </Link>
 
+      {/* Army Banner Image */}
+      {army.imageUrl && (
+        <div className="w-full h-48 md:h-64 rounded-lg overflow-hidden border-2 border-gray-200 shadow-sm">
+          <img
+            src={army.imageUrl}
+            alt={`${army.name} banner`}
+            className="w-full h-full object-cover"
+          />
+        </div>
+      )}
+
       {/* Army Header - matches roster PDF */}
       <div className="card">
         <div className="flex justify-between items-start mb-4">
@@ -250,18 +261,46 @@ export default function ArmyDetailPage() {
             >
               {/* Unit Header */}
               <div className="flex justify-between items-start mb-3">
-                <div className="flex-1">
-                  <div className="flex items-center gap-2 mb-1">
-                    <h4 className="font-bold">{unit.name}</h4>
-                    {unit.rank === UnitRank.WARLORD && (
-                      <span className="px-2 py-0.5 bg-yellow-100 text-yellow-800 text-xs font-medium rounded">
-                        WARLORD
-                      </span>
+                <div className="flex-1 flex items-start gap-3">
+                  {/* Unit thumbnail */}
+                  <div className="flex-shrink-0">
+                    {unit.imageUrl ? (
+                      <img
+                        src={unit.imageUrl}
+                        alt={unit.name}
+                        className="h-14 w-14 rounded object-cover border-2 border-gray-200"
+                      />
+                    ) : (
+                      <div className="flex h-14 w-14 items-center justify-center rounded border-2 border-dashed border-gray-300 bg-gray-50">
+                        <svg
+                          className="h-6 w-6 text-gray-400"
+                          fill="none"
+                          stroke="currentColor"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+                          />
+                        </svg>
+                      </div>
                     )}
                   </div>
-                  {unit.name !== unitTypeName && (
-                    <p className="text-sm text-gray-600">{unitTypeName}</p>
-                  )}
+                  <div className="flex-1 min-w-0">
+                    <div className="flex items-center gap-2 mb-1">
+                      <h4 className="font-bold">{unit.name}</h4>
+                      {unit.rank === UnitRank.WARLORD && (
+                        <span className="px-2 py-0.5 bg-yellow-100 text-yellow-800 text-xs font-medium rounded">
+                          WARLORD
+                        </span>
+                      )}
+                    </div>
+                    {unit.name !== unitTypeName && (
+                      <p className="text-sm text-gray-600">{unitTypeName}</p>
+                    )}
+                  </div>
                 </div>
                 <div className="text-right">
                   <div className="text-sm font-semibold text-primary-600">{points} pts</div>

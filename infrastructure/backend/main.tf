@@ -98,7 +98,71 @@ resource "aws_dynamodb_table" "main" {
   }
 }
 
-# Lambda Execution Role
+# S3 Bucket for User-Uploaded Images
+resource "aws_s3_bucket" "images" {
+  bucket = "kwhitejr-path-to-glory-images-prod-${data.aws_caller_identity.current.account_id}"
+}
+
+resource "aws_s3_bucket_public_access_block" "images" {
+  bucket = aws_s3_bucket.images.id
+
+  block_public_acls       = true
+  block_public_policy     = true
+  ignore_public_acls      = true
+  restrict_public_buckets = true
+}
+
+# CORS configuration for direct upload from frontend
+resource "aws_s3_bucket_cors_configuration" "images" {
+  bucket = aws_s3_bucket.images.id
+
+  cors_rule {
+    allowed_headers = ["*"]
+    allowed_methods = ["PUT", "POST"]
+    allowed_origins = var.cors_allowed_origins
+    expose_headers  = ["ETag"]
+    max_age_seconds = 3600
+  }
+
+  cors_rule {
+    allowed_methods = ["GET"]
+    allowed_origins = ["*"]
+    max_age_seconds = 3600
+  }
+}
+
+# Lifecycle policy to manage costs
+resource "aws_s3_bucket_lifecycle_configuration" "images" {
+  bucket = aws_s3_bucket.images.id
+
+  rule {
+    id     = "delete-old-images"
+    status = "Enabled"
+
+    # Delete images after 365 days (armies can be re-uploaded)
+    expiration {
+      days = 365
+    }
+
+    # Delete incomplete multipart uploads after 7 days
+    abort_incomplete_multipart_upload {
+      days_after_initiation = 7
+    }
+  }
+}
+
+# Server-side encryption
+resource "aws_s3_bucket_server_side_encryption_configuration" "images" {
+  bucket = aws_s3_bucket.images.id
+
+  rule {
+    apply_server_side_encryption_by_default {
+      sse_algorithm = "AES256"
+    }
+  }
+}
+
+# Lambda Execution Role (GraphQL API)
 resource "aws_iam_role" "lambda_exec" {
   name = "path-to-glory-lambda-exec"
 
@@ -114,6 +178,50 @@ resource "aws_iam_role" "lambda_exec" {
       }
     ]
   })
+}
+
+# Lambda Execution Role (Image Service)
+resource "aws_iam_role" "lambda_images_exec" {
+  name = "path-to-glory-lambda-images-exec"
+
+  assume_role_policy = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Action = "sts:AssumeRole"
+        Effect = "Allow"
+        Principal = {
+          Service = "lambda.amazonaws.com"
+        }
+      }
+    ]
+  })
+}
+
+# S3 permissions for image Lambda (presigned URLs only)
+resource "aws_iam_role_policy" "lambda_images_s3" {
+  name = "s3-presigned-url-access"
+  role = aws_iam_role.lambda_images_exec.id
+
+  policy = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Effect = "Allow"
+        Action = [
+          "s3:PutObject",
+          "s3:GetObject",
+          "s3:DeleteObject"
+        ]
+        Resource = "${aws_s3_bucket.images.arn}/*"
+      }
+    ]
+  })
+}
+
+resource "aws_iam_role_policy_attachment" "lambda_images_basic" {
+  policy_arn = "arn:aws:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole"
+  role       = aws_iam_role.lambda_images_exec.name
 }
 
 resource "aws_iam_role_policy" "lambda_dynamodb" {
@@ -174,9 +282,39 @@ resource "aws_lambda_function" "graphql" {
   }
 }
 
-# CloudWatch Log Group
+# CloudWatch Log Group (GraphQL Lambda)
 resource "aws_cloudwatch_log_group" "lambda" {
   name              = "/aws/lambda/${aws_lambda_function.graphql.function_name}"
+  retention_in_days = 7
+}
+
+# Lambda Function (Image Service)
+resource "aws_lambda_function" "images" {
+  function_name = "path-to-glory-images"
+  role          = aws_iam_role.lambda_images_exec.arn
+  handler       = "images.handler"
+
+  runtime     = "nodejs20.x"
+  timeout     = 10
+  memory_size = 256
+
+  # Limit concurrent executions
+  reserved_concurrent_executions = 5
+
+  filename         = var.lambda_images_zip_path
+  source_code_hash = filebase64sha256(var.lambda_images_zip_path)
+
+  environment {
+    variables = {
+      S3_BUCKET_NAME = aws_s3_bucket.images.id
+      MAX_FILE_SIZE  = "524288" # 512KB in bytes
+    }
+  }
+}
+
+# CloudWatch Log Group (Image Lambda)
+resource "aws_cloudwatch_log_group" "lambda_images" {
+  name              = "/aws/lambda/${aws_lambda_function.images.function_name}"
   retention_in_days = 7
 }
 
@@ -247,11 +385,37 @@ resource "aws_apigatewayv2_route" "graphql_get" {
   target    = "integrations/${aws_apigatewayv2_integration.lambda.id}"
 }
 
-# Lambda Permission
+# Lambda Permission (GraphQL)
 resource "aws_lambda_permission" "api_gateway" {
   statement_id  = "AllowAPIGatewayInvoke"
   action        = "lambda:InvokeFunction"
   function_name = aws_lambda_function.graphql.function_name
+  principal     = "apigateway.amazonaws.com"
+  source_arn    = "${aws_apigatewayv2_api.main.execution_arn}/*/*"
+}
+
+# Image Lambda Integration
+resource "aws_apigatewayv2_integration" "lambda_images" {
+  api_id           = aws_apigatewayv2_api.main.id
+  integration_type = "AWS_PROXY"
+
+  integration_uri        = aws_lambda_function.images.invoke_arn
+  integration_method     = "POST"
+  payload_format_version = "2.0"
+}
+
+# Image Upload Route
+resource "aws_apigatewayv2_route" "images_upload" {
+  api_id    = aws_apigatewayv2_api.main.id
+  route_key = "POST /images/upload-url"
+  target    = "integrations/${aws_apigatewayv2_integration.lambda_images.id}"
+}
+
+# Lambda Permission (Image Service)
+resource "aws_lambda_permission" "api_gateway_images" {
+  statement_id  = "AllowAPIGatewayInvokeImages"
+  action        = "lambda:InvokeFunction"
+  function_name = aws_lambda_function.images.function_name
   principal     = "apigateway.amazonaws.com"
   source_arn    = "${aws_apigatewayv2_api.main.execution_arn}/*/*"
 }
