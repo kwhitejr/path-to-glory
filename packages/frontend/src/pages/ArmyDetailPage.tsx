@@ -4,6 +4,7 @@ import { useQuery } from '@apollo/client';
 import { getFactionById, UnitRank, getUnit, RealmOfOriginLabels, getBattleFormationsByFaction } from '@path-to-glory/shared';
 import { GET_ARMY } from '../graphql/operations';
 import type { GetArmyQuery } from '../gql/graphql';
+import { PresignedImage } from '../components/PresignedImage';
 
 const LOADING_MESSAGES = [
   'Marshalling the forces...',
@@ -82,15 +83,11 @@ export default function ArmyDetailPage() {
       </Link>
 
       {/* Army Banner Image */}
-      {army.imageUrl && (
-        <div className="w-full h-48 md:h-64 rounded-lg overflow-hidden border-2 border-gray-200 shadow-sm">
-          <img
-            src={army.imageUrl}
-            alt={`${army.name} banner`}
-            className="w-full h-full object-cover"
-          />
-        </div>
-      )}
+      <PresignedImage
+        imageKey={army.imageUrl}
+        alt={`${army.name} banner`}
+        className="w-full h-48 md:h-64 rounded-lg object-cover border-2 border-gray-200 shadow-sm"
+      />
 
       {/* Army Header - matches roster PDF */}
       <div className="card">
@@ -264,29 +261,28 @@ export default function ArmyDetailPage() {
                 <div className="flex-1 flex items-start gap-3">
                   {/* Unit thumbnail */}
                   <div className="flex-shrink-0">
-                    {unit.imageUrl ? (
-                      <img
-                        src={unit.imageUrl}
-                        alt={unit.name}
-                        className="h-14 w-14 rounded object-cover border-2 border-gray-200"
-                      />
-                    ) : (
-                      <div className="flex h-14 w-14 items-center justify-center rounded border-2 border-dashed border-gray-300 bg-gray-50">
-                        <svg
-                          className="h-6 w-6 text-gray-400"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
-                          />
-                        </svg>
-                      </div>
-                    )}
+                    <PresignedImage
+                      imageKey={unit.imageUrl}
+                      alt={unit.name}
+                      className="h-14 w-14 rounded object-cover border-2 border-gray-200"
+                      fallback={
+                        <div className="flex h-14 w-14 items-center justify-center rounded border-2 border-dashed border-gray-300 bg-gray-50">
+                          <svg
+                            className="h-6 w-6 text-gray-400"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+                            />
+                          </svg>
+                        </div>
+                      }
+                    />
                   </div>
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2 mb-1">

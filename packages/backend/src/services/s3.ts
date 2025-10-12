@@ -1,10 +1,11 @@
-import { S3Client, PutObjectCommand } from '@aws-sdk/client-s3';
+import { S3Client, PutObjectCommand, GetObjectCommand } from '@aws-sdk/client-s3';
 import { getSignedUrl } from '@aws-sdk/s3-request-presigner';
 import { randomUUID } from 'crypto';
 
 const s3Client = new S3Client({ region: process.env.AWS_REGION || 'us-east-1' });
 const BUCKET_NAME = process.env.S3_BUCKET_NAME!;
-const URL_EXPIRATION_SECONDS = 300; // 5 minutes
+const UPLOAD_URL_EXPIRATION_SECONDS = 300; // 5 minutes for uploads
+const VIEW_URL_EXPIRATION_SECONDS = 3600; // 1 hour for viewing
 
 interface GeneratePresignedUrlParams {
   filename: string;
@@ -49,22 +50,37 @@ export async function generatePresignedUploadUrl(
 
   // Generate presigned URL
   const uploadUrl = await getSignedUrl(s3Client as any, command, {
-    expiresIn: URL_EXPIRATION_SECONDS,
+    expiresIn: UPLOAD_URL_EXPIRATION_SECONDS,
   });
 
   return {
     uploadUrl,
     imageKey,
-    expiresIn: URL_EXPIRATION_SECONDS,
+    expiresIn: UPLOAD_URL_EXPIRATION_SECONDS,
   };
 }
 
 /**
- * Get the public URL for an image (once uploaded)
- * Note: Images are private by default, served via CloudFront in the future
+ * Generate a presigned URL for viewing an image from S3
+ * Keeps bucket private while allowing temporary access
  */
-export function getImagePublicUrl(imageKey: string): string {
-  // For now, construct S3 URL directly
-  // TODO: Replace with CloudFront URL when CDN is configured
-  return `https://${BUCKET_NAME}.s3.amazonaws.com/${imageKey}`;
+export async function generatePresignedViewUrl(imageKey: string): Promise<{
+  viewUrl: string;
+  expiresIn: number;
+}> {
+  // Create the GetObject command
+  const command = new GetObjectCommand({
+    Bucket: BUCKET_NAME,
+    Key: imageKey,
+  });
+
+  // Generate presigned URL (1 hour expiration)
+  const viewUrl = await getSignedUrl(s3Client as any, command, {
+    expiresIn: VIEW_URL_EXPIRATION_SECONDS,
+  });
+
+  return {
+    viewUrl,
+    expiresIn: VIEW_URL_EXPIRATION_SECONDS,
+  };
 }

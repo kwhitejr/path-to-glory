@@ -1,4 +1,5 @@
 import React, { useState, useRef } from 'react';
+import { PresignedImage } from './PresignedImage';
 
 interface ImageUploadProps {
   entityType: 'army' | 'unit';
@@ -168,12 +169,10 @@ export function ImageUpload({
         throw new Error('Failed to upload image');
       }
 
-      // Step 3: Construct the S3 URL (will be replaced with CloudFront in the future)
-      const bucketName = uploadUrl.split('/')[2].split('.')[0];
-      const imageUrl = `https://${bucketName}.s3.amazonaws.com/${imageKey}`;
-
-      // Notify parent component
-      onImageUploaded(imageUrl);
+      // Step 3: Return the imageKey (not full URL)
+      // Frontend will fetch presigned view URLs when displaying images
+      // This keeps the S3 bucket private and secure
+      onImageUploaded(imageKey);
     } catch (err) {
       console.error('Upload error:', err);
       setError('Failed to upload image. Please try again.');
@@ -212,7 +211,17 @@ export function ImageUpload({
 
       {preview ? (
         <div className="relative inline-block">
-          <img src={preview} alt="Preview" className={previewClass} />
+          {/* Check if preview is a data URL (starts with "data:") or an S3 imageKey */}
+          {preview.startsWith('data:') ? (
+            <img src={preview} alt="Preview" className={previewClass} />
+          ) : (
+            <PresignedImage
+              imageKey={preview}
+              alt="Preview"
+              className={previewClass}
+              fallback={<div className="w-32 h-32 bg-gray-200 animate-pulse rounded" />}
+            />
+          )}
           <button
             type="button"
             onClick={handleRemove}

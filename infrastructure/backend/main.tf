@@ -414,6 +414,13 @@ resource "aws_apigatewayv2_route" "images_upload" {
   target    = "integrations/${aws_apigatewayv2_integration.lambda_images.id}"
 }
 
+# Image View URL Route (presigned GET URLs for private bucket)
+resource "aws_apigatewayv2_route" "images_view" {
+  api_id    = aws_apigatewayv2_api.main.id
+  route_key = "POST /images/view-url"
+  target    = "integrations/${aws_apigatewayv2_integration.lambda_images.id}"
+}
+
 # Lambda Permission (Image Service)
 resource "aws_lambda_permission" "api_gateway_images" {
   statement_id  = "AllowAPIGatewayInvokeImages"
