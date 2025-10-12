@@ -164,6 +164,7 @@ export const UPDATE_ARMY = gql`
     updateArmy(id: $id, input: $input) {
       id
       name
+      imageUrl
       glory
       renown
       updatedAt

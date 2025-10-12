@@ -82,6 +82,7 @@ export const resolvers = {
         factionId: army.factionId,
         name: army.name,
         heraldry: army.heraldry,
+        imageUrl: army.imageUrl,
         realmOfOrigin: army.realmOfOrigin,
         battleFormation: army.battleFormation,
         glory: army.glory,
@@ -110,6 +111,7 @@ export const resolvers = {
         factionId: a.factionId,
         name: a.name,
         heraldry: a.heraldry,
+        imageUrl: a.imageUrl,
         realmOfOrigin: a.realmOfOrigin,
         battleFormation: a.battleFormation,
         glory: a.glory,
@@ -283,6 +285,7 @@ export const resolvers = {
         factionId: army.factionId,
         name: army.name,
         heraldry: army.heraldry,
+        imageUrl: army.imageUrl,
         realmOfOrigin: army.realmOfOrigin,
         battleFormation: army.battleFormation,
         glory: army.glory,
@@ -310,6 +313,7 @@ export const resolvers = {
         input: {
           name?: string;
           heraldry?: string;
+          imageUrl?: string;
           realmOfOrigin?: string;
           battleFormation?: string;
           glory?: number;
@@ -356,6 +360,7 @@ export const resolvers = {
         factionId: army.factionId,
         name: army.name,
         heraldry: army.heraldry,
+        imageUrl: army.imageUrl,
         realmOfOrigin: army.realmOfOrigin,
         battleFormation: army.battleFormation,
         glory: army.glory,
@@ -753,6 +758,7 @@ export const resolvers = {
         factionId: a.factionId,
         name: a.name,
         heraldry: a.heraldry,
+        imageUrl: a.imageUrl,
         realmOfOrigin: a.realmOfOrigin,
         battleFormation: a.battleFormation,
         glory: a.glory,
@@ -815,6 +821,7 @@ export const resolvers = {
         factionId: a.factionId,
         name: a.name,
         heraldry: a.heraldry,
+        imageUrl: a.imageUrl,
         realmOfOrigin: a.realmOfOrigin,
         battleFormation: a.battleFormation,
         glory: a.glory,
@@ -909,6 +916,7 @@ export const resolvers = {
         factionId: army.factionId,
         name: army.name,
         heraldry: army.heraldry,
+        imageUrl: army.imageUrl,
         realmOfOrigin: army.realmOfOrigin,
         battleFormation: army.battleFormation,
         glory: army.glory,
