@@ -1,11 +1,9 @@
 import { useState, useMemo } from 'react';
-import { getAllUnits, getAllFactions, type UnitWarscroll } from '@path-to-glory/shared';
-
-type GrandAlliance = 'Order' | 'Chaos' | 'Death' | 'Destruction' | '';
+import { getAllUnits, getAllFactions, type UnitWarscroll, GrandAlliance, GRAND_ALLIANCE_DISPLAY_NAMES, COMMON_UNIT_KEYWORDS } from '@path-to-glory/shared';
 
 export default function WarscrollsPage() {
   const [searchQuery, setSearchQuery] = useState('');
-  const [selectedGrandAlliance, setSelectedGrandAlliance] = useState<GrandAlliance>('');
+  const [selectedGrandAlliance, setSelectedGrandAlliance] = useState<GrandAlliance | ''>('');
   const [selectedFaction, setSelectedFaction] = useState('');
   const [selectedKeywords, setSelectedKeywords] = useState<string[]>([]);
   const [showFilters, setShowFilters] = useState(false);
@@ -34,7 +32,7 @@ export default function WarscrollsPage() {
   }, [allWarscrolls]);
 
   // Grand alliances
-  const grandAlliances: GrandAlliance[] = ['Order', 'Chaos', 'Death', 'Destruction'];
+  const grandAlliances = Object.values(GrandAlliance);
 
   // Get factions for selected grand alliance
   const availableFactions = useMemo(() => {
@@ -198,14 +196,14 @@ export default function WarscrollsPage() {
               <select
                 value={selectedGrandAlliance}
                 onChange={(e) => {
-                  setSelectedGrandAlliance(e.target.value as GrandAlliance);
+                  setSelectedGrandAlliance(e.target.value as GrandAlliance | '');
                   setSelectedFaction(''); // Reset faction when changing alliance
                 }}
                 className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500"
               >
                 <option value="">All Alliances</option>
                 {grandAlliances.map(ga => (
-                  <option key={ga} value={ga}>{ga}</option>
+                  <option key={ga} value={ga}>{GRAND_ALLIANCE_DISPLAY_NAMES[ga]}</option>
                 ))}
               </select>
             </div>
@@ -622,6 +620,7 @@ function CreateWarscrollModal({ onClose, onSave }: { onClose: () => void; onSave
     name: '',
     subtitle: '',
     factionId: '',
+    grandAlliance: '' as GrandAlliance | '',
     move: '',
     health: '',
     save: '',
@@ -629,14 +628,60 @@ function CreateWarscrollModal({ onClose, onSave }: { onClose: () => void; onSave
     rangedWeapons: [] as { name: string; range: string; attacks: string; hit: string; wound: string; rend: string; damage: string; ability?: string }[],
     meleeWeapons: [] as { name: string; attacks: string; hit: string; wound: string; rend: string; damage: string; ability?: string }[],
     abilities: [] as { name: string; timing: string; description: string; declare: string; effect: string }[],
-    unitKeywords: '',
-    factionKeywords: '',
+    unitKeywords: [] as string[],
+    customUnitKeyword: '',
     unitSize: '',
     points: '',
     baseSize: '',
     isManifestation: false,
     isFactionTerrain: false,
   });
+
+  // Filter factions by selected grand alliance
+  const filteredFactions = useMemo(() => {
+    if (!formData.grandAlliance) return allFactions;
+    return allFactions.filter(f => f.grandAlliance === formData.grandAlliance);
+  }, [allFactions, formData.grandAlliance]);
+
+  // Handle faction selection - auto-populate grand alliance
+  const handleFactionChange = (factionId: string) => {
+    const faction = allFactions.find(f => f.id === factionId);
+    setFormData({
+      ...formData,
+      factionId,
+      grandAlliance: (faction?.grandAlliance as GrandAlliance) || '',
+    });
+  };
+
+  // Toggle unit keyword selection
+  const toggleUnitKeyword = (keyword: string) => {
+    setFormData({
+      ...formData,
+      unitKeywords: formData.unitKeywords.includes(keyword)
+        ? formData.unitKeywords.filter(k => k !== keyword)
+        : [...formData.unitKeywords, keyword]
+    });
+  };
+
+  // Add custom unit keyword
+  const addCustomUnitKeyword = () => {
+    const keyword = formData.customUnitKeyword.trim();
+    if (keyword && !formData.unitKeywords.includes(keyword)) {
+      setFormData({
+        ...formData,
+        unitKeywords: [...formData.unitKeywords, keyword],
+        customUnitKeyword: '',
+      });
+    }
+  };
+
+  // Remove unit keyword
+  const removeUnitKeyword = (keyword: string) => {
+    setFormData({
+      ...formData,
+      unitKeywords: formData.unitKeywords.filter(k => k !== keyword)
+    });
+  };
 
   const addRangedWeapon = () => {
     setFormData({
@@ -735,8 +780,11 @@ function CreateWarscrollModal({ onClose, onSave }: { onClose: () => void; onSave
         declare: a.declare || undefined,
       })),
       keywords: {
-        unit: formData.unitKeywords.split(',').map(k => k.trim()).filter(k => k),
-        faction: formData.factionKeywords.split(',').map(k => k.trim()).filter(k => k),
+        unit: formData.unitKeywords,
+        faction: [
+          formData.grandAlliance ? GRAND_ALLIANCE_DISPLAY_NAMES[formData.grandAlliance] : '',
+          allFactions.find(f => f.id === formData.factionId)?.name || ''
+        ].filter(k => k),
       },
       battleProfile: formData.points ? {
         unitSize: isNaN(Number(formData.unitSize)) ? formData.unitSize : Number(formData.unitSize),
@@ -830,16 +878,36 @@ function CreateWarscrollModal({ onClose, onSave }: { onClose: () => void; onSave
 
                   <div>
                     <label className="block text-sm font-medium text-gray-700 mb-1">
+                      Grand Alliance *
+                    </label>
+                    <select
+                      required
+                      value={formData.grandAlliance}
+                      onChange={(e) => setFormData({ ...formData, grandAlliance: e.target.value as GrandAlliance | '', factionId: '' })}
+                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500"
+                    >
+                      <option value="">Select Grand Alliance</option>
+                      {Object.values(GrandAlliance).map(ga => (
+                        <option key={ga} value={ga}>{GRAND_ALLIANCE_DISPLAY_NAMES[ga]}</option>
+                      ))}
+                    </select>
+                  </div>
+
+                  <div>
+                    <label className="block text-sm font-medium text-gray-700 mb-1">
                       Faction *
                     </label>
                     <select
                       required
                       value={formData.factionId}
-                      onChange={(e) => setFormData({ ...formData, factionId: e.target.value })}
+                      onChange={(e) => handleFactionChange(e.target.value)}
                       className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500"
+                      disabled={!formData.grandAlliance}
                     >
-                      <option value="">Select Faction</option>
-                      {allFactions.map(faction => (
+                      <option value="">
+                        {formData.grandAlliance ? 'Select Faction' : 'Select Grand Alliance First'}
+                      </option>
+                      {filteredFactions.map(faction => (
                         <option key={faction.id} value={faction.id}>{faction.name}</option>
                       ))}
                     </select>
@@ -1145,34 +1213,90 @@ function CreateWarscrollModal({ onClose, onSave }: { onClose: () => void; onSave
 
               {/* Keywords */}
               <section className="space-y-4">
-                <h3 className="font-bold text-gray-900">Keywords</h3>
+                <h3 className="font-bold text-gray-900">Unit Keywords</h3>
+                <p className="text-sm text-gray-600">
+                  Select unit keywords from common options or add custom ones
+                </p>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">
-                      Unit Keywords (comma-separated)
-                    </label>
+                {/* Selected keywords display */}
+                {formData.unitKeywords.length > 0 && (
+                  <div className="flex flex-wrap gap-2 p-3 bg-gray-50 rounded-lg border border-gray-200">
+                    {formData.unitKeywords.map((keyword) => (
+                      <span
+                        key={keyword}
+                        className="inline-flex items-center gap-1 px-3 py-1 text-sm rounded-full bg-blue-100 text-blue-700"
+                      >
+                        {keyword}
+                        <button
+                          type="button"
+                          onClick={() => removeUnitKeyword(keyword)}
+                          className="hover:text-blue-900"
+                        >
+                          <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                          </svg>
+                        </button>
+                      </span>
+                    ))}
+                  </div>
+                )}
+
+                {/* Common keywords selection */}
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-2">
+                    Common Keywords
+                  </label>
+                  <div className="flex flex-wrap gap-2 p-3 border border-gray-200 rounded-lg max-h-48 overflow-y-auto">
+                    {COMMON_UNIT_KEYWORDS.map((keyword: string) => (
+                      <button
+                        key={keyword}
+                        type="button"
+                        onClick={() => toggleUnitKeyword(keyword)}
+                        className={`px-3 py-1 text-sm rounded-full transition-colors ${
+                          formData.unitKeywords.includes(keyword)
+                            ? 'bg-blue-600 text-white'
+                            : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
+                        }`}
+                      >
+                        {keyword}
+                      </button>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Custom keyword input */}
+                <div>
+                  <label className="block text-sm font-medium text-gray-700 mb-1">
+                    Add Custom Keyword
+                  </label>
+                  <div className="flex gap-2">
                     <input
                       type="text"
-                      placeholder="e.g., Hero, Wizard, Infantry"
-                      value={formData.unitKeywords}
-                      onChange={(e) => setFormData({ ...formData, unitKeywords: e.target.value })}
-                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500"
+                      placeholder="e.g., Wizard (2), Unique"
+                      value={formData.customUnitKeyword}
+                      onChange={(e) => setFormData({ ...formData, customUnitKeyword: e.target.value })}
+                      onKeyDown={(e) => {
+                        if (e.key === 'Enter') {
+                          e.preventDefault();
+                          addCustomUnitKeyword();
+                        }
+                      }}
+                      className="flex-1 px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500"
                     />
+                    <button
+                      type="button"
+                      onClick={addCustomUnitKeyword}
+                      className="btn-secondary"
+                    >
+                      Add
+                    </button>
                   </div>
+                </div>
 
-                  <div>
-                    <label className="block text-sm font-medium text-gray-700 mb-1">
-                      Faction Keywords (comma-separated)
-                    </label>
-                    <input
-                      type="text"
-                      placeholder="e.g., Order, Stormcast Eternals"
-                      value={formData.factionKeywords}
-                      onChange={(e) => setFormData({ ...formData, factionKeywords: e.target.value })}
-                      className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500"
-                    />
-                  </div>
+                <div className="bg-blue-50 border border-blue-200 rounded-lg p-3">
+                  <p className="text-sm text-blue-800">
+                    <strong>Note:</strong> Faction keywords (Grand Alliance and Faction) are automatically set based on your selections above.
+                  </p>
                 </div>
               </section>
 
