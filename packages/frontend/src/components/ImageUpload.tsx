@@ -52,7 +52,16 @@ export function ImageUpload({
   const [preview, setPreview] = useState<string | null>(currentImageUrl || null);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
-  const spec = IMAGE_SPECS[variant][entityType];
+  // Get spec with proper type narrowing
+  const getSpec = () => {
+    if (variant === 'banner') {
+      // Banner only supports army
+      return IMAGE_SPECS.banner.army;
+    }
+    // Thumbnail supports both army and unit
+    return IMAGE_SPECS.thumbnail[entityType];
+  };
+  const spec = getSpec();
 
   const validateImageDimensions = (img: HTMLImageElement): boolean => {
     const { width, height } = img;

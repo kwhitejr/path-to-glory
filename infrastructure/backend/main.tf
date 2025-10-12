@@ -139,6 +139,9 @@ resource "aws_s3_bucket_lifecycle_configuration" "images" {
     id     = "delete-old-images"
     status = "Enabled"
 
+    # Apply to all objects in the bucket
+    filter {}
+
     # Delete images after 365 days (armies can be re-uploaded)
     expiration {
       days = 365

@@ -10,6 +10,7 @@ type User {
   createdAt: String!
   campaigns: [Campaign!]!
   armies: [Army!]!
+  customWarscrolls: [CustomWarscroll!]!
 }
 
 """
@@ -119,6 +120,82 @@ type GloryAward {
 }
 
 """
+A custom user-created warscroll
+"""
+type CustomWarscroll {
+  id: ID!
+  name: String!
+  subtitle: String
+  factionId: String!
+  creatorId: ID!
+  creator: User!
+  characteristics: UnitCharacteristics!
+  rangedWeapons: [Weapon!]
+  meleeWeapons: [Weapon!]
+  abilities: [WarscrollAbility!]!
+  keywords: UnitKeywords!
+  battleProfile: BattleProfile
+  createdAt: String!
+  updatedAt: String!
+}
+
+"""
+Weapon profile for a warscroll
+"""
+type Weapon {
+  name: String!
+  range: String
+  attacks: String!
+  hit: String!
+  wound: String!
+  rend: String!
+  damage: String!
+  ability: String
+}
+
+"""
+Ability on a warscroll
+"""
+type WarscrollAbility {
+  name: String!
+  timing: String!
+  description: String
+  declare: String
+  effect: String!
+  keywords: [String!]
+}
+
+"""
+Unit characteristics (move, health, save, control)
+"""
+type UnitCharacteristics {
+  move: String
+  health: Int!
+  save: String
+  control: Int
+  banishment: String
+}
+
+"""
+Unit keywords (unit and faction)
+"""
+type UnitKeywords {
+  unit: [String!]!
+  faction: [String!]!
+}
+
+"""
+Battle profile (points, unit size, base size)
+"""
+type BattleProfile {
+  unitSize: String!
+  points: Int!
+  baseSize: String
+  isManifestation: Boolean
+  isFactionTerrain: Boolean
+}
+
+"""
 Battle outcome types
 """
 enum BattleOutcome {
@@ -177,6 +254,21 @@ type Query {
   Get a specific faction
   """
   faction(id: ID!): Faction
+
+  """
+  Get all custom warscrolls (from all users)
+  """
+  customWarscrolls: [CustomWarscroll!]!
+
+  """
+  Get custom warscrolls created by the current user
+  """
+  myCustomWarscrolls: [CustomWarscroll!]!
+
+  """
+  Get a specific custom warscroll
+  """
+  customWarscroll(id: ID!): CustomWarscroll
 }
 
 # Mutations
@@ -225,6 +317,21 @@ type Mutation {
   Record a battle
   """
   recordBattle(input: RecordBattleInput!): Battle!
+
+  """
+  Create a custom warscroll
+  """
+  createCustomWarscroll(input: CreateCustomWarscrollInput!): CustomWarscroll!
+
+  """
+  Update a custom warscroll (creator only)
+  """
+  updateCustomWarscroll(id: ID!, input: UpdateCustomWarscrollInput!): CustomWarscroll!
+
+  """
+  Delete a custom warscroll (creator only)
+  """
+  deleteCustomWarscroll(id: ID!): Boolean!
 }
 
 # Input Types
@@ -308,4 +415,70 @@ input GloryAwardInput {
   armyId: ID!
   amount: Int!
   reason: String
+}
+
+# Custom Warscroll Input Types
+input WeaponInput {
+  name: String!
+  range: String
+  attacks: String!
+  hit: String!
+  wound: String!
+  rend: String!
+  damage: String!
+  ability: String
+}
+
+input WarscrollAbilityInput {
+  name: String!
+  timing: String!
+  description: String
+  declare: String
+  effect: String!
+  keywords: [String!]
+}
+
+input UnitCharacteristicsInput {
+  move: String
+  health: Int!
+  save: String
+  control: Int
+  banishment: String
+}
+
+input UnitKeywordsInput {
+  unit: [String!]!
+  faction: [String!]!
+}
+
+input BattleProfileInput {
+  unitSize: String!
+  points: Int!
+  baseSize: String
+  isManifestation: Boolean
+  isFactionTerrain: Boolean
+}
+
+input CreateCustomWarscrollInput {
+  name: String!
+  subtitle: String
+  factionId: String!
+  characteristics: UnitCharacteristicsInput!
+  rangedWeapons: [WeaponInput!]
+  meleeWeapons: [WeaponInput!]
+  abilities: [WarscrollAbilityInput!]!
+  keywords: UnitKeywordsInput!
+  battleProfile: BattleProfileInput
+}
+
+input UpdateCustomWarscrollInput {
+  name: String
+  subtitle: String
+  factionId: String
+  characteristics: UnitCharacteristicsInput
+  rangedWeapons: [WeaponInput!]
+  meleeWeapons: [WeaponInput!]
+  abilities: [WarscrollAbilityInput!]
+  keywords: UnitKeywordsInput
+  battleProfile: BattleProfileInput
 }
