@@ -417,6 +417,7 @@ export const resolvers = {
         input: {
           unitTypeId: string;
           name: string;
+          imageUrl?: string;
           warscroll: string;
           size: number;
           wounds: number;
@@ -446,6 +447,7 @@ export const resolvers = {
         armyId,
         unitTypeId: input.unitTypeId,
         name: input.name,
+        imageUrl: input.imageUrl,
         warscroll: input.warscroll,
         size: input.size,
         wounds: input.wounds,
@@ -462,6 +464,7 @@ export const resolvers = {
         armyId: unit.armyId,
         unitTypeId: unit.unitTypeId,
         name: unit.name,
+        imageUrl: unit.imageUrl,
         warscroll: unit.warscroll,
         size: unit.size,
         wounds: unit.wounds,
@@ -487,6 +490,7 @@ export const resolvers = {
         id: string;
         input: {
           name?: string;
+          imageUrl?: string;
           size?: number;
           wounds?: number;
           rank?: string;
@@ -534,6 +538,7 @@ export const resolvers = {
         armyId: unit.armyId,
         unitTypeId: unit.unitTypeId,
         name: unit.name,
+        imageUrl: unit.imageUrl,
         warscroll: unit.warscroll,
         size: unit.size,
         wounds: unit.wounds,
@@ -630,6 +635,7 @@ export const resolvers = {
         armyId: unit.armyId,
         unitTypeId: unit.unitTypeId,
         name: unit.name,
+        imageUrl: unit.imageUrl,
         warscroll: unit.warscroll,
         size: unit.size,
         wounds: unit.wounds,
@@ -886,6 +892,7 @@ export const resolvers = {
         armyId: u.armyId,
         unitTypeId: u.unitTypeId,
         name: u.name,
+        imageUrl: u.imageUrl,
         warscroll: u.warscroll,
         size: u.size,
         wounds: u.wounds,
