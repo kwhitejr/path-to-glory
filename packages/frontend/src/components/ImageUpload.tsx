@@ -1,5 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { PresignedImage } from './PresignedImage';
+import { ImageCropModal } from './ImageCropModal';
 
 interface ImageUploadProps {
   entityType: 'army' | 'unit';
@@ -53,6 +54,11 @@ export function ImageUpload({
   const [preview, setPreview] = useState<string | null>(currentImageUrl || null);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
+  // Crop modal state
+  const [showCropModal, setShowCropModal] = useState(false);
+  const [imageToCrop, setImageToCrop] = useState<string | null>(null);
+  const [originalFile, setOriginalFile] = useState<File | null>(null);
+
   // Update preview when currentImageUrl changes (e.g., when data loads from API)
   useEffect(() => {
     setPreview(currentImageUrl || null);
@@ -69,7 +75,7 @@ export function ImageUpload({
   };
   const spec = getSpec();
 
-  const validateImageDimensions = (img: HTMLImageElement): boolean => {
+  const validateImageDimensions = (img: HTMLImageElement): { needsCrop: boolean } => {
     const { width, height } = img;
     const actualRatio = width / height;
     const expectedRatio = spec.aspectRatio;
@@ -80,14 +86,11 @@ export function ImageUpload({
     const maxRatio = expectedRatio * (1 + tolerance);
 
     if (actualRatio < minRatio || actualRatio > maxRatio) {
-      const expectedDescription = expectedRatio === 1 ? 'square (1:1)' : `${expectedRatio}:1`;
-      setError(
-        `Image aspect ratio should be ${expectedDescription}. Your image is ${width}×${height}px (${actualRatio.toFixed(2)}:1).`
-      );
-      return false;
+      // Image needs cropping
+      return { needsCrop: true };
     }
 
-    return true;
+    return { needsCrop: false };
   };
 
   const handleFileSelect = async (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -111,25 +114,35 @@ export function ImageUpload({
 
     // Validate image dimensions
     const img = new Image();
-    const imageLoadPromise = new Promise<boolean>((resolve) => {
+    const imageDataUrl = URL.createObjectURL(file);
+
+    const dimensionsCheck = await new Promise<{ needsCrop: boolean }>((resolve) => {
       img.onload = () => {
-        const isValid = validateImageDimensions(img);
-        resolve(isValid);
+        const result = validateImageDimensions(img);
+        resolve(result);
       };
       img.onerror = () => {
         setError('Failed to load image. Please try a different file.');
-        resolve(false);
+        resolve({ needsCrop: false });
       };
+      img.src = imageDataUrl;
     });
 
-    img.src = URL.createObjectURL(file);
-    const dimensionsValid = await imageLoadPromise;
-    URL.revokeObjectURL(img.src);
-
-    if (!dimensionsValid) {
+    // If image needs cropping, show crop modal
+    if (dimensionsCheck.needsCrop) {
+      setOriginalFile(file);
+      setImageToCrop(imageDataUrl);
+      setShowCropModal(true);
       return;
     }
 
+    URL.revokeObjectURL(imageDataUrl);
+
+    // Image is good to go - proceed with upload
+    await uploadFile(file);
+  };
+
+  const uploadFile = async (file: File) => {
     // Show preview
     const reader = new FileReader();
     reader.onloadend = () => {
@@ -195,6 +208,34 @@ export function ImageUpload({
     setPreview(null);
     setError(null);
     onImageUploaded('');
+    if (fileInputRef.current) {
+      fileInputRef.current.value = '';
+    }
+  };
+
+  const handleCropComplete = async (croppedFile: File) => {
+    // Clean up
+    if (imageToCrop) {
+      URL.revokeObjectURL(imageToCrop);
+    }
+    setShowCropModal(false);
+    setImageToCrop(null);
+    setOriginalFile(null);
+
+    // Upload the cropped file
+    await uploadFile(croppedFile);
+  };
+
+  const handleCropCancel = () => {
+    // Clean up
+    if (imageToCrop) {
+      URL.revokeObjectURL(imageToCrop);
+    }
+    setShowCropModal(false);
+    setImageToCrop(null);
+    setOriginalFile(null);
+
+    // Reset file input
     if (fileInputRef.current) {
       fileInputRef.current.value = '';
     }
@@ -275,6 +316,18 @@ export function ImageUpload({
           <strong>Limits:</strong> Max {MAX_FILE_SIZE / 1024}KB • JPEG, PNG, or WebP
         </p>
       </div>
+
+      {/* Crop Modal */}
+      {showCropModal && imageToCrop && originalFile && (
+        <ImageCropModal
+          imageSrc={imageToCrop}
+          aspectRatio={spec.aspectRatio}
+          onCropComplete={handleCropComplete}
+          onCancel={handleCropCancel}
+          fileName={originalFile.name}
+          mimeType={originalFile.type}
+        />
+      )}
     </div>
   );
 }
