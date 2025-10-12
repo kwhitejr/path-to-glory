@@ -254,36 +254,38 @@ export default function ArmyDetailPage() {
             <Link
               key={unit.id}
               to={`/armies/${armyId}/units/${unit.id}/edit`}
-              className="block border border-gray-200 rounded-lg p-4 hover:border-primary-300 hover:bg-primary-50/50 transition-colors cursor-pointer"
+              className="flex border border-gray-200 rounded-lg overflow-hidden hover:border-primary-300 hover:bg-primary-50/50 transition-colors cursor-pointer"
             >
-              {/* Unit Header */}
-              <div className="flex justify-between items-start mb-3">
-                <div className="flex-1 flex items-start gap-3">
-                  {/* Unit thumbnail */}
-                  <div className="flex-shrink-0">
-                    <PresignedImage
-                      imageKey={unit.imageUrl}
-                      alt={unit.name}
-                      className="h-24 w-24 rounded-lg object-cover border-2 border-gray-200 shadow-sm"
-                      fallback={
-                        <div className="flex h-24 w-24 items-center justify-center rounded-lg border-2 border-dashed border-gray-300 bg-gray-50">
-                          <svg
-                            className="h-10 w-10 text-gray-400"
-                            fill="none"
-                            stroke="currentColor"
-                            viewBox="0 0 24 24"
-                          >
-                            <path
-                              strokeLinecap="round"
-                              strokeLinejoin="round"
-                              strokeWidth={2}
-                              d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
-                            />
-                          </svg>
-                        </div>
-                      }
-                    />
-                  </div>
+              {/* Left column - Unit Image */}
+              <div className="w-1/4 flex-shrink-0">
+                <PresignedImage
+                  imageKey={unit.imageUrl}
+                  alt={unit.name}
+                  className="w-full h-full object-cover"
+                  fallback={
+                    <div className="flex w-full h-full items-center justify-center bg-gray-50">
+                      <svg
+                        className="h-16 w-16 text-gray-400"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"
+                        />
+                      </svg>
+                    </div>
+                  }
+                />
+              </div>
+
+              {/* Right column - Unit Details */}
+              <div className="flex-1 p-4">
+                {/* Unit Header */}
+                <div className="flex justify-between items-start mb-3">
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2 mb-1">
                       <h4 className="font-bold">{unit.name}</h4>
@@ -297,52 +299,52 @@ export default function ArmyDetailPage() {
                       <p className="text-sm text-gray-600">{unitTypeName}</p>
                     )}
                   </div>
+                  <div className="text-right ml-2">
+                    <div className="text-sm font-semibold text-primary-600">{points} pts</div>
+                  </div>
                 </div>
-                <div className="text-right">
-                  <div className="text-sm font-semibold text-primary-600">{points} pts</div>
-                </div>
-              </div>
 
-              {/* Unit Stats */}
-              <div className="grid grid-cols-2 md:grid-cols-3 gap-3 text-sm mb-3">
-                <div>
-                  <span className="text-gray-500">Rank:</span>{' '}
-                  <span className="font-semibold">{unit.rank}</span>
-                </div>
-                <div>
-                  <span className="text-gray-500">Renown:</span>{' '}
-                  <span className="font-semibold">{unit.renown}</span>
-                </div>
-                {unit.reinforced && (
+                {/* Unit Stats */}
+                <div className="grid grid-cols-2 md:grid-cols-3 gap-3 text-sm mb-3">
                   <div>
-                    <span className="px-2 py-0.5 bg-primary-100 text-primary-700 text-xs font-medium rounded">
-                      Reinforced
-                    </span>
+                    <span className="text-gray-500">Rank:</span>{' '}
+                    <span className="font-semibold">{unit.rank}</span>
+                  </div>
+                  <div>
+                    <span className="text-gray-500">Renown:</span>{' '}
+                    <span className="font-semibold">{unit.renown}</span>
+                  </div>
+                  {unit.reinforced && (
+                    <div>
+                      <span className="px-2 py-0.5 bg-primary-100 text-primary-700 text-xs font-medium rounded">
+                        Reinforced
+                      </span>
+                    </div>
+                  )}
+                </div>
+
+                {/* Enhancements & Abilities */}
+                {(unit.enhancements?.length > 0 || unit.veteranAbilities?.length > 0) && (
+                  <div className="grid md:grid-cols-2 gap-3 text-sm">
+                    {unit.enhancements?.length > 0 && (
+                      <div>
+                        <span className="text-gray-500 block mb-1">Enhancements:</span>
+                        {unit.enhancements.map((enh: string, idx: number) => (
+                          <p key={idx} className="text-sm">• {enh}</p>
+                        ))}
+                      </div>
+                    )}
+                    {unit.veteranAbilities?.length > 0 && (
+                      <div>
+                        <span className="text-gray-500 block mb-1">Veteran Abilities:</span>
+                        {unit.veteranAbilities.map((ability: string, idx: number) => (
+                          <p key={idx} className="text-sm">• {ability}</p>
+                        ))}
+                      </div>
+                    )}
                   </div>
                 )}
               </div>
-
-              {/* Enhancements & Abilities */}
-              {(unit.enhancements?.length > 0 || unit.veteranAbilities?.length > 0) && (
-                <div className="grid md:grid-cols-2 gap-3 text-sm">
-                  {unit.enhancements?.length > 0 && (
-                    <div>
-                      <span className="text-gray-500 block mb-1">Enhancements:</span>
-                      {unit.enhancements.map((enh: string, idx: number) => (
-                        <p key={idx} className="text-sm">• {enh}</p>
-                      ))}
-                    </div>
-                  )}
-                  {unit.veteranAbilities?.length > 0 && (
-                    <div>
-                      <span className="text-gray-500 block mb-1">Veteran Abilities:</span>
-                      {unit.veteranAbilities.map((ability: string, idx: number) => (
-                        <p key={idx} className="text-sm">• {ability}</p>
-                      ))}
-                    </div>
-                  )}
-                </div>
-              )}
             </Link>
               );
             })

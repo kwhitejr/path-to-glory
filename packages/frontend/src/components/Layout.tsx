@@ -14,19 +14,26 @@ export default function Layout() {
       {/* Navigation */}
       <nav className="bg-white border-b border-gray-200 sticky top-0 z-10">
         <div className="container mx-auto px-4">
-          <div className="flex gap-4 overflow-x-auto py-3">
-            <NavLink to="/armies" active={location.pathname.startsWith('/armies')}>
-              My Armies
-            </NavLink>
-            <NavLink to="/warscrolls" active={location.pathname.startsWith('/warscrolls')}>
-              Warscrolls
-            </NavLink>
-            <NavLink to="/campaigns" active={location.pathname.startsWith('/campaigns')}>
-              Campaigns
-            </NavLink>
-            <NavLink to="/battles" active={location.pathname.startsWith('/battles')}>
-              Battles
-            </NavLink>
+          <div className="relative">
+            {/* Fade indicators for scrollable content */}
+            <div className="absolute left-0 top-0 bottom-0 w-8 bg-gradient-to-r from-white to-transparent pointer-events-none z-10 md:hidden"></div>
+            <div className="absolute right-0 top-0 bottom-0 w-8 bg-gradient-to-l from-white to-transparent pointer-events-none z-10 md:hidden"></div>
+
+            {/* Scrollable nav container */}
+            <div className="flex gap-4 overflow-x-auto py-3 scrollbar-hide snap-x snap-mandatory scroll-smooth">
+              <NavLink to="/armies" active={location.pathname.startsWith('/armies')}>
+                My Armies
+              </NavLink>
+              <NavLink to="/warscrolls" active={location.pathname.startsWith('/warscrolls')}>
+                Warscrolls
+              </NavLink>
+              <NavLink to="/campaigns" active={location.pathname.startsWith('/campaigns')}>
+                Campaigns
+              </NavLink>
+              <NavLink to="/battles" active={location.pathname.startsWith('/battles')}>
+                Battles
+              </NavLink>
+            </div>
           </div>
         </div>
       </nav>
@@ -58,7 +65,7 @@ function NavLink({
   return (
     <Link
       to={to}
-      className={`px-4 py-2 rounded-lg font-medium whitespace-nowrap transition-colors ${
+      className={`px-4 py-2 rounded-lg font-medium whitespace-nowrap transition-colors snap-start ${
         active
           ? 'bg-primary-100 text-primary-700'
           : 'text-gray-600 hover:bg-gray-100'
