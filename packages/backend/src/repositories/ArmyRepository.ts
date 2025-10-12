@@ -1,4 +1,4 @@
-import { PutCommand, GetCommand, QueryCommand, UpdateCommand, DeleteCommand } from '@aws-sdk/lib-dynamodb';
+import { PutCommand, GetCommand, QueryCommand, UpdateCommand, DeleteCommand, ScanCommand } from '@aws-sdk/lib-dynamodb';
 import { v4 as uuidv4 } from 'uuid';
 import { docClient, TABLE_NAME } from '../db/client.js';
 import { keys, gsiKeys } from '../db/keys.js';
@@ -112,6 +112,23 @@ export class ArmyRepository {
         ExpressionAttributeValues: {
           ':pk': `CAMPAIGN#${campaignId}`,
           ':sk': 'ARMY#',
+        },
+      })
+    );
+
+    return (result.Items as ArmyItem[]) || [];
+  }
+
+  async findAll(): Promise<ArmyItem[]> {
+    const result = await docClient.send(
+      new ScanCommand({
+        TableName: TABLE_NAME,
+        FilterExpression: '#type = :type',
+        ExpressionAttributeNames: {
+          '#type': 'type',
+        },
+        ExpressionAttributeValues: {
+          ':type': 'ARMY',
         },
       })
     );

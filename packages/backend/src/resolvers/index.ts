@@ -129,6 +129,34 @@ export const resolvers = {
       }));
     },
 
+    armies: async () => {
+      // Read-only access to all armies, no authentication required
+      const armies = await armyRepo.findAll();
+      return armies.map(a => ({
+        id: a.id,
+        campaignId: a.campaignId,
+        playerId: a.playerId,
+        factionId: a.factionId,
+        name: a.name,
+        heraldry: a.heraldry,
+        imageUrl: a.imageUrl,
+        realmOfOrigin: a.realmOfOrigin,
+        battleFormation: a.battleFormation,
+        glory: a.glory,
+        renown: a.renown,
+        background: a.background,
+        notableEvents: a.notableEvents,
+        currentQuest: a.currentQuest,
+        questPoints: a.questPoints,
+        completedQuests: a.completedQuests,
+        spellLore: a.spellLore,
+        prayerLore: a.prayerLore,
+        manifestationLore: a.manifestationLore,
+        createdAt: a.createdAt,
+        updatedAt: a.updatedAt,
+      }));
+    },
+
     factions: () => {
       return getAllFactions();
     },
