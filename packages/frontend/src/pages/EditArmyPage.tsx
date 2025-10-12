@@ -12,6 +12,7 @@ import {
 } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
 import { GET_ARMY, UPDATE_ARMY, DELETE_ARMY, GET_MY_ARMIES } from '../graphql/operations';
+import { ImageUpload } from '../components/ImageUpload';
 
 export default function EditArmyPage() {
   const navigate = useNavigate();
@@ -44,6 +45,7 @@ export default function EditArmyPage() {
     currentQuest: '',
     questPoints: 0,
     completedQuests: [] as string[],
+    imageUrl: '',
   });
   const [selectedSpells, setSelectedSpells] = useState<string[]>([]);
   const [selectedPrayers, setSelectedPrayers] = useState<string[]>([]);
@@ -71,6 +73,7 @@ export default function EditArmyPage() {
         currentQuest: army.currentQuest || '',
         questPoints: army.questPoints || 0,
         completedQuests: army.completedQuests || [],
+        imageUrl: army.imageUrl || '',
       });
       setSelectedSpells(army.spellLore || []);
       setSelectedPrayers(army.prayerLore || []);
@@ -103,6 +106,7 @@ export default function EditArmyPage() {
             spellLore: selectedSpells,
             prayerLore: selectedPrayers,
             manifestationLore: selectedManifestations,
+            imageUrl: formData.imageUrl || undefined,
           },
         },
       });
@@ -211,17 +215,16 @@ export default function EditArmyPage() {
           />
         </div>
 
-        {/* Heraldry */}
+        {/* Army Banner */}
         <div>
-          <label htmlFor="heraldry" className="label">
-            Heraldry
-          </label>
-          <div className="p-4 bg-gray-50 border border-gray-200 rounded-md text-center">
-            <p className="text-sm text-gray-600">Image upload coming soon</p>
-            <p className="text-xs text-gray-500 mt-1">
-              Upload your army's banner, colors, or symbols
-            </p>
-          </div>
+          <ImageUpload
+            entityType="army"
+            entityId={armyId!}
+            currentImageUrl={formData.imageUrl}
+            onImageUploaded={(imageUrl) => setFormData({ ...formData, imageUrl })}
+            label="Army Banner"
+            variant="banner"
+          />
         </div>
 
         {/* Faction (Read-only) */}

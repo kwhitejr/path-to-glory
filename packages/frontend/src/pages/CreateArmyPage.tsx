@@ -15,6 +15,7 @@ import {
 import UnitSelector, { SelectedUnit } from '../components/UnitSelector';
 import { useAuth } from '../contexts/AuthContext';
 import { CREATE_CAMPAIGN, CREATE_ARMY, ADD_UNIT, GET_MY_CAMPAIGNS, GET_MY_ARMIES } from '../graphql/operations';
+import { ImageUpload } from '../components/ImageUpload';
 
 export default function CreateArmyPage() {
   const navigate = useNavigate();
@@ -40,7 +41,9 @@ export default function CreateArmyPage() {
     realmOfOrigin: '' as RealmOfOrigin | '',
     battleFormation: '',
     background: '',
+    imageUrl: '',
   });
+  const [tempArmyId] = useState(() => `temp-${crypto.randomUUID()}`);
   const [selectedUnits, setSelectedUnits] = useState<SelectedUnit[]>([]);
   const [warlordUnitId, setWarlordUnitId] = useState<string>('');
   const [selectedSpells, setSelectedSpells] = useState<string[]>([]);
@@ -102,6 +105,7 @@ export default function CreateArmyPage() {
             spellLore: selectedSpells.length > 0 ? selectedSpells : undefined,
             prayerLore: selectedPrayers.length > 0 ? selectedPrayers : undefined,
             manifestationLore: selectedManifestations.length > 0 ? selectedManifestations : undefined,
+            imageUrl: formData.imageUrl || undefined,
           },
         },
       });
@@ -215,17 +219,16 @@ export default function CreateArmyPage() {
           />
         </div>
 
-        {/* Heraldry */}
+        {/* Army Banner */}
         <div>
-          <label htmlFor="heraldry" className="label">
-            Heraldry
-          </label>
-          <div className="p-4 bg-gray-50 border border-gray-200 rounded-md text-center">
-            <p className="text-sm text-gray-600">Image upload coming soon</p>
-            <p className="text-xs text-gray-500 mt-1">
-              Upload your army's banner, colors, or symbols
-            </p>
-          </div>
+          <ImageUpload
+            entityType="army"
+            entityId={tempArmyId}
+            currentImageUrl={formData.imageUrl}
+            onImageUploaded={(imageUrl) => setFormData({ ...formData, imageUrl })}
+            label="Army Banner"
+            variant="banner"
+          />
         </div>
 
         {/* Faction Selection */}
