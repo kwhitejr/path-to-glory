@@ -268,9 +268,6 @@ export default function WarscrollsPage() {
 
 function UnitCard({ unit, onClick }: { unit: UnitWarscroll; onClick: () => void }) {
   const faction = getAllFactions().find(f => f.id === unit.factionId);
-  const isHero = unit.keywords.unit.includes('Hero');
-  const isMonster = unit.keywords.unit.includes('Monster');
-  const isWizard = unit.keywords.unit.some(k => k.startsWith('Wizard'));
   const isManifestation = unit.battleProfile?.isManifestation || false;
   const isFactionTerrain = unit.battleProfile?.isFactionTerrain || false;
 
@@ -316,9 +313,11 @@ function UnitCard({ unit, onClick }: { unit: UnitWarscroll; onClick: () => void 
 
       {/* Keywords badges */}
       <div className="flex flex-wrap gap-1">
-        {isHero && <span className="badge badge-primary">Hero</span>}
-        {isMonster && <span className="badge badge-secondary">Monster</span>}
-        {isWizard && <span className="badge badge-accent">Wizard</span>}
+        {unit.keywords.unit.map((keyword, idx) => (
+          <span key={idx} className="badge badge-primary">
+            {keyword}
+          </span>
+        ))}
         {isManifestation && (
           <span className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-purple-100 text-purple-700">
             MANIFESTATION
