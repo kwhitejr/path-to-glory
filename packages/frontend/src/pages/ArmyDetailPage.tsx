@@ -264,11 +264,11 @@ export default function ArmyDetailPage() {
                     <PresignedImage
                       imageKey={unit.imageUrl}
                       alt={unit.name}
-                      className="h-14 w-14 rounded object-cover border-2 border-gray-200"
+                      className="h-24 w-24 rounded-lg object-cover border-2 border-gray-200 shadow-sm"
                       fallback={
-                        <div className="flex h-14 w-14 items-center justify-center rounded border-2 border-dashed border-gray-300 bg-gray-50">
+                        <div className="flex h-24 w-24 items-center justify-center rounded-lg border-2 border-dashed border-gray-300 bg-gray-50">
                           <svg
-                            className="h-6 w-6 text-gray-400"
+                            className="h-10 w-10 text-gray-400"
                             fill="none"
                             stroke="currentColor"
                             viewBox="0 0 24 24"
