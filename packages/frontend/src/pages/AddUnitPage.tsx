@@ -4,6 +4,7 @@ import { useQuery, useMutation } from '@apollo/client';
 import { getUnitsByFaction, getFactionById, type UnitWarscroll } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
 import { GET_ARMY, ADD_UNIT } from '../graphql/operations';
+import { ImageUpload } from '../components/ImageUpload';
 
 const RANKS = ['Regular', 'Veteran', 'Elite'];
 
@@ -23,6 +24,7 @@ export default function AddUnitPage() {
 
   const [availableUnits, setAvailableUnits] = useState<Record<string, UnitWarscroll>>({});
 
+  const [tempUnitId] = useState(() => `temp-${crypto.randomUUID()}`);
   const [formData, setFormData] = useState({
     warscrollId: '',
     customName: '',
@@ -31,6 +33,7 @@ export default function AddUnitPage() {
     reinforced: false,
     enhancement: '',
     pathAbility: '',
+    imageUrl: '',
   });
 
   const [submitError, setSubmitError] = useState<string | null>(null);
@@ -73,6 +76,7 @@ export default function AddUnitPage() {
           input: {
             unitTypeId: formData.warscrollId,
             name: formData.customName || selectedWarscroll.name,
+            imageUrl: formData.imageUrl || undefined,
             size: 1, // Default to 1 model - can be updated later
             wounds: selectedWarscroll?.characteristics?.health || 1,
             rank: formData.rank,
@@ -217,6 +221,18 @@ export default function AddUnitPage() {
           <p className="mt-1 text-sm text-gray-500">
             Give this unit a unique name to distinguish it in your roster
           </p>
+        </div>
+
+        {/* Unit Image */}
+        <div>
+          <ImageUpload
+            entityType="unit"
+            entityId={tempUnitId}
+            currentImageUrl={formData.imageUrl}
+            onImageUploaded={(imageUrl) => setFormData({ ...formData, imageUrl })}
+            label="Unit Image (optional)"
+            variant="thumbnail"
+          />
         </div>
 
         {/* Rank */}

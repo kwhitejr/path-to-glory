@@ -179,6 +179,7 @@ export const ADD_UNIT = gql`
       armyId
       unitTypeId
       name
+      imageUrl
       size
       wounds
       rank
@@ -198,6 +199,7 @@ export const UPDATE_UNIT = gql`
     updateUnit(id: $id, input: $input) {
       id
       name
+      imageUrl
       size
       wounds
       rank

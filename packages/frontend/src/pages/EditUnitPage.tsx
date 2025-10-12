@@ -5,6 +5,7 @@ import { useAuth } from '../contexts/AuthContext';
 import { getUnit } from '@path-to-glory/shared';
 import { GET_ARMY, UPDATE_UNIT, REMOVE_UNIT, GET_MY_ARMIES } from '../graphql/operations';
 import type { GetArmyQuery } from '../gql/graphql';
+import { ImageUpload } from '../components/ImageUpload';
 
 const RANKS = ['Regular', 'Veteran', 'Elite'];
 
@@ -37,6 +38,7 @@ export default function EditUnitPage() {
     reinforced: false,
     enhancement: '',
     pathAbility: '',
+    imageUrl: '',
   });
 
   const [submitError, setSubmitError] = useState<string | null>(null);
@@ -62,6 +64,7 @@ export default function EditUnitPage() {
         reinforced: unit.reinforced || false,
         enhancement: unit.enhancements?.[0] || '',
         pathAbility: '', // TODO: Add pathAbility to schema
+        imageUrl: unit.imageUrl || '',
       });
     }
   }, [unit, army, user, authLoading, navigate]);
@@ -81,6 +84,7 @@ export default function EditUnitPage() {
           id: unitId!,
           input: {
             name: formData.customName || unit.unitTypeId,
+            imageUrl: formData.imageUrl || undefined,
             rank: formData.rank,
             renown: formData.renown,
             reinforced: formData.reinforced,
@@ -198,6 +202,18 @@ export default function EditUnitPage() {
           <p className="mt-1 text-sm text-gray-500">
             Leave empty to use default unit type name: {unitTypeName}
           </p>
+        </div>
+
+        {/* Unit Image */}
+        <div>
+          <ImageUpload
+            entityType="unit"
+            entityId={unitId!}
+            currentImageUrl={formData.imageUrl}
+            onImageUploaded={(imageUrl) => setFormData({ ...formData, imageUrl })}
+            label="Unit Image (optional)"
+            variant="thumbnail"
+          />
         </div>
 
         {/* Rank */}
