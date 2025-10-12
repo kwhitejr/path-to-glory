@@ -366,7 +366,7 @@ function UnitCard({ unit, onClick }: { unit: UnitWarscroll; onClick: () => void 
             keyword.toLowerCase() !== 'terrain'
           )
           .map((keyword, idx) => (
-            <span key={idx} className="badge badge-primary">
+            <span key={idx} className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-blue-100 text-blue-700">
               {keyword}
             </span>
           ))}
@@ -569,7 +569,7 @@ function UnitDetailModal({ unit, onClose }: { unit: UnitWarscroll; onClose: () =
                     {ability.keywords && ability.keywords.length > 0 && (
                       <div className="flex gap-1 mt-2">
                         {ability.keywords.map((kw, kidx) => (
-                          <span key={kidx} className="badge badge-secondary text-xs">
+                          <span key={kidx} className="inline-block px-2 py-0.5 text-[10px] font-semibold rounded bg-gray-200 text-gray-700">
                             {kw}
                           </span>
                         ))}
@@ -589,7 +589,7 @@ function UnitDetailModal({ unit, onClose }: { unit: UnitWarscroll; onClose: () =
                 <h4 className="text-sm font-semibold text-gray-700 mb-1">Unit Keywords</h4>
                 <div className="flex flex-wrap gap-1">
                   {unit.keywords.unit.map((keyword, idx) => (
-                    <span key={idx} className="badge badge-primary">
+                    <span key={idx} className="inline-block px-2 py-1 text-xs font-semibold rounded bg-blue-100 text-blue-700">
                       {keyword}
                     </span>
                   ))}
@@ -599,7 +599,7 @@ function UnitDetailModal({ unit, onClose }: { unit: UnitWarscroll; onClose: () =
                 <h4 className="text-sm font-semibold text-gray-700 mb-1">Faction Keywords</h4>
                 <div className="flex flex-wrap gap-1">
                   {unit.keywords.faction.map((keyword, idx) => (
-                    <span key={idx} className="badge badge-secondary">
+                    <span key={idx} className="inline-block px-2 py-1 text-xs font-semibold rounded bg-gray-200 text-gray-700">
                       {keyword}
                     </span>
                   ))}
