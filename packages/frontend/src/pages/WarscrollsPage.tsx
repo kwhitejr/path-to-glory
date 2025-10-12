@@ -9,6 +9,7 @@ export default function WarscrollsPage() {
   const [selectedFaction, setSelectedFaction] = useState('');
   const [selectedKeywords, setSelectedKeywords] = useState<string[]>([]);
   const [showFilters, setShowFilters] = useState(false);
+  const [showCustomOnly, setShowCustomOnly] = useState(false);
   const [selectedUnit, setSelectedUnit] = useState<UnitWarscroll | null>(null);
   const [showCreateModal, setShowCreateModal] = useState(false);
 
@@ -106,9 +107,14 @@ export default function WarscrollsPage() {
         }
       }
 
+      // Custom warscrolls only filter
+      if (showCustomOnly && unit.sourceFile !== 'custom') {
+        return false;
+      }
+
       return true;
     });
-  }, [allWarscrolls, searchQuery, selectedFaction, selectedGrandAlliance, selectedKeywords, allFactions]);
+  }, [allWarscrolls, searchQuery, selectedFaction, selectedGrandAlliance, selectedKeywords, allFactions, showCustomOnly]);
 
   // Clear all filters
   const clearFilters = () => {
@@ -116,6 +122,7 @@ export default function WarscrollsPage() {
     setSelectedGrandAlliance('');
     setSelectedFaction('');
     setSelectedKeywords([]);
+    setShowCustomOnly(false);
   };
 
   const toggleKeyword = (keyword: string) => {
@@ -129,7 +136,8 @@ export default function WarscrollsPage() {
   const activeFilterCount = [
     selectedGrandAlliance,
     selectedFaction,
-    ...selectedKeywords
+    ...selectedKeywords,
+    showCustomOnly
   ].filter(Boolean).length;
 
   return (
@@ -137,10 +145,13 @@ export default function WarscrollsPage() {
       {/* Header */}
       <div className="flex justify-between items-center">
         <div>
-          <h1 className="text-3xl font-bold text-gray-900">Warscrolls</h1>
+          <h1 className="text-3xl font-bold text-gray-900">
+            Warscrolls
+            {showCustomOnly && <span className="text-green-600"> (Custom Only)</span>}
+          </h1>
           <p className="text-gray-600 mt-1">
-            Browse {allWarscrolls.length} unit warscrolls
-            {filteredUnits.length !== allWarscrolls.length && ` (${filteredUnits.length} shown)`}
+            Browse {showCustomOnly ? customWarscrolls.length : allWarscrolls.length} unit warscrolls
+            {filteredUnits.length !== (showCustomOnly ? customWarscrolls.length : allWarscrolls.length) && ` (${filteredUnits.length} shown)`}
           </p>
         </div>
         <div className="flex gap-2">
@@ -152,6 +163,15 @@ export default function WarscrollsPage() {
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 4v16m8-8H4" />
             </svg>
             Create
+          </button>
+          <button
+            onClick={() => setShowCustomOnly(!showCustomOnly)}
+            className={`btn-secondary ${showCustomOnly ? 'bg-green-100 text-green-700 border-green-300' : ''}`}
+          >
+            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            Custom Only
           </button>
           <button
             onClick={() => setShowFilters(!showFilters)}
@@ -423,6 +443,12 @@ function UnitCard({ unit, onClick }: { unit: UnitWarscroll; onClick: () => void 
           <span className="text-gray-500">Save:</span>{' '}
           <span className="font-medium">{unit.characteristics.save || '-'}</span>
         </div>
+        {unit.characteristics.control !== undefined && (
+          <div>
+            <span className="text-gray-500">Control:</span>{' '}
+            <span className="font-medium">{unit.characteristics.control}</span>
+          </div>
+        )}
       </div>
 
       {/* Keywords badges */}
