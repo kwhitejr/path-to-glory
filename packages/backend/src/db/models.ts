@@ -88,3 +88,57 @@ export interface BattleItem extends BaseItem {
   notes?: string;
   playedAt: string;
 }
+
+export interface CustomWarscrollItem extends BaseItem {
+  type: 'WARSCROLL';
+  id: string;
+  name: string;
+  subtitle?: string;
+  factionId: string;
+  creatorId: string;
+  characteristics: {
+    move?: string;
+    health: number;
+    save?: string;
+    control?: number;
+    banishment?: string;
+  };
+  rangedWeapons?: Array<{
+    name: string;
+    range?: string;
+    attacks: string;
+    hit: string;
+    wound: string;
+    rend: string;
+    damage: string;
+    ability?: string;
+  }>;
+  meleeWeapons?: Array<{
+    name: string;
+    attacks: string;
+    hit: string;
+    wound: string;
+    rend: string;
+    damage: string;
+    ability?: string;
+  }>;
+  abilities: Array<{
+    name: string;
+    timing: string;
+    description?: string;
+    declare?: string;
+    effect: string;
+    keywords?: string[];
+  }>;
+  keywords: {
+    unit: string[];
+    faction: string[];
+  };
+  battleProfile?: {
+    unitSize: string;
+    points: number;
+    baseSize?: string;
+    isManifestation?: boolean;
+    isFactionTerrain?: boolean;
+  };
+}

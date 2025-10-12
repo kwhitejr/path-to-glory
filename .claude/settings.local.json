@@ -49,7 +49,9 @@
       "Bash(xargs rm:*)",
       "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_eZ91UH/**)",
       "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_LrGQLy/**)",
-      "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_PTaDsP/**)"
+      "Read(//var/folders/_6/7_z7h2sd0s31czsw_8tv0t_c0000gn/T/TemporaryItems/NSIRD_screencaptureui_PTaDsP/**)",
+      "Bash(git stash:*)",
+      "Read(//tmp/**)"
     ],
     "deny": [],
     "ask": []

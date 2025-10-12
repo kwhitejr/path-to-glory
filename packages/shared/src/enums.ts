@@ -82,6 +82,7 @@ export enum DynamoDBKeyPrefix {
   ARMY = 'ARMY#',
   UNIT = 'UNIT#',
   BATTLE = 'BATTLE#',
+  WARSCROLL = 'WARSCROLL#',
   METADATA = 'METADATA',
 }
 

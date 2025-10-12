@@ -48,7 +48,7 @@ export async function generatePresignedUploadUrl(
   });
 
   // Generate presigned URL
-  const uploadUrl = await getSignedUrl(s3Client, command, {
+  const uploadUrl = await getSignedUrl(s3Client as any, command, {
     expiresIn: URL_EXPIRATION_SECONDS,
   });
 

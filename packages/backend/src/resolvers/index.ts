@@ -4,6 +4,7 @@ import { ArmyRepository } from '../repositories/ArmyRepository.js';
 import { CampaignRepository } from '../repositories/CampaignRepository.js';
 import { UserRepository } from '../repositories/UserRepository.js';
 import { UnitRepository } from '../repositories/UnitRepository.js';
+import { WarscrollRepository } from '../repositories/WarscrollRepository.js';
 import { getAllFactions, getFactionById } from '@path-to-glory/shared';
 
 // Initialize repositories
@@ -11,6 +12,7 @@ const armyRepo = new ArmyRepository();
 const campaignRepo = new CampaignRepository();
 const userRepo = new UserRepository();
 const unitRepo = new UnitRepository();
+const warscrollRepo = new WarscrollRepository();
 
 export const resolvers = {
   Query: {
@@ -131,6 +133,69 @@ export const resolvers = {
 
     faction: (_: unknown, { id }: { id: string }) => {
       return getFactionById(id);
+    },
+
+    customWarscrolls: async () => {
+      const warscrolls = await warscrollRepo.findAll();
+      return warscrolls.map(w => ({
+        id: w.id,
+        name: w.name,
+        subtitle: w.subtitle,
+        factionId: w.factionId,
+        creatorId: w.creatorId,
+        characteristics: w.characteristics,
+        rangedWeapons: w.rangedWeapons || [],
+        meleeWeapons: w.meleeWeapons || [],
+        abilities: w.abilities,
+        keywords: w.keywords,
+        battleProfile: w.battleProfile,
+        createdAt: w.createdAt,
+        updatedAt: w.updatedAt,
+      }));
+    },
+
+    myCustomWarscrolls: async (_: unknown, __: unknown, context: GraphQLContext) => {
+      requireAuth(context);
+
+      const warscrolls = await warscrollRepo.findByCreatorId(context.user.cognitoId);
+      return warscrolls.map(w => ({
+        id: w.id,
+        name: w.name,
+        subtitle: w.subtitle,
+        factionId: w.factionId,
+        creatorId: w.creatorId,
+        characteristics: w.characteristics,
+        rangedWeapons: w.rangedWeapons || [],
+        meleeWeapons: w.meleeWeapons || [],
+        abilities: w.abilities,
+        keywords: w.keywords,
+        battleProfile: w.battleProfile,
+        createdAt: w.createdAt,
+        updatedAt: w.updatedAt,
+      }));
+    },
+
+    customWarscroll: async (_: unknown, { id }: { id: string }) => {
+      const warscroll = await warscrollRepo.findById(id);
+      if (!warscroll) {
+        return null;
+      }
+
+      return {
+        id: warscroll.id,
+        name: warscroll.name,
+        subtitle: warscroll.subtitle,
+        factionId: warscroll.factionId,
+        creatorId: warscroll.creatorId,
+        characteristics: warscroll.characteristics,
+        rangedWeapons: warscroll.rangedWeapons || [],
+        meleeWeapons: warscroll.meleeWeapons || [],
+        abilities: warscroll.abilities,
+        keywords: warscroll.keywords,
+        battleProfile: warscroll.battleProfile,
+        createdAt: warscroll.createdAt,
+        updatedAt: warscroll.updatedAt,
+      };
     },
   },
 
@@ -575,6 +640,96 @@ export const resolvers = {
         updatedAt: unit.updatedAt,
       };
     },
+
+    createCustomWarscroll: async (
+      _: unknown,
+      { input }: { input: any },
+      context: GraphQLContext
+    ) => {
+      requireAuth(context);
+
+      const warscroll = await warscrollRepo.create({
+        creatorId: context.user.cognitoId,
+        name: input.name,
+        subtitle: input.subtitle,
+        factionId: input.factionId,
+        characteristics: input.characteristics,
+        rangedWeapons: input.rangedWeapons,
+        meleeWeapons: input.meleeWeapons,
+        abilities: input.abilities,
+        keywords: input.keywords,
+        battleProfile: input.battleProfile,
+      });
+
+      return {
+        id: warscroll.id,
+        name: warscroll.name,
+        subtitle: warscroll.subtitle,
+        factionId: warscroll.factionId,
+        creatorId: warscroll.creatorId,
+        characteristics: warscroll.characteristics,
+        rangedWeapons: warscroll.rangedWeapons || [],
+        meleeWeapons: warscroll.meleeWeapons || [],
+        abilities: warscroll.abilities,
+        keywords: warscroll.keywords,
+        battleProfile: warscroll.battleProfile,
+        createdAt: warscroll.createdAt,
+        updatedAt: warscroll.updatedAt,
+      };
+    },
+
+    updateCustomWarscroll: async (
+      _: unknown,
+      { id, input }: { id: string; input: any },
+      context: GraphQLContext
+    ) => {
+      requireAuth(context);
+
+      // Verify ownership
+      const existingWarscroll = await warscrollRepo.findById(id);
+      if (!existingWarscroll) {
+        throw new Error('Custom warscroll not found');
+      }
+
+      requireOwnership(context, existingWarscroll.creatorId);
+
+      const warscroll = await warscrollRepo.update(id, input);
+
+      return {
+        id: warscroll.id,
+        name: warscroll.name,
+        subtitle: warscroll.subtitle,
+        factionId: warscroll.factionId,
+        creatorId: warscroll.creatorId,
+        characteristics: warscroll.characteristics,
+        rangedWeapons: warscroll.rangedWeapons || [],
+        meleeWeapons: warscroll.meleeWeapons || [],
+        abilities: warscroll.abilities,
+        keywords: warscroll.keywords,
+        battleProfile: warscroll.battleProfile,
+        createdAt: warscroll.createdAt,
+        updatedAt: warscroll.updatedAt,
+      };
+    },
+
+    deleteCustomWarscroll: async (
+      _: unknown,
+      { id }: { id: string },
+      context: GraphQLContext
+    ) => {
+      requireAuth(context);
+
+      // Verify ownership
+      const existingWarscroll = await warscrollRepo.findById(id);
+      if (!existingWarscroll) {
+        throw new Error('Custom warscroll not found');
+      }
+
+      requireOwnership(context, existingWarscroll.creatorId);
+
+      await warscrollRepo.delete(id);
+      return true;
+    },
   },
 
   // Field resolvers
@@ -612,6 +767,25 @@ export const resolvers = {
         manifestationLore: a.manifestationLore,
         createdAt: a.createdAt,
         updatedAt: a.updatedAt,
+      }));
+    },
+
+    customWarscrolls: async (parent: { id: string }) => {
+      const warscrolls = await warscrollRepo.findByCreatorId(parent.id);
+      return warscrolls.map(w => ({
+        id: w.id,
+        name: w.name,
+        subtitle: w.subtitle,
+        factionId: w.factionId,
+        creatorId: w.creatorId,
+        characteristics: w.characteristics,
+        rangedWeapons: w.rangedWeapons || [],
+        meleeWeapons: w.meleeWeapons || [],
+        abilities: w.abilities,
+        keywords: w.keywords,
+        battleProfile: w.battleProfile,
+        createdAt: w.createdAt,
+        updatedAt: w.updatedAt,
       }));
     },
   },
@@ -749,6 +923,23 @@ export const resolvers = {
         manifestationLore: army.manifestationLore,
         createdAt: army.createdAt,
         updatedAt: army.updatedAt,
+      };
+    },
+  },
+
+  CustomWarscroll: {
+    creator: async (parent: { creatorId: string }) => {
+      const user = await userRepo.findByCognitoId(parent.creatorId);
+      if (!user) {
+        return null;
+      }
+      return {
+        id: user.cognitoId,
+        email: user.email,
+        name: user.name,
+        picture: user.picture,
+        googleId: user.googleId,
+        createdAt: user.createdAt,
       };
     },
   },

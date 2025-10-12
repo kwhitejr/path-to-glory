@@ -40,6 +40,12 @@ export const keys = {
     PK: `${DynamoDBKeyPrefix.CAMPAIGN}${campaignId}`,
     SK: `${DynamoDBKeyPrefix.BATTLE}${battleId}`,
   }),
+
+  // Warscroll keys
+  warscroll: (warscrollId: string) => ({
+    PK: `${DynamoDBKeyPrefix.WARSCROLL}${warscrollId}`,
+    SK: DynamoDBKeyPrefix.METADATA,
+  }),
 };
 
 export const gsiKeys = {
@@ -65,5 +71,11 @@ export const gsiKeys = {
   campaignOwner: (userId: string, campaignId: string) => ({
     GSI1PK: `${DynamoDBKeyPrefix.USER}${userId}`,
     GSI1SK: `${DynamoDBKeyPrefix.CAMPAIGN}${campaignId}`,
+  }),
+
+  // Link warscroll to creator
+  warscrollCreator: (userId: string, warscrollId: string) => ({
+    GSI1PK: `${DynamoDBKeyPrefix.USER}${userId}`,
+    GSI1SK: `${DynamoDBKeyPrefix.WARSCROLL}${warscrollId}`,
   }),
 };
