@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { PresignedImage } from './PresignedImage';
 
 interface ImageUploadProps {
@@ -52,6 +52,11 @@ export function ImageUpload({
   const [error, setError] = useState<string | null>(null);
   const [preview, setPreview] = useState<string | null>(currentImageUrl || null);
   const fileInputRef = useRef<HTMLInputElement>(null);
+
+  // Update preview when currentImageUrl changes (e.g., when data loads from API)
+  useEffect(() => {
+    setPreview(currentImageUrl || null);
+  }, [currentImageUrl]);
 
   // Get spec with proper type narrowing
   const getSpec = () => {
