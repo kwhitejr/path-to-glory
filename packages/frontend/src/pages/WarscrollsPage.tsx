@@ -1,5 +1,7 @@
 import { useState, useMemo } from 'react';
+import { useQuery, useMutation } from '@apollo/client';
 import { getAllUnits, getAllFactions, type UnitWarscroll, GrandAlliance, GRAND_ALLIANCE_DISPLAY_NAMES, COMMON_UNIT_KEYWORDS } from '@path-to-glory/shared';
+import { GET_CUSTOM_WARSCROLLS, CREATE_CUSTOM_WARSCROLL } from '../graphql/operations';
 
 export default function WarscrollsPage() {
   const [searchQuery, setSearchQuery] = useState('');
@@ -9,10 +11,30 @@ export default function WarscrollsPage() {
   const [showFilters, setShowFilters] = useState(false);
   const [selectedUnit, setSelectedUnit] = useState<UnitWarscroll | null>(null);
   const [showCreateModal, setShowCreateModal] = useState(false);
-  const [customWarscrolls, setCustomWarscrolls] = useState<UnitWarscroll[]>(() => {
-    const stored = localStorage.getItem('customWarscrolls');
-    return stored ? JSON.parse(stored) : [];
-  });
+
+  // Fetch custom warscrolls from backend
+  const { data: customWarscrollsData, refetch: refetchCustomWarscrolls } = useQuery(GET_CUSTOM_WARSCROLLS);
+  const [createCustomWarscroll] = useMutation(CREATE_CUSTOM_WARSCROLL);
+
+  // Convert backend custom warscrolls to UnitWarscroll format
+  const customWarscrolls = useMemo(() => {
+    if (!customWarscrollsData?.customWarscrolls) return [];
+
+    return customWarscrollsData.customWarscrolls.map((warscroll: any) => ({
+      id: warscroll.id,
+      name: warscroll.name,
+      subtitle: warscroll.subtitle,
+      factionId: warscroll.factionId,
+      characteristics: warscroll.characteristics,
+      rangedWeapons: warscroll.rangedWeapons,
+      meleeWeapons: warscroll.meleeWeapons,
+      abilities: warscroll.abilities,
+      keywords: warscroll.keywords,
+      battleProfile: warscroll.battleProfile,
+      sourceFile: 'custom',
+      extractedAt: warscroll.createdAt,
+    }));
+  }, [customWarscrollsData]);
 
   // Get all units and factions (merged with custom warscrolls)
   const allWarscrolls = useMemo(() => {
@@ -25,8 +47,8 @@ export default function WarscrollsPage() {
   const allKeywords = useMemo(() => {
     const keywordSet = new Set<string>();
     allWarscrolls.forEach(unit => {
-      unit.keywords.unit.forEach(k => keywordSet.add(k));
-      unit.keywords.faction.forEach(k => keywordSet.add(k));
+      unit.keywords.unit.forEach((k: string) => keywordSet.add(k));
+      unit.keywords.faction.forEach((k: string) => keywordSet.add(k));
     });
     return Array.from(keywordSet).sort();
   }, [allWarscrolls]);
@@ -48,12 +70,12 @@ export default function WarscrollsPage() {
         const query = searchQuery.toLowerCase();
         const matchesName = unit.name.toLowerCase().includes(query);
         const matchesSubtitle = unit.subtitle?.toLowerCase().includes(query);
-        const matchesAbility = unit.abilities.some(a =>
+        const matchesAbility = unit.abilities.some((a: any) =>
           a.name.toLowerCase().includes(query) ||
           a.effect.toLowerCase().includes(query)
         );
-        const matchesKeyword = unit.keywords.unit.some(k => k.toLowerCase().includes(query)) ||
-                               unit.keywords.faction.some(k => k.toLowerCase().includes(query));
+        const matchesKeyword = unit.keywords.unit.some((k: string) => k.toLowerCase().includes(query)) ||
+                               unit.keywords.faction.some((k: string) => k.toLowerCase().includes(query));
 
         if (!matchesName && !matchesSubtitle && !matchesAbility && !matchesKeyword) {
           return false;
@@ -284,12 +306,72 @@ export default function WarscrollsPage() {
       {showCreateModal && (
         <CreateWarscrollModal
           onClose={() => setShowCreateModal(false)}
-          onSave={(warscroll) => {
-            // Save to localStorage
-            const updated = [...customWarscrolls, warscroll];
-            setCustomWarscrolls(updated);
-            localStorage.setItem('customWarscrolls', JSON.stringify(updated));
-            setShowCreateModal(false);
+          onSave={async (warscroll) => {
+            try {
+              // Map UnitWarscroll to CreateCustomWarscrollInput
+              await createCustomWarscroll({
+                variables: {
+                  input: {
+                    name: warscroll.name,
+                    subtitle: warscroll.subtitle,
+                    factionId: warscroll.factionId,
+                    characteristics: {
+                      move: warscroll.characteristics.move || undefined,
+                      health: warscroll.characteristics.health,
+                      save: warscroll.characteristics.save || undefined,
+                      control: warscroll.characteristics.control,
+                      banishment: warscroll.characteristics.banishment,
+                    },
+                    rangedWeapons: warscroll.rangedWeapons?.map(w => ({
+                      name: w.name,
+                      range: w.range,
+                      attacks: w.attacks.toString(),
+                      hit: w.hit,
+                      wound: w.wound,
+                      rend: w.rend.toString(),
+                      damage: w.damage.toString(),
+                      ability: w.ability || undefined,
+                    })),
+                    meleeWeapons: warscroll.meleeWeapons?.map(w => ({
+                      name: w.name,
+                      attacks: w.attacks.toString(),
+                      hit: w.hit,
+                      wound: w.wound,
+                      rend: w.rend.toString(),
+                      damage: w.damage.toString(),
+                      ability: w.ability || undefined,
+                    })),
+                    abilities: warscroll.abilities.map(a => ({
+                      name: a.name,
+                      timing: a.timing,
+                      description: a.description,
+                      declare: a.declare,
+                      effect: a.effect,
+                      keywords: a.keywords,
+                    })),
+                    keywords: {
+                      unit: warscroll.keywords.unit,
+                      faction: warscroll.keywords.faction,
+                    },
+                    battleProfile: warscroll.battleProfile ? {
+                      unitSize: warscroll.battleProfile.unitSize.toString(),
+                      points: warscroll.battleProfile.points,
+                      baseSize: warscroll.battleProfile.baseSize,
+                      isManifestation: warscroll.battleProfile.isManifestation,
+                      isFactionTerrain: warscroll.battleProfile.isFactionTerrain,
+                    } : undefined,
+                  },
+                },
+              });
+
+              // Refetch custom warscrolls to get the latest data
+              await refetchCustomWarscrolls();
+              setShowCreateModal(false);
+            } catch (error) {
+              console.error('Error creating custom warscroll:', error);
+              // TODO: Show error message to user
+              alert('Failed to create custom warscroll. Please try again.');
+            }
           }}
         />
       )}

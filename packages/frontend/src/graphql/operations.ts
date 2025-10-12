@@ -231,3 +231,326 @@ export const ADD_VETERAN_ABILITY = gql`
     }
   }
 `;
+
+// ============================================================================
+// Custom Warscrolls
+// ============================================================================
+
+export const GET_CUSTOM_WARSCROLLS = gql`
+  query GetCustomWarscrolls {
+    customWarscrolls {
+      id
+      name
+      subtitle
+      factionId
+      creatorId
+      creator {
+        id
+        name
+        picture
+      }
+      characteristics {
+        move
+        health
+        save
+        control
+        banishment
+      }
+      rangedWeapons {
+        name
+        range
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      meleeWeapons {
+        name
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      abilities {
+        name
+        timing
+        description
+        declare
+        effect
+        keywords
+      }
+      keywords {
+        unit
+        faction
+      }
+      battleProfile {
+        unitSize
+        points
+        baseSize
+        isManifestation
+        isFactionTerrain
+      }
+      createdAt
+      updatedAt
+    }
+  }
+`;
+
+export const GET_MY_CUSTOM_WARSCROLLS = gql`
+  query GetMyCustomWarscrolls {
+    myCustomWarscrolls {
+      id
+      name
+      subtitle
+      factionId
+      creatorId
+      creator {
+        id
+        name
+        picture
+      }
+      characteristics {
+        move
+        health
+        save
+        control
+        banishment
+      }
+      rangedWeapons {
+        name
+        range
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      meleeWeapons {
+        name
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      abilities {
+        name
+        timing
+        description
+        declare
+        effect
+        keywords
+      }
+      keywords {
+        unit
+        faction
+      }
+      battleProfile {
+        unitSize
+        points
+        baseSize
+        isManifestation
+        isFactionTerrain
+      }
+      createdAt
+      updatedAt
+    }
+  }
+`;
+
+export const GET_CUSTOM_WARSCROLL = gql`
+  query GetCustomWarscroll($id: ID!) {
+    customWarscroll(id: $id) {
+      id
+      name
+      subtitle
+      factionId
+      creatorId
+      creator {
+        id
+        name
+        picture
+      }
+      characteristics {
+        move
+        health
+        save
+        control
+        banishment
+      }
+      rangedWeapons {
+        name
+        range
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      meleeWeapons {
+        name
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      abilities {
+        name
+        timing
+        description
+        declare
+        effect
+        keywords
+      }
+      keywords {
+        unit
+        faction
+      }
+      battleProfile {
+        unitSize
+        points
+        baseSize
+        isManifestation
+        isFactionTerrain
+      }
+      createdAt
+      updatedAt
+    }
+  }
+`;
+
+export const CREATE_CUSTOM_WARSCROLL = gql`
+  mutation CreateCustomWarscroll($input: CreateCustomWarscrollInput!) {
+    createCustomWarscroll(input: $input) {
+      id
+      name
+      subtitle
+      factionId
+      creatorId
+      creator {
+        id
+        name
+        picture
+      }
+      characteristics {
+        move
+        health
+        save
+        control
+        banishment
+      }
+      rangedWeapons {
+        name
+        range
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      meleeWeapons {
+        name
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      abilities {
+        name
+        timing
+        description
+        declare
+        effect
+        keywords
+      }
+      keywords {
+        unit
+        faction
+      }
+      battleProfile {
+        unitSize
+        points
+        baseSize
+        isManifestation
+        isFactionTerrain
+      }
+      createdAt
+      updatedAt
+    }
+  }
+`;
+
+export const UPDATE_CUSTOM_WARSCROLL = gql`
+  mutation UpdateCustomWarscroll($id: ID!, $input: UpdateCustomWarscrollInput!) {
+    updateCustomWarscroll(id: $id, input: $input) {
+      id
+      name
+      subtitle
+      factionId
+      characteristics {
+        move
+        health
+        save
+        control
+        banishment
+      }
+      rangedWeapons {
+        name
+        range
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      meleeWeapons {
+        name
+        attacks
+        hit
+        wound
+        rend
+        damage
+        ability
+      }
+      abilities {
+        name
+        timing
+        description
+        declare
+        effect
+        keywords
+      }
+      keywords {
+        unit
+        faction
+      }
+      battleProfile {
+        unitSize
+        points
+        baseSize
+        isManifestation
+        isFactionTerrain
+      }
+      updatedAt
+    }
+  }
+`;
+
+export const DELETE_CUSTOM_WARSCROLL = gql`
+  mutation DeleteCustomWarscroll($id: ID!) {
+    deleteCustomWarscroll(id: $id)
+  }
+`;
