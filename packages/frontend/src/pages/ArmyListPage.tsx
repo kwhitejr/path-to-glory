@@ -3,8 +3,8 @@ import { Link } from 'react-router-dom';
 import { useQuery } from '@apollo/client';
 import { getAllFactions, type FactionData, ViewMode, FilterValue, GrandAlliance, getUnit } from '@path-to-glory/shared';
 import { useAuth } from '../contexts/AuthContext';
-import { GET_MY_ARMIES } from '../graphql/operations';
-import type { GetMyArmiesQuery } from '../gql/graphql';
+import { GET_ALL_ARMIES } from '../graphql/operations';
+import type { GetAllArmiesQuery } from '../gql/graphql';
 import { PresignedImage } from '../components/PresignedImage';
 
 export default function ArmyListPage() {
@@ -12,13 +12,14 @@ export default function ArmyListPage() {
   const factions = getAllFactions();
   const factionsMap = Object.fromEntries(factions.map((f: FactionData) => [f.id, f]));
 
-  // Load armies from backend via GraphQL
-  const { data, loading, error } = useQuery<GetMyArmiesQuery>(GET_MY_ARMIES);
+  // Load armies from backend via GraphQL (no auth required)
+  const { data, loading, error } = useQuery<GetAllArmiesQuery>(GET_ALL_ARMIES);
 
-  const allArmies = data?.myArmies || [];
-  type ArmyType = GetMyArmiesQuery['myArmies'][number];
+  const allArmies = data?.armies || [];
+  type ArmyType = GetAllArmiesQuery['armies'][number];
 
-  const [viewMode, setViewMode] = useState<ViewMode>(ViewMode.MINE);
+  // Default to 'All Armies' if not logged in, otherwise 'My Armies'
+  const [viewMode, setViewMode] = useState<ViewMode>(user ? ViewMode.MINE : ViewMode.ALL);
   const [selectedGrandAlliance, setSelectedGrandAlliance] = useState<string>(FilterValue.ALL);
   const [selectedFaction, setSelectedFaction] = useState<string>(FilterValue.ALL);
   const [selectedPlayer, setSelectedPlayer] = useState<string>(FilterValue.ALL);
@@ -125,16 +126,18 @@ export default function ArmyListPage() {
 
       {/* View mode toggle */}
       <div className="flex gap-2 bg-gray-100 p-1 rounded-lg w-fit">
-        <button
-          onClick={() => handleViewModeChange(ViewMode.MINE)}
-          className={`px-4 py-2 rounded-md font-medium transition-colors ${
-            viewMode === ViewMode.MINE
-              ? 'bg-white text-primary-700 shadow-sm'
-              : 'text-gray-600 hover:text-gray-900'
-          }`}
-        >
-          My Armies
-        </button>
+        {user && (
+          <button
+            onClick={() => handleViewModeChange(ViewMode.MINE)}
+            className={`px-4 py-2 rounded-md font-medium transition-colors ${
+              viewMode === ViewMode.MINE
+                ? 'bg-white text-primary-700 shadow-sm'
+                : 'text-gray-600 hover:text-gray-900'
+            }`}
+          >
+            My Armies
+          </button>
+        )}
         <button
           onClick={() => handleViewModeChange(ViewMode.ALL)}
           className={`px-4 py-2 rounded-md font-medium transition-colors ${

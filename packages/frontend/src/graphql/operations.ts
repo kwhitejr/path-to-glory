@@ -34,6 +34,36 @@ export const GET_MY_ARMIES = gql`
   }
 `;
 
+export const GET_ALL_ARMIES = gql`
+  query GetAllArmies {
+    armies {
+      id
+      name
+      factionId
+      imageUrl
+      glory
+      renown
+      createdAt
+      updatedAt
+      player {
+        id
+        name
+        email
+        picture
+      }
+      units {
+        id
+        unitTypeId
+        name
+        rank
+        renown
+        reinforced
+        isWarlord
+      }
+    }
+  }
+`;
+
 export const GET_ARMY = gql`
   query GetArmy($id: ID!) {
     army(id: $id) {

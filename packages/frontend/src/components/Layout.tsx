@@ -22,7 +22,7 @@ export default function Layout() {
             {/* Scrollable nav container */}
             <div className="flex gap-4 overflow-x-auto py-3 scrollbar-hide snap-x snap-mandatory scroll-smooth">
               <NavLink to="/armies" active={location.pathname.startsWith('/armies')}>
-                My Armies
+                Armies
               </NavLink>
               <NavLink to="/warscrolls" active={location.pathname.startsWith('/warscrolls')}>
                 Warscrolls

@@ -246,6 +246,11 @@ type Query {
   myArmies: [Army!]!
 
   """
+  Get all armies (read-only access, no authentication required)
+  """
+  armies: [Army!]!
+
+  """
   Get all available factions
   """
   factions: [Faction!]!
