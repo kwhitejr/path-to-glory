@@ -76,12 +76,15 @@ export default function AddUnitPage() {
           input: {
             unitTypeId: formData.warscrollId,
             name: formData.customName || selectedWarscroll.name,
+            warscroll: selectedWarscroll.name, // Use the warscroll name from the unit data
             imageUrl: formData.imageUrl || undefined,
             size: 1, // Default to 1 model - can be updated later
             wounds: selectedWarscroll?.characteristics?.health || 1,
             rank: formData.rank,
             renown: formData.renown,
             reinforced: formData.reinforced,
+            isWarlord: false, // Default to false for regular units
+            pathAbilities: formData.pathAbility ? [formData.pathAbility] : undefined,
           },
         },
       });

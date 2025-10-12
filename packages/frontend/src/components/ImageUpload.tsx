@@ -75,24 +75,6 @@ export function ImageUpload({
   };
   const spec = getSpec();
 
-  const validateImageDimensions = (img: HTMLImageElement): { needsCrop: boolean } => {
-    const { width, height } = img;
-    const actualRatio = width / height;
-    const expectedRatio = spec.aspectRatio;
-
-    // Allow 10% tolerance for aspect ratio
-    const tolerance = 0.1;
-    const minRatio = expectedRatio * (1 - tolerance);
-    const maxRatio = expectedRatio * (1 + tolerance);
-
-    if (actualRatio < minRatio || actualRatio > maxRatio) {
-      // Image needs cropping
-      return { needsCrop: true };
-    }
-
-    return { needsCrop: false };
-  };
-
   const handleFileSelect = async (event: React.ChangeEvent<HTMLInputElement>) => {
     const file = event.target.files?.[0];
     if (!file) return;
@@ -112,34 +94,29 @@ export function ImageUpload({
       return;
     }
 
-    // Validate image dimensions
-    const img = new Image();
+    // Always show crop modal to let user control the crop
     const imageDataUrl = URL.createObjectURL(file);
 
-    const dimensionsCheck = await new Promise<{ needsCrop: boolean }>((resolve) => {
-      img.onload = () => {
-        const result = validateImageDimensions(img);
-        resolve(result);
-      };
+    // Validate that image loads properly
+    const img = new Image();
+    const imageLoaded = await new Promise<boolean>((resolve) => {
+      img.onload = () => resolve(true);
       img.onerror = () => {
         setError('Failed to load image. Please try a different file.');
-        resolve({ needsCrop: false });
+        resolve(false);
       };
       img.src = imageDataUrl;
     });
 
-    // If image needs cropping, show crop modal
-    if (dimensionsCheck.needsCrop) {
-      setOriginalFile(file);
-      setImageToCrop(imageDataUrl);
-      setShowCropModal(true);
+    if (!imageLoaded) {
+      URL.revokeObjectURL(imageDataUrl);
       return;
     }
 
-    URL.revokeObjectURL(imageDataUrl);
-
-    // Image is good to go - proceed with upload
-    await uploadFile(file);
+    // Show crop modal for all images
+    setOriginalFile(file);
+    setImageToCrop(imageDataUrl);
+    setShowCropModal(true);
   };
 
   const uploadFile = async (file: File) => {
