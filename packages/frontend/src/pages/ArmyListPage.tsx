@@ -13,9 +13,7 @@ export default function ArmyListPage() {
   const factionsMap = Object.fromEntries(factions.map((f: FactionData) => [f.id, f]));
 
   // Load armies from backend via GraphQL
-  const { data, loading, error } = useQuery<GetMyArmiesQuery>(GET_MY_ARMIES, {
-    skip: !user,
-  });
+  const { data, loading, error } = useQuery<GetMyArmiesQuery>(GET_MY_ARMIES);
 
   const allArmies = data?.myArmies || [];
   type ArmyType = GetMyArmiesQuery['myArmies'][number];

@@ -5,6 +5,7 @@ import { getFactionById, UnitRank, getUnit, RealmOfOriginLabels, getBattleFormat
 import { GET_ARMY } from '../graphql/operations';
 import type { GetArmyQuery } from '../gql/graphql';
 import { PresignedImage } from '../components/PresignedImage';
+import { useAuth } from '../contexts/AuthContext';
 
 const LOADING_MESSAGES = [
   'Marshalling the forces...',
@@ -21,6 +22,7 @@ const LOADING_MESSAGES = [
 
 export default function ArmyDetailPage() {
   const { armyId } = useParams();
+  const { user } = useAuth();
   const [loadingMessage] = useState(() =>
     LOADING_MESSAGES[Math.floor(Math.random() * LOADING_MESSAGES.length)]
   );
@@ -96,9 +98,11 @@ export default function ArmyDetailPage() {
             <h2 className="text-2xl font-bold">{army.name}</h2>
             <p className="text-gray-600">{faction?.name}</p>
           </div>
-          <Link to={`/armies/${armyId}/edit`} className="btn-secondary text-sm">
-            Edit
-          </Link>
+          {user && army.player?.id === user.id && (
+            <Link to={`/armies/${armyId}/edit`} className="btn-secondary text-sm">
+              Edit
+            </Link>
+          )}
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm">
@@ -238,9 +242,11 @@ export default function ArmyDetailPage() {
       <div className="card">
         <div className="flex justify-between items-center mb-4">
           <h3 className="font-bold text-lg">Order of Battle</h3>
-          <Link to={`/armies/${armyId}/units/new`} className="btn-primary text-sm">
-            + Add Unit
-          </Link>
+          {user && army.player?.id === user.id && (
+            <Link to={`/armies/${armyId}/units/new`} className="btn-primary text-sm">
+              + Add Unit
+            </Link>
+          )}
         </div>
 
         <div className="space-y-4">
@@ -249,13 +255,10 @@ export default function ArmyDetailPage() {
               const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
               const unitTypeName = unitWarscroll?.name || unit.unitTypeId;
               const points = unitWarscroll?.battleProfile?.points || 0;
+              const isOwner = user && army.player?.id === user.id;
 
-              return (
-            <Link
-              key={unit.id}
-              to={`/armies/${armyId}/units/${unit.id}/edit`}
-              className="flex border border-gray-200 rounded-lg overflow-hidden hover:border-primary-300 hover:bg-primary-50/50 transition-colors cursor-pointer"
-            >
+              const unitContent = (
+                <>
               {/* Left column - Unit Image */}
               <div className="w-1/4 flex-shrink-0">
                 <PresignedImage
@@ -345,7 +348,24 @@ export default function ArmyDetailPage() {
                   </div>
                 )}
               </div>
-            </Link>
+                </>
+              );
+
+              return isOwner ? (
+                <Link
+                  key={unit.id}
+                  to={`/armies/${armyId}/units/${unit.id}/edit`}
+                  className="flex border border-gray-200 rounded-lg overflow-hidden hover:border-primary-300 hover:bg-primary-50/50 transition-colors cursor-pointer"
+                >
+                  {unitContent}
+                </Link>
+              ) : (
+                <div
+                  key={unit.id}
+                  className="flex border border-gray-200 rounded-lg overflow-hidden"
+                >
+                  {unitContent}
+                </div>
               );
             })
           ) : (
@@ -358,14 +378,16 @@ export default function ArmyDetailPage() {
       </div>
 
       {/* Quick Actions */}
-      <div className="grid grid-cols-2 gap-3">
-        <Link to={`/armies/${armyId}/battle`} className="btn-primary text-center">
-          Record Battle
-        </Link>
-        <Link to={`/armies/${armyId}/upgrade`} className="btn-secondary text-center">
-          Upgrade Units
-        </Link>
-      </div>
+      {user && army.player?.id === user.id && (
+        <div className="grid grid-cols-2 gap-3">
+          <Link to={`/armies/${armyId}/battle`} className="btn-primary text-center">
+            Record Battle
+          </Link>
+          <Link to={`/armies/${armyId}/upgrade`} className="btn-secondary text-center">
+            Upgrade Units
+          </Link>
+        </div>
+      )}
     </div>
   );
 }
