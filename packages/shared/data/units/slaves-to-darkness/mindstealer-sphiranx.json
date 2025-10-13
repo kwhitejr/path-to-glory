@@ -45,6 +45,6 @@
   "battleProfile": {
     "unitSize": 1,
     "points": 150,
-    "baseSize": "40mm"
+    "baseSize": "50mm"
   }
 }

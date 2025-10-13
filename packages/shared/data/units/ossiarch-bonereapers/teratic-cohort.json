@@ -61,8 +61,12 @@
   "sourceFile": "Faction Pack - Ossiarch Bonereapers.pdf",
   "extractedAt": "2025-10-07T00:00:00Z",
   "battleProfile": {
-    "unitSize": 1,
+    "unitSize": 8,
     "points": 140,
-    "baseSize": "40mm"
+    "keywords": [
+      "Infantry"
+    ],
+    "baseSize": "60 × 35mm [1], 32mm [2], 28.5mm [5]",
+    "notes": "This unit cannot be reinforced."
   }
 }

@@ -82,7 +82,7 @@
   "extractedAt": "2025-10-07T00:00:00Z",
   "battleProfile": {
     "unitSize": 1,
-    "points": 350,
-    "baseSize": "40mm"
+    "points": 280,
+    "baseSize": "100mm"
   }
 }

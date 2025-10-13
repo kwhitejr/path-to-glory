@@ -48,7 +48,7 @@
   "extractedAt": "2025-10-07T00:00:00Z",
   "battleProfile": {
     "unitSize": 1,
-    "points": 170,
+    "points": 180,
     "regimentOptions": "0-1 Royal Attendant, 0-1 Beast, 0-1 Serfs, Any Knights",
     "baseSize": "40mm"
   }

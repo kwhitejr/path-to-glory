@@ -50,12 +50,12 @@
   "extractedAt": "2025-10-07T00:00:00Z",
   "battleProfile": {
     "unitSize": 10,
-    "points": 100,
+    "points": 110,
     "keywords": [
       "Serfs",
       "Infantry"
     ],
     "notes": "This unit cannot be reinforced.",
-    "baseSize": "40mm, 32mm, 28.5mm, 25mm"
+    "baseSize": "40mm [2], 32mm [2], 28.5mm [3], 25mm [3]"
   }
 }

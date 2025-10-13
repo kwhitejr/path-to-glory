@@ -49,7 +49,7 @@
   "extractedAt": "2025-10-07T00:00:00Z",
   "battleProfile": {
     "unitSize": 1,
-    "points": 100,
+    "points": 110,
     "regimentOptions": "0-1 Beast, Any Serfs",
     "notes": "This Hero can join an eligible regiment as a Royal Attendant.",
     "baseSize": "32mm"
