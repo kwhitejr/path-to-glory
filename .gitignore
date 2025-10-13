@@ -56,5 +56,6 @@ __pycache__/
 *.py[cod]
 *.egg-info/
 
-# Miscellaneous
+# Claude
+.claude/settings.local.json
 *.pdf

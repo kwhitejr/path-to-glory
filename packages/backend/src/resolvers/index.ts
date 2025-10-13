@@ -62,14 +62,10 @@ export const resolvers = {
       }));
     },
 
-    army: async (_: unknown, { id }: { id: string }, context: GraphQLContext) => {
-      // For now, we need to find the army across all campaigns
-      // In a real system, you'd pass campaignId as well
-      // For simplicity, we'll query the user's armies and find by ID
-      requireAuth(context);
-
-      const armies = await armyRepo.findByPlayerId(context.user.cognitoId);
-      const army = armies.find(a => a.id === id);
+    army: async (_: unknown, { id }: { id: string }) => {
+      // Read-only access to any army by ID
+      // No authentication required for viewing
+      const army = await armyRepo.findByArmyId(id);
 
       if (!army) {
         return null;

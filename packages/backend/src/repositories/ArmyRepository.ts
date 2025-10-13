@@ -136,6 +136,27 @@ export class ArmyRepository {
     return (result.Items as ArmyItem[]) || [];
   }
 
+  async findByArmyId(armyId: string): Promise<ArmyItem | null> {
+    // Find an army by ID alone, without requiring campaignId
+    // This is a read-only operation for viewing army details
+    const result = await docClient.send(
+      new ScanCommand({
+        TableName: TABLE_NAME,
+        FilterExpression: '#type = :type AND id = :armyId',
+        ExpressionAttributeNames: {
+          '#type': 'type',
+        },
+        ExpressionAttributeValues: {
+          ':type': 'ARMY',
+          ':armyId': armyId,
+        },
+      })
+    );
+
+    const items = result.Items as ArmyItem[];
+    return items && items.length > 0 ? items[0] : null;
+  }
+
   async update(
     campaignId: string,
     armyId: string,
