@@ -18,8 +18,8 @@ export default function ArmyListPage() {
   const allArmies = data?.armies || [];
   type ArmyType = GetAllArmiesQuery['armies'][number];
 
-  // Default to 'All Armies' if not logged in, otherwise 'My Armies'
-  const [viewMode, setViewMode] = useState<ViewMode>(user ? ViewMode.MINE : ViewMode.ALL);
+  // Default to 'All Armies' for all users
+  const [viewMode, setViewMode] = useState<ViewMode>(ViewMode.ALL);
   const [selectedGrandAlliance, setSelectedGrandAlliance] = useState<string>(FilterValue.ALL);
   const [selectedFaction, setSelectedFaction] = useState<string>(FilterValue.ALL);
   const [selectedPlayer, setSelectedPlayer] = useState<string>(FilterValue.ALL);

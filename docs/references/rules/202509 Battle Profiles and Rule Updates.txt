@@ -1,0 +1,9557 @@
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+BATTLE PROFILES
+On the following pages, you will find the battle profiles for most of the units that can be used in games of Warhammer Age
+of Sigmar. The battle profiles are organised first by Grand Alliance and then alphabetically by faction. There are four Grand
+Alliances: Order, Chaos, Death and Destruction. The Grand Alliance to which a unit belongs is determined by the keyword
+listed on its warscroll. For example, the Vindictors warscroll has the Order keyword, so the battle profile for a Vindictors
+unit can be found in the ‘Order’ section. As the unit belongs to the Stormcast Eternals faction, its entry is in the Stormcast
+Eternals battle profile table.
+All units in your army must be from the same faction, with the exception of Regiments of Renown (see below).
+When we republish a set of battle profiles, the new version takes precedence over versions with an earlier publication date or
+no publication date. Battle profiles that have changed since the previous version will be marked with a star (✹).
+
+REGIMENTS OF RENOWN
+Regiments of Renown are pre-built regiments made up of legendary units from across the Mortal Realms that you can ally into
+your armies. In this document, you can find a list of Regiments of Renown that contains their points values, a summary of the
+units that make up each regiment and any other notes, including which factions can take them. The rules for these Regiments
+of Renown can be found on warhammer-community.com.
+The following restrictions apply to Regiments of Renown:
+• You cannot include more than 1 Regiment of Renown in your army unless otherwise specified in the notes column of that
+regiment’s battle profile.
+• Units in a Regiment of Renown cannot use (but can be picked as the target of, if otherwise eligible) any faction rules from the faction they
+are allied into, including enhancements and lores, unless they have a keyword that matches that faction’s name.
+• If an ability allows you to set up a replacement unit (Core Rules, 24.2) for a unit in a Regiment of Renown, that unit also counts as being
+part of that Regiment of Renown.
+
+WARHAMMER LEGENDS
+Every Citadel Miniature is a unique piece of the ever-evolving narrative of Warhammer. It is,
+then, an unfortunate truth that we can’t continue to sell and support every model we’ve ever
+made indefinitely. As we make new models, and new books to explore their background and
+rules, we have to stop producing and featuring some older models. But just like many of you,
+we still treasure our collections of older Citadel Miniatures, and we still want to be able to
+use them in games and forge glorious narratives on the tabletop!
+This is where Warhammer Legends comes in: it gives us a place to publish rules that allow you
+to play games with your older miniatures. In order to maintain a healthy game balance and a fair
+playing field, Warhammer Legends units are not intended for competitive play and so will not
+be legal at official Warhammer Age of Sigmar tournaments. Nevertheless, we encourage you to
+continue to use your collection for casual play. Warhammer Legends battle profiles are organised
+first by Grand Alliance and then alphabetically by faction. The rules for these units can be found
+on warhammer-community.com.
+
+KEY
+Rules are updated regularly, with the type of change made indicated by one of the
+following ‘badges’:
+NEW
+	This shows that a new battle profile(s) has been added since the last
+time this document was published.
+UPDATED 	This shows that an existing profile(s) has changed since the last
+time this document was published.
+More recent rules updates always take precedence over earlier versions.
+
+1
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+CONTENTS
+ORDER��������������������������������������������������������������������������������������������� 3 DESTRUCTION��������������������������������������������������������������������������� 43
+Cities of Sigmar�������������������������������������������������������������������������������������������� 3
+Gloomspite Gitz ����������������������������������������������������������������������������������������43
+Daughters of Khaine����������������������������������������������������������������������������������� 6
+Ironjawz ������������������������������������������������������������������������������������������������������45
+Fyreslayers���������������������������������������������������������������������������������������������������� 8
+Kruleboyz����������������������������������������������������������������������������������������������������46
+Idoneth Deepkin������������������������������������������������������������������������������������������ 9
+Ogor Mawtribes ����������������������������������������������������������������������������������������48
+Kharadron Overlords�������������������������������������������������������������������������������� 11
+Sons of Behemat ����������������������������������������������������������������������������������������50
+Lumineth Realm-lords������������������������������������������������������������������������������ 13
+Seraphon������������������������������������������������������������������������������������������������������ 15 UNIVERSAL MANIFESTATION LORES��������������������������� 51
+Stormcast Eternals ������������������������������������������������������������������������������������ 17
+Sylvaneth ���������������������������������������������������������������������������������������������������� 21 REGIMENTS OF RENOWN��������������������������������������������������� 52
+Mercenary �������������������������������������������������������������������������������������������������� 52
+CHAOS������������������������������������������������������������������������������������������� 23 Order������������������������������������������������������������������������������������������������������������ 53
+Blades of Khorne����������������������������������������������������������������������������������������23
+Chaos������������������������������������������������������������������������������������������������������������54
+Disciples of Tzeentch��������������������������������������������������������������������������������25
+Death������������������������������������������������������������������������������������������������������������ 55
+Hedonites of Slaanesh ������������������������������������������������������������������������������27
+Destruction ������������������������������������������������������������������������������������������������56
+Maggotkin of Nurgle��������������������������������������������������������������������������������29
+Skaven���������������������������������������������������������������������������������������������������������� 31 WARHAMMER LEGENDS ����������������������������������������������������� 57
+Slaves to Darkness������������������������������������������������������������������������������������� 33
+Order������������������������������������������������������������������������������������������������������������57
+Chaos������������������������������������������������������������������������������������������������������������59
+DEATH������������������������������������������������������������������������������������������� 35 Death������������������������������������������������������������������������������������������������������������62
+Flesh-eater Courts ������������������������������������������������������������������������������������ 35
+Destruction ������������������������������������������������������������������������������������������������63
+Nighthaunt�������������������������������������������������������������������������������������������������� 37
+Ossiarch Bonereapers��������������������������������������������������������������������������������39
+Soulblight Gravelords��������������������������������������������������������������������������������40
+PRODUCED BY THE WARHAMMER DESIGN STUDIO
+With thanks to The Faithful and The Loretesters for their invaluable services.
+© Copyright Games Workshop Limited 2025. GW, Games Workshop, Warhammer, Citadel, Warhammer Age of Sigmar, Battletome, Stormcast Eternals, the ‘wingedhammer’ Warhammer logo, and all associated logos, illustrations, images, names, creatures, races, vehicles, locations, weapons, characters, and the distinctive likenesses
+thereof, are either ® or TM, and/or © Games Workshop Limited, variably registered around the world. All Rights Reserved.
+Permission to download/print for personal use only.
+This is a work of fiction. All the characters and events portrayed in this book are fictional, and any resemblance to real people or incidents is purely coincidental.
+Pictures used for illustrative purposes only.
+Certain Citadel products may be dangerous if used incorrectly and Games Workshop does not recommend them for use by children under the age of 16 without adult
+supervision. Whatever your age, be careful when using glues, bladed equipment and sprays and make sure that you read and follow the instructions on the packaging.
+
+Games Workshop Ltd., Willow Road, Lenton,
+Nottingham, NG7 2WS, United Kingdom
+Games Workshop Limited – Irish branch
+Unit 3, Lower Liffey Street, Dublin 1, D01 K199, Ireland
+2
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+CITIES OF SIGMAR
+HEROES
+Alchemite Warforger
+UNIT SIZE
+1
+POINTS
+110
+Assassin
+1
+90
+✹ Battlemage
+✹ Battlemage on
+Celestial Hurricanum
+Battlemage on Griffon
+1
+100 (+10)
+1
+240 (+20)
+1
+260
+Battlemage on Luminark of Hysh
+1
+260
+Black Ark Fleetmaster
+1
+90
+✹ Callis and Toll
+2
+220 (+10)
+REGIMENT OPTIONS
+Any Human Infantry
+None
+Any Human Infantry
+Any Human Infantry,
+Any Human Cavalry
+Any Human
+Any Human Infantry,
+Any Human Cavalry
+Any Aelf
+Toll’s Companions (required),
+Any Human Infantry
+Cogsmith
+1
+110
+Any Duardin
+Dreadlord on Black Dragon
+1
+270
+0-1 Shadow Agent, Any Aelf
+Freeguild Cavalier-Marshal
+1
+110
+0-1 Freeguild Veteran, Any Human
+✹ Freeguild Marshal and
+Relic Envoy
+Freeguild Marshal on Griffon
+1
+100 (+10)
+0-1 Freeguild Veteran, Any Human
+1
+230
+0-1 Freeguild Veteran, Any Human
+Fusil-Major on Ogor Warhulk
+1
+140
+Any Human
+170
+Doralia ven Denst (required),
+Any Human Infantry
+Galen ven Denst
+Doralia ven Denst
+1
+1
+0
+None
+Pontifex Zenestra, Matriarch of
+the Great Wheel
+Runelord
+Sorceress
+Sorceress on Black Dragon
+1
+170
+1
+1
+1
+130
+130
+280
+Any Human Infantry,
+Any Human Cavalry
+Any Duardin
+0-1 Shadow Agent, Any Aelf
+0-1 Shadow Agent, Any Aelf
+Steam Tank Commander
+1
+250
+Any Steam Tank
+0-1 Freeguild Veteran,
+Any Cities of Sigmar
+0-1 Cogsmith, Any Duardin
+Tahlia Vedra, Lioness of the Parch
+1
+280
+Warden King
+1
+120
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+260 (+10)
+0-1 Freeguild Veteran, Any Human
+HEROES
+✹ Scourge of Ghyran
+Pontifex Zenestra, Matriarch of
+the Great Wheel
+3
+UPDATED
+NOTES
+This Hero can join an eligible
+regiment as a Shadow Agent.
+
+BASE SIZE
+32mm
+25mm
+25mm
+120 × 92mm
+120 × 92mm
+120 × 92mm
+This Hero can join an eligible
+regiment as a Shadow Agent.
+
+25mm
+This unit cannot be reinforced.
+
+28.5mm
+This Hero can join a
+Warden King’s regiment.
+This Hero can join an eligible
+regiment as a Freeguild Veteran.
+This Hero can join an eligible
+regiment as a Freeguild Veteran.
+This Hero can join an eligible
+regiment as a Freeguild Veteran.
+
+25mm
+105 × 70mm
+75 × 42mm
+32mm [1],
+28.5mm [1]
+120 × 92mm
+50mm
+28.5mm
+This unit can only be taken in
+Galen ven Denst’s regiment.
+
+28.5mm
+90 × 52mm
+This Hero can join an eligible
+regiment as a Freeguild Veteran.
+
+25mm
+25mm
+105 × 70mm
+120 × 92mm
+100mm
+25mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+90 × 52mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+CITIES OF SIGMAR
+UNITS
+Black Ark Corsairs
+Black Guard
+Bleakswords
+✹ Celestial Hurricanum
+Dark Riders
+Darkshards
+Drakespawn Chariot
+Drakespawn Knights
+Dreadspears
+Executioners
+Flagellants
+Freeguild Cavaliers
+UPDATED
+UNIT SIZE
+10
+10
+10
+1
+5
+10
+1
+5
+10
+10
+10
+5
+POINTS
+120
+130
+100
+180 (+20)
+170
+150
+110
+190
+110
+160
+80
+150
+RELEVANT KEY WORDS
+Aelf, Infantry
+Aelf, Infantry
+Aelf, Infantry
+Human, War Machine
+Aelf, Cavalry
+Aelf, Infantry
+Aelf, War Machine
+Aelf, Cavalry
+Aelf, Infantry
+Aelf, Infantry
+Human, Infantry
+Human, Cavalry
+NOTES
+✹ Freeguild Command Corps
+6
+170 (+30)
+Human, Infantry
+This unit cannot be reinforced.
+
+Freeguild Fusiliers
+✹ Freeguild Steelhelms
+Gyrobomber
+Gyrocopter
+✹ Hammerers
+Ironbreakers
+Irondrakes
+Ironweld Great Cannon
+K haribdyss
+Longbeards
+Luminark of Hysh
+Scourgerunner Chariot
+Steam Tank
+10
+10
+1
+1
+10
+10
+10
+1
+1
+10
+1
+1
+1
+110
+90 (+10)
+120
+120
+180 (+10)
+140
+140
+100
+120
+110
+210
+110
+240
+Human, Infantry
+Human, Infantry
+Duardin, War Machine
+Duardin, War Machine
+Duardin, Infantry
+Duardin, Infantry
+Duardin, Infantry
+Human, War Machine
+Aelf, Monster
+Duardin, Infantry
+Human, War Machine
+Aelf, War Machine
+Human, War Machine
+Toll’s Companions
+4
+0
+War Hydra
+1
+160
+Aelf, Monster
+Wildercorps Hunters
+11
+100
+Human, Infantry
+This unit cannot be reinforced.
+
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+5
+160
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+UNITS
+S courge of Ghyran
+Freeguild Cavaliers
+Unique, Human, Infantry
+Human, Cavalry
+4
+This unit can only be taken in
+Callis and Toll’s regiment.
+This unit cannot be reinforced.
+
+BASE SIZE
+25mm
+25mm
+25mm
+120 × 92mm
+60 × 35mm
+25mm
+120 × 92mm
+60 × 35mm
+25mm
+25mm
+25mm
+60 × 35mm
+40mm [1],
+32mm [1],
+28.5mm [4]
+28.5mm
+25mm
+50mm
+50mm
+25mm
+25mm
+25mm
+90mm
+120 × 92mm
+25mm
+120 × 92mm
+120 × 92mm
+120 × 92mm
+40mm [1],
+28.5mm [3]
+120 × 92mm
+40mm [2],
+28.5mm [3],
+25mm [6]
+BASE SIZE
+60 × 35mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+CITIES OF SIGMAR
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+✹ Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+✹ Heroic Trait
+Artefact of Power
+Artefact of Power
+✹ Artefact of Power
+Spell Lore
+Prayer Lore
+NAME
+Dawnbringer Crusade
+Ironweld Guild Army
+Fortress-city Defenders
+Collegiate Arcane Expedition
+Veteran Cannoneers
+Fearless Exemplars
+Master of Ballistics
+Grizzled Veteran
+Fiery Temper
+Draw Steel
+Astute Tactician
+Cosmopolitan Leader
+Sacred Tome
+Glimmering
+Brazier of Holy Flame
+Spells of the Collegiate Arcane
+Scriptures of Sigmar
+POINTS
+0
+0
+0
+0
+30 (+30)
+0
+0
+0
+0
+0
+0
+20 (+20)
+0
+0
+20 (+20)
+0
+0
+5
+NOTES
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+Faction Pack: Cities of Sigmar
+UPDATED
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+DAUGHTERS OF KHAINE
+UNIT SIZE
+POINTS
+✹ Bloodwrack Medusa
+HEROES
+1
+150 (-10)
+Bloodwrack Shrine
+1
+200
+Hag Queen
+1
+140
+Hag Queen on Cauldron of Blood
+1
+330
+REGIMENT OPTIONS
+0-1 Avatar of Khaine,
+Any Khinerai, Any Melusai
+0-1 Coven Matriarch,
+Any Daughters of Khaine
+0-1 Coven Matriarch,
+0-1 Avatar of Khaine, Any Aelf
+0-1 Coven Matriarch,
+Any Daughters of Khaine
+1
+100
+0-1 Avatar of Khaine, Any Aelf
+✹ Krethusa the Croneseer
+1
+160 (+10)
+Melusai Ironscale
+1
+160
+Morathi-Khaine
+1
+760
+0-1 Coven Matriarch, Any Aelf
+0-1 Avatar of Khaine,
+Any Khinerai, Any Melusai
+The Shadow Queen (required),
+0-1 Coven Matriarch,
+Any Daughters of Khaine
+The Shadow Queen
+1
+0
+Slaughter Queen
+1
+130
+✹ S laughter Queen on
+Cauldron of Blood
+1
+330 (+10)
+0-1 Coven Matriarch,
+0-1 Avatar of Khaine, Any Aelf
+0-1 Coven Matriarch,
+Any Daughters of Khaine
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+✹ Scourge of Ghyran
+Bloodwrack Shrine
+1
+250 (+20)
+0-1 Coven Matriarch,
+Any Daughters of Khaine
+✹ Scourge of Ghyran
+Krethusa the Croneseer
+1
+260 (+20)
+0-1 Coven Matriarch, Any Aelf
+High Gladiatrix
+HEROES
+None
+6
+NOTES
+UPDATED
+BASE SIZE
+40mm
+120 × 92mm
+25mm
+120 × 92mm
+This Hero can join an eligible
+regiment as a Coven Matriarch.
+This Hero can join an eligible
+regiment as a Coven Matriarch.
+
+32mm
+60mm
+40mm
+40mm
+This unit can only be taken in
+Morathi‑Khaine’s regiment.
+
+100mm
+25mm
+120 × 92mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+120 × 92mm
+60mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+DAUGHTERS OF KHAINE
+UNITS
+✹ Avatar of Khaine
+Blood Sisters
+✹ Blood Stalkers
+Doomfire Warlocks
+UPDATED
+UNIT SIZE
+1
+5
+5
+5
+POINTS
+110 (-10)
+140
+130 (-10)
+150
+RELEVANT KEY WORDS
+Monster
+Melusai, Infantry
+Melusai, Infantry
+Aelf, Cavalry
+✹ Khainite Shadowstalkers
+9
+120 (+10)
+Aelf, Infantry
+Khinerai Heartrenders
+✹ Khinerai Lifetakers
+✹ S isters of Slaughter with
+Bladed Bucklers
+Sisters of Slaughter with
+Sacrificial Knives
+Witch Aelves with Bladed Bucklers
+✹W
+ itch Aelves with
+Paired Sciansá
+5
+5
+100
+100 (+20)
+Khinerai, Infantry
+Khinerai, Infantry
+10
+120 (+10)
+Aelf, Infantry
+25mm
+10
+110
+Aelf, Infantry
+25mm
+10
+90
+Aelf, Infantry
+25mm
+10
+120 (+10)
+Aelf, Infantry
+25mm
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+✹ Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Prayer Lore
+✹ Prayer Lore
+Manifestation Lore
+NAME
+Scáthcoven
+Shadow Patrol
+Cauldron Guard
+Slaughter Troupe
+Coven Zealots
+Arena Veterans
+Master of Poisons
+Bathed in Blood
+Zealous Orator
+Khainite Pendant
+Crown of Woe
+Sevenfold Shadow
+Lore of Shadows
+Prayers of the Khainite Cult
+Bloodshadow Rites
+Manifestations of Khaine
+POINTS
+0
+0
+0
+0
+0
+20 (+20)
+0
+0
+0
+0
+0
+0
+0
+0
+20 (+20)
+0
+7
+NOTES
+This unit cannot be reinforced.
+
+NOTES
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Faction Pack: Daughters of Khaine
+Scourge of Ghyran
+Faction Pack: Daughters of Khaine
+BASE SIZE
+40mm
+40mm
+40mm
+60 × 35mm
+40mm [1],
+28.5mm [8]
+40mm
+40mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+FYRESLAYERS
+HEROES
+Auric Flamekeeper
+Auric Runefather
+UPDATED
+UNIT SIZE
+1
+1
+POINTS
+80
+140
+Auric Runefather on Magmadroth
+1
+320
+Auric Runemaster
+Auric Runesmiter
+Auric Runesmiter on Magmadroth
+1
+1
+1
+180
+120
+280
+Auric Runeson
+1
+80
+✹ Auric Runeson on Magmadroth
+1
+250 (-10)
+Battlesmith
+1
+100
+Doomseeker
+1
+80
+✹ Grimhold Exile
+1
+100 (-10)
+Grimwrath Berzerker
+1
+120
+UNIT SIZE
+POINTS
+1
+320 (+10)
+UNIT SIZE
+5
+POINTS
+130
+5
+120
+Duardin, Infantry
+32mm
+5
+120 (-10)
+Duardin, Infantry
+32mm
+10
+140 (-10)
+Duardin, Infantry
+32mm
+10
+120 (-10)
+Duardin, Infantry
+32mm
+Duardin, Infantry
+32mm [4],
+28.5mm [5]
+HEROES
+✹ Scourge of Ghyran
+Auric Runeson on Magmadroth
+UNITS
+Auric Hearthguard
+Hearthguard Berzerkers with
+Berzerker Broadaxes
+✹H
+ earthguard Berzerkers with
+Flamestrike Poleaxes
+✹V
+ ulkite Berzerkers with
+Bladed Slingshields
+✹V
+ ulkite Berzerkers with
+Fyresteel Weapons
+Vulkyn Flameseekers
+TYPE
+Battle Formation
+Battle Formation
+✹ Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+✹ Artefact of Power
+Mark of Vulcatrix
+Mark of Vulcatrix
+Mark of Vulcatrix
+Prayer Lore
+Prayer Lore
+Manifestation Lore
+Faction Terrain
+9
+160
+NAME
+Warrior Kinband
+Forge Brethren
+Scales of Vulcatrix
+Lords of the Lodge
+Blood of the Berzerker
+Ash-beard
+Fiercely Competitive
+Ash-cloud Rune
+Draught of the Finest Magmalt
+Droth-helm
+Incandescent Blaze
+Thickened Scales
+Peerless Lineage
+Zharrgrim Blessings
+Vulkyn Gifts
+Magmic Invocations
+Magmic Battleforge
+REGIMENT OPTIONS
+NOTES
+Any Fyreslayers
+0-1 Grimnir’s Chosen, Any Fyreslayers
+0-1 Grimnir’s Chosen,
+This Hero can join an eligible
+0-1 Vulcatrix’s Chosen,
+regiment as Vulcatrix’s Chosen.
+Any Fyreslayers
+0-1 Grimnir’s Chosen, Any Fyreslayers
+Any Fyreslayers
+Any Fyreslayers
+Hero can join an eligible
+0-1 Grimnir’s Chosen, Any Fyreslayers This
+regiment as Grimnir’s Chosen.
+Hero can join an eligible
+0-1 Grimnir’s Chosen, Any Fyreslayers This
+regiment as Vulcatrix’s Chosen.
+This Hero can join an eligible
+Any Fyreslayers
+regiment as Grimnir’s Chosen.
+This Hero can join an eligible
+Any Fyreslayers
+regiment as Grimnir’s Chosen.
+This Hero can join an eligible
+Any Fyreslayers
+regiment as Grimnir’s Chosen.
+This Hero can join an eligible
+Any Fyreslayers
+regiment as Grimnir’s Chosen.
+
+BASE SIZE
+32mm
+32mm
+REGIMENT OPTIONS
+NOTES
+This Hero can join an eligible
+regiment as Vulcatrix’s Chosen.
+unit is legal for Matched
+0-1 Grimnir’s Chosen, Any Fyreslayers This
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+RELEVANT KEY WORDS
+Duardin, Infantry
+BASE SIZE
+32mm
+POINTS
+0
+0
+10 (+10)
+0
+0
+20
+0
+20
+0
+10 (+10)
+0
+0
+0
+0
+0
+0
+0
+8
+NOTES
+This unit cannot be reinforced.
+
+NOTES
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Fyreslayers
+Scourge of Ghyran
+Faction Pack: Fyreslayers
+Faction Pack: Fyreslayers
+120 × 92mm
+32mm
+32mm
+120 × 92mm
+32mm
+120 × 92mm
+32mm
+32mm
+32mm
+32mm
+120 × 92mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+IDONETH DEEPKIN
+HEROES
+UNIT SIZE
+POINTS
+Akhelian King
+1
+160
+Akhelian Thrallmaster
+1
+90
+✹E
+ idolon of Mathlann,
+Aspect of the Sea
+✹E
+ idolon of Mathlann,
+Aspect of the Storm
+1
+340 (-10)
+1
+300 (-20)
+REGIMENT OPTIONS
+0-1 Akhelian Raidmaster or
+Isharann Emissary,
+Any Idoneth Deepkin
+Any Idoneth Deepkin
+0-1 Isharann Emissary,
+Any Idoneth Deepkin
+0-1 Isharann Emissary,
+Any Idoneth Deepkin
+Ikon of the Storm
+1
+120
+Any Idoneth Deepkin
+Ikon of the Sea
+1
+130
+Any Idoneth Deepkin
+Isharann Soulrender
+1
+90
+0-1 Isharann Emissary, Any Namarti
+Isharann Soulscryer
+1
+110
+0-1 Isharann Emissary, Any Namarti
+✹ Isharann Tidecaster
+Lotann, Warden of the
+Soul Ledgers
+1
+110 (-10)
+0-1 Isharann Emissary, Any Namarti
+1
+110
+Mathaela, Oracle of the Abyss
+1
+160
+Volturnos, High King of the Deep
+1
+230
+UNIT SIZE
+POINTS
+✹ S courge of Ghyran
+Akhelian Thrallmaster
+1
+90 (-10)
+UNITS
+✹ Akhelian Allopex
+Akhelian Ishlaen Guard
+✹ A khelian Leviadon
+Akhelian Morrsarr Guard
+✹ Namarti Reavers
+Namarti Thralls
+UNIT SIZE
+1
+3
+1
+3
+10
+10
+POINTS
+170 (+10)
+180
+470 (-10)
+170
+130 (-10)
+100
+UNITS
+UNIT SIZE
+10
+HEROES
+Scourge of Ghyran
+Namarti Thralls
+UPDATED
+NOTES
+60mm
+This Hero can join an
+eligible regiment as an
+Akhelian Raidmaster.
+
+32mm
+100mm
+100mm
+This Hero can join an
+eligible regiment as an
+Akhelian Raidmaster.
+This Hero can join an
+eligible regiment as an
+Akhelian Raidmaster.
+This Hero can join an
+eligible regiment as an
+Isharann Emissary.
+This Hero can join an
+eligible regiment as an
+Isharann Emissary.
+
+Any Idoneth Deepkin
+32mm
+32mm
+40mm
+32mm
+32mm
+40mm
+0-1 Isharann Emissary,
+Any Idoneth Deepkin
+0-1 Akhelian Raidmaster or
+Isharann Emissary,
+Any Idoneth Deepkin
+REGIMENT OPTIONS
+BASE SIZE
+40mm
+60mm
+NOTES
+This Hero can join an
+eligible regiment as an
+Akhelian Raidmaster.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+RELEVANT KEY WORDS
+Aelf, Akhelian, Cavalry
+Aelf, Akhelian, Cavalry
+Aelf, Akhelian, Monster
+Aelf, Akhelian, Cavalry
+Aelf, Namarti, Infantry
+Aelf, Namarti, Infantry
+NOTES
+BASE SIZE
+90 × 52mm
+60 × 35mm
+120 × 92mm
+60 × 35mm
+32mm
+32mm
+POINTS
+RELEVANT KEY WORDS
+BASE SIZE
+100
+Aelf, Namarti, Infantry
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+Any Namarti
+9
+32mm
+32mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+IDONETH DEEPKIN
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+✹ Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+A rtefact of Power
+Artefact of Power
+Spell Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Namarti Corps
+Akhelian Beastmasters
+Isharann Council
+Soul-raid Ambushers
+Deep-sea Stalkers
+Ethersea Predators
+Form of the Fangmora
+Hunter of Souls
+Nightmare Legacy
+Merciless Raider
+Lord of Storm and Sea
+Endless Sea-storm
+Armour of the Cythai
+Lifekelp Pod
+Dritchleech
+Lore of the Deeps
+Lore of the Abyss
+Gloomtide Shipwreck
+POINTS
+0
+20
+0
+0
+0
+20 (+20)
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+NOTES
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+Battletome: Idoneth Deepkin
+UPDATED
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+KHARADRON OVERLORDS
+UNIT SIZE
+POINTS
+Aether-Khemist
+HEROES
+1
+120
+0-1 Skyvessel, Any Infantry
+Aetheric Navigator
+1
+130
+0-1 Skyvessel, Any Infantry
+A rkanaut Admiral
+1
+140
+Brokk Grungsson, Lord‑Magnate
+of Barak-Nar
+1
+260
+Codewright
+1
+Drekki Flynt
+1
+REGIMENT OPTIONS
+0-1 Guild Officer,
+Any Kharadron Overlords
+0-1 Guild Officer,
+Any Kharadron Overlords
+80
+0-1 Skyvessel, Any Infantry
+130
+0-1 Guild Officer, 0-1 Arkanaut Frigate,
+Any Infantry
+NOTES
+This Hero can join an eligible
+regiment as a Guild Officer.
+This Hero can join an eligible
+regiment as a Guild Officer.
+
+UPDATED
+BASE SIZE
+32mm
+32mm
+32mm
+50mm
+This Hero can join an eligible
+regiment as a Guild Officer.
+
+32mm
+32mm
+This Hero can join an eligible
+regiment as a Guild Officer.
+This Hero can join an eligible
+regiment as a Guild Officer.
+This Hero can join an eligible
+regiment as a Guild Officer.
+
+Endrinmaster with Dirigible Suit
+1
+160
+0-1 Skyvessel, Any Infantry
+✹Endrinmaster with
+Endrinharness
+1
+150 (+30)
+0-1 Skyvessel, Any Infantry
+Null-Khemist
+1
+130
+0-1 Guild Officer, 0-1 Skyvessel,
+Any Infantry
+UNIT SIZE
+POINTS
+1
+110
+UNIT SIZE
+10
+1
+1
+3
+1
+5
+3
+POINTS
+90
+300
+460
+110
+160 (+20)
+130
+130 (+10)
+RELEVANT KEY WORDS
+Duardin, Infantry
+Duardin, Skyvessel, War Machine
+Duardin, Skyvessel, War Machine
+Duardin, Infantry
+Duardin, Skyvessel, War Machine
+Duardin, Infantry
+Duardin, Infantry
+✹ Vongrim Harpoon Crew
+5
+110 (+20)
+Duardin, Infantry
+32mm
+✹ Vongrim Salvagers
+5
+120 (+20)
+Duardin, Infantry
+32mm
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+1
+170 (+30)
+Duardin, Skyvessel, War Machine
+HEROES
+Scourge of Ghyran
+Codewright
+UNITS
+A rkanaut Company
+A rkanaut Frigate
+A rkanaut Ironclad
+Endrinriggers
+✹ Grundstok Gunhauler
+Grundstok Thunderers
+✹ Skywardens
+UNITS
+✹ Scourge of Ghyran
+Grundstok Gunhauler
+REGIMENT OPTIONS
+0-1 Skyvessel, Any Infantry
+11
+40mm
+32mm
+40mm
+NOTES
+This Hero can join an eligible
+regiment as a Guild Officer.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+NOTES
+BASE SIZE
+25mm
+120 × 92mm
+170 × 105mm
+32mm
+105 × 70mm
+32mm
+32mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack. This unit can be
+reinforced even though it has a
+minimum unit size of 1.
+
+32mm
+BASE SIZE
+105 × 70mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+KHARADRON OVERLORDS
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Great Endrinworks
+Great Endrinworks
+Great Endrinworks
+Great Endrinworks
+Great Endrinworks
+NAME
+Pioneers and Scavengers
+Rapid Redeployment Squadron
+Veteran Ground Troops
+Endrineers Guild
+Expeditionary Force
+Shrewd Opportunist
+Bold as Brass
+Combat Grafter
+Blazebeard and Sons
+Bamboozling Flakgun
+Celestium Burst Grenade
+Voidstone Orb
+Spell in a Bottle
+Karst-Bana Aether-powered
+Combat Rig
+Emberstone Flare
+Voidstone Repulser Vents
+Blazebeard and Sons Ejector Pod
+Zonbarcorp ‘Dealbreaker’
+Battle Ram
+Hegsson Solutions ‘Old Reliable’
+Hullplates
+Gruksson Wide-bore Cylinders
+Coalbeard’s Collapsible Bombrack
+Tracer-fire Rounds
+Grandiose Fuselage
+Nullstone Galvanisation
+✹ Faction Terrain
+Zontari Endrin Dock
+✹ Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+✹ Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Skyvessel Upgrade
+Skyvessel Upgrade
+Skyvessel Upgrade
+Great Endrinworks
+POINTS
+0
+0
+0
+NOTES
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+10 (+10)
+Battletome: Kharadron Overlords
+0
+0
+0
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+10 (+10)
+Battletome: Kharadron Overlords
+0
+0
+0
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+Scourge of Ghyran
+0
+Scourge of Ghyran
+0
+0
+0
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+0
+Scourge of Ghyran
+0
+Battletome: Kharadron Overlords
+0
+0
+0
+0
+0
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+Battletome: Kharadron Overlords
+20 (+20)
+Battletome: Kharadron Overlords
+12
+UPDATED
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+LUMINETH REALM-LORDS
+HEROES
+UNIT SIZE
+POINTS
+Alarith Stonemage
+1
+120
+✹ A rchmage Teclis and
+Celennar, Spirit of Hysh
+1
+560 (-20)
+Avalenor, the Stoneheart King
+1
+410
+✹E
+ llania and Ellathor,
+Eclipsian Warsages
+1
+290 (+10)
+✹ Hurakan Windmage
+1
+140 (-10)
+✹L
+ yrior Uthralle,
+Warden of Ymetrica
+1
+210 (-10)
+Scinari Calligrave
+1
+160
+✹ Scinari Cathallar
+1
+110 (+20)
+Scinari Enlightener
+1
+180
+Scinari Loreseeker
+1
+140
+✹ S evireth, Lord of the
+Seventh Wind
+1
+340 (+10)
+The Light of Eltharion
+1
+210
+REGIMENT OPTIONS
+0-1 Ydrilan Riverblades,
+Any Vanari Auralan Wardens,
+Any Alarith
+0-1 Lumineth Paragon,
+Any Lumineth Realm-lords
+0-1 Lumineth Paragon,
+Any Vanari, Any Alarith
+0-1 Lumineth Paragon,
+Any Lumineth Realm-lords
+0-1 Ydrilan Riverblades,
+Any Vanari Auralan Wardens,
+Any Hurakan
+0-1 Lumineth Paragon,
+Any Lumineth Realm-lords
+0-1 Ydrilan Riverblades,
+Any Vanari Auralan Wardens,
+Any Vanari Bladelords
+0-1 Ydrilan Riverblades,
+Any Vanari Auralan Wardens,
+Any Vanari Bladelords
+0-1 Ydrilan Riverblades,
+Any Vanari Auralan Wardens,
+Any Vanari Bladelords
+0-1 Ydrilan Riverblades,
+Any Vanari Auralan Wardens,
+Any Vanari Bladelords
+0-1 Lumineth Paragon,
+Any Vanari, Any Hurakan
+0-1 Lumineth Paragon,
+Any Lumineth Realm-lords
+Vanari Bannerblade
+1
+130
+Any Vanari
+1
+210 (-20)
+0-1 Lumineth Paragon,
+0-1 Ydrilan Riverblades,
+Any Vanari
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+✹ Scourge of Ghyran
+The Light of Eltharion
+1
+270 (+20)
+0-1 Lumineth Paragon,
+Any Lumineth Realm-lords
+✹ Scourge of Ghyran
+Vanari Bannerblade
+1
+140 (+10)
+Any Vanari
+✹V
+ anari Lord Regent
+HEROES
+13
+NOTES
+UPDATED
+BASE SIZE
+40mm
+160mm
+100mm
+40mm
+60 × 35mm
+90 × 52mm
+32mm
+32mm
+32mm
+32mm
+60mm
+This Hero can join an eligible
+regiment as a Lumineth Paragon.
+This Hero can join an eligible
+regiment as a Lumineth Paragon.
+
+50mm
+40mm
+90 × 52mm
+NOTES
+BASE SIZE
+This Hero can join an eligible
+regiment as a Lumineth Paragon.
+This unit is legal for Matched
+50mm
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+This Hero can join an eligible
+regiment as a Lumineth Paragon.
+This unit is legal for Matched
+40mm
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+LUMINETH REALM-LORDS
+UNITS
+✹ Alarith Spirit of the Mountain
+Alarith Stoneguard
+Hurakan Spirit of the Wind
+Hurakan Windchargers
+✹ Vanari Auralan Sentinels
+Vanari Auralan Wardens
+✹ Vanari Bladelords
+✹ Vanari Dawnriders
+✹ Vanari Starshard Ballista
+Ydrilan Riverblades
+TYPE
+✹ Battle Formation
+✹ Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+✹ Spell Lore
+Manifestation Lore
+Faction Terrain
+UNIT SIZE
+1
+5
+1
+5
+10
+10
+5
+5
+1
+POINTS
+280 (-20)
+120
+250
+170
+160 (+10)
+140
+150 (+10)
+220 (-10)
+90 (-10)
+10
+160
+NAME
+Vanari Battlehost
+Scinari Council
+Alarith Temple
+Hurakan Temple
+Masterful Tactician
+Perfect Strike
+Paragon of Hysh
+Flawless Commander
+Aetherquartz Requisitioner
+Martial Perfectionist
+Phoenix Stone
+Silver Wand
+Waystone
+Lore of Hysh
+Lore of Prismatic Resonance
+Manifestations of Hysh
+Shrine Luminor
+RELEVANT KEY WORDS
+Alarith, Monster
+Aelf, Alarith, Infantry
+Hurakan, Monster
+Aelf, Hurakan, Cavalry
+Aelf, Vanari, Infantry
+Aelf, Vanari, Infantry
+Aelf, Vanari, Infantry
+Aelf, Vanari, Cavalry
+Vanari, War Machine
+NOTES
+Aelf, Infantry
+This unit cannot be reinforced.
+
+POINTS
+10 (+10)
+10 (+10)
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+10 (+10)
+0
+20
+14
+NOTES
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+Scourge of Ghyran
+Faction Pack: Lumineth Realm-lords
+Faction Pack: Lumineth Realm-lords
+UPDATED
+BASE SIZE
+100mm
+32mm
+60mm
+60 × 35mm
+32mm
+32mm
+32mm
+60 × 35mm
+80mm
+32mm [5],
+28.5mm [5]
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SERAPHON
+HEROES
+UNIT SIZE
+POINTS
+✹ Lord Kroak
+1
+440 (-10)
+R ipperdactyl Chief
+1
+110
+REGIMENT OPTIONS
+0-1 Skink Starpriest or
+Favoured Spawning,
+Any Seraphon
+0-1 Monster, 0-1 Beast,
+Any Skink Cavalry
+✹ Saurus Astrolith Bearer
+1
+120 (-10)
+Any Saurus
+✹ Saurus Oldblood
+✹ Saurus Oldblood on Carnosaur
+✹ S aurus Scar‑Veteran on
+Aggradon
+1
+1
+90 (-20)
+260 (-10)
+0-1 Favoured Spawning, Any Seraphon
+0-1 Favoured Spawning, Any Seraphon
+1
+160 (-10)
+0-1 Favoured Spawning, Any Saurus
+Saurus Scar-Veteran on Carnosaur
+1
+230
+Skink Oracle on Troglodon
+1
+240
+0-1 Favoured Spawning,
+0-1 Monster, Any Saurus
+0-1 Monster, Any Beast, Any
+Kroxigor, Any non-Monster Skink
+0-1 Monster, Any Beast, Any
+Kroxigor, Any non-Monster Skink
+✹ Skink Starpriest
+1
+90 (-10)
+Skink Starseer
+1
+170
+✹ Slann Starmaster
+1
+260 (-20)
+✹ Stegadon Chief
+1
+180 (-20)
+NEW
+✹ Sunblood Pack
+3
+150
+✹ Terradon Chief
+1
+100 (-10)
+0-1 Monster, 0-1 Beast,
+Any Skink Cavalry
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+320 (-20)
+0-1 Favoured Spawning, Any Seraphon
+HEROES
+✹ Scourge of Ghyran
+Saurus Oldblood on Carnosaur
+0-1 Monster, Any Beast, Any
+Kroxigor, Any non-Monster Skink
+0-1 Skink Starpriest or
+Favoured Spawning,
+Any Seraphon
+0-1 Monster, Any Beast, Any
+Kroxigor, Any non-Monster Skink
+NEW
+NOTES
+BASE SIZE
+80mm
+50mm
+This Hero can join an
+eligible regiment as a
+Favoured Spawning.
+
+40mm
+32mm
+120 × 92mm
+90 × 52mm
+120 × 92mm
+120 × 92mm
+This Hero can join
+Lord Kroak’s or a Slann
+Starmaster’s regiment.
+
+25mm
+50mm
+80mm
+120 × 92mm
+40mm [1],
+32mm [2],
+25mm [1]
+Any Seraphon
+15
+UPDATED
+50mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+120 × 92mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SERAPHON
+UNITS
+✹ Aggradon Lancers
+Bastiladon with Ark of Sotek
+Bastiladon with Solar Engine
+✹ Engine of the Gods
+Hunters of Huanchi
+with Dartpipes
+Hunters of Huanchi
+with Starstone Bolas
+✹ Kroxigor
+✹ Kroxigor Warspawned
+✹ Raptadon Chargers
+✹ Raptadon Hunters
+Ripperdactyl Riders
+UNIT SIZE
+3
+1
+1
+1
+POINTS
+210 (-10)
+230
+240
+170 (-10)
+5
+80
+RELEVANT KEY WORDS
+Saurus, Cavalry
+Skink, Monster
+Skink, Monster
+Skink, Monster
+NOTES
+Skink, Infantry
+This unit cannot be reinforced.
+
+Skink, Infantry
+This unit cannot be reinforced.
+
+5
+100
+3
+3
+5
+5
+3
+200 (-10)
+210 (-10)
+130 (-10)
+120 (-10)
+110
+Ripperdactyl Riders (2 models)
+2
+70
+Saurus Guard
+✹ Saurus Warriors
+Skinks
+5
+10
+10
+120
+150 (-10)
+80
+Spawn of Chotec
+1
+100
+✹ Stegadon
+Terradon Riders
+1
+3
+170 (-10)
+90
+Skink, Monster
+Skink, Cavalry
+Terradon Riders (2 models)
+2
+70
+Skink, Cavalry
+Terrawings
+3
+70
+Beast
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Spell Lore
+Monstrous Trait
+Monstrous Trait
+Monstrous Trait
+✹ Faction Terrain
+NAME
+Eternal Starhost
+Shadowstrike Starhost
+Sunclaw Starhost
+Thunderquake Starhost
+Being of the Stars
+Reptilian Cunning
+Beastmaster
+Keeper of the Old Ways
+Child of the Stars
+Chosen of Quetzl
+Coatl Familiar
+Incandescent Rectrices
+Bloodrage Pendant
+Lore of Celestial Manipulation
+Lore of Primal Jungles
+Titan of the Land
+Ancient Defender
+Armour Cruncher
+Realmshaper Engine
+UPDATED
+Kroxigor, Infantry
+Kroxigor, Infantry
+Skink, Cavalry
+Skink, Cavalry
+Skink, Cavalry
+Skink, Cavalry
+Saurus, Infantry
+Saurus, Infantry
+Skink, Infantry
+You can include 1 unit of this
+type for each Ripperdactyl
+Chief in your army.
+This unit cannot be reinforced.
+
+Skink, Beast
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+20
+0
+0
+0
+0
+0 (-20)
+16
+You can include 1 unit of this
+type for each Terradon Chief in
+your army.
+This unit cannot be reinforced.
+This unit cannot be reinforced.
+
+NOTES
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Faction Pack: Seraphon
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Seraphon
+BASE SIZE
+75 × 42mm
+120 × 92mm
+120 × 92mm
+120 × 92mm
+28.5mm [1],
+25mm [4]
+28.5mm [2],
+25mm [3]
+50mm
+50mm
+60 × 35mm
+60 × 35mm
+50mm
+50mm
+32mm
+32mm
+25mm
+90 × 52mm
+[1], 25mm [3]
+120 × 92mm
+50mm
+50mm
+32mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+STORMCAST ETERNALS
+HEROES
+✹C
+ elestant‑Prime,
+Hammer of Sigmar
+UNIT SIZE
+POINTS
+1
+270 (-20)
+✹ Drakesworn Templar
+1
+420 (-20)
+Gardus Steel Soul
+1
+160
+✹ I onus Cryptborn,
+Warden of Lost Souls
+1
+380 (-20)
+✹ Iridan the Witness
+1
+260 (-30)
+✹ Karazai the Scarred
+1
+460 (-20)
+Knight‑Arcanum
+1
+120
+REGIMENT OPTIONS
+0-1 Stormcast Exemplar,
+Any Stormcast Eternals
+0-1 Stormcast Exemplar,
+Any Extremis Chamber,
+Any Warrior Chamber
+0-1 Stormcast Exemplar,
+0-1 Gryph‑hounds,
+Any Warrior Chamber
+0-1 Stormcast Exemplar,
+Any Stormcast Eternals
+Any Stormcast Eternals,
+0-1 Stormcast Exemplar
+0-1 Stormcast Exemplar,
+Any Stormcast Eternals
+0-1 Gryph‑hounds,
+Any Warrior Chamber
+✹ K night-Azyros
+1
+120 (-10)
+0-1 Warrior Chamber,
+Any Ruination Chamber
+K night-Draconis
+1
+230
+Any Extremis Chamber
+K night-Judicator with
+Gryph‑hounds
+1
+130
+Any Gryph‑hounds,
+Any Warrior Chamber
+K night‑Questor
+1
+110
+Knight-Relictor
+1
+120
+0-1 Questor Soulsworn,
+0-1 Gryph‑hounds,
+Any Ruination Chamber
+0-1 Gryph‑hounds,
+Any Warrior Chamber
+✹ Knight‑Vexillor
+1
+100 (-10)
+0-1 Gryph‑hounds,
+Any Warrior Chamber
+✹ Krondys, Son of Dracothion
+1
+540 (-20)
+0-1 Stormcast Exemplar,
+Any Stormcast Eternals
+Lorai, Child of the Abyss
+1
+0
+✹ Lord‑Aquilor
+1
+140 (-10)
+✹ Lord‑Celestant
+1
+100 (-10)
+Lord‑Celestant on Dracoth
+1
+160
+None
+Any Gryph‑hounds,
+Any Vanguard Chamber
+0-1 Stormcast Exemplar,
+0-1 Gryph‑hounds,
+Any Warrior Chamber
+0-1 Stormcast Exemplar,
+Any Extremis Chamber,
+Any Warrior Chamber
+17
+NOTES
+UPDATED
+BASE SIZE
+100mm
+170 × 105mm
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+
+50mm
+100mm
+120 × 92mm
+160mm
+40mm
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+
+50mm
+105 × 70mm
+90 × 52mm
+[1], 40mm [2]
+40mm
+40mm
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+
+40mm
+160mm
+This unit can only be taken in
+Neave Blacktalon’s regiment.
+
+40mm
+90 × 52mm
+40mm
+90 × 52mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+STORMCAST ETERNALS
+UNIT SIZE
+POINTS
+Lord‑Celestant on Stardrake
+HEROES
+1
+480
+✹L
+ ord-Commander
+Bastian Carthalos
+1
+220 (-30)
+Lord‑Imperatant
+1
+110
+✹ Lord‑Relictor
+1
+120 (-10)
+✹ Lord-Terminos
+1
+140 (-10)
+Lord-Veritant
+1
+110
+✹ Lord-Vigilant on Gryph‑stalker
+1
+140 (-10)
+Lord-Vigilant on Morrgryph
+1
+220
+✹ Neave Blacktalon
+1
+300 (-10)
+✹ Tornus the Redeemed
+1
+150 (-20)
+Vandus Hammerhand
+1
+170
+✹ Yndrasta, the Celestial Spear
+1
+290 (-20)
+REGIMENT OPTIONS
+0-1 Stormcast Exemplar,
+Any Stormcast Eternals
+0-1 Stormcast Exemplar,
+Any Stormcast Eternals
+0-1 Stormcast Exemplar,
+0-1 Gryph‑hounds,
+Any Warrior Chamber
+0-1 Stormcast Exemplar,
+0-1 Gryph‑hounds,
+Any Ruination Chamber,
+Any Warrior Chamber
+0-1 Stormcast Exemplar,
+0-1 Gryph‑hounds,
+Any Ruination Chamber,
+Any Warrior Chamber
+0-1 Stormcast Exemplar,
+0-1 Gryph‑hounds,
+Any Ruination Chamber,
+Any Warrior Chamber
+0-1 Stormcast Exemplar,
+0-1 Gryph‑hounds,
+Any Ruination Chamber,
+Any Warrior Chamber
+Any Ruination Chamber,
+Any Warrior Chamber
+Neave’s Companions (required),
+Lorai (required),
+Any Vanguard Chamber
+0-1 Stormcast Exemplar,
+Any Stormcast Eternals
+0-1 Stormcast Exemplar,
+Any Extremis Chamber,
+Any Warrior Chamber
+0-1 Stormcast Exemplar,
+Any Stormcast Eternals
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+320
+HEROES
+S courge of Ghyran
+Iridan the Witness
+Any Stormcast Eternals,
+0-1 Stormcast Exemplar
+18
+NOTES
+UPDATED
+BASE SIZE
+170 × 105mm
+50mm
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+
+40mm [1],
+32mm [1]
+40mm
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+
+40mm [1],
+25mm [1]
+40mm
+90 × 52mm
+120 × 92mm
+40mm
+50mm
+90 × 52mm
+60mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+120 × 92mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+STORMCAST ETERNALS
+UNITS
+Aetherwings
+✹ Annihilators
+✹A
+ nnihilators with
+Meteoric Grandhammers
+Dracothian Guard Concussors
+UNIT SIZE
+3
+3
+POINTS
+80
+130 (-10)
+RELEVANT KEY WORDS
+Vanguard Chamber, Beast
+Warrior Chamber, Infantry
+3
+180 (-10)
+Warrior Chamber, Infantry
+2
+210
+Extremis Chamber, Cavalry
+Dracothian Guard Concussors
+(1 model)
+1
+120
+Extremis Chamber, Cavalry
+Dracothian Guard Desolators
+2
+190
+Extremis Chamber, Cavalry
+Dracothian Guard Desolators
+(1 model)
+1
+110
+Extremis Chamber, Cavalry
+Dracothian Guard Fulminators
+2
+210
+Extremis Chamber, Cavalry
+ racothian Guard Fulminators
+D
+(1 model)
+1
+100
+Extremis Chamber, Cavalry
+Dracothian Guard Tempestors
+2
+170
+Extremis Chamber, Cavalry
+ racothian Guard Tempestors
+D
+(1 model)
+1
+90
+Extremis Chamber, Cavalry
+Gryph-hounds
+✹ Liberators
+6
+5
+90
+90 (-10)
+Beast
+Warrior Chamber, Infantry
+Neave’s Companions
+3
+0
+✹ Praetors
+Prosecutors
+Questor Soulsworn
+Reclusians
+Stormcoven
+Stormdrake Guard
+3
+3
+6
+3
+3
+2
+140 (-10)
+150
+200
+140
+210
+310
+Stormdrake Guard (1 model)
+1
+160
+✹Stormstrike Chariot
+Stormstrike Palladors
+Vanguard-Hunters
+Vanguard-Palladors with
+Shock Handaxes
+Vanguard-Palladors with
+Starstrike Javelins
+Vanguard-Raptors with
+Hurricane Crossbows
+1
+3
+5
+120 (-10)
+190
+120
+3
+250
+Vanguard Chamber, Cavalry
+75 × 42mm
+3
+240
+Vanguard Chamber, Cavalry
+75 × 42mm
+3
+110
+Vanguard Chamber, Infantry
+40mm
+Vanguard-Raptors with
+Longstrike Crossbows
+3
+200
+Vanguard Chamber, Infantry
+✹ Vanquishers
+Vigilors
+Vindictors
+5
+5
+5
+100 (-10)
+140
+100
+Unique, Infantry
+Warrior Chamber, Infantry
+Ruination Chamber, Infantry
+Warrior Chamber, Infantry
+Ruination Chamber, Infantry
+Warrior Chamber, Infantry
+Extremis Chamber, Monster
+Extremis Chamber, Monster
+Warrior Chamber, War Machine
+Warrior Chamber, Cavalry
+Vanguard Chamber, Infantry
+Warrior Chamber, Infantry
+Warrior Chamber, Infantry
+Warrior Chamber, Infantry
+19
+NOTES
+UPDATED
+BASE SIZE
+32mm
+40mm
+40mm
+You can include 1 unit of this
+type for each Lord‑Celestant on
+Dracoth in your army.
+You can include 1 unit of this
+type for each Lord‑Celestant on
+Dracoth in your army.
+You can include 1 unit of this
+type for each Lord‑Celestant on
+Dracoth in your army.
+You can include 1 unit of this
+type for each Lord‑Celestant on
+Dracoth in your army.
+
+This unit can only be taken in
+Neave Blacktalon’s regiment.
+This unit cannot be reinforced.
+
+This unit cannot be reinforced.
+This unit cannot be reinforced.
+You can include 1 unit of this
+type for each Knight-Draconis
+in your army.
+
+90 × 52mm
+90 × 52mm
+90 × 52mm
+90 × 52mm
+90 × 52mm
+90 × 52mm
+90 × 52mm
+90 × 52mm
+40mm
+40mm
+40mm
+40mm
+40mm
+40mm
+40mm
+40mm
+105 × 70mm
+105 × 70mm
+120 × 92mm
+90 × 52mm
+40mm
+60 × 35mm.
+Champion is
+40mm.
+40mm
+40mm
+40mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+STORMCAST ETERNALS
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Prayer Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Sentinels of the Bleak Citadels
+Thunderhead Host
+Vanguard Wing
+Lightning Echelon
+Shock and Awe
+Envoy of the Heavens
+Staunch Defender
+Legendary Tenacity
+Hour of Glory
+Intense Piety
+Null Pendant
+Quicksilver Draught
+Mirrorshield
+Banner of Sigmar
+Sigil of Morrda
+Beacon of Azyr
+Lore of the Storm
+Prayers of the Stormhosts
+Manifestations of the Storm
+Stormreach Portal
+POINTS
+0
+0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+20
+NOTES
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+Battletome: Stormcast Eternals
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SYLVANETH
+HEROES
+Alarielle the Everqueen
+UNIT SIZE
+1
+POINTS
+680
+A rch-Revenant
+1
+120
+Belthanos, First Thorn of Kurnoth
+Branchwych
+Drycha Hamadreth
+✹ Spirit of Durthu
+✹ The Lady of Vines
+1
+1
+1
+1
+1
+350
+110
+240
+320 (-10)
+220 (-30)
+✹ Treelord
+1
+210 (-10)
+✹ Treelord Ancient
+Warsong Revenant
+1
+1
+230 (-10)
+200
+Hero can join an eligible
+Any Gossamid Archers, Any Kurnothi This
+regiment as a Forest Sentinel.
+0-1 Forest Sentinel, Any Sylvaneth
+Any Infantry
+0-1 Forest Sentinel, Any Sylvaneth
+0-1 Forest Sentinel, Any Sylvaneth
+0-1 Forest Sentinel, Any Sylvaneth
+This Hero can join an eligible
+Any Sylvaneth
+regiment as a Forest Sentinel.
+0-1 Forest Sentinel, Any Sylvaneth
+Any Sylvaneth
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+300 (-20)
+0-1 Forest Sentinel, Any Sylvaneth
+UNIT SIZE
+10
+5
+POINTS
+90 (-10)
+120
+RELEVANT KEY WORDS
+Infantry
+Infantry
+3
+200
+Kurnothi, Infantry
+50mm
+3
+210 (-10)
+Kurnothi, Infantry
+50mm
+3
+190 (-10)
+Kurnothi, Infantry
+50mm
+3
+5
+3
+200
+80
+190 (-20)
+Cavalry
+Infantry
+Cavalry
+The Twistweald
+8
+100
+Infantry
+✹ Tree-Revenants
+5
+90 (-10)
+Infantry
+UNIT SIZE
+POINTS
+3
+230
+HEROES
+✹Scourge of Ghyran
+Drycha Hamadreth
+UNITS
+✹ Dryads
+Gossamid Archers
+Kurnoth Hunters with
+Kurnoth Greatbows
+✹K
+ urnoth Hunters with
+Kurnoth Greatswords
+✹K
+ urnoth Hunters with
+Kurnoth Scythes
+Revenant Seekers
+Spite-Revenants
+✹ Spiterider Lancers
+UNITS
+S courge of Ghyran
+Revenant Seekers
+REGIMENT OPTIONS
+0-1 Forest Sentinel, Any Sylvaneth
+UPDATED
+RELEVANT KEY WORDS
+Cavalry
+21
+NOTES
+BASE SIZE
+160mm
+40mm
+150 × 95mm
+32mm
+105 × 70mm
+105 × 70mm
+80mm
+105 × 70mm
+105 × 70mm
+105 × 70mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+NOTES
+BASE SIZE
+32mm
+32mm
+This unit cannot be reinforced.
+
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+105 × 70mm
+60mm
+32mm
+60mm
+40mm [2],
+32mm [3],
+28.5mm [3]
+32mm
+BASE SIZE
+60mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SYLVANETH
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Lords of the Clan
+Forest Folk
+Outcasts
+Free Spirits
+Wargrove of the Burgeoning
+Wargrove of Everdusk
+Radiant Spirit
+Warsinger
+Spellsinger
+Seed of Rebirth
+Greenwood Gladius
+Crown of Fell Bowers
+Glamourweave
+Acorn of the Ages
+Ranu’s Lamentiri
+Lore of the Deepwood
+Manifestations of the Deepwood
+Awakened Wyldwood
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+20
+20
+0
+0
+0
+0
+0
+0
+0
+0
+22
+NOTES
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+Faction Pack: Sylvaneth
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+BLADES OF KHORNE
+HEROES
+Bloodmaster, Herald of Khorne
+UNIT SIZE
+POINTS
+1
+120
+REGIMENT OPTIONS
+0-1 Slaughter Seeker,
+Any Blades of Khorne Daemon
+Bloodsecrator
+1
+130
+Any Bloodbound
+Bloodstoker
+1
+100
+Any Bloodbound
+✹B
+ loodthirster of Insensate Rage
+1
+410 (-10)
+✹B
+ loodthirster of
+Unfettered Fury
+1
+390 (-20)
+0-1 Slaughter Seeker,
+Any Blades of Khorne Daemon
+0-1 Slaughter Seeker,
+Any Blades of Khorne Daemon
+✹ Deathbringer
+1
+130 (+10)
+Any Bloodbound
+ erald of Khorne on
+H
+Blood Throne
+1
+160
+Karanak
+1
+110
+Lord of Khorne on Juggernaut
+1
+200
+Any Bloodbound
+Mighty Lord of Khorne
+1
+150
+Any Bloodbound Warmonger,
+Any Bloodbound
+Realmgore Ritualist
+1
+130
+✹ Skarbrand
+1
+430 (-20)
+0-1 Slaughter Seeker,
+Any Blades of Khorne Daemon
+Any Claws of Karanak,
+Any Flesh Hounds
+Any Bloodbound
+0-1 Slaughter Seeker,
+Any Blades of Khorne Daemon
+S karr Bloodwrath
+1
+140
+Any Bloodbound
+✹ Skullgrinder
+1
+110 (+10)
+Any Bloodbound
+Skullmaster, Herald of Khorne
+1
+130
+Any Daemon Cavalry,
+Any War Machine
+Skulltaker
+1
+120
+Any Blades of Khorne Daemon
+Slaughterpriest
+1
+130
+✹ W
+ rath of Khorne Bloodthirster
+1
+400 (-10)
+Any Bloodbound
+0-1 Slaughter Seeker, 0-1 Baleful Lord,
+Any Blades of Khorne
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+180
+HEROES
+Scourge of Ghyran
+Mighty Lord of Khorne
+Any Bloodbound Warmonger,
+Any Bloodbound
+UPDATED
+NOTES
+BASE SIZE
+40mm
+This Hero can join an
+eligible regiment as a
+Bloodbound Warmonger.
+This Hero can join an
+eligible regiment as a
+Bloodbound Warmonger.
+This Hero can join an eligible
+regiment as a Baleful Lord.
+This Hero can join an eligible
+regiment as a Baleful Lord.
+This Hero can join an
+eligible regiment as a
+Bloodbound Warmonger.
+
+32mm
+40mm
+120 × 92mm
+120 × 92mm
+40mm
+120 × 92mm
+75 × 42mm
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+
+90 × 52mm
+60mm
+32mm
+100mm
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This Hero can join an
+eligible regiment as a
+Bloodbound Warmonger.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This Hero can join an eligible
+regiment as a Slaughter Seeker.
+
+40mm
+40mm
+90 × 52mm
+40mm
+40mm
+120 × 92mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+60mm
+The following units no longer have current warscrolls: Aspiring Deathbringer; Exalted Deathbringer. You can use the models in these units to
+represent the following units as appropriate, provided they are on the listed base sizes:
+	Aspiring Deathbringer → Deathbringer (40mm)
+	Exalted Deathbringer → Deathbringer (40mm)
+23
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+BLADES OF KHORNE
+UNITS
+ lood Warriors
+B
+Bloodcrushers
+Bloodletters
+Bloodreavers
+UNIT SIZE
+10
+3
+10
+10
+POINTS
+200
+150
+170
+80
+Claws of Karanak
+8
+Flesh Hounds
+K horgorath
+✹ Mighty Skullcrushers
+Skull Cannon
+✹ Skullreapers
+✹ Wrathmongers
+UNITS
+✹ Scourge of Ghyran
+Bloodcrushers
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+A rtefact of Power
+Prayer Lore
+Prayer Lore
+Manifestation Lore
+Faction Terrain
+UPDATED
+RELEVANT KEY WORDS
+Bloodbound, Infantry
+Daemon, Cavalry
+Daemon, Infantry
+Bloodbound, Infantry
+NOTES
+100
+Bloodbound, Infantry
+This unit cannot be reinforced.
+
+5
+1
+3
+1
+5
+5
+100
+120
+210 (-10)
+150
+180 (-10)
+130 (-10)
+Daemon, Beast
+Bloodbound, Monster
+Bloodbound, Cavalry
+Daemon, War Machine
+Bloodbound, Infantry
+Bloodbound, Infantry
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+3
+160 (-20)
+Daemon, Cavalry
+NAME
+Khornate Legion
+Murder Host
+Brass Stampede
+Bloodbound Warhorde
+Tournament of Skulls
+The Goretide
+Magical Scorn
+Skull Collector
+Frenzied Taskmaster
+Ar’gath, the King of Blades
+Collar of Contempt
+Butcher’s Blade
+Blood Blessings of Khorne
+Gifts of the Blood God
+Judgements of Khorne
+Skull Altar
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+24
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+NOTES
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+Scourge of Ghyran
+Battletome: Blades of Khorne
+Battletome: Blades of Khorne
+BASE SIZE
+32mm
+90 × 52mm
+32mm
+32mm
+60 × 35mm
+[1], 40mm [1],
+32mm [2],
+28.5mm [4]
+60 × 35mm
+90 × 52mm
+90 × 52mm
+120 × 92mm
+40mm
+40mm
+BASE SIZE
+90 × 52mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+DISCIPLES OF TZEENTCH
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+✹C
+ hangecaster,
+Herald of Tzeentch
+HEROES
+1
+110 (-10)
+Any Daemon
+Curseling, Eye of Tzeentch
+1
+140
+✹ Fateskimmer, Herald of
+Tzeentch on Burning Chariot
+1
+130 (+10)
+Gaunt Summoner
+1
+180
+Gaunt Summoner on
+Disc of Tzeentch
+1
+230
+✹ Kairos Fateweaver
+1
+420 (-20)
+✹ Lord of Change
+1
+360 (-20)
+Magister
+1
+100
+✹ Magister on Disc of Tzeentch
+1
+110 (-10)
+Ogroid Thaumaturge
+1
+130
+Any Arcanite
+The Changeling
+1
+160
+Any Daemon
+Tzaangor Shaman
+1
+150
+0-1 Arcanite Cabalist, Any Arcanite
+UNIT SIZE
+POINTS
+1
+130
+HEROES
+S courge of Ghyran
+Ogroid Thaumaturge
+Any Arcanite
+NOTES
+This Hero can join an
+eligible regiment as a
+Tzeentchian Deceiver.
+This Hero can join an
+eligible regiment as an
+Arcanite Cabalist.
+
+0-1 Tzeentchian Deceiver, Any Daemon
+0-1 Tzeentchian Deceiver,
+Any Disciples of Tzeentch
+0-1 Tzeentchian Deceiver,
+Any Disciples of Tzeentch
+0-1 Tzeentchian Deceiver,
+Any Disciples of Tzeentch
+0-1 Tzeentchian Deceiver,
+Any Disciples of Tzeentch
+Any Arcanite
+0-1 Arcanite Cabalist, Any Arcanite
+REGIMENT OPTIONS
+Any Arcanite
+25
+UPDATED
+BASE SIZE
+32mm
+32mm
+120 × 92mm
+40mm
+40mm
+100mm
+100mm
+This Hero can join an
+eligible regiment as an
+Arcanite Cabalist.
+This Hero can join an
+eligible regiment as an
+Arcanite Cabalist.
+This Hero can join an
+eligible regiment as a
+Tzeentchian Deceiver.
+
+NOTES
+This Hero can join an
+eligible regiment as an
+Arcanite Cabalist.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+32mm
+50mm
+50mm
+40mm
+40mm
+BASE SIZE
+50mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+DISCIPLES OF TZEENTCH
+UNITS
+✹B
+ lue Horrors and
+Brimstone Horrors
+Burning Chariot of Tzeentch
+Chaos Spawn of Tzeentch
+Exalted Flamer of Tzeentch
+✹ Flamers of Tzeentch
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+10
+140 (-10)
+Daemon, Infantry
+1
+1
+1
+3
+100
+60
+90
+120 (-10)
+Daemon, War Machine
+Beast
+Daemon, Infantry
+Daemon, Infantry
+✹ Jade Obelisk
+10
+100 (+20)
+Arcanite, Infantry
+Kairic Acolytes
+✹ Pink Horrors
+Screamers of Tzeentch
+Tzaangor Enlightened
+Tzaangor Enlightened on
+Discs of Tzeentch
+✹ Tzaangor Skyfires
+Tzaangors
+10
+10
+3
+3
+90
+160 (-10)
+80
+90
+Arcanite, Infantry
+Daemon, Infantry
+Daemon, Beast
+Arcanite, Infantry
+120 × 92mm
+50mm
+75 × 42mm
+32mm
+32mm [5],
+28.5mm [5]
+32mm
+32mm
+32mm
+40mm
+3
+140
+Arcanite, Cavalry
+40mm
+3
+10
+170 (-10)
+150
+Arcanite, Cavalry
+Arcanite, Infantry
+40mm
+32mm
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+10
+100
+UNITS
+S courge of Ghyran
+Kairic Acolytes
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Spell Lore
+Manifestation Lore
+NAME
+Arcanite Cabal
+Change Host
+Tzaangor Coven
+Wyrdflame Host
+Masters of Fate
+Spellweaver Coven
+Illusionist
+Nexus of Fate
+Cult Demagogue
+Nine-eyed Tome
+Wyrdflame Blade
+Ambition’s End
+Mutating Blade
+Arcane Siphon
+Spell-catcher Amulet
+Lore of Fate
+Lore of Change
+Manifestations of Tzeentch
+Arcanite, Infantry
+POINTS
+0
+0
+0
+0
+0
+0
+20
+0
+0
+20
+0
+0
+0
+0
+0
+0
+30
+0
+26
+NOTES
+UPDATED
+BASE SIZE
+25mm
+This unit cannot be reinforced.
+
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+NOTES
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+Faction Pack: Disciples of Tzeentch
+BASE SIZE
+32mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+HEDONITES OF SLAANESH
+HEROES
+ ladebringer, Herald on Exalted
+B
+Chariot
+✹ Contorted Epitome
+UNIT SIZE
+POINTS
+1
+130
+1
+150 (-10)
+✹ Dexcessa, the Talon of Slaanesh
+1
+160 (-20)
+✹G
+ lutos Orscollion,
+Lord of Gluttony
+Infernal Enrapturess,
+Herald of Slaanesh
+1
+440 (-30)
+Keeper of Secrets
+1
+1
+REGIMENT OPTIONS
+0-1 Slaaneshi Beguiler,
+Any War Machine
+0-1 Slaaneshi Beguiler, Any Daemon
+0-1 Synessa or Slaaneshi Beguiler,
+Any Hedonites of Slaanesh
+0-1 Dark Egotist,
+Any Hedonites of Slaanesh
+90
+Any Daemon
+420
+0-1 Slaaneshi Beguiler,
+Any Hedonites of Slaanesh
+Lord of Hubris
+1
+120
+Any Sybarite
+Lord of Pain
+1
+120
+Any Sybarite
+✹ Shalaxi Helbane
+1
+450 (-10)
+Shardspeaker of Slaanesh
+1
+130
+✹ Sigvald, Prince of Slaanesh
+1
+190 (-10)
+Syll’Esske, the Vengeful Allegiance
+1
+220
+0-1 Slaaneshi Beguiler,
+Any Hedonites of Slaanesh
+0-1 Dark Egotist, Any Sybarite
+0-1 Dark Egotist,
+Any Hedonites of Slaanesh
+0-1 Slaaneshi Beguiler or Dark Egotist,
+Any Hedonites of Slaanesh
+0-1 Dexcessa or Slaaneshi Beguiler,
+Any Hedonites of Slaanesh
+✹ Synessa, the Voice of Slaanesh
+1
+190 (-20)
+The Masque
+1
+140
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+220 (-10)
+0-1 Slaaneshi Beguiler or Dark Egotist,
+Any Hedonites of Slaanesh
+HEROES
+✹ S courge of Ghyran
+Syll’Esske, the Vengeful
+Allegiance
+Any Daemon
+27
+NOTES
+UPDATED
+BASE SIZE
+120 × 92mm
+This Hero can join
+Synessa’s regiment.
+
+75 × 42mm
+105 × 70mm
+170 × 105mm
+This Hero can join an eligible
+regiment as a Slaaneshi Beguiler.
+
+60 × 35mm
+100mm
+This Hero can join an eligible
+regiment as a Dark Egotist.
+This Hero can join an eligible
+regiment as a Dark Egotist.
+
+40mm
+40mm
+100mm
+This Hero can join an eligible
+regiment as a Dark Egotist.
+
+32mm
+60mm
+50mm
+This Hero can join
+105 × 70mm
+Dexcessa’s regiment.
+This Hero can join an eligible
+32mm
+regiment as a Slaaneshi Beguiler.
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+50mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+HEDONITES OF SLAANESH
+UNIT SIZE
+POINTS
+Blissbarb Archers
+UNITS
+10
+150
+Blissbarb Seekers
+Daemonettes
+✹ Fiends
+Hellflayer
+Hellstriders
+✹ Myrmidesh Painbringers
+Seeker Chariot
+Seekers
+Slaangor Fiendbloods
+✹ Slickblade Seekers
+✹ Symbaresh Twinsouls
+5
+10
+3
+1
+5
+5
+1
+5
+3
+5
+5
+170
+100
+140 (-10)
+130
+150
+110 (-10)
+80
+140
+120
+180 (-10)
+120 (-10)
+Sybarite, Cavalry
+Daemon, Infantry
+Daemon, Beast
+Daemon, War Machine
+Sybarite, Cavalry
+Sybarite, Infantry
+Daemon, War Machine
+Daemon, Cavalry
+Sybarite, Infantry
+Sybarite, Cavalry
+Sybarite, Infantry
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+3
+150
+UNITS
+S courge of Ghyran
+Slaangor Fiendbloods
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Depraved Carnival
+Seeker Cavalcade
+Epicurean Revellers
+Supreme Sybarites
+Pretenders
+Invaders
+Glory Hog
+Strongest Alone
+Into the Fray
+Celebrity Warlord
+Master of Temptation
+The Need for Perfection
+Icon of Infinite Excess
+Threnody Voicebox
+Pendant of Slaanesh
+Lore of Extravagance
+Manifestations of Depravity
+Fane of Slaanesh
+RELEVANT KEY WORDS
+NOTES
+BASE SIZE
+28.5mm [10],
+25mm [1]
+75 × 42mm
+25mm
+75 × 42mm
+120 × 92mm
+60 × 35mm
+32mm
+120 × 92mm
+60 × 35mm
+40mm
+75 × 42mm
+32mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+Sybarite, Infantry
+Sybarite, Infantry
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+0
+28
+UPDATED
+NOTES
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+Faction Pack: Hedonites of Slaanesh
+40mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+MAGGOTKIN OF NURGLE
+UNIT SIZE
+POINTS
+Bloab Rotspawned
+HEROES
+1
+300
+✹ Great Unclean One
+1
+460 (-20)
+✹ Gutrot Spume
+Harbinger of Decay
+✹ Horticulous Slimux
+1
+1
+1
+130 (-10)
+150
+140 (-10)
+✹ Lord of Afflictions
+1
+170 (-10)
+REGIMENT OPTIONS
+0-1 Rotbringer Lord,
+Any Maggotkin of Nurgle
+0-1 Plague Scion,
+Any Maggotkin of Nurgle
+0-1 Rotbringer Lord, Any Rotbringers
+0-1 Rotbringer Lord, Any Rotbringers
+Any Daemon
+Any Plague Drones,
+Any Pusgoyle Blightlords
+Lord of Blights
+1
+140
+Any Rotbringers Infantry
+✹ Lord of Plagues
+1
+100 (-10)
+Any Rotbringers Infantry
+✹ Morbidex Twiceborn
+1
+270 (-10)
+Orghotts Daemonspew
+1
+280
+0-1 Rotbringer Lord,
+Any Maggotkin of Nurgle
+0-1 Rotbringer Lord,
+Any Maggotkin of Nurgle
+Any Daemon
+Poxbringer, Herald of Nurgle
+1
+100
+✹ Rotbringer Sorcerer
+1
+110 (-10)
+Rotigus
+1
+430
+Sloppity Bilepiper,
+Herald of Nurgle
+✹ Spoilpox Scrivener,
+Herald of Nurgle
+0-1 Rotbringer Lord, Any Rotbringers
+0-1 Plague Scion,
+Any Maggotkin of Nurgle
+1
+100
+Any Daemon
+1
+80 (-10)
+Any Daemon
+✹ The Glottkin
+1
+500 (-10)
+0-1 Rotbringer Lord,
+Any Maggotkin of Nurgle
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+430
+HEROES
+S courge of Ghyran
+Rotigus
+0-1 Plague Scion,
+Any Maggotkin of Nurgle
+29
+NOTES
+UPDATED
+BASE SIZE
+100mm
+130mm
+40mm
+90 × 52mm
+105 × 70mm
+60mm
+This Hero can join an eligible
+regiment as a Rotbringer Lord.
+This Hero can join an eligible
+regiment as a Rotbringer Lord.
+
+40mm
+40mm
+100mm
+100mm
+This Hero can join an eligible
+regiment as a Plague Scion.
+
+32mm
+32mm
+130mm
+This Hero can join an eligible
+regiment as a Plague Scion.
+This Hero can join an eligible
+regiment as a Plague Scion.
+
+32mm
+40mm
+130mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+130mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+MAGGOTKIN OF NURGLE
+UNITS
+✹ Beasts of Nurgle
+Nurglings
+✹ Plague Drones
+Plaguebearers
+✹ Pusgoyle Blightlords
+UNIT SIZE
+1
+3
+3
+10
+2
+POINTS
+120 (-10)
+100
+170 (-10)
+140
+210 (-10)
+Pusgoyle Blightlords (1 model)
+1
+130
+Rotbringers, Cavalry
+Putrid Blightkings
+5
+190
+Rotbringers, Infantry
+Rotmire Creed
+10
+130
+Rotbringers, Infantry
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Prayer Lore
+Faction Terrain
+NAME
+Tallyband of Nurgle
+Nurgle’s Menagerie
+Plague Cyst
+Affliction Cyst
+Gift of Febrile Frenzy
+Grandfather’s Blessing
+Overpowering Stench
+Living Plague
+Unctuous Preacher
+Corpulent Avalanche
+The Witherstave
+Rustfang
+The Carrion Dirge
+Lore of Malignance
+Benedictions of Sickness
+Feculent Gnarlmaw
+RELEVANT KEY WORDS
+Daemon, Beast
+Daemon, Infantry
+Daemon, Cavalry
+Daemon, Infantry
+Rotbringers, Cavalry
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+30
+NOTES
+You can include 1 unit of this
+type for each Lord of Afflictions
+in your army.
+This unit cannot be reinforced.
+
+NOTES
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Faction Pack: Maggotkin of Nurgle
+Scourge of Ghyran
+Faction Pack: Maggotkin of Nurgle
+UPDATED
+BASE SIZE
+60mm
+40mm
+60mm
+32mm
+60mm
+60mm
+40mm
+32mm [2],
+28.5mm [2],
+25mm [6]
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SKAVEN
+HEROES
+✹ Arch-Warlock
+UNIT SIZE
+1
+POINTS
+150 (-20)
+Clawlord
+1
+70
+Any Verminus
+Clawlord on Gnaw-beast
+1
+110
+Any Verminus
+✹ Deathmaster
+1
+120 (+20)
+0-1 Clanrats, Any Eshin
+Grey Seer
+✹ Grey Seer on Screaming Bell
+✹ K rittok Foulblade
+Lord Skreech Verminking
+1
+1
+1
+1
+120
+310 (-40)
+150 (-10)
+380
+0-1 Skaven Overclaw, Any Skaven
+0-1 Skaven Overclaw, Any Skaven
+0-1 Skaven Overclaw, Any Skaven
+0-1 Skaven Overclaw, Any Skaven
+Master Moulder
+1
+80
+0-1 Clanrats, Any Moulder
+✹ Plague Priest on
+Plague Furnace
+Thanquol on Boneripper
+✹ Verminlord Corruptor
+Verminlord Deceiver
+✹ Verminlord Warbringer
+Verminlord Warpseer
+Vizzik Skour, Prophet of the
+Horned Rat
+1
+320 (+10)
+0-1 Clanrats, Any Pestilens
+120 × 92mm
+1
+1
+1
+1
+1
+360
+300 (-20)
+390
+300 (-10)
+320
+0-1 Skaven Overclaw, Any Skaven
+0-1 Skaven Overclaw, Any Skaven
+0-1 Skaven Overclaw, Any Skaven
+0-1 Skaven Overclaw, Any Skaven
+0-1 Skaven Overclaw, Any Skaven
+105 × 70mm
+120 × 92mm
+120 × 92mm
+120 × 92mm
+120 × 92mm
+1
+380
+0-1 Skaven Overclaw, Any Skaven
+Warlock Bombardier
+1
+90
+0-1 Clanrats, Any Skryre
+Warlock Engineer
+1
+110
+0-1 Clanrats, Any Skryre
+Warlock Galvaneer
+1
+140
+0-1 Clanrats, Any Skryre
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+330 (+20)
+0-1 Skaven Overclaw, Any Skaven
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+Acolyte Globadiers
+5
+90
+✹ Brood Terror
+Clanrats
+1
+20
+230 (-30)
+150
+Doom-Flayers
+2
+110
+Skryre, War Machine
+✹ Doomwheel
+1
+100 (-10)
+Skryre, War Machine
+Hell Pit Abomination
+Night Runners
+✹ Plague Monks
+Plagueclaw
+1
+10
+20
+1
+200
+120
+140 (+10)
+100
+Moulder, Monster
+Eshin, Infantry
+Pestilens, Infantry
+Pestilens, War Machine
+Plaguepack
+5
+140
+HEROES
+✹ Scourge of Ghyran
+Grey Seer on Screaming Bell
+UNITS
+REGIMENT OPTIONS
+0-1 Clanrats, Any Skryre
+UPDATED
+Skryre, Infantry, Weapon Team
+Moulder, Monster
+Verminus, Infantry
+Pestilens, Infantry
+31
+NOTES
+This Hero can join an eligible
+regiment as a Skaven Overclaw.
+This Hero can join an eligible
+regiment as a Skaven Overclaw.
+This Hero can join an eligible
+regiment as a Skaven Overclaw.
+
+This Hero can join an eligible
+regiment as a Skaven Overclaw.
+
+BASE SIZE
+32mm
+32mm
+90 × 52mm
+32mm
+32mm
+120 × 92mm
+40mm
+120 × 92mm
+32mm
+130mm
+This Hero can join an eligible
+regiment as a Skaven Overclaw.
+This Hero can join an eligible
+regiment as a Skaven Overclaw.
+This Hero can join an eligible
+regiment as a Skaven Overclaw.
+
+32mm
+32mm
+32mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+NOTES
+You cannot include more than
+1 Skryre Weapon Team
+in a regiment led by a
+non‑Skryre Hero.
+
+BASE SIZE
+You cannot include more than
+1 Skryre War Machine
+in a regiment led by a
+non‑Skryre Hero.
+You cannot include more than
+1 Skryre War Machine
+in a regiment led by a
+non‑Skryre Hero.
+
+This unit cannot be reinforced.
+
+120 × 92mm
+28.5mm
+90mm
+25mm
+50mm
+105 × 70mm
+120 × 92mm
+25mm
+25mm
+120 × 92mm
+32mm [1],
+28.5mm [1],
+25mm [4]
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SKAVEN
+UNITS
+Rat Ogors
+UNIT SIZE
+3
+POINTS
+140
+Ratling Guns
+3
+170
+Skryre, Infantry, Weapon Team
+Ratling Warpblaster
+1
+140
+Skryre, War Machine
+Stormfiends
+Stormvermin
+3
+10
+250
+120
+Skryre, Moulder, Infantry
+Verminus, Infantry
+✹ Warp-Grinder
+1
+120 (-10)
+Skryre, War Machine
+Warp Lightning Cannon
+1
+120
+Skryre, War Machine
+Warpfire Throwers
+3
+140
+Skryre, Infantry, Weapon Team
+✹ Warplock Jezzails
+3
+130 (-10)
+Warpvolt Scourgers
+3
+180
+UNIT SIZE
+POINTS
+1
+240
+UNITS
+S courge of Ghyran
+Brood Terror
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Prayer Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Warpcog Convocation
+Fleshmeld Menagerie
+Virulent Procession
+Claw-horde
+Envoys of the Deepengnaw
+Gathering of the Clans
+Scurry Away
+Short-tempered
+Skilled Manipulator
+Devious Underling
+Fleshmeddler
+Pit Tinkerer
+Foulhide
+Warpstone Charm
+Skavenbrew
+Lore of Ruin
+Noxious Prayers
+Manifestations of Doom
+Gnawhole
+RELEVANT KEY WORDS
+Moulder, Infantry
+Skryre, Infantry
+Skryre, Infantry, Weapon Team
+RELEVANT KEY WORDS
+Moulder, Monster
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+32
+NOTES
+Battletome: Skaven
+Battletome: Skaven
+Battletome: Skaven
+Battletome: Skaven
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Skaven
+Battletome: Skaven
+Battletome: Skaven
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Skaven
+Battletome: Skaven
+Battletome: Skaven
+Battletome: Skaven
+Battletome: Skaven
+Battletome: Skaven
+Battletome: Skaven
+UPDATED
+NOTES
+You cannot include more than
+1 Skryre Weapon Team
+in a regiment led by a
+non‑Skryre Hero.
+You cannot include more than
+1 Skryre War Machine
+in a regiment led by a
+non‑Skryre Hero.
+
+BASE SIZE
+50mm
+60 × 35mm
+105 × 70mm
+60mm
+28.5mm
+You cannot include more than
+1 Skryre War Machine
+in a regiment led by a
+non‑Skryre Hero.
+You cannot include more than
+1 Skryre War Machine
+in a regiment led by a
+non‑Skryre Hero.
+You cannot include more than
+1 Skryre Weapon Team
+in a regiment led by a
+non‑Skryre Hero.
+
+120 × 92mm
+You cannot include more than
+1 Skryre Weapon Team
+in a regiment led by a
+non‑Skryre Hero.
+
+60 × 35mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+90 × 52mm
+60 × 35mm
+60 × 35mm
+BASE SIZE
+90mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SLAVES TO DARKNESS
+HEROES
+✹ Abraxia, Spear of
+the Everchosen
+UNIT SIZE
+POINTS
+1
+280 (-20)
+✹ A rchaon, the Everchosen
+1
+810 (-30)
+Be’lakor, the Dark Master
+1
+460
+REGIMENT OPTIONS
+0-1 Ruinous Champion,
+Any Slaves to Darkness
+0-1 Ruinous Champion,
+Any Slaves to Darkness
+0-1 Eternus or Ruinous Champion,
+Any Slaves to Darkness
+1
+120 (-10)
+Chaos Lord
+1
+100
+Chaos Lord on Daemonic Mount
+1
+140
+✹ Chaos Lord on Karkadrak
+1
+200 (-10)
+Chaos Sorcerer Lord
+1
+120
+Daemon Prince
+1
+260
+Darkoath Chieftain
+1
+80
+Darkoath Chieftain on Warsteed
+1
+110
+Darkoath Warqueen
+1
+100
+✹E
+ ternus, Blade of the
+First Prince
+1
+180 (-20)
+✹ Exalted Hero of Chaos
+1
+90 (+10)
+✹ Gaunt Summoner
+Gaunt Summoner on
+Disc of Tzeentch
+1
+180 (-10)
+1
+210
+✹ Gunnar Brand
+1
+200 (-10)
+Singri Brand
+1
+0
+Ogroid Myrmidon
+1
+120
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+350 (-10)
+0-1 Ruinous Champion,
+Any Slaves to Darkness
+UNIT SIZE
+1
+5
+6
+5
+POINTS
+90 (+20)
+280
+120
+250
+Chaos Legionnaires
+8
+Chaos Spawn
+Chaos Warriors
+Darkoath Fellriders
+Darkoath Marauders
+1
+10
+5
+10
+Darkoath Savagers
+Darkoath Wilderfiend
+Fomoroid Crusher
+Gorebeast Chariot
+HEROES
+UNITS
+✹ Chaos Chariot
+Chaos Chosen
+Chaos Furies
+Chaos Knights
+NOTES
+BASE SIZE
+100mm
+160mm
+100mm
+This Hero can join an
+0-1 Monster, Any Chaos Legionnaires, eligible
+regiment as a
+Any Daemon
+Ruinous Champion.
+This Hero can join an
+0-1 Ruinous Champion,
+eligible regiment as a
+Any Slaves to Darkness
+Ruinous Champion.
+This Hero can join an
+0-1 Ruinous Champion,
+eligible regiment as a
+Any Slaves to Darkness
+Ruinous Champion.
+This Hero can join an
+0-1 Ruinous Champion,
+eligible regiment as a
+Any Slaves to Darkness
+Ruinous Champion.
+0-1 Ruinous Champion, 0-1 Monster,
+Any Warriors of Chaos
+0-1 Ruinous Champion,
+Any Slaves to Darkness
+This Hero can join an eligible
+0-1 Monster, Any Darkoath
+regiment as an Oathsworn.
+0-1 Oathsworn, 0-1 Monster,
+This Hero can join an eligible
+Any Darkoath
+regiment as an Oathsworn.
+0-1 Oathsworn, 0-1 Monster,
+Any Darkoath
+0-1 Ruinous Champion,
+This Hero can join
+Any Slaves to Darkness
+Be’lakor’s regiment.
+This Hero can join an
+0-1 Monster,
+eligible regiment as a
+Any Warriors of Chaos
+Ruinous Champion.
+
+✹ Centaurion Marshal
+✹ Scourge of Ghyran
+Abraxia, Spear of
+the Everchosen
+UPDATED
+80mm
+40mm
+90 × 52mm
+90 × 52mm
+40mm
+60mm
+32mm
+75 × 42mm
+32mm
+90 × 52mm
+40mm
+Any Slaves to Darkness
+40mm
+Any Slaves to Darkness
+40mm
+Singri Brand (required),
+The Oathsworn Kin (required),
+Any Darkoath
+32mm
+This unit can only be taken in
+Gunnar Brand’s regiment.
+This Hero can join an
+eligible regiment as a
+Ruinous Champion.
+
+60 × 35mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+RELEVANT KEY WORDS
+Warriors of Chaos, War Machine
+Warriors of Chaos, Infantry
+Daemon, Infantry
+Warriors of Chaos, Cavalry
+NOTES
+80
+Infantry
+This unit cannot be reinforced.
+
+60
+200
+150
+80
+Beast
+Warriors of Chaos, Infantry
+Darkoath, Cavalry
+Darkoath, Infantry
+10
+90
+Darkoath, Infantry
+1
+1
+1
+130
+120
+100
+Darkoath, Beast
+Monster
+Warriors of Chaos, War Machine
+BASE SIZE
+120 × 92mm
+40mm
+32mm
+75 × 42mm
+32mm [5],
+28.5mm [3]
+50mm
+32mm
+60 × 35mm
+28.5mm
+32mm [3],
+28.5mm [7]
+60mm
+60mm
+120 × 92mm
+None
+Any Ogroid Theridons,
+Any Monster, Any Daemon
+33
+This unit cannot be reinforced.
+
+50mm
+100mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SLAVES TO DARKNESS
+UNITS
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+Legion of the First Prince
+Beasts of Nurgle
+1
+150
+Legion of the First Prince,
+Daemon, Beast
+Legion of the First Prince
+Bloodcrushers
+3
+160
+Legion of the First Prince,
+Daemon, Cavalry
+Legion of the First Prince
+Bloodletters
+10
+200
+Legion of the First Prince,
+Daemon, Infantry
+Legion of the First Prince
+Fiends
+3
+150
+Legion of the First Prince,
+Daemon, Beast
+Legion of the First Prince
+Flamers of Tzeentch
+3
+120
+Legion of the First Prince,
+Daemon, Infantry
+Legion of the First Prince
+Hellflayer
+1
+160
+Legion of the First Prince,
+Daemon, War Machine
+Legion of the First Prince
+Plaguebearers
+10
+140
+Legion of the First Prince,
+Daemon, Infantry
+Legion of the First Prince
+Screamers of Tzeentch
+3
+80
+Legion of the First Prince,
+Daemon, Beast
+✹ Mindstealer Sphiranx
+Mutalith Vortex Beast
+Ogroid Theridons
+Raptoryx
+Slaughterbrute
+1
+1
+3
+6
+1
+150 (-10)
+170
+180
+100
+200
+The Oathsworn Kin
+3
+0
+Unique, Darkoath, Infantry
+✹ Varanguard
+3
+330 (-10)
+Warriors of Chaos, Cavalry
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Manifestation Lore
+Ensorcelled Banner
+Ensorcelled Banner
+Ensorcelled Banner
+Ensorcelled Banner
+Ensorcelled Banner
+Faction Terrain
+NAME
+Legion of Chaos
+Godswrath Warband
+Despoilers
+Darkoath Horde
+Chaos Horde
+Champions of Chaos
+Favoured of the Pantheon
+Deathmonger
+Radiance of Dark Glory
+Infernal Puppet
+The Conqueror’s Crown
+Realmwarper’s Twist-rune
+Amulet of Chaos
+The Varanite Shackle
+Head of the Unworthy
+Lore of the Damned
+Manifestations of Malevolence
+The Dread Banner
+The Banner of Rage
+The Blasted Standard
+The Eroding Icon
+The Banner of Screaming Flesh
+Nexus Chaotica
+Monster
+Daemon, Monster
+Infantry
+Beast
+Daemon, Monster
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+34
+UPDATED
+NOTES
+This unit can only be taken in a
+Legion of the First Prince Army
+of Renown.
+This unit can only be taken in a
+Legion of the First Prince Army
+of Renown.
+This unit can only be taken in a
+Legion of the First Prince Army
+of Renown.
+This unit can only be taken in a
+Legion of the First Prince Army
+of Renown.
+This unit can only be taken in a
+Legion of the First Prince Army
+of Renown.
+This unit can only be taken in a
+Legion of the First Prince Army
+of Renown.
+This unit can only be taken in a
+Legion of the First Prince Army
+of Renown.
+This unit can only be taken in a
+Legion of the First Prince Army
+of Renown.
+
+This unit can only be taken in
+Gunnar Brand’s regiment.
+This unit cannot be reinforced.
+
+NOTES
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+Battletome: Slaves to Darkness
+BASE SIZE
+60mm
+90 × 52mm
+32mm
+75 × 42mm
+32mm
+120 × 92mm
+32mm
+32mm
+90 × 52mm
+120 × 92mm
+50mm
+60 × 35mm
+120 × 92mm
+32mm
+75 × 42mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+FLESH-EATER COURTS
+UNIT SIZE
+POINTS
+✹ Abhorrant Archregent
+HEROES
+1
+150 (-10)
+Abhorrant Cardinal
+1
+130
+✹ Abhorrant Ghoul King
+1
+130 (+10)
+ bhorrant Ghoul King on
+A
+Royal Terrorgheist
+✹ Abhorrant Ghoul King on
+Royal Zombie Dragon
+1
+350
+1
+350 (-10)
+1
+180 (+10)
+✹ Abhorrant Gorewarden
+Crypt Haunter Courtier
+1
+120
+Crypt Infernal Courtier
+1
+140
+✹ Grand Justice Gormayne
+1
+150 (+40)
+REGIMENT OPTIONS
+0-1 Royal Attendant,
+Any Flesh-eater Courts
+0-1 Royal Attendant, 0-1 Beast,
+0-1 Knights, Any Serfs
+0-1 Royal Attendant,
+Any Flesh-eater Courts
+0-1 Royal Attendant,
+Any Flesh-eater Courts
+0-1 Royal Attendant,
+Any Flesh-eater Courts
+0-1 Royal Attendant, 0-1 Beast,
+0-1 Serfs, Any Knights
+0-1 Beast, 0-1 Serfs,
+Any Crypt Horrors
+0-1 Beast, 0-1 Serfs,
+Any Crypt Flayers
+0-1 Beast, 0-1 Knights, Any Serfs
+High Falconer Felgryn
+1
+120
+0-1 Monster, Any Beast, Any Serfs
+Marrowscroll Herald
+1
+110
+0-1 Beast, Any Serfs
+830
+0-1 Royal Attendant,
+Any Flesh-eater Courts
+ agash, Supreme Lord
+N
+of the Undead
+1
+✹ Royal Decapitator
+1
+Ushoran, Mortarch of Delusion
+110 (+10)
+0-1 Beast, Any Serfs
+Any Royal Attendant,
+Any Flesh-eater Courts
+1
+450
+UNIT SIZE
+POINTS
+Scourge of Ghyran
+Abhorrant Ghoul King
+1
+120
+0-1 Royal Attendant,
+Any Flesh-eater Courts
+S courge of Ghyran
+Abhorrant Gorewarden
+1
+140
+0-1 Royal Attendant, 0-1 Beast,
+0-1 Serfs, Any Knights
+UNIT SIZE
+3
+POINTS
+160 (+10)
+✹ Crypt Flayers (2 models)
+2
+90 (+10)
+Knights, Infantry
+Crypt Ghouls
+Crypt Horrors
+20
+3
+160
+160
+Serfs, Infantry
+Knights, Infantry
+Crypt Horrors (2 models)
+2
+100
+Knights, Infantry
+✹ Cryptguard
+Morbheg Knights
+10
+3
+120 (+20)
+180
+Serfs, Infantry
+Knights, Cavalry
+✹ Royal Beastflayers
+10
+110 (+10)
+Serfs, Infantry
+Royal Terrorgheist
+Royal Zombie Dragon
+Varghulf Courtier
+1
+1
+1
+230
+240
+130
+HEROES
+UNITS
+✹ Crypt Flayers
+REGIMENT OPTIONS
+RELEVANT KEY WORDS
+Knights, Infantry
+Monster
+Monster
+Beast
+35
+NOTES
+UPDATED
+BASE SIZE
+40mm
+32mm
+32mm
+130mm
+130mm
+40mm
+This Hero can join an eligible
+regiment as a Royal Attendant.
+This Hero can join an eligible
+regiment as a Royal Attendant.
+This Hero can join an eligible
+regiment as a Royal Attendant.
+This Hero can join an eligible
+regiment as a Royal Attendant.
+This Hero can join an eligible
+regiment as a Royal Attendant.
+
+50mm
+50mm
+32mm
+32mm [1],
+28.5mm [1]
+32mm
+130mm
+This Hero can join an eligible
+regiment as a Royal Attendant.
+
+32mm
+130mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+NOTES
+BASE SIZE
+50mm
+You can include 1 unit of this
+type for each Crypt Infernal
+Courtier in your army.
+This unit cannot be reinforced.
+
+You can include 1 unit of this
+type for each Crypt Haunter
+Courtier in your army.
+This unit cannot be reinforced.
+
+This unit cannot be reinforced.
+
+32mm
+40mm
+50mm
+25mm
+50mm
+50mm
+25mm
+75 × 42mm
+40mm [2],
+32mm [2],
+28.5mm [3],
+25mm [3]
+130mm
+130mm
+90 × 52mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+FLESH-EATER COURTS
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+✹ Artefact of Power
+Artefact of Power
+Monstrous Trait
+Monstrous Trait
+Monstrous Trait
+Spell Lore
+Prayer Lore
+Manifestation Lore
+✹ Faction Terrain
+NAME
+Knightly Echelon
+Lords of the Manor
+The Royal Hunt
+Royal Menagerie
+Impassioned Serfs
+Questing Courtiers
+Cruel Taskmaster
+Savage Beyond Reason
+Stronger in Madness
+Charnel Vestments
+The Grisly Pennant
+The Splintered Femur
+Revered Monstrosity
+Savage Abomination
+Horribly Resilient
+Lore of Madness
+Rites of Delusion
+Manifested Insanity
+Charnel Throne
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+20
+10 (+10)
+0
+0
+0
+0
+0
+0
+0
+10 (+10)
+36
+NOTES
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+Battletome: Flesh-eater Courts
+UPDATED
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+NIGHTHAUNT
+HEROES
+Awlrach the Drowner
+UNIT SIZE
+1
+POINTS
+170
+Cairn Wraith
+1
+130
+✹ Guardian of Souls
+Knight of Shrouds
+K night of Shrouds on
+Ethereal Steed
+K rulghast Cruciator
+Kurdoss Valentian, the
+Craven King
+Lady Olynder, Mortarch of Grief
+1
+1
+140 (-10)
+100
+0-1 Black Coach, Any Infantry
+0-1 Cursed Soul, Any Nighthaunt
+1
+170
+0-1 Cursed Soul, Any Nighthaunt
+1
+140
+0-1 Black Coach, Any Infantry
+40mm
+1
+190
+0-1 Cursed Soul, Any Nighthaunt
+60mm
+1
+300
+0-1 Cursed Soul, Any Nighthaunt
+Lord Executioner
+1
+170
+0-1 Black Coach, Any Infantry
+Lord Vitriolic
+1
+120
+0-1 Black Coach, Any Infantry
+ agash, Supreme Lord of
+N
+the Undead
+Reikenor the Grimhailer
+1
+840
+0-1 Cursed Soul, Any Nighthaunt
+1
+240
+0-1 Cursed Soul, Any Nighthaunt
+Scriptor Mortis
+1
+120
+0-1 Black Coach, Any Infantry
+Spirit Torment
+1
+120
+0-1 Black Coach, Any Infantry
+Tomb Banshee
+1
+130
+0-1 Black Coach, Any Infantry
+UNIT SIZE
+POINTS
+1
+200
+UNITS
+Black Coach
+Bladegheist Revenants
+Chainghasts
+Chainrasps
+Craventhrone Guard
+✹ Dreadblade Harrows
+Dreadscythe Harridans
+UNIT SIZE
+1
+10
+2
+10
+5
+2
+10
+POINTS
+230
+210
+90
+100
+100
+150 (-10)
+210
+✹ Glaivewraith Stalkers
+4
+90 (+10)
+Infantry
+Grimghast Reapers
+✹ Hexwraiths
+✹ Myrmourn Banshees
+10
+5
+4
+210
+180 (-20)
+90 (-10)
+Infantry
+Cavalry
+Infantry
+✹ Pyregheists
+8
+150 (+20)
+Infantry
+Spirit Hosts
+3
+120
+Infantry
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+1
+300 (+20)
+War Machine
+HEROES
+S courge of Ghyran
+Kurdoss Valentian,
+the Craven King
+UNITS
+✹ Scourge of Ghyran
+Black Coach
+REGIMENT OPTIONS
+0-1 Cursed Soul, Any Nighthaunt
+UPDATED
+0-1 Black Coach, Any Infantry
+REGIMENT OPTIONS
+0-1 Cursed Soul, Any Nighthaunt
+RELEVANT KEY WORDS
+War Machine
+Infantry
+Infantry
+Infantry
+Infantry
+Cavalry
+Infantry
+37
+NOTES
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This Hero can join an eligible
+regiment as a Cursed Soul.
+
+BASE SIZE
+80mm
+25mm
+32mm
+32mm
+75 × 42mm
+This Hero can join an eligible
+regiment as a Cursed Soul.
+This Hero can join an eligible
+regiment as a Cursed Soul.
+
+60mm
+40mm
+40mm
+130mm
+This Hero can join an eligible
+regiment as a Cursed Soul.
+This Hero can join an eligible
+regiment as a Cursed Soul.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This Hero can join an eligible
+regiment as a Cursed Soul.
+
+75 × 42mm
+40mm
+40mm
+25mm
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+NOTES
+BASE SIZE
+170 × 105mm
+32mm
+32mm
+25mm
+32mm
+60 × 35mm
+32mm
+This unit cannot be reinforced.
+
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+
+This unit cannot be reinforced.
+
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+60mm
+32mm
+32mm
+60 × 35mm
+32mm
+40mm [1],
+32mm [4],
+28.5mm [3]
+50mm
+BASE SIZE
+170 × 105mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+NIGHTHAUNT
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Death Stalkers
+Quicksilver Gheists
+Royal Procession
+Shrieker Host
+Hungry Nexus
+Deathrust Gheists
+Deathly Possessor
+Ruler of the Spectral Hosts
+Shadowy Aura
+Brazier of Nagashizzar
+Lightshard of the Harvest Moon
+Mirror of Echoing Failures
+Stave of Suffering
+Tombstone of the Penitent
+Amulet of Waking Nightmares
+Lore of the Underworlds
+Infernal Sorceries
+Nexus of Grief
+POINTS
+0
+40
+0
+0
+0
+0
+0
+20
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+38
+NOTES
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+Battletome: Nighthaunt
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+OSSIARCH BONEREAPERS
+HEROES
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+✹ Arch-Kavalos Zandtos
+1
+190 (-20)
+Any Ossiarch Bonereapers
+Arkhan the Black,
+Mortarch of Sacrament
+Katakros, Mortarch of
+the Necropolis
+1
+390
+1
+520
+✹ Liege-Kavalos
+1
+160 (-20)
+Mortisan Boneshaper
+1
+110
+Mortisan Ossifector
+1
+110
+Mortisan Soulmason
+Mortisan Soulreaper
+✹ Nagash, Supreme Lord of
+the Undead
+Vokmortian, Master of
+the Bone‑tithe
+1
+1
+150
+90
+1
+850 (-30)
+1
+150
+UNIT SIZE
+POINTS
+✹ Scourge of Ghyran
+Mortisan Boneshaper
+1
+100 (-20)
+UNITS
+✹ Gothizzar Harvester
+✹ Immortis Guard
+Kavalos Deathriders
+Morghast Archai
+Morghast Harbingers
+Mortek Crawler
+✹ Mortek Guard
+✹ Necropolis Stalkers
+UNIT SIZE
+1
+3
+5
+2
+2
+1
+10
+3
+HEROES
+✹ Teratic Cohort
+UNITS
+✹ Scourge of Ghyran
+Mortek Guard
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Manifestation Lore
+Faction Terrain
+0-1 Legion Subcommander,
+Any Ossiarch Bonereapers
+0-1 Legion Subcommander,
+Any Ossiarch Bonereapers
+Any Ossiarch Bonereapers
+0-1 Gothizzar Harvester, Any Infantry
+0-1 Gothizzar Harvester,
+0-1 Mortek Crawler, Any Infantry
+0-1 Gothizzar Harvester, Any Infantry
+0-1 Gothizzar Harvester, Any Infantry
+0-1 Legion Subcommander,
+Any Ossiarch Bonereapers
+NOTES
+This Hero can join an
+eligible regiment as a
+Legion Subcommander.
+
+UPDATED
+BASE SIZE
+80mm
+120 × 92mm
+120 × 92mm
+This Hero can join an
+eligible regiment as a
+Legion Subcommander.
+
+80mm
+32mm
+32mm
+40mm
+32mm
+130mm
+Any Ossiarch Bonereapers
+40mm
+NOTES
+This unit is legal for Matched
+for battles fought using the
+0-1 Gothizzar Harvester, Any Infantry Play
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+POINTS
+140 (-10)
+170 (-10)
+200
+260
+260
+260
+110 (-10)
+140 (-10)
+RELEVANT KEY WORDS
+Monster
+Infantry
+Cavalry
+Infantry
+Infantry
+War Machine
+Infantry
+Infantry
+NOTES
+8
+140 (-10)
+Infantry
+This unit cannot be reinforced.
+
+BASE SIZE
+105 × 70mm
+50mm
+60 × 35mm
+60mm
+60mm
+170 × 105mm
+25mm
+50mm
+60 × 35mm
+[1], 32mm [2],
+28.5mm [5]
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+10
+110 (-20)
+Infantry
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+NAME
+Mortisan Council
+Mortek Ballistari
+Kavalos Lance
+Mortek Phalanx
+Tithe Guards
+Hekatos Drillmasters
+Diversionary Tactics
+Mighty Archaeossian
+Aura of Sterility
+Marrowpact
+Lode of Saturation
+Helm of Tyranny
+Lore of Necrotheurgy
+Horrors of the Necropolis
+Bone-tithe Nexus
+REGIMENT OPTIONS
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+39
+NOTES
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+Scourge of Ghyran
+Faction Pack: Ossiarch Bonereapers
+Faction Pack: Ossiarch Bonereapers
+32mm
+BASE SIZE
+25mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SOULBLIGHT GRAVELORDS
+HEROES
+Belladamma Volga,
+First of the Vyrkos
+UNIT SIZE
+POINTS
+1
+220
+REGIMENT OPTIONS
+Any Vyrkos Retainer,
+Any Soulblight Gravelords
+Blades of the Hollow King
+3
+290
+Any Soulblight Gravelords
+Bloodseeker Palanquin
+1
+220
+Any Soulblight Gravelords
+Cado Ezechiar, the Hollow King
+1
+150
+Any Soulblight Gravelords
+Coven Throne
+1
+250
+Any Soulblight Gravelords
+Gorslav the Gravekeeper
+1
+120
+Any Deadwalkers
+Ivya Volga, the Outcast
+1
+120
+Any Soulblight Gravelords
+Kritza, the Rat Prince
+1
+70
+Any Soulblight Gravelords
+Lady Annika, the Thirsting Blade
+1
+110
+Any Soulblight Gravelords
+✹L
+ auka Vai, Mother of
+Nightmares
+✹M
+ annfred von Carstein,
+Mortarch of Night
+✹M
+ ortis Engine
+✹N
+ agash, Supreme Lord of
+the Undead
+1
+250 (-20)
+1
+450 (+20)
+1
+230 (-10)
+1
+810 (-30)
+Necromancer
+1
+140
+✹ Neferata, Mortarch of Blood
+1
+450 (-10)
+✹ Prince Vhordrai
+1
+470 (-20)
+0-1 Deathrattle Overseer,
+Any Soulblight Gravelords
+0-1 Deathrattle Overseer,
+Any Soulblight Gravelords
+Any Soulblight Gravelords
+0-1 Deathrattle Overseer,
+Any Soulblight Gravelords
+0-1 Deathrattle Overseer,
+Any Soulblight Gravelords
+0-1 Deathrattle Overseer,
+Any Soulblight Gravelords
+0-1 Deathrattle Overseer,
+Any Soulblight Gravelords
+✹ Radukar the Beast
+1
+250 (-20)
+0-1 Vyrkos Retainer,
+Any Soulblight Gravelords
+Radukar the Wolf
+1
+130
+0-1 Vyrkos Retainer,
+Any Soulblight Gravelords
+40
+NOTES
+UPDATED
+BASE SIZE
+60mm
+You cannot include this
+unit and Cado Ezechiar,
+the Hollow King in the
+same army.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+You cannot include this unit
+and the Blades of the Hollow
+King in the same army.
+This Hero can join an eligible
+regiment as a Vyrkos Retainer.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This Hero can join an eligible
+regiment as a Vyrkos Retainer.
+This Hero can join an eligible
+regiment as a Vyrkos Retainer.
+This Hero can join an eligible
+regiment as a Vyrkos Retainer.
+
+50mm [1],
+40mm [2]
+120 × 92mm
+40mm
+120 × 92mm
+40mm
+32mm
+60 × 35mm
+60 × 35mm
+80mm
+120 × 92mm
+120 × 92mm
+130mm
+32mm
+120 × 92mm
+160mm
+You cannot include this unit
+and Radukar the Wolf in the
+same army.
+You cannot include this unit
+and Radukar the Beast in the
+same army.
+
+60mm
+40mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SOULBLIGHT GRAVELORDS
+HEROES
+✹ Sekhar, Fang of Nulahmia
+UNIT SIZE
+1
+POINTS
+190 (-20)
+REGIMENT OPTIONS
+Any Soulblight Gravelords
+Torgillius the Chamberlain
+1
+180
+Any Soulblight Gravelords
+Vampire Lord
+1
+140
+Any Soulblight Gravelords
+Vampire Lord on Nightmare Steed
+1
+190
+Any Soulblight Gravelords
+Vampire Lord on Zombie Dragon
+1
+400
+Any Soulblight Gravelords
+Vengorian Lord
+1
+220
+0-1 Deathrattle Overseer,
+Any Soulblight Gravelords
+Any Deathrattle
+Watch Captain Halgrim
+1
+110
+✹ Wight King
+1
+90 (-10)
+Any Soulblight Gravelords
+✹ Wight King on Skeletal Steed
+1
+200 (-20)
+0-1 Deathrattle Overseer,
+Any Soulblight Gravelords
+✹ Wight Lord on Skeletal Steed
+1
+130 (+10)
+Any Deathrattle
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+220
+HEROES
+S courge of Ghyran
+Sekhar, Fang of Nulahmia
+Any Soulblight Gravelords
+41
+NOTES
+This Hero can join an eligible
+regiment as a Vyrkos Retainer.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+
+UPDATED
+BASE SIZE
+60 × 35mm
+40mm
+40mm
+80mm
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+
+130mm
+80mm
+This Hero can join an eligible
+regiment as a Vyrkos Retainer.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This Hero can join an
+eligible regiment as a
+Deathrattle Overseer.
+This Hero can join an
+eligible regiment as a
+Deathrattle Overseer.
+This Hero can join an
+eligible regiment as a
+Deathrattle Overseer.
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+32mm
+32mm
+80mm
+80mm
+BASE SIZE
+60 × 35mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SOULBLIGHT GRAVELORDS
+UNITS
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+NOTES
+✹ Askurgan Trueblades
+8
+130 (+10)
+Infantry
+This unit cannot be reinforced.
+
+✹ Barrow Guard
+Barrow Knights
+Blood Knights
+Corpse Cart
+Deadwalker Zombies
+✹ Deathrattle Skeletons
+Dire Wolves
+✹ Fell Bats
+10
+5
+5
+1
+20
+10
+10
+3
+150 (-10)
+210
+220
+70
+140
+90 (-10)
+150
+90 (-10)
+Deathrattle, Infantry
+Deathrattle, Cavalry
+Cavalry
+Deadwalkers, War Machine
+Deadwalkers, Infantry
+Deathrattle, Infantry
+Deadwalkers, Beast
+Deadwalkers, Beast
+Kosargi Nightguard
+2
+110
+✹ Revenant Draconith
+1
+200 (-40)
+Monster
+Terrorgheist
+1
+220
+Monster
+Vargheists
+3
+120
+Infantry
+Vargskyr
+1
+160
+Beast
+Vyrkos Blood‑born
+3
+150
+Infantry
+UNIT SIZE
+POINTS
+1
+80
+UNITS
+S courge of Ghyran
+Corpse Cart
+Deadwalkers, Infantry
+This unit cannot be reinforced.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+This unit cannot be reinforced.
+This unit will move to
+Warhammer Legends on
+1 June 2026.
+
+RELEVANT KEY WORDS
+Deadwalkers, War Machine
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+UPDATED
+BASE SIZE
+40mm [1],
+32mm [4],
+28.5mm [3]
+28.5mm
+60 × 35mm
+75 × 42mm
+105 × 70mm
+25mm
+25mm
+60 × 35mm
+40mm
+40mm
+160mm
+130mm
+50mm
+50mm
+32mm
+BASE SIZE
+105 × 70mm
+The following units no longer have current warscrolls: Grave Guard; Black Knights; Zombie Dragon. You can use the models in these units to
+represent the following units as appropriate, provided they are on the listed base sizes:
+Grave Guard → Barrow Guard (28.5mm)
+Black Knights → Barrow Knights (60 × 35mm)
+Zombie Dragon → Revenant Draconith (160mm)
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Legion of Shyish
+Bacchanal of Blood
+Deathstench Drove
+Deathmarch
+Cryptmasters
+Skinshifters
+Legions of Ulfenkarn
+Lash of the Sire
+Unbending Will
+Unhinged Rampager
+Frightening Vitality
+Immortal Ego
+A Wastrel and a Vagabond
+Terminus Clock
+Shard of Night
+Amulet of Graves
+Lore of Undeath
+Manifestations of the Grave
+Cursed Sepulchre
+POINTS
+0
+0
+0
+0
+0
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+42
+NOTES
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome Supplement: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+Battletome: Soulblight Gravelords
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+GLOOMSPITE GITZ
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+✹ Dankhold Troggboss
+HEROES
+1
+220 (-20)
+Any Troggoth
+✹ Droggz Da Sunchompa
+1
+170 (-10)
+✹F
+ razzlegit Shaman on
+War‑Wheela
+Fungoid Cave-Shaman
+0-1 Top Dog, 0-1 Moonclan, 0-1
+Troggoth, Any Gitmob
+1
+150 (-20)
+Any Gitmob
+1
+100
+Kragnos, the End of Empires
+1
+580
+0-1 Moonclan Agitator, Any Moonclan
+0-1 Top Dog, 0-1 Moonclan Agitator,
+Any Gloomspite Gitz
+90 (-10)
+0-1 Moonclan Agitator, Any Moonclan
+✹ Loonboss on Mangler Squigs
+1
+170 (-20)
+0-1 Moonclan Agitator, Any Moonclan
+200 (-30)
+120 × 92mm
+32mm
+130mm
+40mm
+1
+1
+60mm
+This Hero can join an
+eligible regiment as a
+Moonclan Agitator.
+
+✹ Loonboss on Giant Cave Squig
+✹ Skragrott, the Loonking
+60mm
+32mm
+90
+120
+BASE SIZE
+0-1 Doom Diver Catapult,
+Any Moonclan
+1
+1
+NOTES
+This Hero can join
+Trugg’s regiment.
+
+This Hero can join an
+eligible regiment as a
+Moonclan Agitator.
+
+Loonboss
+Rabble-Rowza
+UPDATED
+0-1 Monster,
+Any Moonclan Infantry
+0-1 Top Dog, 0-1 Moonclan Agitator,
+Any Gloomspite Gitz
+✹ Snarlboss
+1
+120 (-10)
+Any Gitmob
+✹ Snarlboss on War-Wheela
+1
+150 (-30)
+Any Gitmob
+Squigboss with Gnasha-squig
+1
+120
+✹ Trugg, the Troggoth King
+1
+360 (-20)
+Webspinner Shaman
+Webspinner Shaman on
+Arachnarok Spider
+1
+100
+0-1 Dankhold Troggboss,
+Any Gloomspite Gitz
+Any Spiderfang
+1
+250
+Any Spiderfang
+0-1 Moonclan Agitator, Any Moonclan
+43
+This Hero can join an
+eligible regiment as a
+Moonclan Agitator.
+
+80mm
+32mm
+60 × 35mm
+This Hero can join an eligible
+regiment as a Top Dog.
+This Hero can join an eligible
+regiment as a Top Dog.
+This Hero can join an
+eligible regiment as a
+Moonclan Agitator.
+
+Use model
+120 × 92mm
+32mm
+100mm
+25mm
+160mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+GLOOMSPITE GITZ
+UNITS
+ rachnarok Spider with Flinger
+A
+A rachnarok Spider with
+Spiderfang Warparty
+✹ Boingrot Bounderz
+Dankhold Troggoth
+Doom Diver Catapult
+✹ Fellwater Troggoths
+Gobbapalooza
+Loonsmasha Fanatics
+✹ Mangler Squigs
+✹ Moonclan Shootas
+✹ Moonclan Stabbas
+✹ Rockgut Troggoths
+Skitterstrand Arachnarok
+Snarlfang Riders
+Snarlpack Cavalry
+✹ Sneaky Snufflers
+Spider Riders
+Sporesplatta Fanatics
+✹ Squig Herd
+✹ Squig Hoppers
+✹ Sunsteala Wheelas
+UNIT SIZE
+1
+POINTS
+230
+1
+220
+Spiderfang, Monster
+160mm
+5
+1
+1
+3
+5
+5
+1
+20
+20
+3
+1
+5
+3
+6
+5
+5
+12
+10
+2
+110 (-10)
+160
+160
+170 (-10)
+150
+110
+140 (-20)
+120 (-10)
+110 (-10)
+180 (-10)
+190
+120
+100
+100 (-10)
+110
+90
+100 (-10)
+160 (-10)
+120 (-10)
+Moonclan, Cavalry
+Troggoth, Monster
+Gitmob, War Machine
+Troggoth, Infantry
+Moonclan, Infantry
+Moonclan, Infantry
+Moonclan, Monster
+Moonclan, Infantry
+Moonclan, Infantry
+Troggoth, Infantry
+Spiderfang, Monster
+Gitmob, Cavalry
+Gitmob, Cavalry
+Moonclan, Infantry
+Spiderfang, Cavalry
+Moonclan, Infantry
+Moonclan, Beast
+Moonclan, Cavalry
+Gitmob, War Machine
+32mm
+60mm
+170 × 105mm
+50mm
+32mm
+32mm
+80mm
+25mm
+25mm
+50mm
+160mm
+60 × 35mm
+75 × 42mm
+32mm
+60 × 35mm
+32mm
+25mm
+32mm
+105 × 70mm
+2
+70
+UNIT SIZE
+POINTS
+S courge of Ghyran
+Loonsmasha Fanatics
+5
+110
+Moonclan, Infantry
+S courge of Ghyran
+Sporesplatta Fanatics
+5
+70
+Moonclan, Infantry
+Wolfgit Retinue
+UNITS
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Spell Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Gloomspite Horde
+Gitmob Pack
+Squigalanche
+Troggherd
+Sunbiter Pack
+Gittish Tide
+The Clammy Hand
+Loontouched
+Fight Another Day
+The Clammy Cowl
+Backstabber’s Blade
+Leering Gitshield
+Lore of the Clammy Dank
+Lore of Frazzlegit
+Dank Manifestations
+Loonshrine
+RELEVANT KEY WORDS
+Spiderfang, Monster
+UPDATED
+Gitmob, Cavalry
+RELEVANT KEY WORDS
+POINTS
+0
+0
+0
+0
+0
+0
+0
+20
+0
+20
+0
+0
+0
+0
+0
+0
+44
+NOTES
+This unit cannot be reinforced.
+
+You can include 1 unit of this
+type for each Snarlboss in
+your army.
+This unit cannot be reinforced.
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+NOTES
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+Scourge of Ghyran
+Battletome: Gloomspite Gitz
+Battletome: Gloomspite Gitz
+BASE SIZE
+160mm
+Use model
+BASE SIZE
+32mm
+32mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+IRONJAWZ
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+✹ Ardboy Big Boss
+HEROES
+1
+110 (-10)
+Any Infantry
+✹ Gordrakk, the Fist of Gork
+1
+340 (-20)
+Kragnos, the End of Empires
+1
+580
+✹ Megaboss
+✹ Megaboss on Maw-krusha
+1
+1
+0-1 Headstompa, 0-1 Tusk Wrangler,
+Any Ironjawz
+0-1 Headstompa, 0-1 Tusk Wrangler,
+Any Ironjawz
+160 (-10)
+0-1 Headstompa, Any Ironjawz
+320 (-20)
+0-1 Headstompa, 0-1 Tusk Wrangler,
+Any Ironjawz
+0-1 Headstompa, Any Ironjawz
+UPDATED
+NOTES
+This Hero can join an eligible
+regiment as a Headstompa.
+
+BASE SIZE
+40mm
+160mm
+130mm
+This Hero can join an eligible
+regiment as a Headstompa.
+
+60mm
+160mm
+This Hero can join an eligible
+regiment as a Tusk Wrangler.
+
+Tuskboss on Maw-grunta
+1
+240
+✹ Warchanter
+Weirdnob Shaman
+1
+1
+110 (-10)
+120
+Any Ironjawz
+Any Ironjawz
+✹ Z oggrok Anvilsmasha
+1
+160 (-10)
+Any Ironjawz
+This Hero can join an eligible
+regiment as a Headstompa.
+
+UNITS
+✹ Ardboyz
+✹ Brute Ragerz
+✹ Brutes
+✹ Gore‑gruntas
+Maw-grunta Gougers
+Maw-grunta with Hakkin’ Krew
+✹ Weirdbrute Wrekkaz
+UNIT SIZE
+10
+3
+5
+3
+1
+1
+3
+POINTS
+170 (-10)
+110 (-10)
+180 (-20)
+170 (-10)
+190
+250
+90 (-10)
+RELEVANT KEY WORDS
+Infantry
+Infantry
+Infantry
+Cavalry
+Monster
+Monster
+Infantry
+NOTES
+BASE SIZE
+32mm
+40mm
+40mm
+90 × 52mm
+120 × 92mm
+120 × 92mm
+40mm
+UNITS
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+BASE SIZE
+S courge of Ghyran
+Gore‑gruntas
+3
+200
+Cavalry
+✹ Scourge of Ghyran
+Weirdbrute Wrekkaz
+3
+100 (-10)
+Infantry
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Monstrous Trait
+Monstrous Trait
+Monstrous Trait
+Spell Lore
+Prayer Lore
+Manifestation Lore
+Faction Terrain
+NAME
+Ironjawz Brawl
+Ironfist
+Weirdfist
+Grunta Stampede
+Brutefist
+Bigsnikkaz
+An Eye for Da Fight
+Mega Bossy
+Hulking Brute
+Trophy Skulls
+Armour of Gork
+Amberbone Whetstone
+Big ’Un
+Mad ’Un
+Fast ’Un
+Lore of the Weird
+Warbeats
+Manifestations of Gorkamorka
+Bossrokk Tower
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+45
+NOTES
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+120 × 92mm
+40mm
+40mm
+50mm [1],
+25mm [1]
+90 × 52mm
+40mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+KRULEBOYZ
+HEROES
+Breaka-boss on
+Mirebrute Troggoth
+UNIT SIZE
+POINTS
+1
+200
+1
+280 (-30)
+REGIMENT OPTIONS
+0-1 Mob Wrangler, Any Kruleboyz
+Hobgrot Slittaboss
+1
+70
+0-1 Mob Wrangler, 0-1 Swamp Beast,
+Any Kruleboyz
+Any Infantry, 0-1 Monster,
+0-1 War Machine
+K illaboss on Corpse-rippa Vulcha
+1
+260
+0-1 Mob Wrangler, Any Kruleboyz
+K illaboss on Great Gnashtoof
+1
+150
+0-1 Mob Wrangler, Any Kruleboyz
+K illaboss with Stab-grot
+1
+80
+Any Kruleboyz
+Kragnos, the End of Empires
+1
+580
+0-1 Mob Wrangler, 0-1 Swamp Beast,
+Any Kruleboyz
+✹ Murknob with Belcha-banna
+1
+90 (+10)
+Any Kruleboyz
+✹ Snatchaboss on
+Sludgeraker Beast
+1
+200 (-20)
+0-1 Mob Wrangler, Any Kruleboyz
+Swampboss Skumdrekk
+1
+220
+✹ Swampcalla Shaman
+with Pot‑grot
+0-1 Mob Wrangler, 0-1 Swamp Beast,
+Any Kruleboyz
+1
+120 (+10)
+Any Kruleboyz
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+S courge of Ghyran
+Killaboss on Great Gnashtoof
+1
+160
+0-1 Mob Wrangler, Any Kruleboyz
+S courge of Ghyran
+Swampboss Skumdrekk
+1
+250
+0-1 Mob Wrangler, 0-1 Swamp Beast,
+Any Kruleboyz
+✹ Gobsprakk, the Mouth of Mork
+HEROES
+46
+UPDATED
+NOTES
+This Hero can join an eligible
+regiment as a Swamp Beast.
+
+BASE SIZE
+80mm
+130mm
+This Hero can join an eligible
+regiment as a Mob Wrangler.
+This Hero can join an eligible
+regiment as a Swamp Beast.
+This Hero can join an eligible
+regiment as a Swamp Beast.
+This Hero can join an eligible
+regiment as a Mob Wrangler.
+
+32mm
+130mm
+105 × 70mm
+40mm [1],
+25mm [1]
+130mm
+This Hero can join an eligible
+regiment as a Mob Wrangler.
+This Hero can join an eligible
+regiment as a Swamp Beast.
+
+40mm
+120 × 92mm
+120 × 92mm
+40mm [1],
+25mm [1]
+NOTES
+This Hero can join an eligible
+regiment as a Swamp Beast.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+105 × 70mm
+120 × 92mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+KRULEBOYZ
+UNITS
+Beast-skewer Killbow
+✹ Gutrippaz
+Hobgrot Slittaz
+UPDATED
+UNIT SIZE
+1
+10
+10
+POINTS
+140
+160 (+10)
+80
+RELEVANT KEY WORDS
+War Machine
+Infantry
+Infantry
+NOTES
+✹ K ruleboyz Monsta-killaz
+7
+120 (+10)
+Infantry
+This unit cannot be reinforced.
+
+✹ Man-skewer Boltboyz
+✹ Marshcrawla Sloggoth
+3
+1
+100 (+10)
+140 (+10)
+Infantry
+War Machine
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+✹ Battle Formation
+Battle Formation
+Heroic Trait
+✹ Heroic Trait
+✹ Heroic Trait
+✹ Artefact of Power
+✹ Artefact of Power
+Artefact of Power
+Monstrous Trait
+Monstrous Trait
+✹ Monstrous Trait
+Spell Lore
+Manifestation Lore
+✹ Faction Terrain
+NAME
+Kruleboyz Klaw
+Middul Finga
+Light Finga
+Trophy Finga
+Swamphorde Bullies
+Badmouthing Baiterz
+Backstabba
+Slippery Skumbag
+Egomaniak
+Mork’s Eye Pebble
+Swamp Staff
+Eye-biter Ash
+Mean ’Un
+Sneaky ’Un
+Tough ’Un
+Lore of the Swamp
+Manifestations of Gorkamorka
+Skaregob Totem
+POINTS
+0
+0
+0
+0
+30 (+30)
+0
+0
+20 (+20)
+10 (+10)
+10 (+10)
+10 (+10)
+0
+0
+0
+10 (+10)
+0
+0
+20 (+20)
+47
+NOTES
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+Battletome: Orruk Warclans
+BASE SIZE
+90 × 52mm
+32mm
+25mm
+40mm [1],
+32mm [6],
+28.5mm [1]
+32mm
+105 × 70mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+OGOR MAWTRIBES
+UNIT SIZE
+POINTS
+Bloodpelt Hunter
+HEROES
+1
+110
+Butcher
+1
+150
+Firebelly
+1
+140
+Frostlord on Stonehorn
+1
+330
+✹ Frostlord on Thundertusk
+1
+280 (-20)
+REGIMENT OPTIONS
+Any Gutbusters
+Any Gutbusters, Any Gnoblars,
+Any Gorger Mawpack
+Any Gutbusters, Any Gnoblars,
+Any Gorger Mawpack
+0-1 Voice of the Everwinter,
+Any Ogor Mawtribes
+0-1 Voice of the Everwinter,
+Any Ogor Mawtribes
+Huskard on Stonehorn
+1
+300
+Any Beastclaw Raiders
+✹ Huskard on Thundertusk
+1
+260 (-10)
+Any Beastclaw Raiders
+Icebrow Hunter
+1
+100
+Any Beastclaw Raiders
+Kragnos, the End of Empires
+1
+580
+Any Ogor Mawtribes
+NEW
+✹ Mantrapper
+1
+130
+Any Beastclaw Raiders
+✹ Slaughtermaster
+1
+150 (+10)
+✹ Tyrant
+1
+130 (-10)
+Any Gutbusters, Any Gnoblars,
+Any Gorger Mawpack
+0-1 Bloodpelt Hunter,
+Any Ogor Mawtribes
+UNITS
+Frost Sabres
+✹ Gnoblar Scraplauncher
+✹ Gnoblars
+Gorger Mawpack
+Icefall Yhetees
+Ironblaster
+Ironguts
+✹ Leadbelchers
+Maneaters
+✹ Mournfang Pack
+Ogor Gluttons
+✹ Stonehorn Beastriders
+✹ Thundertusk Beastriders
+UNIT SIZE
+2
+1
+20
+5
+3
+1
+4
+4
+3
+2
+6
+1
+1
+POINTS
+70
+140 (-10)
+130 (+20)
+240
+100
+180
+240
+120 (-10)
+160
+170 (-10)
+230
+270 (-10)
+210 (-10)
+RELEVANT KEY WORDS
+Beastclaw Raiders, Beast
+War Machine
+Infantry
+Infantry
+Beastclaw Raiders, Infantry
+Gutbusters, War Machine
+Gutbusters, Infantry
+Gutbusters, Infantry
+Infantry
+Beastclaw Raiders, Cavalry
+Gutbusters, Infantry
+Beastclaw Raiders, Monster
+Beastclaw Raiders, Monster
+UNITS
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+✹Scourge of Ghyran
+Gnoblar Scraplauncher
+1
+140 (-10)
+War Machine
+✹ Scourge of Ghyran
+Ironblaster
+1
+180 (+10)
+Gutbusters, War Machine
+48
+NEW
+NOTES
+This Hero can join a
+Tyrant’s regiment.
+
+UPDATED
+BASE SIZE
+40mm
+50mm
+50mm
+120 × 92mm
+120 × 92mm
+This Hero can join an eligible
+regiment as a Voice of the
+Everwinter.
+This Hero can join an
+eligible regiment as a Voice of
+the Everwinter.
+This Hero can join an
+eligible regiment as a Voice of
+the Everwinter.
+This Hero can join an
+eligible regiment as a Voice of
+the Everwinter.
+
+120 × 92mm
+120 × 92mm
+50mm
+130mm
+40mm [1],
+50 × 25mm
+[1], 25mm [3]
+105 × 70mm
+50mm
+NOTES
+This unit cannot be reinforced.
+
+NOTES
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+60 × 35mm
+120 × 92mm
+25mm
+50mm
+50mm
+120 × 92mm
+40mm
+40mm
+50mm
+90 × 52mm
+40mm
+120 × 92mm
+120 × 92mm
+BASE SIZE
+120 × 92mm
+120 × 92mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+OGOR MAWTRIBES
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+✹ Battle Formation
+✹ Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Big Name
+Big Name
+Big Name
+Spell Lore
+Prayer Lore
+Faction Terrain
+Faction Terrain
+NAME
+Prophets of the Gulping God
+Beast Handlers
+Heralds of the Everwinter
+Blackpowder Fanatics
+Mawpath Menaces
+Greedy Eaters
+Great Gutlord
+Booming Roar
+Touched by the Everwinter
+Gruesome Trophies
+The Fang of Ghur
+Elixir of the Frostwyrm
+Gutslugger
+Mage-swallower
+Megagobbler
+Lore of Maw-magic
+Everwinter Prayers
+Great Mawpot
+Mawpit
+POINTS
+0
+0
+0
+0
+10 (+10)
+10 (+10)
+0
+0
+20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+49
+NOTES
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+Faction Pack: Ogor Mawtribes
+UPDATED
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+SONS OF BEHEMAT
+UNIT SIZE
+POINTS
+Beast-smasher Mega-Gargant
+HEROES
+1
+470
+0-1 Eager Lout, Any Sons of Behemat
+Gatebreaker Mega-Gargant
+1
+500
+0-1 Eager Lout, Any Sons of Behemat
+King Brodd
+✹ Kragnos, the End of Empires
+1
+1
+540
+590 (+10)
+0-1 Eager Lout, Any Sons of Behemat
+0-1 Eager Lout, Any Sons of Behemat
+Kraken-eater Mega-Gargant
+1
+450
+0-1 Eager Lout, Any Sons of Behemat
+Warstomper Mega-Gargant
+1
+460
+0-1 Eager Lout, Any Sons of Behemat
+UNIT SIZE
+POINTS
+REGIMENT OPTIONS
+1
+470 (-10)
+0-1 Eager Lout, Any Sons of Behemat
+UNIT SIZE
+1
+3
+POINTS
+130
+370 (-20)
+RELEVANT KEY WORDS
+Monster
+Monster
+HEROES
+✹ Scourge of Ghyran
+Kraken-eater Mega-Gargant
+UNITS
+Mancrusher Gargant
+✹ Mancrusher Mob
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+✹ Artefact of Power
+✹ Artefact of Power
+Artefact of Power
+Artefact of Power
+NAME
+Taker Tribe
+Boss tribe
+Breaker Tribe
+Stomper Tribe
+Manskittle Mob
+Big Toes
+Furious Temper
+Monstrously Tough
+Rabble Rouser
+Grabby
+Terrifying Hulk
+Mega-grump
+Amberbone Totem
+Glowy Lantern
+Mantle of Tusk and Horns
+Extra-calloused Feet
+Glowy Shield of Protectiness
+Kingslaughter Cowl
+REGIMENT OPTIONS
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10 (+10)
+10 (+10)
+0
+0
+50
+UPDATED
+NOTES
+This Hero can join an eligible
+regiment as an Eager Lout.
+This Hero can join an eligible
+regiment as an Eager Lout.
+
+This Hero can join an eligible
+regiment as an Eager Lout.
+This Hero can join an eligible
+regiment as an Eager Lout.
+
+BASE SIZE
+130mm
+130mm
+130mm
+130mm
+130mm
+130mm
+NOTES
+This Hero can join an eligible
+regiment as an Eager Lout.
+This unit is legal for Matched
+Play for battles fought using the
+General’s Handbook 2025-26
+battlepack.
+
+BASE SIZE
+NOTES
+BASE SIZE
+90 × 52mm
+90 × 52mm
+This unit cannot be reinforced.
+
+NOTES
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Scourge of Ghyran
+Scourge of Ghyran
+Scourge of Ghyran
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+Faction Pack: Sons of Behemat
+130mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+UNIVERSAL MANIFESTATION LORES
+NAME
+POINTS
+Krondspine Incarnate
+20
+Forbidden Power
+20
+Morbid Conjuration
+30
+Aetherwrought Machineries
+0
+Primal Energy
+20
+Twilit Sorceries
+0
+51
+NOTES
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+REGIMENTS OF RENOWN
+MERCENARY
+REGIMENTS
+UNIT SUMMARY
+POINTS
+Big Drogg Fort-kicker
+• 1 Gatebreaker Mega-Gargant
+450
+Bundo Whalebiter
+• 1 Kraken-eater Mega-Gargant
+400
+One-eyed Grunnock
+• 1 Warstomper Mega-Gargant
+410
+Enforcers of the Tithe
+• 1 Mortisan Ossifector
+• 10 Mortek Guard
+• 10 Mortek Guard
+• 1 Gothizzar Harvester
+490
+Exile Scavengers
+• 1 Endrinmaster with Dirigible Suit
+• 3 Skywardens
+• 1 Grundstok Gunhauler
+430
+Goroan Scions
+• 1 Ogroid Myrmidon
+• 1 Ogroid Thaumaturge
+• 3 Ogroid Theridons
+470
+NOTES
+This Regiment of Renown can be included in the following factions:
+Bonesplitterz, Flesh‑eater Courts, Gloomspite Gitz, Ironjawz, Kruleboyz,
+Nighthaunt, Ogor Mawtribes, Ossiarch Bonereapers, Soulblight Gravelords.
+This Regiment of Renown can be included in the following factions:
+Bonesplitterz, Cities of Sigmar, Daughters of Khaine, Fyreslayers,
+Gloomspite Gitz, Idoneth Deepkin, Ironjawz, Kharadron Overlords, Kruleboyz,
+Lumineth Realm-lords, Ogor Mawtribes, Seraphon, Stormcast Eternals,
+Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Blades of Khorne, Bonesplitterz, Disciples of Tzeentch,
+Gloomspite Gitz, Hedonites of Slaanesh, Ironjawz, Kruleboyz,
+Maggotkin of Nurgle, Ogor Mawtribes, Skaven, Slaves to Darkness.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Flesh-eater Courts, Fyreslayers,
+Gloomspite Gitz, Kharadron Overlords, Kruleboyz, Ogor Mawtribes, Skaven,
+Sons of Behemat, Soulblight Gravelords.
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Bonesplitterz, Cities of Sigmar, Daughters of Khaine, Fyreslayers,
+Gloomspite Gitz, Ironjawz, Kruleboyz, Lumineth Realm-lords, Ogor Mawtribes,
+Ossiarch Bonereapers, Seraphon, Slaves to Darkness, Sons of Behemat,
+Soulblight Gravelords.
+This Regiment of Renown can be included in the following factions:
+Bonesplitterz, Gloomspite Gitz, Ironjawz, Kruleboyz, Ogor Mawtribes,
+Sons of Behemat.
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Bonesplitterz, Cities of Sigmar, Daughters of Khaine,
+Flesh-eater Courts, Fyreslayers, Gloomspite Gitz, Ironjawz, Kharadron Overlords,
+Kruleboyz, Lumineth Realm-lords, Ogor Mawtribes, Skaven, Slaves to Darkness,
+Sons of Behemat, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Blades of Khorne, Bonesplitterz, Cities of Sigmar,
+Daughters of Khaine, Disciples of Tzeentch, Hedonites of Slaanesh,
+Idoneth Deepkin, Ironjawz, Kruleboyz, Lumineth Realm-lords,
+Maggotkin of Nurgle, Ogor Mawtribes, Ossiarch Bonereapers, Seraphon, Skaven,
+Slaves to Darkness, Soulblight Gravelords, Stormcast Eternals.
+
+Nurgle’s Gift
+• 3 Nurglings
+• 3 Nurglings
+180
+Snerk’s Trogg-Fer-Hire
+• 1 Loonboss
+• 1 Dankhold Troggoth
+230
+Squires of the
+Everchosen
+• 1 Varghulf Courtier
+• 3 Morbheg Knights
+280
+This Regiment of Renown can be included in the following factions:
+Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle,
+Hedonites of Slaanesh, Slaves to Darkness.
+
+Stumblefoot Gargant
+• 1 Mancrusher Gargant
+140
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Blades of Khorne, Bonesplitterz, Cities of Sigmar,
+Daughters of Khaine, Disciples of Tzeentch, Flesh-eater Courts, Fyreslayers,
+Gloomspite Gitz, Hedonites of Slaanesh, Idoneth Deepkin, Ironjawz,
+Kharadron Overlords, Kruleboyz, Lumineth Realm-lords, Maggotkin of Nurgle,
+Nighthaunt, Ogor Mawtribes, Ossiarch Bonereapers, Seraphon, Skaven,
+Slaves to Darkness, Soulblight Gravelords, Stormcast Eternals, Sylvaneth.
+
+The Lost-Song Spirits
+• 1 Treelord
+• 5 Spite-Revenants
+• 5 Spite-Revenants
+430
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Idoneth Deepkin, Nighthaunt, Ossiarch Bonereapers,
+Soulblight Gravelords.
+
+52
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+REGIMENTS OF RENOWN
+ORDER
+REGIMENTS
+UNIT SUMMARY
+POINTS
+Bloodthirsty Shiver
+• 1 Akhelian Allopex
+• 1 Akhelian Allopex
+300
+✹ Drekki’s Privateers
+• Drekki Flynt
+• 1 Arkanaut Frigate (the Aelsling)
+• 10 Arkanaut Company
+500
+Elthwin’s Thorns
+• 1 Arch-Revenant
+• 5 Gossamid Archers
+240
+Fjori’s Flamebearers
+• 1 Grimhold Exile
+• 5 Auric Hearthguard
+• 5 Hearthguard Berzerkers with
+Flamestrike Poleaxes
+• 10 Vulkite Berzerkers with
+Fyresteel Weapons
+470
+Gotrek Gurnisson
+• Gotrek Gurnisson
+340
+Namarti Shore Raid
+• 1 Akhelian Thrallmaster
+• 10 Namarti Reavers
+• 10 Namarti Thralls
+300
+Norgrimm’s
+Rune Throng
+• 1 Runelord
+• 10 Irondrakes
+• 10 Longbeards
+330
+• Callis and Toll
+✹ Saviours of Cinderfall • Toll’s Companions
+290 (+20)
+✹ Sky-port Profiteers
+• 1 Codewright
+• 5 Grundstok Thunderers
+• 5 Grundstok Thunderers
+320 (+30)
+The Blacktalons
+• Neave Blacktalon
+• Neave’s Companions
+• Lorai, Child of the Abyss
+320
+The Horizon Seekers
+• 1 Lord-Aquilor
+• 5 Vanguard-Hunters
+• 3 Vanguard-Palladors
+500
+Valnir’s Stormwing
+• 1 Knight-Draconis
+• 1 Stormdrake Guard
+370
+NEW
+UPDATED
+NOTES
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Kharadron Overlords,
+Lumineth Realm‑lords, Seraphon, Stormcast Eternals, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Lumineth
+Realm-lords, Ogor Mawtribes, Seraphon, Stormcast Eternals, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Kharadron
+Overlords, Lumineth Realm‑lords, Seraphon, Stormcast Eternals.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Idoneth Deepkin, Kharadron Overlords,
+Lumineth Realm‑lords, Seraphon, Stormcast Eternals, Sylvaneth.
+Gotrek Gurnisson is on a 32mm base.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Kharadron
+Overlords, Lumineth Realm‑lords, Seraphon, Stormcast Eternals, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Kharadron Overlords,
+Lumineth Realm‑lords, Seraphon, Stormcast Eternals, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Kharadron Overlords,
+Lumineth Realm‑lords, Seraphon, Stormcast Eternals, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Kharadron Overlords,
+Lumineth Realm‑lords, Seraphon, Stormcast Eternals, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Lumineth
+Realm-lords, Ogor Mawtribes, Ossiarch Bonereapers, Seraphon, Soulblight
+Gravelords, Stormcast Eternals, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Kharadron
+Overlords, Lumineth Realm‑lords, Seraphon, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Kharadron
+Overlords, Lumineth Realm‑lords, Seraphon, Sylvaneth.
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Daughters of Khaine, Fyreslayers, Idoneth Deepkin, Kharadron
+Overlords, Lumineth Realm‑lords, Seraphon, Sylvaneth.
+
+53
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+REGIMENTS OF RENOWN
+CHAOS
+REGIMENTS
+Brand’s Oathbound
+The Coven of Thryx
+UNIT SUMMARY
+• Gunnar Brand
+• Singri Brand
+• The Oathsworn Kin
+• 1 Magister
+• 10 Pink Horrors
+• 1 Burning Sigil of Tzeentch
+• 1 Tome of Eyes
+• 1 Daemonic Simulacrum
+POINTS
+NOTES
+250
+This Regiment of Renown can be included in the following factions:
+Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle,
+Hedonites of Slaanesh, Skaven.
+
+280
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Maggotkin of Nurgle, Hedonites of Slaanesh, Slaves to
+Darkness, Skaven.
+
+✹ The Exiled One
+• Skarbrand
+430
+Godmarked Ascendant
+• 1 Daemon Prince
+260
+Hargax’s Pit-beasts
+• 1 Ogroid Myrmidon
+• 1 Fomoroid Crusher
+• 1 Mindstealer Sphiranx
+460
+Krittok’s Clawpack
+• Krittok Foulblade
+• 10 Stormvermin
+• 2 Doom-Flayers
+390
+Lord Skaldior’s Chosen
+• 1 Chaos Lord on Daemonic Mount
+• 5 Chaos Knights
+• 10 Chaos Warriors
+570
+Phulgoth’s
+Shudderhood
+• 1 Harbinger of Decay
+• 5 Putrid Blightkings
+• 2 Pusgoyle Blightlords
+530
+✹ The Red Revelation
+• 1 Slaughterpriest
+• 10 Bloodreavers
+• 5 Skullreapers
+390
+• 1 Warlock Galvaneer
+Volt-Klaw’s Enginecoven • 3 Warpvolt Scourgers
+• 1 Ratling Warpblaster
+NEW
+460
+This Regiment of Renown can be included in the following factions:
+Disciples of Tzeentch, Maggotkin of Nurgle, Hedonites of Slaanesh, Skaven, Slaves
+to Darkness.
+This Regiment of Renown can be included in the following factions:
+Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle,
+Hedonites of Slaanesh.
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle,
+Hedonites of Slaanesh, Skaven.
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle,
+Hedonites of Slaanesh, Slaves to Darkness.
+This Regiment of Renown can be included in the following factions:
+Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle, Hedonites of
+Slaanesh, Skaven.
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Blades of Khorne, Disciples of Tzeentch, Hedonites of Slaanesh,
+Slaves to Darkness, Skaven.
+This Regiment of Renown can be included in the following factions:
+Disciples of Tzeentch, Maggotkin of Nurgle, Hedonites of Slaanesh, Skaven, Slaves
+to Darkness.
+This Regiment of Renown can be included in the following factions:
+Beasts of Chaos, Blades of Khorne, Disciples of Tzeentch, Maggotkin of Nurgle,
+Hedonites of Slaanesh, Slaves to Darkness.
+
+54
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+REGIMENTS OF RENOWN
+DEATH
+REGIMENTS
+UNIT SUMMARY
+The Beast of Castle
+Sternieste
+• 1 Revenant Draconith
+240
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Nighthaunt, Ossiarch Bonereapers.
+
+Blades of the
+Hollow King
+• Blades of the Hollow King
+280
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Nighthaunt, Ossiarch Bonereapers.
+
+✹ Casket of
+Resurrections
+• 1 Black Coach
+200
+• 1 Scriptor Mortis
+• 5 Craventhrone Guard
+• 5 Craventhrone Guard
+300
+• 1 Royal Terrorgheist
+230
+✹C
+ raventhrone
+Executioners
+✹ Th
+ e Horror of
+Hallow’s Watch
+• 1 Marrowscroll Herald
+• 3 Crypt Flayers
+• 3 Crypt Horrors
+• 20 Crypt Ghouls
+• Neferata, Mortarch of Blood
+Knights
+Neferata’s Royal Echelon •• 510Black
+Deathrattle Skeletons
+• 10 Deathrattle Skeletons
+• Arkhan the Black
+The Liche’s Hand
+• 2 Morghast Archai
+• 2 Morghast Harbingers
+Jerrion’s Delegation
+✹The Scarlet Jury
+• Grand Justice Gormayne
+• 1 Royal Decapitator
+• 10 Cryptguard
+• Katakros, Mortarch of
+the Necropolis
+• 3 Immortis Guard
+• 3 Immortis Guard
+• Lady Olynder, Mortarch of Grief
+Banshees
+The Sorrowmourn Choir •• 44 Myrmourn
+Myrmourn Banshees
+• 10 Dreadscythe Harridans
+• Mannfred von Carstein,
+Mortarch of Night
+The Sternieste Garrison • 3 Fell Bats
+• 3 Fell Bats
+• 10 Grave Guard
+• Ushoran, Mortarch of Delusion
+The Summerking’s
+• 3 Morbheg Knights
+Entourage
+• 10 Cryptguard
+Cart
+Veremord’s Shamblers •• 120Corpse
+Deadwalker Zombies
+The Scions of the
+Necropolis
+POINTS
+NEW
+NOTES
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Ossiarch Bonereapers, Soulblight Gravelords.
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Ossiarch Bonereapers, Soulblight Gravelords.
+This Regiment of Renown can be included in the following factions:
+Nighthaunt, Ossiarch Bonereapers, Soulblight Gravelords.
+
+480
+This Regiment of Renown can be included in the following factions:
+Nighthaunt, Ossiarch Bonereapers, Soulblight Gravelords.
+
+760
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Nighthaunt, Ossiarch Bonereapers.
+
+830
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Nighthaunt, Soulblight Gravelords.
+
+300
+This Regiment of Renown can be included in the following factions:
+Cities of Sigmar, Ironjawz, Kharadron Overlords, Kruleboyz, Nighthaunt,
+Ogor Mawtribes, Ossiarch Bonereapers, Slaves to Darkness, Sons of Behemat,
+Soulblight Gravelords.
+
+810
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Nighthaunt, Soulblight Gravelords.
+
+590
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Ossiarch Bonereapers, Soulblight Gravelords.
+
+700
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Nighthaunt, Ossiarch Bonereapers.
+
+640
+This Regiment of Renown can be included in the following factions:
+Nighthaunt, Ossiarch Bonereapers, Soulblight Gravelords.
+
+220
+This Regiment of Renown can be included in the following factions:
+Flesh-eater Courts, Nighthaunt, Ossiarch Bonereapers.
+
+55
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+REGIMENTS OF RENOWN
+DESTRUCTION
+REGIMENTS
+UNIT SUMMARY
+• 1 Beast-skewer Killbow
+• 3 Man-skewer Boltboyz
+• 3 Man-skewer Boltboyz
+• 1 Rabble-Rowza
+Braggit’s Bottle‑snatchaz •• 112Gobbapalooza
+Squig Herd
+• 10 Squig Hoppers
+Big Grikk’s Kruleshots
+POINTS
+NOTES
+340
+This Regiment of Renown can be included in the following factions:
+Bonesplitterz, Gloomspite Gitz, Ironjawz, Ogor Mawtribes, Sons of Behemat.
+
+490
+This Regiment of Renown can be included in the following factions:
+Bonesplitterz, Ironjawz, Kruleboyz, Ogor Mawtribes, Sons of Behemat.
+
+Da Hurtlin’ Hogz
+• 1 Tuskboss on Maw-grunta
+• 1 Maw-grunta Gougers unit
+420
+This Regiment of Renown can be included in the following factions:
+Bonesplitterz, Gloomspite Gitz, Kruleboyz, Ogor Mawtribes, Sons of Behemat.
+
+Da Kountin’ Krew
+• Swampboss Skumdrekk
+• 10 Hobgrot Slittaz
+• 10 Hobgrot Slittaz
+360
+This Regiment of Renown can be included in the following factions:
+Bonesplitterz, Gloomspite Gitz, Ironjawz, Sons of Behemat.
+
+Odo Godswallow
+• 1 Beast-smasher Mega-Gargant
+420
+This Regiment of Renown can be included in the following factions:
+Bonesplitterz, Gloomspite Gitz, Ironjawz, Kruleboyz, Ogor Mawtribes.
+
+500
+This Regiment of Renown can be included in the following factions:
+Ironjawz, Kruleboyz, Ogor Mawtribes, Sons of Behemat.
+
+340
+This Regiment of Renown can be included in the following factions:
+Ironjawz, Kruleboyz, Ogor Mawtribes, Sons of Behemat.
+
+The Shinestealaz
+Skulkrik’s Loonladz
+• 1 Snarlboss
+• 2 Wolfgit Retinue
+• 3 Snarlpack Cavalry
+• 3 Snarlpack Cavalry
+• 2 Sunsteala Wheelas
+• 1 Loonboss
+• 20 Moonclan Stabbas
+• 5 Loonsmasha Fanatics
+56
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+WARHAMMER LEGENDS – ORDER
+NEW
+CITIES OF SIGMAR
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+NOTES
+Brethren of the Bolt
+5
+100
+Unique, Human, Infantry
+This unit cannot be reinforced.
+
+Hexbane’s Hunters
+6
+120
+Unique, Human, Infantry
+This unit cannot be reinforced.
+
+LEGENDS HEROES
+Maleneth Witchblade
+UNIT SIZE
+1
+POINTS
+170
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+Gryselle’s Arenai
+5
+✹ The Knives of the Crone
+BASE SIZE
+40mm [1],
+32mm [1],
+25mm [3]
+32mm [1],
+28.5mm [3],
+25mm [2]
+DAUGHTERS OF KHAINE
+REGIMENT OPTIONS
+Any Daughters of Khaine Aelf
+NOTES
+BASE SIZE
+32mm
+RELEVANT KEY WORDS
+NOTES
+70
+Unique, Infantry
+This unit cannot be reinforced.
+
+4
+220
+Unique, Aelf, Infantry
+This unit cannot be reinforced.
+
+Morgwaeth’s Blade-coven
+5
+120
+Unique, Infantry
+This unit cannot be reinforced.
+
+The Shadeborn
+4
+80
+Unique, Infantry
+This unit cannot be reinforced.
+
+BASE SIZE
+32mm [1],
+28.5mm [4]
+32mm [1],
+28.5mm [3]
+32mm [4],
+40mm [1]
+40mm [1],
+28.5mm [3]
+LEGENDS UNITS
+The Chosen Axes
+UNIT SIZE
+4
+POINTS
+120
+NOTES
+This unit cannot be reinforced.
+
+BASE SIZE
+32mm
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+NOTES
+Cyreni’s Razors
+4
+120
+Elathain’s Soulraid
+5
+80
+BASE SIZE
+32mm [3],
+40mm [1]
+32mm [4],
+25mm [1]
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+Thundrik’s Profiteers
+5
+150
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+4
+130
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+NOTES
+The Jaws of Itzl
+3
+120
+Unique, Saurus, Infantry
+This unit cannot be reinforced.
+
+The Starblood Stalkers
+6
+110
+Unique, Skink, Infantry
+This unit cannot be reinforced.
+
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+NOTES
+Skaeth’s Wild Hunt
+5
+90
+Unique, Infantry, Kurnothi
+This unit cannot be reinforced.
+
+Ylthari’s Guardians
+4
+140
+Unique, Infantry
+This unit cannot be reinforced.
+
+DAUGHTERS OF KHAINE
+FYRESLAYERS
+RELEVANT KEY WORDS
+Unique, Duardin, Infantry
+IDONETH DEEPKIN
+RELEVANT KEY WORDS
+Unique, Aelf, Akhelian, Namarti,
+Infantry
+Unique, Aelf, Akhelian, Namarti,
+Infantry
+This unit cannot be reinforced.
+This unit cannot be reinforced.
+
+KHAR ADRON OVERLORDS
+RELEVANT KEY WORDS
+NOTES
+Unique, Duardin, Infantry
+This unit cannot be reinforced.
+
+BASE SIZE
+32mm [3],
+25mm [2]
+NOTES
+BASE SIZE
+LUMINETH REALM-LORDS
+Myari’s Purifiers
+RELEVANT KEY WORDS
+Unique, Aelf, Vanari, Alarith,
+Infantry
+This unit cannot be reinforced.
+
+32mm
+SER APHON
+LEGENDS UNITS
+BASE SIZE
+40mm [1],
+32mm [2],
+25mm [1]
+32mm [1],
+25mm [5]
+SYLVANETH
+57
+BASE SIZE
+50 × 25mm
+[1], 32mm [3],
+25mm [1]
+32mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+WARHAMMER LEGENDS – ORDER
+STORMCAST ETERNALS
+LEGENDS HEROES
+Astreia Solbright
+Aventis Firestrike,
+Magister of Hammerhal
+UNIT SIZE
+1
+POINTS
+220
+REGIMENT OPTIONS
+Any Stormcast Eternals
+1
+310
+Any Stormcast Eternals
+0-1 Gryph‑hounds, Any Infantry
+NOTES
+BASE SIZE
+90 × 52mm
+100mm
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+
+Gavriel Sureheart
+1
+120
+Knight-Heraldor
+1
+110
+Knight-Incantor
+1
+140
+0-1 Gryph‑hounds,
+Any Warrior Chamber
+0-1 Gryph‑hounds,
+Any Sacrosanct Chamber Infantry
+K night-Venator
+1
+170
+0-1 Gryph‑hounds,
+Any Warrior Chamber Infantry
+Knight-Zephyros
+1
+130
+0-1 Gryph‑hounds,
+Any Vanguard Chamber
+Lord-Arcanum
+Lord-Arcanum on
+Celestial Dracoline
+Lord-Arcanum on Gryph-charger
+Lord-Arcanum on Tauralon
+Lord-Castellant
+Lord-Exorcist
+1
+140
+Any Sacrosanct Chamber Infantry
+1
+210
+Any Sacrosanct Chamber Cavalry
+90 × 52mm
+1
+1
+1
+1
+220
+280
+150
+150
+90 × 52mm
+100mm
+40mm
+40mm
+Lord-Ordinator
+1
+100
+Any Sacrosanct Chamber
+Any Sacrosanct Chamber
+Any Warrior Chamber Infantry
+Any Sacrosanct Chamber Infantry
+Any Sacrosanct Chamber Infantry,
+Any Sacrosanct Chamber
+War Machine
+UNIT SIZE
+3
+POINTS
+110
+Celestar Ballista
+1
+120
+Decimators
+5
+240
+Domitan’s Stormcoven
+3
+210
+Evocators
+Evocators on Celestial Dracolines
+Judicators with
+Boltstorm Crossbows
+Judicators with Skybolt Bows
+Protectors
+Retributors
+Sequitors
+5
+3
+180
+240
+RELEVANT KEY WORDS
+Sacrosanct Chamber, Infantry
+Sacrosanct Chamber,
+War Machine
+Warrior Chamber, Infantry
+Unique, Warrior Chamber,
+Infantry
+Sacrosanct Chamber, Infantry
+Sacrosanct Chamber, Cavalry
+5
+160
+Warrior Chamber, Infantry
+40mm
+5
+5
+5
+5
+140
+220
+170
+120
+40mm
+40mm
+40mm
+40mm
+Steelheart’s Champions
+3
+110
+Stormsire’s Cursebreakers
+3
+130
+The Emberwatch
+3
+140
+The Farstriders
+3
+100
+Warrior Chamber, Infantry
+Warrior Chamber, Infantry
+Warrior Chamber, Infantry
+Sacrosanct Chamber, Infantry
+Unique, Warrior Chamber,
+Infantry
+Unique, Sacrosanct Chamber,
+Infantry
+Unique, Vanguard Chamber,
+Infantry
+Unique, Vanguard Chamber,
+Infantry
+Unique, Warrior Chamber,
+Infantry
+LEGENDS UNITS
+Castigators
+Xandire’s Truthseekers
+TYPE
+Battle Formation
+3
+130
+NAME
+Sacrosanct Convocation
+POINTS
+0
+58
+40mm
+40mm
+40mm
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+This Hero can join an
+eligible regiment as a
+Stormcast Exemplar.
+
+50mm
+40mm
+40mm
+40mm
+NOTES
+This unit cannot be reinforced.
+
+BASE SIZE
+40mm
+60mm [1],
+40mm [2]
+40mm
+40mm
+40mm
+90 × 52mm
+This unit cannot be reinforced.
+
+40mm
+This unit cannot be reinforced.
+
+40mm
+This unit cannot be reinforced.
+
+40mm
+This unit cannot be reinforced.
+
+40mm
+This unit cannot be reinforced.
+
+40mm [3],
+25mm [1]
+NOTES
+Battletome Supplement: Stormcast Eternals
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+WARHAMMER LEGENDS – CHAOS
+BEASTS OF CHAOS
+LEGENDS HEROES
+UNIT SIZE
+POINTS
+Beastlord
+1
+150
+0-1 Herd Alpha, Any Beasts of Chaos
+Doombull
+1
+170
+0-1 Herd Alpha, Any Beasts of Chaos
+Dragon Ogor Shaggoth
+1
+220
+Great Bray-Shaman
+1
+140
+0-1 Herd Alpha, Any Beasts of Chaos
+0-1 Herd Alpha, 0-1 Beast,
+Any Brayherd
+UNIT SIZE
+1
+10
+3
+5
+1
+10
+1
+1
+1
+3
+1
+10
+POINTS
+70
+220
+170
+170
+140
+130
+200
+150
+170
+200
+180
+100
+Grashrak’s Despoilers
+6
+Jabberslythe
+Razorgor
+Tuskgor Chariots
+Ungor Raiders
+Ungors
+1
+1
+1
+10
+10
+LEGENDS UNITS
+Beasts of Chaos Chaos Spawn
+Bestigors
+Bullgors
+Centigors
+Chaos Gargant
+Chaos Warhounds
+Chimera
+Cockatrice
+Cygor
+Dragon Ogors
+Ghorgon
+Gors
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Manifestation Lore
+Faction Terrain
+REGIMENT OPTIONS
+NOTES
+This Hero can join an eligible
+regiment as a Herd Alpha.
+This Hero can join an eligible
+regiment as a Herd Alpha.
+
+NOTES
+100
+Unique, Brayherd, Infantry
+This unit cannot be reinforced.
+
+190
+70
+110
+90
+90
+Monster
+Beast
+Brayherd, War Machine
+Brayherd, Infantry
+Brayherd, Infantry
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+59
+40mm
+50mm
+90 × 52mm
+32mm
+RELEVANT KEY WORDS
+Beast
+Brayherd, Infantry
+Infantry
+Brayherd, Cavalry
+Monster
+Beast
+Monster
+Beast
+Monster
+Cavalry
+Monster
+Brayherd, Infantry
+NAME
+Marauding Brayherd
+Almighty Beastherd
+Hungering Warherd
+Thunderscorn Stormherd
+Death-grip
+Bestial Cunning
+Propagator of Ruin
+Slitherwrack Helm
+Gnarlstaff of Morghur
+Brayblast Trumpet
+Lore of the Twisted Wilds
+Bestial Manifestations
+Herdstone
+BASE SIZE
+NOTES
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+Battletome: Beasts of Chaos
+BASE SIZE
+50mm
+32mm
+50mm
+60 × 35mm
+90 × 52mm
+60 × 35mm
+120 × 92mm
+60mm
+120 × 92mm
+90 × 52mm
+120 × 92mm
+32mm
+32mm [2],
+25mm [4]
+120 × 92mm
+75 × 42mm
+105 × 70mm
+25mm
+25mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+WARHAMMER LEGENDS – CHAOS
+UPDATED
+BLADES OF KHORNE
+LEGENDS HEROES
+Scyla Anfingrimm
+UNIT SIZE
+1
+POINTS
+130
+1
+180
+LEGENDS UNITS
+Garrek’s Reavers
+Gorechosen of Dromm
+Magore’s Fiends
+UNIT SIZE
+5
+3
+4
+POINTS
+70
+190
+120
+LEGENDS HEROES
+✹ Fatemaster
+Fluxmaster, Herald of
+Tzeentch on Disc
+The Blue Scribes
+UNIT SIZE
+1
+POINTS
+160
+1
+180
+Any Daemon
+60mm
+1
+180
+0-1 Tzeentchian Deceiver, Any Daemon
+60mm
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+Ephilim’s Pandaemonium
+5
+Eyes of the Nine
+Valkia the Bloody
+REGIMENT OPTIONS
+Any Bloodbound
+0-1 Bloodbound Warmonger,
+Any Bloodbound
+NOTES
+BASE SIZE
+40mm
+RELEVANT KEY WORDS
+Unique, Bloodbound, Infantry
+Unique, Bloodbound, Infantry
+Unique, Bloodbound, Infantry
+NOTES
+This unit cannot be reinforced.
+This unit cannot be reinforced.
+This unit cannot be reinforced.
+
+BASE SIZE
+32mm
+40mm
+32mm
+NOTES
+BASE SIZE
+60mm
+32mm
+DISCIPLES OF TZEENTCH
+REGIMENT OPTIONS
+0-1 Arcanite Cabalist, Any Arcanite
+RELEVANT KEY WORDS
+NOTES
+100
+Unique, Daemon, Infantry
+This unit cannot be reinforced.
+
+5
+100
+Unique, Arcanite, Infantry
+This unit cannot be reinforced.
+
+BASE SIZE
+32mm [3],
+25mm [2]
+32mm [4],
+25mm [2]
+UNIT SIZE
+POINTS
+NOTES
+BASE SIZE
+1
+140
+1
+130
+HEDONITES OF SLAANESH
+LEGENDS HEROES
+Bladebringer,
+Herald on Hellflayer
+Bladebringer,
+Herald on Seeker Chariot
+REGIMENT OPTIONS
+0-1 Slaaneshi Beguilers,
+Any War Machine
+0-1 Slaaneshi Beguilers,
+Any War Machine
+120 × 92mm
+120 × 92mm
+Any Daemon
+This Hero can join an eligible
+regiment as a Slaaneshi Beguiler
+RELEVANT KEY WORDS
+Daemon, War Machine
+NOTES
+110
+Unique, Sybarite, Infantry
+This unit cannot be reinforced.
+
+3
+130
+Unique, Daemon, Infantry
+This unit cannot be reinforced.
+
+LEGENDS HEROES
+Epidemius, Tallyman of Nurgle
+Festus the Leechlord
+UNIT SIZE
+1
+1
+POINTS
+130
+100
+REGIMENT OPTIONS
+0-1 Plague Scion, Any Daemon
+0-1 Rotbringer Lord, Any Rotbringers
+NOTES
+BASE SIZE
+60mm
+32mm
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+NOTES
+Grandfather’s Gardeners
+5
+110
+Unique, Daemon, Infantry
+This unit cannot be reinforced.
+
+The Wurmspat
+3
+160
+Unique, Rotbringers, Infantry
+This unit cannot be reinforced.
+
+BASE SIZE
+40mm [1],
+32mm [3],
+25mm [1]
+40mm
+Viceleader, Herald of Slaanesh
+1
+140
+UNIT SIZE
+1
+POINTS
+120
+The Dread Pageant
+4
+The Thricefold Discord
+LEGENDS UNITS
+Exalted Chariot
+25mm
+BASE SIZE
+120 × 92mm
+32mm [1],
+40mm [1],
+25mm [2]
+40mm [1],
+28.5mm [2]
+MAGGOTKIN OF NURGLE
+60
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+WARHAMMER LEGENDS – CHAOS
+SKAVEN
+LEGENDS HEROES
+Plague Priest
+UNIT SIZE
+1
+POINTS
+110
+REGIMENT OPTIONS
+0-1 Clanrats, Any Pestilens
+NOTES
+BASE SIZE
+32mm
+LEGENDS UNITS
+Gutter Runners
+Plague Censer Bearers
+UNIT SIZE
+5
+5
+POINTS
+110
+160
+RELEVANT KEY WORDS
+Eshin, Infantry
+Pestilens, Infantry
+NOTES
+Skabbik’s Plaguepack
+5
+100
+Unique, Pestilens, Infantry
+This unit cannot be reinforced.
+
+Skittershank’s Clawpack
+5
+100
+Unique, Eshin, Infantry
+This unit cannot be reinforced.
+
+Spiteclaw’s Swarm
+5
+100
+Unique, Verminus, Infantry
+This unit cannot be reinforced.
+
+Zikkit’s Tunnelpack
+4
+110
+Unique, Skryre, Infantry
+This unit cannot be reinforced.
+
+BASE SIZE
+25mm
+32mm
+32mm [1],
+28.5mm [1],
+25mm [4]
+32mm [2],
+25mm [3]
+32mm [1],
+25mm [4]
+32mm [2],
+25mm [3]
+UNIT SIZE
+POINTS
+NOTES
+BASE SIZE
+Chaos Lord on Manticore
+1
+260
+Chaos Sorcerer Lord on Manticore
+1
+280
+Chaos Warshrine
+1
+250
+UNIT SIZE
+POINTS
+Corvus Cabal
+9
+Cypher Lords
+SLAVES TO DARKNESS
+LEGENDS HEROES
+LEGENDS UNITS
+REGIMENT OPTIONS
+0-1 Ruinous Champion, 0-1 Monster,
+Any Slaves to Darkness
+0-1 Ruinous Champion, 0-1 Monster,
+Any Warriors of Chaos
+0-1 Ruinous Champion,
+Any Warriors of Chaos
+120 × 92mm
+120 × 92mm
+120 × 92mm
+RELEVANT KEY WORDS
+NOTES
+100
+Infantry
+This unit cannot be reinforced.
+
+8
+100
+Infantry
+This unit cannot be reinforced.
+
+Godsworn Hunt
+6
+110
+Unique, Darkoath, Infantry
+This unit cannot be reinforced.
+
+Horns of Hashut
+10
+120
+Infantry
+This unit cannot be reinforced.
+
+Iron Golem
+8
+100
+Infantry
+This unit cannot be reinforced.
+
+Khagra’s Ravagers
+4
+170
+Unique, Warriors of Chaos,
+Infantry
+This unit cannot be reinforced.
+This unit cannot be reinforced.
+
+Scions of the Flame
+8
+120
+Infantry
+Soul Grinder
+1
+330
+Daemon, Monster
+Spire Tyrants
+9
+110
+Infantry
+This unit cannot be reinforced.
+
+Splintered Fang
+9
+110
+Infantry
+This unit cannot be reinforced.
+
+Tarantulos Brood
+13
+150
+Infantry
+This unit cannot be reinforced.
+
+The Gnarlspirit Pack
+4
+110
+Unique, Darkoath, Infantry
+This unit cannot be reinforced.
+
+The Unmade
+9
+110
+Infantry
+This unit cannot be reinforced.
+
+Untamed Beasts
+9
+110
+Infantry
+This unit cannot be reinforced.
+
+61
+BASE SIZE
+40mm [1],
+28.5mm [3],
+25mm [5]
+32mm [1],
+28.5mm [4],
+25mm [3]
+32mm [5],
+25mm [1]
+32mm [3],
+28.5mm [4],
+25mm [3]
+40mm [1],
+32mm [3],
+28.5mm [4]
+32mm
+32mm [3],
+28.5mm [3],
+25mm [2]
+160mm
+32mm [3],
+28.5mm [4],
+25mm [2]
+32mm [3],
+28.5mm [2],
+25mm [5]
+32mm [1],
+28.5mm [2],
+25mm [10]
+32mm
+40mm [1],
+32mm [1],
+28.5mm [3],
+25mm [4]
+40mm [1],
+32mm [3],
+28.5mm [2],
+25mm [3]
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+WARHAMMER LEGENDS – DEATH
+FLESH-EATER COURTS
+LEGENDS HEROES
+UNIT SIZE
+POINTS
+Crypt Ghast Courtier
+1
+80
+LEGENDS UNITS
+REGIMENT OPTIONS
+Any Serfs
+NOTES
+This Hero can join an eligible
+regiment as a Flesh-eater Noble.
+
+BASE SIZE
+BASE SIZE
+32mm [2],
+25mm [5]
+32mm [1],
+25mm [4]
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+NOTES
+The Grymwatch
+7
+80
+Unique, Serfs, Infantry
+This unit cannot be reinforced.
+
+The Skinnerkin
+5
+80
+Unique, Serfs, Infantry
+This unit cannot be reinforced.
+
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+NOTES
+The Headsmen’s Curse
+4
+150
+Unique, Infantry
+This unit cannot be reinforced.
+
+Thorns of the Briar Queen
+7
+140
+Unique, Infantry
+This unit cannot be reinforced.
+
+UNIT SIZE
+POINTS
+6
+140
+UNIT SIZE
+4
+POINTS
+210
+The Exiled Dead
+7
+The Sepulchral Guard
+7
+The Sons of Velmorn
+Zondara’s Gravebreakers
+32mm
+NIGHTHAUNT
+LEGENDS UNITS
+BASE SIZE
+40mm [1],
+32mm [2],
+25mm [1]
+32mm [1],
+25mm [6]
+OSSIARCH BONEREAPERS
+LEGENDS UNITS
+Kainan’s Reapers
+RELEVANT KEY WORDS
+NOTES
+Unique, Infantry
+This unit cannot be reinforced.
+
+BASE SIZE
+40mm [1],
+25mm [5]
+SOULBLIGHT GR AVELORDS
+LEGENDS UNITS
+The Crimson Court
+RELEVANT KEY WORDS
+Unique, Infantry
+NOTES
+This unit cannot be reinforced.
+
+140
+Unique, Deadwalkers, Infantry
+This unit cannot be reinforced.
+
+110
+Unique, Deathrattle, Infantry
+This unit cannot be reinforced.
+
+5
+130
+Unique, Deathrattle, Infantry
+This unit cannot be reinforced.
+
+5
+120
+Unique, Deadwalkers, Infantry
+This unit cannot be reinforced.
+
+62
+BASE SIZE
+32mm
+28.5mm [1],
+25mm [6]
+25mm
+40mm [1],
+32mm [1],
+25mm [3]
+32mm [1],
+40mm [1],
+25mm [3]
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+WARHAMMER LEGENDS – DESTRUCTION
+BONESPLITTERZ
+LEGENDS HEROES
+Maniak Weirdnob
+UNIT SIZE
+1
+POINTS
+160
+Savage Big Boss
+1
+110
+Any Bonesplitterz
+Wardokk
+1
+100
+Wurrgog Prophet
+1
+160
+Any Bonesplitterz
+0-1 Savage Big Boss,
+Any Bonesplitterz
+UNIT SIZE
+POINTS
+Hedkrakka’s Madmob
+4
+Savage Big Stabbas
+Savage Boarboy Maniaks
+Savage Boarboyz
+Savage Orruk Arrowboys
+Savage Orruk Morboyz
+Savage Orruks
+2
+5
+5
+10
+10
+10
+LEGENDS UNITS
+TYPE
+Battle Formation
+Battle Formation
+Battle Formation
+Battle Formation
+Heroic Trait
+Heroic Trait
+Heroic Trait
+Artefact of Power
+Artefact of Power
+Artefact of Power
+Spell Lore
+Prayer Lore
+REGIMENT OPTIONS
+Any Bonesplitterz
+NOTES
+This Hero can join a
+Wurrgog Prophet’s regiment.
+
+NOTES
+100
+Unique, Infantry
+This unit cannot be reinforced.
+
+130
+140
+140
+140
+160
+140
+Infantry
+Cavalry
+Cavalry
+Infantry
+Infantry
+Infantry
+POINTS
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+63
+32mm
+32mm
+32mm
+RELEVANT KEY WORDS
+NAME
+Kunnin’ Rukk
+Snaga Rukk
+Kop Rukk
+Brutal Rukk
+’Orrible Leer
+One Wiv Da Beast
+Killa Instinkt
+Dokk Juice
+Glowin’ Tattooz
+Monsta-killa Chompa
+Lore of the Savage Beast
+Prayers of the Living Wilds
+BASE SIZE
+60 × 35mm
+NOTES
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+Battletome: Bonesplitterz
+BASE SIZE
+32mm [3],
+40mm [1]
+60 × 35mm
+60 × 35mm
+60 × 35mm
+32mm
+32mm
+32mm
+®
+BATTLE PROFILES
+SEPTEMBER 2025
+WARHAMMER LEGENDS – DESTRUCTION
+UPDATED
+GLOOMSPITE GITZ
+LEGENDS HEROES
+UNIT SIZE
+POINTS
+Loonboss with Giant Cave Squig
+1
+120
+0-1 Moonclan Agitator, Any Moonclan
+REGIMENT OPTIONS
+Madcap Shaman
+1
+80
+Any Moonclan
+Mollog
+1
+210
+Any Troggoth
+Scuttleboss on Gigantic Spider
+1
+160
+Any Spiderfang
+LEGENDS UNITS
+A leguzzler Gargant
+UNIT SIZE
+1
+POINTS
+150
+Borgit’s Beastgrabbaz
+5
+Grinkrak’s Looncourt
+✹ Rippa’s Snarlfangs
+Zarbag’s Gitz
+NOTES
+BASE SIZE
+This Hero can join an eligible
+regiment as a Moonclan Agitator 75 × 42mm
+25mm
+This Hero can join
+50mm [1],
+Trugg’s regiment.
+25mm [3]
+60mm
+RELEVANT KEY WORDS
+Monster
+NOTES
+90
+Unique, Moonclan, Infantry
+This unit cannot be reinforced.
+
+7
+100
+Unique, Moonclan, Infantry
+This unit cannot be reinforced.
+
+3
+9
+100
+130
+Unique, Gitmob, Cavalry
+Unique, Moonclan, Infantry
+This unit cannot be reinforced.
+This unit cannot be reinforced.
+
+BASE SIZE
+90 × 52mm
+32mm [1],
+28.5mm [2],
+25mm [2]
+32mm [3],
+25mm [4]
+Use model
+25mm
+LEGENDS UNITS
+Ironskull’s Boyz
+Morgok’s Krushas
+UNIT SIZE
+4
+3
+POINTS
+110
+110
+RELEVANT KEY WORDS
+Unique, Infantry
+Unique, Infantry
+NOTES
+This unit cannot be reinforced.
+This unit cannot be reinforced.
+
+BASE SIZE
+32mm
+40mm
+LEGENDS UNITS
+UNIT SIZE
+POINTS
+RELEVANT KEY WORDS
+NOTES
+Da Kunnin’ Krew
+5
+120
+Unique, Infantry
+This unit cannot be reinforced.
+
+Daggok’s Stab-ladz
+4
+120
+Unique, Infantry
+This unit cannot be reinforced.
+
+BASE SIZE
+40mm [1],
+32mm [1],
+25mm [3]
+32mm
+UNIT SIZE
+POINTS
+Gorlok Blackpowder
+1
+120
+None
+Hrothgorn Mantrapper
+1
+120
+None
+IRONJAWZ
+KRULEBOYZ
+OGOR MAWTRIBES
+LEGENDS HEROES
+REGIMENT OPTIONS
+64
+NOTES
+BASE SIZE
+50mm [1],
+25mm [4]
+40mm [1],
+50 × 25mm
+[1], 25mm [3]
+
