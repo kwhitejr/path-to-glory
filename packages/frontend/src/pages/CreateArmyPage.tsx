@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { useMutation, useQuery } from '@apollo/client';
 import {
@@ -14,8 +14,50 @@ import {
 } from '@path-to-glory/shared';
 import UnitSelector, { SelectedUnit } from '../components/UnitSelector';
 import { useAuth } from '../contexts/AuthContext';
-import { CREATE_CAMPAIGN, CREATE_ARMY, ADD_UNIT, GET_MY_CAMPAIGNS, GET_MY_ARMIES } from '../graphql/operations';
-import { ImageUpload } from '../components/ImageUpload';
+import { CREATE_CAMPAIGN, CREATE_ARMY, UPDATE_ARMY, ADD_UNIT, GET_MY_CAMPAIGNS, GET_MY_ARMIES } from '../graphql/operations';
+import { ImageCropModal } from '../components/ImageCropModal';
+
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://api.ptg.kwhitejr.com';
+const MAX_FILE_SIZE = 512 * 1024; // 512KB
+const ALLOWED_TYPES = ['image/jpeg', 'image/png', 'image/webp'];
+
+// Helper function to upload a banner image to S3
+async function uploadBannerImage(armyId: string, file: File): Promise<string> {
+  // Get presigned URL from image service
+  const response = await fetch(`${API_BASE_URL}/images/upload-url`, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      filename: file.name,
+      contentType: file.type,
+      entityType: 'army',
+      entityId: armyId,
+    }),
+  });
+
+  if (!response.ok) {
+    throw new Error('Failed to get upload URL');
+  }
+
+  const { uploadUrl, imageKey } = await response.json();
+
+  // Upload file directly to S3
+  const uploadResponse = await fetch(uploadUrl, {
+    method: 'PUT',
+    headers: {
+      'Content-Type': file.type,
+    },
+    body: file,
+  });
+
+  if (!uploadResponse.ok) {
+    throw new Error('Failed to upload image');
+  }
+
+  return imageKey;
+}
 
 export default function CreateArmyPage() {
   const navigate = useNavigate();
@@ -32,6 +74,7 @@ export default function CreateArmyPage() {
   const [createArmy] = useMutation(CREATE_ARMY, {
     refetchQueries: [{ query: GET_MY_ARMIES }],
   });
+  const [updateArmy] = useMutation(UPDATE_ARMY);
   const [addUnit] = useMutation(ADD_UNIT);
 
   // State
@@ -43,7 +86,12 @@ export default function CreateArmyPage() {
     background: '',
     imageUrl: '',
   });
-  const [tempArmyId] = useState(() => `temp-${crypto.randomUUID()}`);
+  const [pendingBannerImage, setPendingBannerImage] = useState<File | null>(null);
+  const [bannerPreviewUrl, setBannerPreviewUrl] = useState<string>('');
+  const [showBannerCropModal, setShowBannerCropModal] = useState(false);
+  const [bannerToCrop, setBannerToCrop] = useState<string | null>(null);
+  const [originalBannerFile, setOriginalBannerFile] = useState<File | null>(null);
+  const bannerFileInputRef = useRef<HTMLInputElement>(null);
   const [selectedUnits, setSelectedUnits] = useState<SelectedUnit[]>([]);
   const [warlordUnitId, setWarlordUnitId] = useState<string>('');
   const [selectedSpells, setSelectedSpells] = useState<string[]>([]);
@@ -117,7 +165,30 @@ export default function CreateArmyPage() {
 
       console.log('Army created:', newArmy);
 
-      // Step 3: Add units to the army
+      // Step 3: Upload banner image if one was selected
+      if (pendingBannerImage) {
+        console.log('Uploading banner image...');
+        try {
+          const uploadedImageKey = await uploadBannerImage(newArmy.id, pendingBannerImage);
+          console.log('Banner uploaded:', uploadedImageKey);
+
+          // Update the army with the imageUrl
+          await updateArmy({
+            variables: {
+              id: newArmy.id,
+              input: {
+                imageUrl: uploadedImageKey,
+              },
+            },
+          });
+          console.log('Army updated with banner');
+        } catch (uploadErr) {
+          console.error('Failed to upload banner:', uploadErr);
+          // Continue anyway - the army was created, just without the banner
+        }
+      }
+
+      // Step 4: Add units to the army
       if (selectedUnits.length > 0) {
         console.log(`Adding ${selectedUnits.length} units...`);
         for (const unit of selectedUnits) {
@@ -162,6 +233,89 @@ export default function CreateArmyPage() {
   const spellLore = formData.factionId ? getSpellLoreByFaction(formData.factionId) : null;
   const prayerLore = formData.factionId ? getPrayerLoreByFaction(formData.factionId) : null;
   const manifestationLore = formData.factionId ? getManifestationLoreByFaction(formData.factionId) : null;
+
+  const handleBannerFileSelect = async (event: React.ChangeEvent<HTMLInputElement>) => {
+    const file = event.target.files?.[0];
+    if (!file) return;
+
+    // Validate file type
+    if (!ALLOWED_TYPES.includes(file.type)) {
+      setError('Invalid file type. Please upload a JPEG, PNG, or WebP image.');
+      return;
+    }
+
+    // Validate file size
+    if (file.size > MAX_FILE_SIZE) {
+      setError(`File too large. Maximum size is ${MAX_FILE_SIZE / 1024}KB.`);
+      return;
+    }
+
+    // Show crop modal
+    const imageDataUrl = URL.createObjectURL(file);
+
+    // Validate that image loads properly
+    const img = new Image();
+    const imageLoaded = await new Promise<boolean>((resolve) => {
+      img.onload = () => resolve(true);
+      img.onerror = () => {
+        setError('Failed to load image. Please try a different file.');
+        resolve(false);
+      };
+      img.src = imageDataUrl;
+    });
+
+    if (!imageLoaded) {
+      URL.revokeObjectURL(imageDataUrl);
+      return;
+    }
+
+    setOriginalBannerFile(file);
+    setBannerToCrop(imageDataUrl);
+    setShowBannerCropModal(true);
+  };
+
+  const handleBannerCropComplete = async (croppedFile: File) => {
+    // Clean up
+    if (bannerToCrop) {
+      URL.revokeObjectURL(bannerToCrop);
+    }
+    setShowBannerCropModal(false);
+    setBannerToCrop(null);
+    setOriginalBannerFile(null);
+
+    // Store the cropped file for later upload
+    setPendingBannerImage(croppedFile);
+
+    // Show preview
+    const reader = new FileReader();
+    reader.onloadend = () => {
+      setBannerPreviewUrl(reader.result as string);
+    };
+    reader.readAsDataURL(croppedFile);
+  };
+
+  const handleBannerCropCancel = () => {
+    // Clean up
+    if (bannerToCrop) {
+      URL.revokeObjectURL(bannerToCrop);
+    }
+    setShowBannerCropModal(false);
+    setBannerToCrop(null);
+    setOriginalBannerFile(null);
+
+    // Reset file input
+    if (bannerFileInputRef.current) {
+      bannerFileInputRef.current.value = '';
+    }
+  };
+
+  const handleBannerRemove = () => {
+    setPendingBannerImage(null);
+    setBannerPreviewUrl('');
+    if (bannerFileInputRef.current) {
+      bannerFileInputRef.current.value = '';
+    }
+  };
 
   const handleFactionChange = (factionId: string) => {
     setFormData({ ...formData, factionId });
@@ -221,14 +375,48 @@ export default function CreateArmyPage() {
 
         {/* Army Banner */}
         <div>
-          <ImageUpload
-            entityType="army"
-            entityId={tempArmyId}
-            currentImageUrl={formData.imageUrl}
-            onImageUploaded={(imageUrl) => setFormData({ ...formData, imageUrl })}
-            label="Army Banner"
-            variant="banner"
+          <label className="block text-sm font-medium text-gray-700 mb-2">Army Banner</label>
+
+          {bannerPreviewUrl ? (
+            <div className="relative inline-block w-full max-w-2xl">
+              <img
+                src={bannerPreviewUrl}
+                alt="Banner preview"
+                className="w-full h-40 object-cover rounded border border-gray-300"
+              />
+              <button
+                type="button"
+                onClick={handleBannerRemove}
+                className="absolute -top-2 -right-2 bg-red-500 text-white rounded-full w-6 h-6 flex items-center justify-center hover:bg-red-600 transition-colors"
+                aria-label="Remove banner"
+              >
+                ×
+              </button>
+            </div>
+          ) : (
+            <button
+              type="button"
+              onClick={() => bannerFileInputRef.current?.click()}
+              disabled={isSubmitting}
+              className="w-full max-w-2xl h-40 border-2 border-dashed border-gray-300 rounded flex flex-col items-center justify-center hover:border-gray-400 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              <span className="text-2xl text-gray-400 block mb-1">+</span>
+              <span className="text-xs text-gray-400">Army banner (3:1 landscape)</span>
+            </button>
+          )}
+
+          <input
+            ref={bannerFileInputRef}
+            type="file"
+            accept={ALLOWED_TYPES.join(',')}
+            onChange={handleBannerFileSelect}
+            className="hidden"
           />
+
+          <div className="text-xs text-gray-500 space-y-1 mt-2">
+            <p><strong>Recommended:</strong> 1200×400px Army banner (3:1 landscape)</p>
+            <p><strong>Limits:</strong> Max {MAX_FILE_SIZE / 1024}KB • JPEG, PNG, or WebP</p>
+          </div>
         </div>
 
         {/* Faction Selection */}
@@ -539,6 +727,18 @@ export default function CreateArmyPage() {
           </button>
         </div>
       </form>
+
+      {/* Banner Crop Modal */}
+      {showBannerCropModal && bannerToCrop && originalBannerFile && (
+        <ImageCropModal
+          imageSrc={bannerToCrop}
+          aspectRatio={3} // 3:1 for banner
+          onCropComplete={handleBannerCropComplete}
+          onCancel={handleBannerCropCancel}
+          fileName={originalBannerFile.name}
+          mimeType={originalBannerFile.type}
+        />
+      )}
     </div>
   );
 }
