@@ -41,6 +41,13 @@ export default function ArmyDetailPage() {
 
   type UnitType = NonNullable<GetArmyQuery['army']>['units'][number];
 
+  // Helper function to calculate unit points (doubles for reinforced units)
+  const calculateUnitPoints = (unit: UnitType): number => {
+    const unitWarscroll = getUnit(army!.factionId, unit.unitTypeId);
+    const basePoints = unitWarscroll?.battleProfile?.points || 0;
+    return unit.reinforced ? basePoints * 2 : basePoints;
+  };
+
   if (loading) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[50vh] space-y-4">
@@ -118,8 +125,7 @@ export default function ArmyDetailPage() {
             <span className="text-gray-500 block">Total Points</span>
             <span className="font-bold text-lg text-primary-600">
               {army.units?.reduce((sum: number, unit: UnitType) => {
-                const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
-                return sum + (unitWarscroll?.battleProfile?.points || 0);
+                return sum + calculateUnitPoints(unit);
               }, 0) || 0}
             </span>
           </div>
@@ -254,7 +260,7 @@ export default function ArmyDetailPage() {
             army.units.map((unit: UnitType) => {
               const unitWarscroll = getUnit(army.factionId, unit.unitTypeId);
               const unitTypeName = unitWarscroll?.name || unit.unitTypeId;
-              const points = unitWarscroll?.battleProfile?.points || 0;
+              const points = calculateUnitPoints(unit);
               const isOwner = user && army.player?.id === user.id;
 
               const unitContent = (
