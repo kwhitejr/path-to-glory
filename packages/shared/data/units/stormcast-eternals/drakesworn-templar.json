@@ -91,6 +91,7 @@
   "battleProfile": {
     "unitSize": 1,
     "points": 420,
-    "baseSize": "40mm"
+    "regimentOptions": "0-1 Stormcast Exemplar, Any Extremis Chamber, Any Warrior Chamber",
+    "baseSize": "170 × 105mm"
   }
 }
